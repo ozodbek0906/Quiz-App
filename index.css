@@ -133,6 +133,12 @@ body{font-family:Inter,Segoe UI, Roboto, Arial, sans-serif;background:radial-gra
   }
 }
 
+footer {
+  display: flex;
+  justify-content: space-between; /* ikki chetga chiqaradi */
+  align-items: center;            /* vertikal markaz */
+}
+
 /* Glass panels */
 .glass{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));border-radius:var(--radius);padding:18px;border:1px solid rgba(255,255,255,0.03);backdrop-filter: blur(6px)}
 
