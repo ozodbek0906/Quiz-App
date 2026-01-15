@@ -258,7 +258,7 @@ Daromad
 Umumiy xarajatlar
 =====
 Tog’ri javob yo’q
-++++++
++++++
 Chekli o’zgaruvchan xarajat
 =====
 #MVC
