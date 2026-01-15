@@ -88,7 +88,7 @@ async function exportResultPDF(){
 
 let questions = [];
 let allQuestions = [];
-let PART_SIZE = 30;
+let PART_SIZE = 40;
 let parts = [];
 let currentPart = 0;
 let currentIndex = 0;
