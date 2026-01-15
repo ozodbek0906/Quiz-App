@@ -94,6 +94,28 @@ let currentPart = 0;
 let currentIndex = 0;
 let answers = {}; // qIndex -> choiceIndex
 
+// Sample questions as fallback
+const SAMPLE = `+++++
+Iqtisodiyot nedir?
+====
+#Tanzim qilingan ishlari
+====
+Tabiiy resurslar
+====
+Jamiyatning ehtiyojlari
+====
+Davlat xizmatlari
++++++
+Bozor tizimi qanday xususiyatga ega?
+====
+#Erkin raqobat
+====
+Davlat nazorati
+====
+Mintaqaviy bozorlar
+====
+Xalqaro savdosi`;
+
 function buildParts(){
   parts = [];
   for (let i=0;i<allQuestions.length;i+=PART_SIZE){
@@ -144,49 +166,65 @@ function startPart(idx){
 function parseQuestions(raw) {
   const parts = raw.split('+++++');
   const qlist = [];
+  
   for (let block of parts) {
     block = block.trim();
     if (!block) continue;
 
-    const lines = block.split(/\r?\n/).map(l => l.trim()).filter(Boolean);
+    const lines = block.split(/\r?\n/);
     if (lines.length === 0) continue;
 
-    // First line is the question (strip numbering/braces if present)
-    let qline = lines[0].replace(/^\d+\./, '').replace(/\{\s*$/, '').trim();
+    // First line is the question
+    let qline = lines[0].trim();
+    if (!qline) continue;
 
     const choices = [];
     let correctIndex = -1;
 
-    // New format (your sample): question line, then lines with '=====' separators and choices on the next non-empty line.
-    if (lines.includes('=====')) {
-      // collect lines that are not the '=====' separators and are after the first line
-      const rawChoices = lines.slice(1).filter(l => l !== '=====');
-      rawChoices.forEach((cl, idx) => {
-        let text = cl;
-        if (text.startsWith('#')) { correctIndex = choices.length; text = text.replace(/^#\s*/, ''); }
-        choices.push(text);
-      });
-    } else {
-      // Fallback to older formats: lines that start with '====' or lines that contain '#' markers
-      // If there are lines starting with '====', take those; else take all lines after the first as choices
-      const hasEq = lines.some(l => /^====/.test(l));
-      let rawChoices = [];
-      if (hasEq) {
-        rawChoices = lines.filter(l => /^====/.test(l)).map(l => l.replace(/^====/, '').trim());
+    // Process remaining lines - they should be between ==== separators
+    // Each ==== marks a choice below it
+    let i = 1;
+    while (i < lines.length) {
+      const line = lines[i].trim();
+      
+      // Skip empty lines and look for ==== separators
+      if (line === '====' || line === '=====' || line.match(/^=+$/)) {
+        i++;
+        // Next non-empty line is the choice
+        while (i < lines.length) {
+          const choiceLine = lines[i].trim();
+          if (!choiceLine) {
+            i++;
+            continue;
+          }
+          
+          // Check if this choice is marked as correct with #
+          let isCorrect = false;
+          let choiceText = choiceLine;
+          
+          if (choiceText.startsWith('#')) {
+            isCorrect = true;
+            choiceText = choiceText.replace(/^#\s*/, '').trim();
+            correctIndex = choices.length;
+          }
+          
+          // Clean up trailing semicolons if present
+          choiceText = choiceText.replace(/;\s*$/, '').trim();
+          
+          if (choiceText) {
+            choices.push(choiceText);
+          }
+          i++;
+          break;
+        }
       } else {
-        rawChoices = lines.slice(1);
+        i++;
       }
-
-      rawChoices.forEach((cl, idx) => {
-        let text = cl;
-        if (text.startsWith('#')) { correctIndex = choices.length; text = text.replace(/^#\s*/, ''); }
-        else if (text.includes('#')) { const i = text.indexOf('#'); text = (text.slice(0,i) + text.slice(i+1)).trim(); correctIndex = choices.length; }
-        choices.push(text);
-      });
     }
 
-    if (choices.length === 0) continue;
-    qlist.push({ text: qline, choices, correctIndex });
+    if (choices.length > 0 && correctIndex >= 0) {
+      qlist.push({ text: qline, choices, correctIndex });
+    }
   }
   return qlist;
 }
@@ -409,14 +447,6 @@ if (btnShowDetails){
   });
 }
 
-// Buttons
-// Import via textarea removed — use `questions.json` file (or embedded sample) instead.
-
-// Manual DB load button removed — DB loading is handled automatically during init (questions.json).
-
-// Clear DB button removed from UI — keeping storage operations internal.
-
-// Start button handler (show home -> quiz)
 if (btnStart) {
   btnStart.addEventListener('click', () => {
     hideEl(homeSection);
@@ -447,13 +477,11 @@ if (btnPrev) {
     }
   });
 } 
-// Submit button removed — answers auto-submitted when last question is answered.
 if (btnRestart){
   btnRestart.addEventListener('click', () => {
     console.log('btnRestart clicked: clearing answers and resetting to first question of current part');
     answers = {};
     currentIndex = 0;
-    // hide any legacy result element if present
     if (resultEl) hideEl(resultEl);
     showEl(quizSection);
     renderQuestion(currentIndex);
@@ -469,7 +497,6 @@ if (btnRestart){
   });
 }
 
-// Back to parts selection (legacy button in quiz)
 const btnBackHome = document.getElementById('btnBackHome');
 if (btnBackHome){
   btnBackHome.addEventListener('click', () => {
@@ -480,10 +507,8 @@ if (btnBackHome){
   });
 }
 
-// Result screen controls
 if (btnRestartPart){
   btnRestartPart.addEventListener('click', () => {
-    // restart current part
     answers = {};
     currentIndex = 0;
     hideEl(resultScreen);
@@ -502,10 +527,8 @@ if (btnBackToParts){
 
 if (btnNextPart){
   btnNextPart.addEventListener('click', () => {
-    // go to next part if exists
-    const nextIdx = currentPart; // startPart expects 0-based index
+    const nextIdx = currentPart;
     if (nextIdx < parts.length){
-      // hide result and start next part
       hideEl(resultScreen);
       startPart(nextIdx);
     } else {
@@ -519,7 +542,6 @@ if (btnExportPDF){
 }
 
 
-// Full reset: clear saved DB and reload
 const btnFullReset = document.getElementById('btnFullReset');
 if (btnFullReset) {
   btnFullReset.addEventListener('click', () => {
@@ -531,23 +553,20 @@ if (btnFullReset) {
 
 // Initialize
 (async function init(){
-  // (import textarea removed)
-
-  // Try to load `questions.txt` (text format you provided). Fallback to questions.json or SAMPLE if not available.
   try{
     if (loadingEl) loadingEl.classList.remove('hidden');
     const resp = await fetch('questions.txt', {cache: 'no-store'});
     if (resp.ok){
       const raw = await resp.text();
       const parsed = parseQuestions(raw);
+      console.log('questions.txt dan o\'qilgan savollar:', parsed.length, parsed.slice(0, 2));
       if (parsed && parsed.length){
         questions = parsed;
         saveQuestions(questions);
       }
     }
-  }catch(e){ /* ignore - will fallback below */ } finally { if (loadingEl) loadingEl.classList.add('hidden'); }
+  }catch(e){ console.error('questions.txt xato:', e); } finally { if (loadingEl) loadingEl.classList.add('hidden'); }
 
-  // If text file not found, try JSON (legacy)
   try{
     const resp2 = await fetch('questions.json', {cache: 'no-store'});
     if (resp2.ok){
@@ -567,10 +586,8 @@ if (btnFullReset) {
     questions = parseQuestions(SAMPLE);
     saveQuestions(questions);
   }
-  // full question set
   allQuestions = questions.slice();
   buildParts();
   renderPartsList();
   qTotalEl.textContent = questions.length;
-  // Wait for user to select a part to render the first question
 })();

@@ -1,1692 +1,1723 @@
-Iqtisodiy siyosat nima?
++++++
+Bozor tizimida noyob ne'matlar muammosi nechta tamoyil orqali yechiladi? 
+====
+#3 ta 
+====
+2 ta; 
+====
+4 ta; 
+====
+5 ta; 
++++++
+Transaksion xarajatlar bu
+====
+#tovar almashish sohasidagi xarajatlar; 
+====
+bozorni o'rganishdagi xarajatlar; 
+====
+tovarlar xususiyatini aniqlash bilan bog'liq xarajatlar; 
+====
+o'zaro kelishuv va uchrashuvlar bilan bog'liq xarajatlar; 
++++++
+Agar 10 ta soat isblab chiqarish o'rniga bir kunda 20 ta soat ishlab chiqarish imkoni bo'lsa, sumka ishlab chiqarishning soat ishlab chiqarish bilan  bog'liq chekli transformatsiya koeffitsiyent qanday bo'ladi? 
+====
+#2; 
+====
+ -2; 
+====
+1 
+====
+0,25; 
++++++
+Fermer har yili 100 t paxta va 300 t bug'doy yetishtiradi. Fermer uchun I t paxta yetishtirishning muqobil xarajati 4 t bug'doyni yetishtirish xarajatiga teng. Fermer barcha imkoniyatlarini paxta yetishlirishga qaratsa, davlatga maksimal necha tonna paxta topshira oladi? 
+====
+#175 I; 
+====
+150 t; 
+====
+200 t; 3
+====
+250 t; 
++++++ 
+…….. iste’molchi tomonidan tovarga to’lashi mumkin bulgan maksimal narx bilan tovarning haqiqiy narxi o’rtasidagi farqni bildiradi.
 =====
-#Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuasi.
+#iste’molchi ortiqchaligi
 =====
-Davlatning foydani maksimumlashtirishga qaratilgan faoliyati.
+iste’molchi kamligi
 =====
-Iste'molchilarning iste'molini maksimumlashtirishga qaratilgan harakatlari.
+bozor muvoznati
 =====
-Faqatgina bozor mexanizmlari orqali iqtisodiyotni tartibga solish.
+tovar taqchilligi
 +++++
-
-
-Uy xoʻjaligining asosiy maqsadi nimadan iborat?
+…….. bu bitta sotuvchi va ko’p haridorlar qatnashgan bozor, yoki o’rnini bosadigan tovar bo’lmagan tovarni sotadigan yagona sotuvchi bulgan bozor vaziyati.
 =====
-#Oʻz iste'molini maksimumlashtirish va kelajakni ta'minlash uchun jamg'arma hosil etish.
+#Sof monopoliya
 =====
-Milliy iqtisodiyotning barqaror oʻsishini ta'minlash.
+Oligapoliya
 =====
-Foydani maksimumlashtirish va iqtisodiy barqarorlikni ta'minlash.
+Monopsoniya
 =====
-Raqobatbardoshlikni oshirish va yangi bozorlarga kirish.
+Monopoliya
 +++++
-
-
-Davlatning iqtisodiy siyosatdagi asosiy maqsadi qanday?
+… bu bozor tizimida biror bir tovarni sotishda cheklangan firmalar xukmronlik qilishi.
 =====
-#Milliy iqtisodiyotning barqaror oʻsishini va xalq farovonligini ta'minlash.
+#Oligopoliya
 =====
-Faqatgina firmaning foydasini oshirish.
+Sof monopoliya
 =====
-Xususiy mulkchilikning butunlay bekor qilinishi.
+Monopsoniya
 =====
-Bozor mexanizmlariga toʻliq aralashmaslik.
+Monopoliya
 +++++
-
-
-Iqtisodiy siyosatning qanday darajalari mavjud?
+……... to’liq raqobatlashmagan bo’-lib, unda qatnashadigan fir-malar soni ko’p bulib, ular-ning har biri uz tovarlari narxini ma’lum chegara da nazorat qiladi.
 =====
-#Mikro, makro va meta (xalqaro) darajalar
+#Monopol rakobat bozor
 =====
-Faqat mikro va makro darajalar
+Erkin bozor
 =====
-Faqat milliy va mintaqaviy darajalar
+Oligapollashgan bozor
 =====
-Hududiy va tarmoq darajalar
+Barcha javob hato
 +++++
-
-
-Erkin iqtisodiyotning asosiy xususiyatlaridan biri nima?
+... yordamida davlatning iqtiso-diy siyosatini baholash mumkin.
 =====
-#Tadbirkorlik va tanlash erkinligi
+#Iste’molchi va ishlab chiqaruvchi ortiqchaligi
 =====
-Davlatning iqtisodiyotga cheklanmagan aralashuvi
+Davlat g’aznasi
 =====
-Firmalarning monopolistik sharoitda faoliyat yuritishi
+Bozorlar holati
 =====
-Narxlar va resurslar bahosining davlat tomonidan qat'iy belgilanishi
+Iqtisodiy o’sish
 +++++
-
-
-Pul massasining oʻsishi qat'iy chegaralanadigan monetar siyosat turi qanday nomlanadi?
+Bozor kaysi xolatda samara-li faoliyat ko’rsatadi.
 =====
-#Qattiq siyosat
+#Erkin holatida
 =====
-Yumshoq siyosat
+Monopol holatida
 =====
-Fiskal siyosat
+Oligapol holatida
 =====
-Aralash siyosat
+Barcha holatlarda
 +++++
-
-
-Iqtisodiy siyosat nima?
+Quyidagilarda chekli daromad bozor narxidan past bo’lmaydi.
 =====
-#Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuidir.
+#Monopollarda
 =====
-Ishlab chiqarish jarayonlarini markazlashtirilgan boshqarish usuli.
+Mukammal raqobatchilarda
 =====
-Faqat davlat tomonidan pul muomalasini tartibga solish tizimi.
+Oligapollarda
 =====
-Xalqaro savdo bitimlarini tuzishga qaratilgan siyosat.
+barchasida
 +++++
-
-
-Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+Oligapoliya so`zi qaysi tildan olingan
 =====
-#Milliy iqtisodiyotning barqaror oʻsishini va shu asosda xalq farovonligini ta'minlash.
+#Grekcha
 =====
-Faqatgina foydani maksimumlashtirish.
+Lotincha
 =====
-Xususiy korxonalarning huquqiy mavqeini mustahkamlash.
+Inglizcha
 =====
-Tabiiy resurslarning miqdorini oshirish.
+fransuzcha
 +++++
-
-
-Monetar siyosatning asosiy jihatlari qaysilar?
+Raqobatlashuvchi firmaga nisbatan monopolist ish xaqini qanday to’laydi ?
 =====
-#Qayta moliyalashtirish yoki hisob siyosati, ochiq bozorda operatsiyalar oʻtkazish siyosati, majburiy zaxira siyosati.
+#ishchi kuchini kup yollagan holda, ish xaqini xam kup tulaydi.
 =====
-Soliqlar, subsidiyalar va litsenziyalar.
+ishchi kuchini kam yollagan holda, ish haqini xam kam tulaydi
 =====
-Ishlab chiqarish vositalarini milliylashtirish, yangi korxonalar barpo etish va aksiyalarni sotib olish.
+ishchi kuchini kup yollagan holda, ish xaqini kam tulaydi;
 =====
-Ish haftasining maksimal davomiyligini belgilash va eng kam ish haqini aniqlash.
+ishchi kuchini kam yollagan holda, ish haqi stavkasini yukori tulaydi
 +++++
-
-
-Iqtisodiy siyosat nima?
+Qaysi xollarda firma iste’molchi ortiqchaligini to’liq egallashi mumkin.
 =====
-#Iqtisodiyot subyektlarining oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmui
+#monopollashgan bozor sharoitida
 =====
-Davlatning faqat tashqi iqtisodiy aloqalarini tartibga solish mexanizmi
+narx diskrinimasiyasini qo’llanilganda
 =====
-Faqat bozor mexanizmlari orqali amalga oshiriladigan chora-tadbirlar tizimi
+yalpi foydani maksimallashtirsa
 =====
-Jamiyatdagi siyosiy partiyalarning iqtisodiy qarorlari
+barcha javob hato
 +++++
-
-
-Davlatning klassik iqtisodiy funksiyalaridan biri qaysi?
+……. ishlab chiqaruvchi tomonidan olingan umumiy manfaatni bildiradi.
 =====
-#Ijtimoiy ne'matlar yaratish
+#Ishlab chiqaruvchi ortikchaligi
 =====
-Xususiy korxonalarning barcha faoliyatini toʻliq nazorat qilish
+Ishlab chiqaruvchi kamligi
 =====
-Faqat strategik tarmoqlarga investitsiya kiritish
+To’yinmagan bozor
 =====
-Xalqaro tashkilotlarning iqtisodiy qarorlarini qabul qilish
+To’yinmagan bozor
 +++++
-
-
-Monetar siyosatning asosiy jihatlaridan biri nima?
+……. ishlab chiqarish omillaridan foydalangan xolda maxsulot yaratish jarayonini yoki ishlab chiqarish omillarini tayyor maxsulotga aylantirish jarayoni.
 =====
-#Qayta moliyalashtirish siyosati
+#Ishlab chiqarish
 =====
-Davlat budjetining taqsimotini belgilash
+Foyda olish
 =====
-Ishlab chiqarish resurslarini toʻgʻridan-toʻgʻri taqsimlash
+Raqobat
 =====
-Soliq stavkalarini oʻzgartirish
+Tog’ri javob yo’q
 +++++
-
-
-Davlat iqtisodiy siyosatining asosiy maqsadlaridan biri nimadan iborat?
+…- ishlab chiqarish xajmi o’zgarmaganda bir birlik X omilini necha birlik Y omil bilan almashtirish mumkinligini ko’rsatadi.
 =====
-#Milliy iqtisodiyotning mustaqilligini ta'minlash
+#Chekli texnologik almashtirish normasi
 =====
-Xususiy korxonalarning monopoliyasini oshirish
+Daromad
 =====
-Bozor mexanizmining toʻliq bekor qilinishi
+Narx shakllanishi
 =====
-Cheklanmagan davlat aralashuvi
+Tog’ri javob yo’q
 +++++
-
-
-Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali erishiladigan iqtisodiy oʻsish turi qanday nomlanadi?
+…- bu uzgaruvchan resurslar kombinasiyasini kichik mikdorda ko’shimcha sarfi xisobidan umumiy maxsulotning o’sgan kismiga aytiladi.
 =====
-#Ekstensiv iqtisodiy oʻsish
+#Chekli maxsulot
 =====
-Intensiv iqtisodiy oʻsish
+Zaruriy mahsulot
 =====
-Aralash iqtisodiy oʻsish
+Ortiqcha mahsulot
 =====
-Barqaror iqtisodiy oʻsish
+Tog’ri javob yo’q
 +++++
-
-
-Pul massasining qisqartirilishi va pul chiqarishning qat'iy chegaralanishini oʻz ichiga olgan monetar siyosat turi qanday nomlanadi?
+…… bir xil xajmda maxsulot ishlab chiqarishni ta’minlovchi omillar sarflari kombinasiyalarini ifodalovchi egri chizik.
 =====
-#Qattiq siyosat
+#Izokvanta
 =====
-Yumshoq siyosat
+Daromad
 =====
-Kredit siyosati
+Taklif
 =====
-Fiskal siyosat
+Tog’ri javob yo’q
 +++++
-
-
-Iqtisodiy siyosat nima?
+……. yigindisi bir xil yalpi xarajatga teng bulgan resurslar sarflari kombinasiyalarini ifodalovchi chizik.
 =====
-#Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuasi
+#Izokosta
 =====
-Iqtisodiyotning qonun-qoidalariga amal qilish chorasi
+Foyda
 =====
-Davlatning narx-navoni tartibga solish boʻyicha faoliyati
+Xarajatlar
 =====
-Faqat ichki bozorni rivojlantirishga qaratilgan harakatlar
+Tog’ri javob yo’q
 +++++
-
-
-Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+……. bu shunday vakt oraligiki, firma bu oralikda faoliyat ko’rsatganda, u ishlab chiqarish omillaridan kamida bittasining xajmini o’zgartira olmaydi.
 =====
-#Iqtisodiy va ijtimoiy barqarorlikni ta'minlash, mavjud tuzumni mustahkamlash va oʻzgaruvchan sharoitlarga moslashtirish
+#Qisqa muddatli oraliq
 =====
-Faqat eksportni oshirish va importni kamaytirish
+Bazis oraliq
 =====
-Faqat milliy valyutaning qadrini barqarorlashtirish
+Uzoq muddatli oraliq
 =====
-Xususiy mulkchilikning butunlay bekor qilinishi
+Tog’ri javob yo’q
 +++++
-
-
-Mobilizatsion iqtisodiy strategiya qachon qoʻllaniladi?
+……. bu oraliqda firma ishlab chiqarishda foydalanayotgan barcha ishlab chiqarish omillari xajmini (ishlab chiqarish quvvatini xam) o’zgartiradi.
 =====
-#Davlatning mavjudligiga tahdid kuchayganida, favqulodda holatlar sharoitida davlatning ishlab chiqarish va tashqi iqtisodiy aloqalarga toʻgʻridan-toʻgʻri aralashuvi kuchayganida
+#Uzok muddatli oraliq
 =====
-Tovar va kapitalning erkin harakati uchun ochiq boʻlgan iqtisodiyotda
+Bazis oraliq
 =====
-Ma'lum guruh kishilarning tor egoistik manfaatlarini amalga oshirishga qaratilganda
+Qiska muddatli oraliq
 =====
-Fuqarolar uchun maqbul tarkibdagi pirovard mahsulotning yuqori oʻsish sur'atini ta'minlash maqsadida
+Tog’ri javob yo’q
 +++++
-
-
-Iqtisodiy siyosat nima?
+…- bu qisqa muddatli oraliqda maxsulot ishlab chiqarish xajmiga bog’liq bo’lmagan xarajatdir
 =====
-#Iqtisodiyot subyektlarining oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmui.
+#O’zgarmas xarajat
 =====
-Davlatning faqat soliq va budjetga oid qarorlari.
+Qo’shimcha xarajat
 =====
-Bozor mexanizmlarining oʻz-oʻzini tartibga solish qobiliyati.
+Ortiqcha xarajat
 =====
-Xususiy tadbirkorlarning faoliyat erkinligi.
+Tog’ri javob yo’q
 +++++
-
-
-Davlat iqtisodiy siyosatining asosiy maqsadlaridan biri qaysi?
+…… maxsulot ishlab chiqarish xajmiga bog’liq bo’lgan xarajat, ya’ni masulot xajmi oshganda yoki kamayganda o’zgaradigan xarajat.
 =====
-#Milliy iqtisodiyotning barqaror oʻsishini ta'minlash.
+#O’zgaruvchan xarajat
 =====
-Faqat xususiy korxonalarning foydasini oshirish.
+O’zgarmas xarajat
 =====
-Barcha davlat korxonalarini xususiylashtirish.
+Qo’shimcha xarajat
 =====
-Xalqaro savdo cheklovlarini toʻliq bekor qilish.
+Tog’ri javob yo’q
 +++++
-
-
-Ekstensiv iqtisodiy oʻsish qanday amalga oshiriladi?
+…… qisqa muddatli orliqda ma’lum miqdorda mahsulot ishlab chiqarish uchun sarflangan o’zgarmas va o’zgaruvchan xarajatlarning yigindisi
 =====
-#Mavjud texnikaviy asosni saqlagan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali.
+#Umumiy xarajatlar
 =====
-Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali.
+O’zgaruvchan xarajat
 =====
-Yangi texnika va texnologiyalarni qoʻllash orqali.
+Qo’shimcha xarajat
 =====
-Ishchi kuchi malakasini oshirish orqali.
+Tog’ri javob yo’q
 +++++
-
-
-Iqtisodiy siyosat nima?
+…… ishlab chiqarish xajmini kichik miqdorga (odatda bir birlikka) oshirish bilan bog’liq bo’lgan ko’shimcha umumiy xarajatdir
+=====
+#Chekli xarajat
+=====
+Daromad
+=====
+Umumiy xarajatlar
 =====
-#Davlatning iqtisodiyotni rivojlantirish va ijtimoiy-iqtisodiy jarayonlarga ta'sir etish maqsadida bozor iqtisodiyotining amal qilishi uchun qulay sharoitlarni yaratishga qaratilgan maqsadli chora-tadbirlari yigʻindisidir.
+Tog’ri javob yo’q
+++++++
+Chekli o’zgaruvchan xarajat
 =====
-Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+#MVC
 =====
-Faqatgina bozor mexanizmlari orqali iqtisodiyotni tartibga solish usuli.
+TC
 =====
-Xususiy korxonalarning foydasini maksimumlashtirishga qaratilgan faoliyat.
+AFC
+=====
+Tog’ri javob yo’q
 +++++
-
-
-Davlatning iqtisodiy siyosatining asosiy maqsadlaridan biri qaysi?
+…oldin kilingan xarajatlar bulib, ularni kaytadan tiklash mumkin emas.
 =====
-#Milliy iqtisodiyotning mustaqilligini ta'minlash.
+#Qaytarilmaydigan xarajatlar
 =====
-Faqatgina yirik korxonalarning foydasini oshirish.
+Ortiqcha xarajatlar
 =====
-Xomashyo resurslarining tugashini tezlashtirish.
+Zaruriy xarajatlar
 =====
-Ishsizlik darajasini doimiy ravishda oshirish.
+Tog’ri javob yo’q
 +++++
-
-
-Monetar siyosatning qanday turlari mavjud?
+……. yo’qotishlar su gurta kompaniyasi tomonidan to’lik qoplanishiga ishonch hosil qilgan holda, vujudga kelishi mumkin bo’lgan yo’qotishlar yehtimolini ongli ravishda oshirib ko’rsatishga intiluvchi shaxsning xatti-xarakati.
 =====
-#Qattiq va yumshoq siyosat.
+#Ma’naviy tavakkalchilik
 =====
-Ekspansiv va restriktiv siyosat.
+Zaruriy tavakkalchilik
 =====
-To'g'ridan-to'g'ri va bilvosita siyosat.
+Tavakkalchiliklarni qo’shish
 =====
-Fiskal va budjet siyosati.
+Tog’ri javob yo’q
 +++++
-
-
-Iqtisodiy siyosatning qanday uch darajasi mavjud?
+.......iqtisodiy faoliyatdagi asosiy maqsadlardan bulib, u aholi jon boshiga ijtimoiy mahsulot miqdorining o’sishi, ularnig turmush darajasini o’sganligini ko’rsatadi.
 =====
-#Mikro, makro va meta (xalqaro)
+#Iqtisodiy o’sish
 =====
-Mikro, makro va milliy
+Muvozanatlashgan baho deb
 =====
-Hududiy, milliy va global
+Iqtisodiy bazis tushunchalar deb
 =====
-Mahalliy, davlat va federal
+Funksiya
 +++++
-
-
-1929-1933-yillardagi iqtisodiy inqiroz davrida tanqidga uchragan minimal davlat aralashuvini yoqlagan iqtisodiy nazariyotchi kim edi?
+Xar qanday davlatning iqtisodiy o’sishida nichta omil bor
 =====
-#Adam Smit
+#6
 =====
-J.M. Keyns
+8
 =====
-M. Fridmen
+5
 =====
-J. Byukenen
+7
 +++++
-
-
-Monetar siyosatning uchta asosiy jihati qaysilar?
+…-uni o’rganish faoliyatining shakllari, usullari va ularning bog’liqligi tushuniladi
 =====
-#Qayta moliyalashtirish siyosati, ochiq bozorda operatsiyalar siyosati va majburiy zaxira siyosati
+#Fanni o’rganish uslubi (metodologiyasi) deganda
 =====
-Fiskal siyosat, savdo siyosati va investitsiya siyosati
+Ne’matlar noyobligi
 =====
-Budjet siyosati, narx siyosati va sanoat siyosati
+Real ehtiyoj
 =====
-Ijtimoiy siyosat, soliq siyosati va tashqi iqtisodiy siyosat
+Alternativ harajatlar
 +++++
-
-
-Davlat iqtisodiy siyosatining asosiy maqsadlariga nimalar kiradi?
+…-bu sotuvchilar va xaridorlar o’rtasidagi mahsulot sotish va sotib olish bo’yicha erkin munosabatlar tizimidir
 =====
-#Barqaror iqtisodiy oʻsishni, milliy iqtisodiyotning mustaqilligini, iqtisodiy xavfsizlikni va milliy pul qadr-qiymatining barqarorligini ta'minlash.
+#bozor
 =====
-Korporativ foydani maksimal darajada oshirish va davlat aralashuvini minimallashtirish.
+firma
 =====
-Qisqa muddatli iqtisodiy yutuqlarni uzoq muddatli barqarorlikdan ustun qo'yish.
+auksion
 =====
-Faqat eksport hajmini oshirishga e'tibor qaratish, ichki farovonlikni hisobga olmasdan.
+Talab va taklif
 +++++
-
-
-Ekstensiv iqtisodiy oʻsishning asosiy xususiyati nimada?
+……bu biror tovar yoki resurs xajmining ma’lum vaqt oraligida chegaralanganligidir
 =====
-#Mavjud texnik asoslarni saqlagan holda ishlab chiqarish resurslari miqdorini oshirish orqali o'sish.
+#Ne’matlar noyobligi
 =====
-Ishlab chiqarish omillarining sifati va texnologiyani takomillashtirish orqali o'sishga erishish.
+Real ehtiyoj
 =====
-Innovatsion yechimlar va yuqori mehnat unumdorligiga e'tibor berish.
+Iqtisodiy ehtiyoj
 =====
-Ishlab chiqarilgan tovar va xizmatlarning umumiy hajmini kamaytirish.
+Iqtisodiy ne’mat
 +++++
-
-
-Quyidagilardan qaysi biri davlatning klassik iqtisodiy funksiyasiga kirmaydi?
+………mikroiqtisodiy jarayonlarda qatnashadigan iqtisodiy tushunchalarga aytiladi.
 =====
-#Barcha xususiy korxonalarni bevosita boshqarish.
+#Iqtisodiy bazis tushunchalar deb
 =====
-Pul muomalasini tartibga solish.
+Katigorea tushunchalar deb
 =====
-Mulk va iste'molchilar huquqlarini himoya qilish.
+Daromat tushunchalar deb
 =====
-Aholi daromadlarini qayta taqsimlash.
+Alternativ tushunchalar deb
 +++++
-
-
-Iqtisodiy siyosat nima?
+……..shaxsni, korxonani yoki jamiyatni faoliyat ko’rsatishi va rivojlanishini ta’minlab turishga undovchi zaruriyat, iqtisodiy faoliyatga undaydigan ichki kuch tushuniladi.
 =====
-#Davlatning iqtisodiyotni rivojlantirish va ijtimoiy-iqtisodiy jarayonlarga ta'sir etish maqsadida bozor iqtisodiyotining amal qilishi uchun qulay sharoitlarni yaratishga qaratilgan maqsadli chora-tadbirlar yig'indisi.
+#Iqtisodiy ehtiyoj
 =====
-Iqtisodiyot subyektlarining shaxsiy manfaatlarini himoya qilishga qaratilgan chora-tadbirlar yig'indisi.
+Real ehtiyoj
 =====
-Faqatgina davlat korxonalarining samaradorligini oshirishga qaratilgan harakatlar majmuasi.
+Iqtisodiy ne’mat
 =====
-Xalqaro tashkilotlarning mamlakat iqtisodiyotiga ta'sirini kamaytirishga qaratilgan siyosat.
+Alternativ harajatlar
 +++++
-
-
-Ishlab chiqarish omillarini sifat jihatidan takomillashtirish, yangi texnika va texnologiyalarni qoʻllash hamda ishchi kuchi malakasini oshirish orqali erishiladigan iqtisodiy oʻsish turi qanday nomlanadi?
+… - ushbu ehtiyojni qondirish uchun shaxsning daromadi yetarli bo’lishi taqozo qilinadi.
 =====
-#Intensiv iqtisodiy oʻsish
+#Real ehtiyoj
 =====
-Ekstensiv iqtisodiy oʻsish
+Iqtisodiy ehtiyoj
 =====
-Mobilizatsion iqtisodiy oʻsish
+Iqtisodiy ne’mat
 =====
-Liberal-iqtisodiy oʻsish
+Iqtisodiy ne’mat
 +++++
-
-
-Davlatning iqtisodiy siyosatdagi asosiy maqsadi nimadan iborat?
+...- bu ishlab chiqaruvchilar va sotuvchilar tomonidan berilgan narxlarda sotilishi mumkin bulgan tovarlar mikdori.
 =====
-#Milliy iqtisodiyotning barqaror oʻsishini va shu asosda xalq farovonligini ta'minlash.
+#Taklif
 =====
-Faqatgina xususiy korxonalarning foydasini oshirish.
+Taklif qonuni
 =====
-Chet el investitsiyalarini maksimal darajada cheklash.
+Taklif chizig’i
 =====
-Bozor mexanizmlarining aralashuvini butunlay yo'q qilish.
+Talab chizig’i
 +++++
-
-
-Iqtisodiy siyosat nima?
+... - berilgan narxlarda haridorlar tomonidan sotib olinishi mumkin bulgan tovarlar mikdori.
 =====
-#Iqtisodiyot subyektlarining faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmui
+#Talab
 =====
-Davlatning tovarlar narxini belgilash usuli
+Talab chizig’i
 =====
-Bozordagi raqobatni cheklash choralari
+Talab qonuni
 =====
-Faqat xususiy korxonalarni qo'llab-quvvatlash tizimi
+Shaxs talabi
 +++++
-
-
-Davlatning iqtisodiy siyosatining asosiy maqsadlaridan biri qaysi?
+...- to’g’ridan-to’g’ri narx o’zgarishi bilan bogliq xolda taklifning o’zgarishi.
 =====
-#Milliy iqtisodiyotning barqaror oʻsishini ta'minlash
+#Taklif qonuni
 =====
-Faqat foydani maksimumlashtirish
+Talab chizig’i
 =====
-Xalqaro savdo cheklovlarini joriy etish
+Talab qonuni
 =====
-Iqtisodiy sikllarning to'liq bekor qilinishi
+Shaxs talabi
 +++++
-
-
-Iqtisodiy oʻsishni oʻlchashning asosiy usullari qaysilar?
+... - narxdan tashqari boshqa omillar o’zgarmaganda talab mikdori bilan narx o’rtasidagi teskari bog’liqlik.
 =====
-#Real yalpi ichki mahsulot (YIM) hajmining oʻzgarishi va aholi jon boshiga to'g'ri keladigan real YIMning oʻzgarishi
+#Talab qonuni
 =====
-Faqat ishlab chiqarish texnikasini takomillashtirish
+Shaxs talabi
 =====
-Milliy valyuta kursining oʻzgarishi
+Talab chizig’i
 =====
-Faqat eksport hajmining oshishi
+Taklif chizig’i
 +++++
-
-
-Iqtisodiy siyosat nima?
+...- bitta iste’molchining tovarga bo’gan talabi.
 =====
-#Iqtisodiy subyektlarning oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+#Shaxs talabi
 =====
-Faqat davlatning iqtisodiyotni markazlashgan holda boshqarish tizimi.
+Talab chizig’i
 =====
-Bozor mexanizmining oʻz-oʻzini tartibga solish funksiyasi.
+Taklif chizigi
 =====
-Xususiy firmalarning foydani maksimumlashtirishga qaratilgan faoliyati.
+Talab qonuni
 +++++
-
-
-Davlatning klaster siyosatini yuritishdagi asosiy roli nimadan iborat?
+...- tovar narxi bilan sotib olinadigan ushbu tovar mikdori o’rtasidagi bog’liqlikni ifodalovchi egri chiziq.
 =====
-#Klasterlarning kelgusida rivojlanishi va transfertlarni boshqarish, subsidiyalar, cheklashlar yoki tartibga solish mas'uliyatini oʻz zimmasiga olish.
+#Talab chizig’i
 =====
-Faqatgina moliyaviy yordam koʻrsatish.
+Shaxs talabi
 =====
-Faqat mintaqaviy infratuzilmani qoʻllab-quvvatlash.
+Talab qonuni
 =====
-Faqatgina tadqiqot tashkilotlari bilan hamkorlikni ta'minlash.
+Taklif chizig’i
 +++++
-
-
-Iqtisodiy oʻsishni oʻlchashda asosiy koʻrsatkich nima hisoblanadi?
+...- tovar narxi bilan taklif kilinadigan ushbu tovar mikdori o’rtasidagi bog’liqlikni ifodalovchi egri chizik.
 =====
-#Real yalpi ichki mahsulot (YIM) hajmining oʻtgan davrga nisbatan oʻzgarishi.
+#Taklif chizig’i
 =====
-Aholi jon boshiga toʻgʻri keladigan nominal yalpi ichki mahsulot.
+Talab chizig’i
 =====
-Milliy daromadning mutloq hajmi.
+Shaxs talabi
 =====
-Ishsizlik darajasining oʻzgarishi.
+Talab qonuni
 +++++
-
-
-Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+...- talab bilan taklifni tenglashtiruvchi narx.
 =====
-#Iqtisodiy va ijtimoiy barqarorlikni ta'minlash hamda mavjud tuzumni mustahkamlash
+#Muvozanat narx
 =====
-Davlat korxonalarining foydasini maksimumlashtirish
+Xarajatlar
 =====
-Iqtisodiyotni to'liq markazlashtirilgan holda boshqarish
+Elastiklik
 =====
-Barcha xususiy mulkchilik shakllarini bekor qilish
+Umumiy naflik
 +++++
-
-
-Monetar siyosatning uchta asosiy jihati qaysilar?
+...- bu matematik tushuncha bulib, bog’liq o’zgaruvchi bilan erkin o’zgaruvchilar  o’rtasidagi miqdoriy bog’liqlikni ifodalaydi.
 =====
-#Qayta moliyalashtirish siyosati, ochiq bozorda operatsiyalar va majburiy zaxira siyosati
+#Funksiya
 =====
-Fiskal siyosat, investitsiya siyosati va sanoat siyosati
+Muvozanat narx
 =====
-Soliq siyosati, subsidiyalar siyosati va litsenziyalash siyosati
+Muvozanatlashgan baho deb
 =====
-Narxlarni tartibga solish, tashqi savdoni boshqarish va bandlik siyosati
+Umumiy naflik
 +++++
-
-
-2022-yilda Oʻzbekiston Respublikasi Yalpi ichki mahsulotining (YIM) real oʻsish sur'ati qancha boʻlgan?
+…- Bitta tovarga bulgan talabga boshka bir tovarning narxi ta’sir ko’rsatadi.
 =====
-#5.7%
+#Kesishgan talab elastikligi
 =====
-3.5%
+Naflik funksiyasi
 =====
-6.1%
+Umumiy naflik
 =====
-4.0%
+Chekli naflik
 +++++
-
-
-Iqtisodiy siyosat nima?
+…- iste’mol qilingan ne’matlar dan olingan jami naflik.
 =====
-#Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmui.
+#Umumiy naflik
 =====
-Davlat budjetini boshqarish usullari.
+Chekli naflik
 =====
-Bozor narxlarini belgilash mexanizmi.
+kapital
 =====
-Xalqaro savdo shartnomalari tizimi.
+Elastiklik
 +++++
-
-
-Davlat iqtisodiy siyosatining asosiy maqsadlaridan biri nima?
+…- oxirgi yoki navbatdagi birlik ne’matni iste’mol qilishdan olinadigan naflik.
 =====
-#Milliy iqtisodiyotning barqaror oʻsishini ta'minlash.
+#Chekli naflik
 =====
-Har bir fuqaroning shaxsiy boyligini maksimallashtirish.
+Narx
 =====
-Korxonalarning raqobatbardoshligini cheklash.
+Kapital
 =====
-Faqat davlat sektorini rivojlantirish.
+Umumiy naflik
 +++++
-
-
-Ekstensiv iqtisodiy oʻsish qanday amalga oshiriladi?
+…- tovar sifatiga bog’liq bulgan talab.
 =====
-#Mavjud texnikaviy asosi saqlangan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali.
+#Funksional talab
 =====
-Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali.
+Taklif
 =====
-Ilgʻor texnologiyalarni joriy etish orqali.
+Funksional Taklif
 =====
-Mehnat unumdorligini oshirish hisobiga.
+Daromat
 +++++
-
-
-Iqtisodiy siyosat nima?
+…- bir xil darajadagi naflik beruvchi ne’matlar mikdorlari kombinasiyalarini ifodalovchi egri chiziq.
 =====
-#Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuidir
+#Befarklik chizig’i
 =====
-Iqtisodiyot subyektlarining faqat foyda olishga qaratilgan faoliyati
+daromat chizig’i
 =====
-Davlatning iqtisodiyotga aralashmaslik tamoyili
+narx chizig’i
 =====
-Faqat milliy valyutaning barqarorligini ta'minlashga qaratilgan harakatlar
+kapital chizig’i 
 +++++
-
-
-Davlatning iqtisodiy siyosatining asosiy maqsadlaridan biri nimadan iborat?
+…- iste’molchining ma’lum vaqt oralig’ida oladigan barcha daromadlari yig’indisi.
 =====
-#Milliy iqtisodiyotning barqaror o'sishini va shu asosda xalq farovonligini ta'minlash
+#Byudjet
 =====
-Faqat firmalarning foydasini maksimumlashtirish
+Daromat
 =====
-Iste'mol tovarlarining narxini sun'iy ravishda oshirish
+Narx
 =====
-Barcha iqtisodiy jarayonlarni to'liq markazlashtirilgan holda boshqarish
+Kapital
 +++++
-
-
-Ekstensiv iqtisodiy o'sish qanday amalga oshiriladi?
+Agar iqtisodiy muammolarning bir qismi bozor, bir qismi hukumat tomonidan hal etilsa, bunday iqtisodiyot
 =====
-#Mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini ko'paytirish orqali
+#Aralash
 =====
-Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali
+Bozor
 =====
-Yangi texnologiyalarni qo'llamasdan, faqat eskilarini modernizatsiya qilish
+Natural
 =====
-Mehnat unumdorligini pasaytirish va ishchi kuchini ko'paytirish
+Ma’muriy
 +++++
-
-
-Iqtisodiy siyosat doirasida firmaning asosiy maqsadi nima?
+Birinchi yil fermer 120 gektarlik yeridan 2400 sentner bug’doy, ikkinchi yili esa u 150 gektar yeridan 2250 sentner bug’doy oldi. Shu ikki yil uchun o’rtacha hosildorlikni aniqlang.
 =====
-#Foydani maksimumlashtirish va iqtisodiy barqarorlikni ta'minlash
+#17.2 sentner
 =====
-Shaxsiy iste'molni maksimumlashtirish
+18 sentner
 =====
-Milliy iqtisodiy mustaqillikni ta'minlash
+15.6 sentner
 =====
-Raqobatni himoya qilish
+19.4 sentner
 +++++
-
-
-Ishlab chiqarishning mavjud texnikaviy asosi saqlangan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali erishiladigan iqtisodiy oʻsish turi qaysi?
+Firmaning doimiy xarajatlari bu-
 =====
-#Ekstensiv iqtisodiy oʻsish
+#Ishlab chiqarish hajmiga bog’liq bo’lmagan xarajatlar.
 =====
-Intensiv iqtisodiy oʻsish
+Har qanday maxsulot ishlab chiqarish hajmida minimal miqdorda sarflanayotgan xarajatlardir
 =====
-Muvozanatli iqtisodiy oʻsish
+Resurslar sotib olinayotganda ularga ketgan xarajatlardir.
 =====
-Innovatsion iqtisodiy oʻsish
+Ishchi xodimlarga to’lanadigan haqdir
 +++++
-
-
-2022-yilda Oʻzbekistonning real yalpi ichki mahsulot (YIM) oʻsish sur'ati oʻtgan yilga nisbatan necha foizni tashkil etdi?
+Oligopoliya bu-
 =====
-#105.7%
+#Unchalik ko’p bo’lmagan raqobatlashuvchi firmalardir
 =====
-100.9%
+Bir xil turdagi maxsulotlarni ishlab chiqaruvchi kata hajmdagi raqobatlashuvchi firmalar yig’indisi
 =====
-112.3%
+Faqat bitta yirik firma
 =====
-115.9%
+Faqat bitta yirik xaridor
 +++++
-
-
-Davlatning iqtisodiy siyosatining asosiy maqsadlaridan biri nima?
+Monopol hokimiyatda narx monopolist tomonidan
 =====
-#Milliy pul qadr-qiymatining barqarorligini ta'minlash
+#Talab elastikligini bilgani holda belgilanadi
 =====
-Xonadonlarning iste'molini maksimumlashtirish
+Raqobatchi firmalar ko’rsatmasiga ko’ra belgilanadi
 =====
-Firmaning foydasini maksimumlashtirish
+Bozor narxidan kelib chiqib belgilanadi
 =====
-Bozor mexanizmini toʻliq cheklash
+Raqobatchi firmalar bilan kelishilgan holda belgilanadi
 +++++
-
-
-Nima sababdan davlat bozor iqtisodiyoti sharoitida ba'zi tovarlarni iste'mol qilishning oqibatlarini obyektiv baholay olmaydigan individual iste'molchilarga nisbatan aralashadi?
+Quyidagilardan qaysi biri monopoliyaga olib kelmaydi?
 =====
-#Sogʻliqqa salbiy ta'sir ko'rsatuvchi tovarlar iste'molini cheklash uchun
+#Tovar ishlab chiqarish va sotish bo’yicha bir qancha alternativ firmalarning mavjudligi
 =====
-Xususiy korxonalarning foydasini oshirish uchun
+Mualliflik huquqi
 =====
-Barcha bozor narxlarini tartibga solish uchun
+Bitta resurs zaxirasi ustidan mutloq egalik qilish
 =====
-Chet el investitsiyalarini jalb qilish uchun
+Lisenziya
 +++++
-
-
-Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirib borish orqali qanday iqtisodiy oʻsishga erishiladi?
+Asosiy kapital sirasiga nimalar kiradi?
 =====
-#Ekstensiv iqtisodiy oʻsish
+#Texnika va texnologiyalar
 =====
-Intensiv iqtisodiy oʻsish
+Davlat obligatsiyalari
 =====
-Innovatsion iqtisodiy oʻsish
+Tashkilot kassasidagi qoldiq pullar
 =====
-Sifatli iqtisodiy oʻsish
+Tashkilotlar hisobida mavjud bo’lgan pul mablag’lari
 +++++
-
-
-Iqtisodiy siyosat nima?
+Har qanday iqtisodiy tizimda “nima” “qanday” va “kim uchun” degan fundamental savollar mikro va makro darajada hal etiladi. Quyida tuzilgan savollardan qaysi biri mikroiqtisodiyot darajada hal etiladi?
 =====
-#Iqtisodiyot subyektlarining faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+#Nima va qancha ishlab chiqilishi kerak
 =====
-Faqat davlat tomonidan iqtisodiyotni markazlashgan holda boshqarish.
+To’liq bandlik darajasiga qanday qilib erishiladi
 =====
-Bozor tizimining samarali amal qilishini ta'minlash.
+Infilatsiyadan qanday qutulish mumkin
 =====
-Xususiy korxonalarning huquqiy mavqeini mustahkamlash.
+Iqtisodiy o’sishni qanday rag’batlantirish mumkin
 +++++
-
-
-Davlat iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+Bozor talabiga quyidagi omillardan qaysi biri ta’sir etmaydi
 =====
-#Iqtisodiy va ijtimoiy barqarorlikni ta'minlash, mavjud tuzumni mustahkamlash va uni oʻzgaruvchan sharoitga moslashtirish.
+#Istemolchilar soni
 =====
-Faqat eksportni himoya qilish va mintaqaviy tuzilmalardagi ijobiy siljishlarni qoʻllab-quvvatlash.
+Istemolchilar daromadi
 =====
-Milliy xoʻjaliklarning tarmoq va mintaqaviy tuzilishini takomillashtirish.
+O’rnini to’ldiruvchi tovarlar narxi
 =====
-Atrof-muhit holatini yaxshilash va iqtisodiy siklni barqarorlashtirish.
+To’ldiruvchi tovarlar narxi
 +++++
-
-
-Monetar siyosatning asosiy maqsadi nimadan iborat?
+Agar bozor narxi muvozonat narxdan past bo’lsa
 =====
-#Pul muomalasini tartiblash, tovar va pul massasi oʻrtasidagi muvozanatni ta'minlash va pul oqimlarini boshqarish.
+#Sotuvchilar kamayadi
 =====
-Soliq qonunchiligini amalga oshirish va davlat investitsiyalarini tartibga solish.
+Defitsit paydo bo’ladi
 =====
-Daromad va boylikni qayta taqsimlash.
+Ortiqcha taklif paydo bo’ladi
 =====
-Ishlab chiqarish samaradorligini oshirish.
+Resurslar narxi kamayadi
 +++++
-
-
-Davlatning iqtisodiy siyosati qaysi siyosat turlarini oʻz ichiga oladi?
+Tovarning muvozonat narxi bu
 =====
-#Tashqi iqtisodiy, tarkibiy-investitsiyaviy, institutsional, agrar, sanoat, ijtimoiy, narx, moliyaviy, soliq-budjet, pul-kredit, hududiy (mintaqaviy) va ilmiy-texnika va innovatsiya siyosatlari
+#Ortiqcha talab ham, ortiqcha taklif ham bo’lmaydigan narx
 =====
-Fiskal, Monetar, Ijtimoiy, Savdo siyosati
+Ortiqcha talabni paydo qiladigan narxdan tuqori narx
 =====
-Bevosita va bilvosita ta'sir qilish siyosatlari
+Ortiqcha taklifni paydo qiladigan narxdan yuqori narx
 =====
-Mikro, makro va meta iqtisodiy siyosat
+Hamma javob to’g’ri
 +++++
-
-
-Monetar siyosatning uchta asosiy jihati qaysilar?
+Texnologiyaning takomillashuvi nimaning siljishiga olib keladi
 =====
-#Qayta moliyalashtirish yoki hisob siyosati, ochiq bozorda operatsiyalar oʻtkazish siyosati, majburiy zaxira siyosati
+#Egri taklif chizig’ining yuqori va o’ngga
 =====
-Fiskal siyosat, savdo siyosati, sanoat siyosati
+Egri taklif chizig’ining chapga va pastga
 =====
-Qattiq monetar siyosat, yumshoq monetar siyosat, neytral monetar siyosat
+Egri talab chizig’ining yuqori va o’ngga
 =====
-Soliqqa tortish, subsidiyalar, litsenziyalar
+Egri talab chizig’ining chapga va pastga
 +++++
-
-
-Ekstensiv iqtisodiy oʻsishning asosiy xususiyati nimada?
+Qaysi ibora insonlarning biror bir tovarni sotib olish uchun imkoniyat va xoxish borligini anglatadi?
 =====
-#Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirib borish orqali erishiladi
+#Talab
 =====
-Ishlab chiqarish omillarining sifatini yaxshilash va yangi texnologiyalarni qoʻllash orqali erishiladi
+Ehtiyoj
 =====
-Fundamental fanni rivojlantirish va innovatsiyalarga sarmoya kiritishga e'tibor qaratiladi
+Zaruriyat
 =====
-Tranzaksiya xarajatlarini kamaytirish va institutsional mexanizmlarni takomillashtirish
+Xoxish
 +++++
-
-
-Davlat iqtisodiy siyosatining asosiy maqsadlariga nimalar kiradi?
+Agar Tovar bahosi talab va taklif egri chiziqlarining kesishish nuqtasidan past bo’lsa, u holda
 =====
-#Iqtisodiy va ijtimoiy barqarorlikni ta'minlash, mavjud tuzumni mustahkamlash va xalq farovonligini oshirish.
+#Taqchillik yuzga keladi
 =====
-Faqat milliy iqtisodiyotning qisqa muddatli oʻsishini ta'minlash.
+Tovar ortiqchaligi yuzaga keladi
 =====
-Asosan xususiy firmalarning foydasini maksimumlashtirish.
+Ishsizlik ko’payadi
 =====
-Bozor mexanizmining har qanday aralashuvsiz ishlashini kafolatlash.
+Muvozonat holat ta’minlanadi
 +++++
-
-
-Iqtisodiy oʻsishni oʻlchashning asosiy usullari qaysilar?
+Agar Tovar bahosi talab va taklif egri chiziqlarining kesishish nuqtasidan yuqori bo’lsa, u holda
 =====
-#Real yalpi ichki mahsulot (YIM) hajmining oʻzgarishi va aholi jon boshiga real YIMning oʻzgarishi.
+#Tovar ortiqchaligi yuzaga keladi
 =====
-Faqat nominal yalpi ichki mahsulotning oʻsishi.
+Taqchillik yuzga keladi
 =====
-Ishsizlik darajasi va inflyatsiya koʻrsatkichlari.
+Ishsizlik ko’payadi
 =====
-Eksport va import hajmining dinamikasi.
+Muvozonat holat ta’minlanadi
 +++++
-
-
-Monetar siyosatning qanday turlari mavjud va ular qanday holatlarda qoʻllaniladi?
+Agar Tovar bahosi talab va taklif egri chiziqlarining kesishish nuqtasida  bo’lsa, u holda
 =====
-#Qattiq siyosat (tanglik va inflyatsiyani susaytirishda) va yumshoq siyosat (iqtisodiyot oʻsish pallada boʻlganda).
+#Muvozonat holat ta’minlanadi
 =====
-Fiskal siyosat (budjet tushumlarini oshirishda) va pul-kredit siyosati (narxlarni barqarorlashtirishda).
+Taqchillik yuzga keladi
 =====
-Toʻgʻridan-toʻgʻri ta'sir qilish (davlat koʻrsatmalariga asoslangan) va bilvosita ta'sir qilish (bozor sharoitlarini yaratishga qaratilgan).
+Ishsizlik ko’payadi
 =====
-Institutsional siyosat (davlat institutlarini rivojlantirishda) va sanoat siyosati (ishlab chiqarishni modernizatsiya qilishda).
+Tovar ortiqchaligi yuzaga keladi
 +++++
-
-
-Iqtisodiy siyosatning qanday darajalari mavjud?
+Tovar maxsuloti bahosining pasayishi sabablariga quyidagi omillardan qaysi biri ta’sir ko’rsatadi?
 =====
-#Mikro, makro, meta
+#Ishlab chiqarish resurslari narxining pasayishi
 =====
-Mikro, mezo, mega
+Xususiy tadbirkorlik uchun soliqlarning ko’tarilganligi
 =====
-Mahalliy, mintaqaviy, milliy
+To’ldiruvchi tovarlar narxining arzonlashuvi
 =====
-Davlat, xususiy, aralash
+Istemolchi daromadining ko’tarilganligi
 +++++
-
-
-Davlat iqtisodiy siyosatining asosiy tamoyillari qaysilar?
+Narx bo’yicha taklif mutloq elastic bo’lgani holda, ishlab chiqaruvchidan sotilgan har birlik maxsulot uchun belgilangan soliq olinsa, u holda
 =====
-#Samaradorlik, adolatli taqsimot, barqarorlik
+#Muvozonat narx ko’tariladi
 =====
-Erkinlik, raqobat, monopoliyaga qarshi kurash
+Muvozonat sotuv hajmi kamayadi
 =====
-Xususiy mulkni himoya qilish, narxlarni erkinlashtirish, bozor ochiqligi
+Istemolchi ortiqchaligi kamayadi
 =====
-Fiskal siyosat, pul-kredit siyosati, investitsiya siyosati
+Sotuvchilar ortiqchaligi kamayadi
 +++++
-
-
-Iqtisodiy siyosat sohasidagi ilk urinishlar qaysi asrda amalga oshirilgan va qaysi mamlakat bunga misol qilib keltirilgan?
+Talab birlik elastik deyiladi
 =====
-#XIX asr oxiri, Germaniya
+#Agar absolyut elastiklik koofisenti 1 ga teng bo’lsa
 =====
-XVIII asr oxiri, Buyuk Britaniya
+Agar absolyut elastiklik koofisenti 1 dan katta bo’lsa
 =====
-XIX asr boshi, Fransiya
+Agar absolyut elastiklik koofisenti 1 dan kichik bo’lsa
 =====
-XX asr boshi, AQSh
+Hamma javoblar to’g’ri 
 +++++
-
-
-Iqtisodiy siyosat nima?
+Talab elastik deyiladi
 =====
-#Bu iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir
+#Agar absolyut elastiklik koefisenti 1 dan katta bo’lsa
 =====
-Bu faqat davlat byudjetini boshqarish bilan bog'liq faoliyatdir
+Agar absolyut elastiklik koefisenti 1 ga teng bo’lsa
 =====
-Bu faqat narxlarni tartibga solishga qaratilgan chora-tadbirlar tizimidir
+Agar absolyut elastiklik koefisenti 1 dan kichik bo’lsa
 =====
-Bu faqat xalqaro savdoni rivojlantirishga qaratilgan siyosatdir
+Hamma javoblar to’g’ri
 +++++
-
-
-Davlatning iqtisodiy siyosatining asosiy maqsadi nimalardan iborat?
+Talab noelastik deyiladi
 =====
-#Iqtisodiy va ijtimoiy barqarorlikni ta'minlash, mavjud tuzumni mustahkamlash va uni oʻzgaruvchan sharoitga moslashtirish
+#Agar absolyut elastiklik koefisenti 1 dan kichik bo’lsa
 =====
-Faqat ichki bozorlarda raqobatni cheklash
+Agar absolyut elastiklik koefisenti 1 dan katta bo’lsa
 =====
-Xususiy mulkchilikni butunlay bekor qilish
+Agar absolyut elastiklik koefisenti 1 ga teng bo’lsa
 =====
-Faqat qishloq xoʻjaligi sektorini rivojlantirish
+Hamma javoblar to’g’ri
 +++++
-
-
-Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali erishiladigan iqtisodiy o'sish qanday nomlanadi?
+Noelastik bo’lgan tovarning narxi 7 dollardan 8 dollarga ko’tarilganda, daromad
 =====
-#Intensiv iqtisodiy o'sish
+#Ko’tariladi
 =====
-Ekstensiv iqtisodiy o'sish
+qisqaradi
 =====
-Innovatsion iqtisodiy o'sish
+O’zgarishsiz qoladi
 =====
-Global iqtisodiy o'sish
+Mutloq noelastik
 +++++
-
-
-Iqtisodiy siyosat nima?
+Mikroiqtisodiyotda asosiy shaxs bo’lib kim hisoblanadi?
 =====
-#Bu iqtisodiyot subyektlarining oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+#Ishlab chiqaruvchi.
 =====
-Bu faqat davlatning iqtisodiyotni boshqarish boʻyicha qarorlari.
+Iste’molchi.
 =====
-Bu faqat bozor mexanizmlarini tartibga solishga qaratilgan chora-tadbirlar.
+Davlat
 =====
-Bu faqat xususiy firmalarning foydani maksimallashtirish strategiyasi.
+Vositachi
 +++++
-
-
-Davlatning iqtisodiy siyosatining asosiy maqsadlaridan biri qaysi?
+Agar bahoning o’zgarishi natijasida sotib olingan tovarlar miqdori o’zgarmasa talab to’g’risida nima deyish mumkin?
 =====
-#Milliy iqtisodiyotning barqaror oʻsishini ta'minlash.
+#Elastik emas.
 =====
-Korporativ foydani maksimallashtirish.
+To’liq qondirilgan
 =====
-Xususiy mulkni milliylashtirish.
+Muvozanatda
 =====
-Bozor raqobatini cheklash.
+Elastik
 +++++
-
-
-Iqtisodiy oʻsish sur'atlari real YIM oʻzgarishini hisoblashda qaysi formula orqali topiladi?
+Tadbirkorlarni tovar sifatini yaxshilash, narxini pasaytirish va raqobatdoshlardan o’zishga majbur qiluvchi kuch:
 =====
-#(Yt - Yt-1) / Yt-1 * 100%
+#Foyda olishga qiziqish
 =====
-(Yt + Yt-1) / Yt-1 * 100%
+Baholarning shakllanishini tuzish
 =====
-Yt / Yt-1
+O’rin qoplash bahosi
 =====
-(Yt * Yt-1) / Yt * 100%
+Harajatlarni aniqlash
 +++++
-
-
-Iqtisodiyotning rivojlanishi va ijtimoiy-iqtisodiy jarayonlarga ta'sir etish maqsadida bozor iqtisodiyotining amal qilishi uchun qulay sharoitlarni yaratishga qaratilgan maqsadli chora-tadbirlar yigʻindisi qanday ataladi?
+Ishlab chiqarish xarajatlari deganda nimani tushunasiz?
 =====
-#Iqtisodiy siyosat
+#Ishlab chiqarish xarajatlari deganda resurslarni ushbu faoliyat yo’nalishida tutib qolish uchun amalga oshiriladigan barcha ichki va tashqi to’lovlar summasi tushuniladi
 =====
-Fiskal siyosat
+Ishlab chiqarish xarajatlari – kapital tovarlarga sarflangan mablag’lardir
 =====
-Monetar siyosat
+Ishlab chiqarish harajatlari deganda firmaning ishlab chiqarish uchun kerakli xom ashyo va materiallarni yetkazib beruvchilaraga amalga oshiriladigan barcha to’lovlar tushuniladi
 =====
-Ijtimoiy siyosat
+Mahsulot tannarxiga kiritiladigan xarajatlar tushuniladi
 +++++
-
-
-Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+Doimiy xarajatlar deganda nimani tushunasiz?
 =====
-#Iqtisodiy va ijtimoiy barqarorlikni ta'minlash, mavjud tuzumni mustahkamlash va oʻzgaruvchan sharoitga moslashtirish
+#Doimiy xarajatlar deganda kattaligi ishlab chiqarish hajmining o’zgarishiga bog’liq bo’lmagan xarajatlar tushuniladi.
 =====
-Faqatgina firmaning foydasini maksimumlashtirish
+Doimiy xarajat deganda maxsulot tannarxiga to’g’ridan-to’g’ri kiritiladigan xarajatlar tushuniladi
 =====
-Uy xoʻjaligining iste'molini maksimumlashtirish
+Doimiy xarajat deganda kattaligi ishlab chiqarish xarajatlariga proportsional o’zgaradigan xarajatlar tushuniladi
 =====
-Faqatgina pul muomalasini tartibga solish
+Doimiy xarajatlar ish xaqi va material sarflardir
 +++++
-
-
-Ishlab chiqarish omillarini sifat jihatidan takomillashtirish, yanada progressivroq ishlab chiqarish vositalarini va yangi texnikani qoʻllash orqali erishiladigan iqtisodiy o'sish turi qanday nomlanadi?
+Resurslarning o’rinalmashtiruvchi turlari soni ko’paysa, resursga bo’lgan talab elastikligi qanday o’zgaradi?
 =====
-#Intensiv iqtisodiy oʻsish
+#Resursga bo’lgan talab elastikligi ko’payadi
 =====
-Ekstensiv iqtisodiy oʻsish
+Resursga bo’lgan talab elastikligi kamayadi.
 =====
-Inqilobiy iqtisodiy oʻsish
+Resursga bo’lgan talab elastikligi o’zgarmaydi
 =====
-Barqaror iqtisodiy oʻsish
+Resursning elastikligi oshadi
 +++++
-
-
-Iqtisodiy siyosat nima?
+Quyidagilardan qaysi biri nazariy iqtisodiyot predmeti tahriflariga tegishli emas?
 =====
-#Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuidir.
+#Cheksiz ishlab chiqarish resurslari.
 =====
-Iqtisodiyot qonun-qoidalariga amal qilish.
+Resurslardan samarali foydalanish
 =====
-Davlatning iqtisodiy jarayonlarga aralashuvi mexanizmi.
+Extiyojlarni maksimal qondirish
 =====
-Foydani maksimumlashtirishga qaratilgan faoliyat.
+Moddiy va ma’naviy ehtiyojlar
 +++++
-
-
-Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+Quyidagi xolatlarning qaysi biri bozor iqtisodiyotiga xos emas?
 =====
-#Milliy iqtisodiyotning barqaror o'sishini va shu asosda xalq farovonligini ta'minlash.
+#Markazlashtirilgan rejalashtirish
 =====
-Faqat firmalarning foydasini oshirish.
+Raqobat
 =====
-Uy xo'jaligining iste'molini maksimumlashtirish.
+Xususiy mulkchilik
 =====
-Xalqaro savdo hajmini oshirish.
+Tadbirkorlik tanlovining erkinligi
 +++++
-
-
-2022-yilda O'zbekistonning Yalpi ichki mahsuloti (YIM) real o'sishi 2021-yilga nisbatan necha foizni tashkil etdi?
+Talabning baho bo’yicha elastikligi quyidagi holda yuqori bo’ladi:
 =====
-#5.7%
+#Birlamchi ehtiyoj tovarlariga
 =====
-7.4%
+Iste’molchi tovarni eng yuqori naflilik bilan ishlatsa
 =====
-4.7%
+Ishlab chiqarishning muqobil xarajatlariqancha ko’p bo’lsa
 =====
-6.1%
+Zeb-ziynat buyumlaridan ko’ra birinchi extiyoj tovarlariga
 +++++
-
-
-Davlatning iqtisodiy siyosatdagi asosiy maqsadi nimadan iborat?
+Naflilikni maksimallashtirish uchun iste’molchi:
 =====
-#Milliy iqtisodiyotning barqaror oʻsishini va xalq farovonligini ta'minlash
+#Sotib olinayotgan ohirgi birlik tovarlar chegaraviy nafliliklari tenglashtirishi kerak
 =====
-Foydani maksimumlashtirish
+Faqat brend tovarlar sotib olishi kerak
 =====
-Iste'molni maksimumlashtirish
+Barcha tovar narxlari umumiy nafliliklariga proportsional bo’lishiga amal qilishi kerak
 =====
-Kelajakni ta'minlash uchun jamg'arma hosil etish
+Sifatsiz tovarlarni sotib olmasligi kerak
 +++++
-
-
-Iqtisodiyotdagi davlatning roli masalasini ilmiy asosda birinchi marta kim koʻrib chiqqan?
+Ish haqi stavkalarining oshishi bilan:
 =====
-#Adam Smit
+#Agar mehnatga bo’lgan talab elastik bo’lsa, bandlik darajasi qisqaradi
 =====
-J.M. Keyns
+Agar mehnatga bo’lgan talab mutloq noyelastik bo’lsa, bandlik darajasi qisqaradi
 =====
-M. Fridmen
+Agar mehnatga bo’lgan talab elastik bo’lsa, bandlik darajasi oshadi
 =====
-J. Byukenen
+Agar mehnatga bo’lgan talab noyelastik bo’lsa, bandlik darajasi oshadi
 +++++
-
-
-Ekstensiv iqtisodiy oʻsish qanday yoʻl bilan erishiladi?
+Iqtisodiyotda ishlab chiqarish omillari unumdorligining pasayib borish qonuni amal qiladi. Ushbu sharoitda iqtisodiy o’sish qanday qilib tahminlanadi?
 =====
-#Mavjud texnikaviy asos saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirib borish orqali
+#Tobora ko’proq va ko’proq hajmda resurslar talab etiladi
 =====
-Ishlab chiqarish omillarini sifat jihatidan yaxshilash orqali
+Qo’shimcha resurslarning o’sishi umumiy ishlab chiqarish hajmini oshirmaydi, balki kamaytiradi
 =====
-Yangi texnika va texnologiyalarni qoʻllash orqali
+Resurlar miqdorini oshirish kerak, lekin qo’shimcha birlik resurs narxi oshib boradi
 =====
-Mehnat unumdorligini oshirish hisobiga
+Tobora kamroq miqdorda ishlab chiqarish omillari talab etiladi
 +++++
-
-
-Iqtisodiy siyosat nima?
+Foydani maksimallashtirish kimning manfaatiga mos keladi?
 =====
-#Iqtisodiy subyektlarning oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+#Xususiy firmalar
 =====
-Faqat davlatning iqtisodiyotni boshqarish boʻyicha qarorlari.
+Yer egalari
 =====
-Bozor mexanizmining mustaqil ishlashi.
+Ishchilar
 =====
-Firmalarning foydani maksimumlashtirishga qaratilgan harakatlari.
+Iste’molchilar
 +++++
-
-
-Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+Agar tovarga bo’lgan talab va uning taklifi oshsa:
 =====
-#Iqtisodiy va ijtimoiy barqarorlikni ta'minlash.
+#Narxi turg’unligicha qoladi
 =====
-Faqat milliy iqtisodiyotning mustaqilligini ta'minlash.
+Tovarning umumiy hajmi oshadi
 =====
-Faqat xorijiy investitsiyalarni jalb qilish.
+Narxi oshadi
 =====
-Aholining iste'molini maksimumlashtirish.
+Jamiyat turmush darajasi oshadi
 +++++
-
-
-Iqtisodiy oʻsishni baholashda qaysi koʻrsatkichlardan foydalanilmaydi?
+Noyelastik talab shuni anglatadiki:
 =====
-#Hukumatning yillik byudjet taqchilligi miqdori.
+#Narxning 1% ga oshishi talab kattaligini 1% dan kamroq darajaga pasaytiradi
 =====
-Yalpi ichki mahsulotning mutloq hajmi va uning o'sish sur'atlari.
+Narxning 1% ga oshishi talab kattaligini 1% dan oshiqroq darajaga kamaytiradi
 =====
-Aholi jon boshiga toʻgʻri keladigan real YIM miqdori.
+Narxning istalgan o’zgarishi umumiy tushum kattaligini o’zgartirmaydi
 =====
-Iqtisodiy resurs xarajatlari birligi hisobiga YaIM miqdori.
+Narxning 1% ga o’sishi talab kattalagiga ta’hsir etmaydi
 +++++
-
-
-Davlatning iqtisodiy siyosati nima?
+A tovarni v tovar bilan almashtirish normasi quyidagini anglatadi:
 =====
-#Muayyan mamlakatning milliy iqtisodiga taalluqli boʻlgan makroiqtisodiy siyosat yoʻl-yoʻriqlari va ulardan kelib chiqadigan sa'y-harakatlaridir.
+#Umumiy naflilikni o’zgarmagan holda iste’molchi qo’shimcha bir birlik v tovarni olish uchun a tovarning qancha birligidan voz kechish kerak
 =====
-Iqtisodiyot subyektlarining oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+Agar a va v tovarlar iste’molchili bir birlikka oshsa, ular chegaraviy nafliliklari qaysi darajada o’zgaradi
 =====
-Firmaning foydani maksimumlashtirish va iqtisodiy jihatdan barqarorligini ta'minlashga qaratilgan harakatlari.
+Iste’molchi daromadi oshib, a tovar iste’moli bir birlikka o’zgarmasa, iste’molchi v tovardan qancha sotib oladi
 =====
-Uy xoʻjaligining oʻz iste'molini maksimumlashtirish va kelajakni ta'minlash uchun jamg'arma hosil etishdir.
+V tovar bahosi 1 dollarga kamayganda iste’molchi a tovardan qancha sotib oladi
 +++++
-
-
-Davlatning iqtisodiy siyosatining asosiy maqsadlaridan biri qaysi?
+Firma harajatlarining minimal darajasiga erishadi, qachonki:
 =====
-#Milliy iqtisodiyotning barqaror oʻsishini va shu asosda xalq farovonligini ta'minlash.
+#Ishlab chiqarish omillari chegaraviy mahsuloti ular narxiga teng bo’lsa
 =====
-Individual korxonalarning maksimal daromad olishini ta'minlash.
+Barcha ishlab chiqarish omillari chegaraviy mahsuloti bir xil bo’lsa
 =====
-Xalqaro savdo hajmini kamaytirish va importga to'liq cheklovlar o'rnatish.
+Barcha ishlab chiqarish omillari narxi bir xil bo’lsa
 =====
-Barcha resurslarni xususiy sektorga to'liq o'tkazish.
+Ishlab chiqarish omillari chegaraviy mahsuloti 0 ga teng bo’lsa
 +++++
-
-
-Davlatning ijtimoiy samarali iqtisodiy strategiyasi nimani ifodalaydi?
+Iqtisodiy nazariya:
 =====
-#Fuqarolar uchun maqbul tarkibdagi pirovard mahsulotning yuqori oʻsish sur'atining barqarorligini, toʻliq samarali ish bilan bandlikka, inflyatsiyani jilovlashga va daromadlarning odilona taqsimlanishiga erishish.
+#Barcha iqtisodiy tizimlarni o’rganishda qo’llaniladi
 =====
-Muayyan guruh kishilarning boylik orttirishga qaratilgan tor egoistik manfaatlarini amalga oshirish.
+Faqatgina ho’jalik yuritishning kapitalistik tizimini o’rganish uchun qo’llaniladi
 =====
-Tovar va kapitalning erkin harakati uchun ochiq boʻlgan iqtisodiyotni qoʻllash.
+Sotsializmga xos bo’lgan iqtisodiy munosabatlarni o’rganishda qo’llab bo’lmaydi
 =====
-Davlatning mavjudligiga tahdid kuchayganida, ishlab chiqarish va tashqi iqtisodiy aloqalarga toʻgʻridan-toʻgʻri aralashuvi.
+Faqat iqtisodiy fanlarni o’rganishda qo’llaniladi
 +++++
-
-
-Davlat iqtisodiy siyosatining asosiy maqsadi nima?
+Agar iqtisodiy muammolar qisman bozor, qisman davlat tomonidan hal qilinsa, iqtisodiyot:
 =====
-#Milliy iqtisodiyotning barqaror oʻsishini va xalq farovonligini ta'minlash
+#Aralash iqtisodiyot deb hisoblanadi
 =====
-Xonadonlarning iste'molini maksimumlashtirish
+Bozor
 =====
-Firmalar foydasini maksimumlashtirish
+Natural
 =====
-Bozordagi raqobatni himoya qilish
+Buyruqbozlikka asoslangan
 +++++
-
-
-Iqtisodiyotni davlat tomonidan tartibga solish obyektlariga nimalar kiradi?
+Yer, kapital, mehnat, ishlab chiqarish omillarining bazaviy guruhlanishidir. Kapital tarkibiga quyidagilarni kiritsa bo’ladi-mi?
 =====
-#Iqtisodiy sikl va pul muomalasi
+#Kapital jumlasiga pul ham, aktsiya ham obligatsiya ham kirmaydi
 =====
-Ayrim firmaning ichki boshqaruvi
+Faqat aktsiya va obligatsiya
 =====
-Xonadonlarning kundalik iste'mol tanlovlari
+Pul va obligatsiyalar
 =====
-Muayyan mahsulotning reklama strategiyasi
+Pul, aktsiya va obligatsiya
 +++++
-
-
-Erkin iqtisodiyotning asosiy tamoyillaridan biri qaysi?
+Izokvanta quyidagini aks ettiradi:
 =====
-#Davlatning iqtisodiyotga aralashuvi cheklanganligi
+#Ishlab chiqarish funktsiyasini
 =====
-Narxlar va foiz stavkalarini davlat tomonidan nazorat qilish
+Mahsulot umumiy hajmiy egri chizig’ini
 =====
-Barcha resurslarni markazlashgan holda taqsimlash
+Berilgan resurslar hisobiga ishlab chiqariladigan mahsulotning turli hajmlarini
 =====
-Davlat sektorining iqtisodiyotda hukmron kuch boʻlishi
+O’rtacha mahsulot egri chizig’ini
 +++++
-
-
-Iqtisodiy siyosat nima?
+Raqobatli firma foydani maksimallashtirish uchun qo’shimcha ishlovchilarni faqat quyidagi holda yollaydi:
 =====
-#Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+#Pul ifodasidagi mehnatning chegaraviy mahsulotiish haqi stavkasidan kata bo’lsa
 =====
-Faqat davlatning iqtisodiyotni boshqarish bo'yicha harakatlari.
+Pul ifodasidagi mehnatning chegaraviy mahsulotiish haqi stavkasidan kichik bo’lsa
 =====
-Faqat bozor mexanizmlari orqali amalga oshiriladigan tartibga solish.
+Pul ifodasidagi mahsulot kattaligi kamaysa
 =====
-Xalqaro savdo shartnomalari tizimi.
+Umumiy daromad umumiy xarajatdan kichik bo’lsa
 +++++
-
-
-Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+Quyidagilarning qaysi biri ishlab chiqaruvchi iqtisodiy omilni anglatadi
 =====
-#Iqtisodiy va ijtimoiy barqarorlikni ta'minlash.
+#Ishlab chiqarish vositalari
 =====
-Faqatgina korxonalarning foydasini oshirish.
+Pul kapitali
 =====
-Faqat tashqi savdo hajmini oshirish.
+Foiz
 =====
-Pul muomalasini to'liq nazorat qilish.
+Foyda
 +++++
-
-
-Mobilizatsion iqtisodiy strategiya qanday sharoitlarda qo'llaniladi?
+Tovarni bir bozorda arzonroq sotib olib, boshqa bozorda qimmatroq sotish quyidagini namoyon etmaydi:
 =====
-#Davlatning mavjudligiga tahdid kuchayganida va favqulodda holatlar sharoitida.
+#Yuqori narx mavjud bozorlarda talabni oshirish vositasini;
 =====
-Tovar va kapitalning erkin harakati uchun ochiq iqtisodiyotda.
+Narx darajasi yuqori bo’lgan bozorda taklif hajmini oshirish vositasini;
 =====
-Ma'lum guruh kishilarning boylik orttirishga qaratilgan tor egoistik manfaatlari amalga oshirilganda.
+Konkret bozorlardagi narxlar orasidagi farqlarning sababini;
 =====
-Fuqarolar uchun maqbul tarkibdagi pirovard mahsulotning yuqori oʻsish sur'atining barqarorligini ta'minlash maqsadida.
+Foyda olish maqsadida bajarilgan operatsiyani;
 +++++
-
-
-Iqtisodiy siyosatning ta'rifi qanday?
+Erkin yoki takomillashgan bozor shartlari nimalardan iborat?
 =====
-#Makroiqtisodiy siyosat bo'lib, uning muayyan mamlakatning milliy iqtisodiga oid puxta o'ylangan va ishlab chiqilgan yo'l-yo'riqlari va ulardan kelib chiqadigan sa'y-harakatlaridir.
+#Sotuvchilar, xaridorlar ko’pligi sabali baholarni nazorat qiluvchi organ yo’q
 =====
-Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuidir.
+Xaridorlar sotuvchlardan ko’p
 =====
-Firmalar foydasini maksimumlashtirishga qaratilgan chora-tadbirlar tizimi.
+Sotuvchi xaridorlardan ko’p
 =====
-Bozor mexanizmining davlat aralashuvisiz o'z-o'zini tartibga solish jarayoni.
+Xaridorlar sotuvchilarga teng.
 +++++
-
-
-Qaysi iqtisodchi davlatning iqtisodiy jarayonlarga har qanday aralashuvi oxir-oqibatda faqat vaziyatni yomonlashtiradi deb hisoblagan?
+Bozor iqtisodiyotida taklifning kamayishi quyidagini keltirib chiqaradi:
 =====
-#Adam Smit
+#Baholarning ko’tarilishini
 =====
-J.M. Keyns
+Soliqlarning ko’tarilishini
 =====
-M. Fridmen
+Kapital qo’yilmalarning ortishini
 =====
-J. Byukenen
+Talabning pasayishini
 +++++
-
-
-Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+Ishlab chiqaruvchining ratsional harakati:
 =====
-#Iqtisodiy va ijtimoiy barqarorlikni ta'minlash, mavjud tuzumni mustahkamlash va uni o'zgarib turuvchi sharoitga moslashtirish.
+#Foyda miqdorini maksimallashtirishga intilish
 =====
-Xususiy korxonalarning foydasini oshirishni ta'minlash.
+Ish haqini kamaytirishga intilish
 =====
-Faqat iqtisodiy sikllarni barqarorlashtirishga qaratilgan chora-tadbirlar.
+Kapital quyilmalarni oshirishga intilish
 =====
-Milliy xo'jaliklarning tarmoq va mintaqaviy tuzilishini takomillashtirish.
+Harajatlarni oshishiga qiziqish
 +++++
-
-
-Davlatning iqtisodiy siyosati nima?
+Daromad samarasining moxiyati nimadan iborat?
 =====
-#Davlatning iqtisodiyotni rivojlantirish va ijtimoiy-iqtisodiy jarayonlarga ta'sir etish maqsadida bozor iqtisodiyotining amal qilishi uchun qulay sharoitlarni yaratishga qaratilgan maqsadli chora-tadbirlar yig'indisi.
+#Daromad samarasi baholarning pasayishi natijasida iste’molchida avvalgi daromad hisobiga ko’proq mahsulot sotib olish imkoniyati tug’ilishini anglatadi
 =====
-Iqtisodiyot subyektlarining faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuasi.
+Daromad samarasi deganda baholarning ko’tarilishi natijasida iste’molchilarning o’zgarmas daromadlari hisobiga avvalgidan ko’proq mahsulot sotish olib imkoniyatlarini tushuniladi
 =====
-Jamiyatning madaniy rivojlanishiga ta'sir etuvchi choralar tizimi.
+Daromad samarasi deganda baholarning o’zgarmay qolishi iste’molchilar o’zgarmas daromad hisobiga ko’proq mahsulot sotib olish imkoniyati tug’ilishi tushuniladi
 =====
-Bozor munosabatlarining hech qanday aralashuvsiz o'z-o'zini tartibga solish jarayoni.
+Ko’proq daromad oldi degani
 +++++
-
-
-Ekstensiv iqtisodiy o'sish qanday amalga oshiriladi?
+Ishlab chiqarish omillarining barcha mavjud bo’lishi mumkin to’plamlari variantlari vai shlab chiqarilgan mahsulot hajmi orasidagi bog’lanish.
 =====
-#Mavjud texnikaviy asosni saqlagan holda iqtisodiy resurslar miqdorini ko'paytirish orqali.
+#Ishlab chiqarish funktsiyasi
 =====
-Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali.
+Mahsulotning umumiy ishlab chiqarish hajmi egri chizig’i
 =====
-Aholi jon boshiga real YIMning oshishi hisobiga.
+Ishlab chiqarish imkoniyatlari egri chizig’i
 =====
-Yangi texnologiyalar va innovatsiyalarni joriy etish orqali.
+Umumiy xarajatlar egri chizig’I yordamida ifodalanadi
 +++++
-
-
-Davlatning iqtisodiy siyosati milliy manfaatlardan kelib chiqib qanday asosiy maqsadlarni ko'zlaydi?
+Chegaraviy mehnat unumdorligi deganda nimani tushunasiz?
 =====
-#Barqaror iqtisodiy o'sishni, milliy iqtisodiyotning mustaqilligini va iqtisodiy xavfsizlikni ta'minlash.
+#Chegaraviy mehnat unumdorilgi deganda boshqa omillar o’zgarmagan holda qo’shimcha bir birlik mexnatdan foydalanish hisobiga ishlab chiqariladigan qo’shimcha maxsulot hajmi tushuniladi.
 =====
-Faqat xususiy korxonalarning foydasini maksimumlashtirish.
+Chegaraviy mehnat unumdorligi deganda vaqt birligi ichida ishlab chiqarilgan maxsulot tushuniladi
 =====
-Ishsizlik darajasini doimiy ravishda yuqori ushlab turish.
+Chegaraviy mehnat unumdorligi deganda birishchiga to’g’ri keladigan yillik maxsulot hajmi tushuniladi.
 =====
-Barcha resurslarni markazlashtirilgan holda boshqarish.
+Qo’shimcha ishichi kuchi yollash degani
 +++++
-
-
-Iqtisodiy siyosat nima?
+Bozor iqtisodiyoti sharoitida «qanday qilib ishlab chiqarish» muammosi quyidagicha hal etiladi?
 =====
-#Iqtisodiyot subyektlarining oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+#Ishlab chiqaruvchilarning foyda olishga, demakki, ishlab chiqarish xarajatlarinni kamaytirishga bo’lgan intilishlari orqali
 =====
-Faqat davlat tomonidan iqtisodiyotni boshqarish usullari.
+Yakuniy mahsulot narxlarida o’z aksini topuvchi iste’molchilar talabining hajmi o’zgarishi orqali.
 =====
-Bozor mexanizmlari orqali narxlarni tartibga solish.
+Iqtisodiyotda ishlab chiqarish vositalaridan keng foydalanish orqali.
 =====
-Xalqaro savdo bitimlarini tuzish.
+Ishlab chiqarishning texnologik uslublaridan keng qo’llaniladigan ixtisoslashuv asosida.
 +++++
-
-
-Iqtisodiy siyosatning qanday darajalari mavjud?
+Talab qonuni quyidagini bildiradi:
 =====
-#Mikro, makro va meta.
+#Tovar narxi tushsa, uni sotib olish hajmi oshadi
 =====
-Mahalliy, mintaqaviy va global.
+Agar iste’molchilar daromadi oshsa, ular odatda ko’proq tovarlar sotib oladi.
 =====
-Taktik, strategik va operativ.
+Talab egri chizig’I odatda ijobiy og’ishga ega.
 =====
-Qisqa muddatli, oʻrta muddatli va uzoq muddatli.
+Taklifning talabdan ortiqchaligi narxning pasayishini keltirib chiqaradi
 +++++
-
-
-Ekstensiv iqtisodiy oʻsish qanday erishiladi?
+Qisqa muddatli davrda foydani maksimallashtiruvchi firma ishlab chiqarishni to’xtatadi:
 =====
-#Mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali.
+#Umumiy daromad umumiy o’zgaruvchan xarajatdan kichik bo’lsa
 =====
-Ishlab chiqarish omillarining sifat jihatidan takomillashtirilishi orqali.
+Normal foyda o’rtacha tarmoqdagidan kichik bo’lsa
 =====
-Yangi texnologiyalarni joriy etish orqali.
+Umumiy daromad umumiy xarajatdan kichik bo’lsa
 =====
-Mehnat unumdorligini oshirish orqali.
+Baho minimal o’rtacha xarajatdan kichik bo’lsa
 +++++
-
-
-Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuasi qanday nomlanadi?
+Ishlab chiqarish omilining pul ifodasidagi chegaraviy mahsulot-bu:
 =====
-#Iqtisodiy siyosat
+#Qo’shimcha birlik ishlab chiqarish omili evaziga ishlab chiqariladigan qo’shimcha mahsulotlardan olinadigan tushumdir
 =====
-Fiskal siyosat
+Mahsulot oxirgi birligining sotish narxidir
 =====
-Monetar siyosat
+Mukammal bozor sharoitida aniqlash mumkin emas
 =====
-Tarkibiy siyosat
+Qo’shimcha birlik ishlab chiqarish omili hisobiga mahsulot ishlab chiqarish omilining hajmi o’zgarishi
 +++++
-
-
-Davlatning klassik iqtisodiy funksiyalaridan biri qaysi?
+Mehnatga haq to’lashning chegaraviy xarajatlari:
 =====
-#Mulk va iste'molchilar huquqlarini himoya qilish
+#Bir qo’shimcha ishchini yollash bilan mehnat umumiy xarajatlarining o’sishi
 =====
-Barcha narxlarni markazlashgan holda belgilash
+Ishlab chiqarilayotgan mahsulot, soni bir donaga oshishi bilan doimiy xarajatlarning o’sishi
 =====
-Xususiy korxonalarni to'g'ridan-to'g'ri boshqarish
+Monopolist uchun mutloq noyelastik
 =====
-Ishlab chiqarish resurslarini to'liq milliylashtirish
+Ishlab chiqarilayotgan mahsulot soni bir donaga oshishish bilan o’zgaruvchan xarajatning o’sishi
 +++++
-
-
-Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali erishiladigan iqtisodiy oʻsish turi qanday nomlanadi?
+Holatlarning qaysi biri mahsulotga bo’lgan talabning kamayishi oqibati emas?
 =====
-#Ekstensiv iqtisodiy oʻsish
+#Ushbu tarmoqda ishlatiladigan resurlar narxining oshishi
 =====
-Innovatsion iqtisodiy oʻsish
+Mahsulot taklifining kamayishi
 =====
-Intensiv iqtisodiy oʻsish
+Tarmoqda ishlab chiqarish hajmining kamayishi
 =====
-Barqaror iqtisodiy rivojlanish
+Ushbu mahsulot ishlab chiqaruvchi tarmoqda foydaning kamayishi
 +++++
-
-
-Iqtisodiy siyosat nima?
+X tovar bo’lgan talab egri chizig’ining siljishini nima bilan tushuntirish mumkin?
 =====
-#Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+#Iste’molchilar didi x tovarga qiziqish uyg’otdi va ular tovarning xar qanday narxida undan ko’proq sotib ola boshladilar
 =====
-Faqat davlatning iqtisodiyotga aralashuvi mexanizmlari yig'indisi.
+X tovar narxi oshdi va iste’molchitlar undan kamroq sotib olishga majbur bo’ldilar
 =====
-Faqat bozor mexanizmlarining samarali ishlashi uchun sharoit yaratish.
+X tovar taklifi bahzi sabablarga ko’ra kamaygan
 =====
-Davlatning qonun-qoidalariga amal qilish orqali iqtisodiyotni rivojlantirish.
+X tovar narxi tushdi va iste’molchilar undan ko’proq sotib ola boshladilar
 +++++
-
-
-Davlat iqtisodiy siyosatining asosiy maqsadlaridan biri qaysi?
+Tovar taklifining kamayishi quyidagini keltirib chiqaradi:
 =====
-#Milliy iqtisodiyotning barqaror oʻsishini ta'minlash.
+#O’zaro o’rin almashtiruvchi tovarlarga bo’lgan talab oshadi
 =====
-Faqat firmalarning foydasini maksimumlashtirish.
+Agar talab baho bo’yicha elastik bo’lsa, sotuvchining umumiy tushumi oshadi
 =====
-Uy xoʻjaligining iste'molini cheklash.
+Agar talab daromad bo’yicha elastik bo’lmasa, sotuvchining umumiy tushumi oshadi
 =====
-Faoliyat turlarini davlat nazoratisiz qoldirish.
+O’zaro to’ldiruvchi tovarga talab oshadi
 +++++
-
-
-Pul massasining qisqartirilishi va uning emissiyasi qat'iy chegaralanishi qaysi monetar siyosat turiga xos?
+Quyidagi xulosalarning biri noto’g’ri. Uni toping.
 =====
-#Qattiq monetar siyosat.
+#Befarqlik egri chizig’idagi har bir nuqta pul daromadining bir xil darajasini bildiradi
 =====
-Yumshoq monetar siyosat.
+Befarqlik egri chiziqdagi har bir nuqta 2 tovarning turli kombinatsiyalarini anglatadi
 =====
-Aralash monetar siyosat.
+Befarqlik egri chizig’idagi har bir nuqta extiyojlarini kondirishning bir xil darajasini bildiradi
 =====
-Kengaytirilgan monetar siyosat.
+Daromad chizig’idagi har bir nuqta pul daromadning bir xil darajasini bildiradi
 +++++
-
-
-Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+Agar iste’molchi byudjet chizig’i bilan chegaralangan sohada yotuvchi tovarlar to’plamini tanlasa, u
 =====
-#Iqtisodiy va ijtimoiy barqarorlikni ta'minlash
+#O’z daromadini to’liq sarflamaydi
 =====
-Faqat milliy valyuta qadrini barqarorlashtirish
+O’z daromad imkoniyatidan ko’proq tovarloarni sotib olishni hohlaydi
 =====
-Faqat eksport salohiyatini oshirish
+Naflilikni maksimallashtiradi
 =====
-Faqat atrof-muhit holatini yaxshilash
+Iste’molchi muvozanat xolatida bo’ladi
 +++++
-
-
-Monetar siyosatning asosiy jihatlari nechta?
+Resursga bo’lgan talab quyidagiga bog’liq:
 =====
-#Uch
+#Yuqoridagi javoblarning barchasi to’g’ri
 =====
-Ikki
+Resursning o’rin bosuvchisiga bo’lgan narxga
 =====
-To'rt
+O’rin to’ldiruvchi resurslar narxiga
 =====
-Besh
+Ushbu resurs yordamida ishlab chiqariladigan mahsulotga bo’lgan talabga
 +++++
-
-
-Iqtisodiy oʻsishni oʻlchashning ikki asosiy usuli qaysilar?
+Agariqtisodiy umumlashtirishlar (printsiplar va qonunlar) faktlarga asoslansa, tahlilning bu usuli….
 =====
-#Yalpi ichki mahsulotning real oʻzgarishi va aholi jon boshiga real YIMning oʻzgarishi
+#Induktiv
 =====
-Faqat narxlar indeksi va ish haqi oʻsishi
+Gipotetik
 =====
-Faqat eksport va import hajmlarining oʻzgarishi
+Deduktiv
 =====
-Faqat davlat budjeti defitsiti va inflyatsiya darajasi
+Tajrifiy
 +++++
-
-
-Iqtisodiy siyosatda davlatning asosiy maqsadi nimalardan iborat?
+«Nima, qanday va kim uchun ishlab chiqarish kerak?» muammosi taalluqli bo’ladi
 =====
-#Milliy iqtisodiyotning barqaror oʻsishini va xalq farovonligini ta'minlash
+#Ijtimoiy-iqtisodiy va siyosiy tashkil etilishdan qathiy nazar barcha jamiyatga
 =====
-Aholi iste'molini maksimumlashtirish va jamg'arma hosil etish
+Faqat bozor iqtisodiyotiga
 =====
-Foydani maksimumlashtirish va iqtisodiy barqarorlikni ta'minlash
+Faqat qoloq iqtisodiyotga
 =====
-Bozor tizimining samarali amal qilishiga imkon tugʻdiruvchi huquqiy asosni ta'minlash
+Totalitar tizimga
 +++++
-
-
-Davlatning iqtisodiy siyosati milliy manfaatlardan kelib chiqqan holda qanday asosiy maqsadni koʻzlaydi?
+Raqobatli bozor mexanizmi shunday usulki, u orqali:
 =====
-#Milliy iqtisodiyotning mustaqilligini ta'minlash
+#Qarorlar muvofiqlashtiriladi, mutanosiblashtiriladi
 =====
-Iqtisodiy aylanmaning uzluksizligini ta'minlash
+Qarorlar mutanosibligi tahminlanadi
 =====
-Aholi turmush farovonligini mustaqil oshirish
+Iste’molchilar, ishlab chiqaruvchilar va ishlab chiqarish omillari egalari qarorlari muvofiqlashtiriladi
 =====
-Milliy pul qadr-qiymatining barqarorligini ta'minlash
+Qarorlar muvofiqlashtirilmaydi, mutanosiblashtirilmaydi
 +++++
-
-
-Pul massasini qisqartirish, uning emissiyasi qat'iy chegaralanishi, narxlar o'smasligi va pul birligining xarid qurbi barqarorlashishi bilan tavsiflanuvchi monetar siyosat turi qanday nomlanadi?
+Aralash iqtisodiyotda davlatning roli:
 =====
-#Qattiq monetar siyosat
+#Cheklangan
 =====
-Yumshoq monetar siyosat
+Hech qanday holda namoyon bo’lmaydi
 =====
-Fiskal siyosat
+Ancha salmoqli
 =====
-Investitsiya siyosati
+Ho’jalikning ko’p sohalarida namoyon bo’ladi
 +++++
-
-
-Davlat iqtisodiy siyosatining tarkibiy qismlariga quyidagilardan qaysi biri KIRMADI?
+Taklif qonuni shuni bildiradiki, agar narxlar pasaysa:
 =====
-#Shaxsiy ehtiyojlarni boshqarish siyosati
+#Taklif hajmi kamayadi
 =====
-Moliyaviy, soliq-budjet siyosati
+Taklif kamayadi
 =====
-Institutsional siyosat
+Taklif oshadi
 =====
-Agrar siyosat
+Taklif hajmi oshadi
 +++++
-
-
-Iqtisodiyotda firmaning asosiy maqsadi nima?
+Agar tovarning istalgan miqdori bir xil narxda sotilsa, ushbu tovarlarga bo’lgan talab:
 =====
-#Foydani maksimumlashtirish
+#Mutloq noelastik
 =====
-Iste'molini maksimumlashtirish
+Elastik
 =====
-Milliy iqtisodiyotning barqaror oʻsishini ta'minlash
+Birlik elastiklikda
 =====
-Kelajakni ta'minlash uchun jamg'arma hosil etish
+Noelastik
 +++++
-
-
-Ekstensiv iqtisodiy oʻsish qanday amalga oshiriladi?
+Iste’molchi xatti-xarakati nazariyasi shuni taqozo etadiki, iste’molchi quyidagi kattalikni maksimallashtirishga xarakat qiladi:
 =====
-#Mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali
+#Umumiy naflilikni
 =====
-Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali
+Umumiy va chegaraviy naflilik orasidagi farqni
 =====
-Yangi texnika va texnologiyalarni qoʻllash orqali
+O’rtacha naflilikni
 =====
-Ishchi kuchi malakasini oshirish orqali
+Chegaraviy naflilikni
 +++++
-
-
-Iqtisodiy siyosat nimani anglatadi?
+Iqtisodiy harajatlar o’z ichiga quyidagilarni oladi:
 =====
-#Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+#Barcha ochiq va yashirin xarajatlar va normal foyda
 =====
-Faqat davlat tomonidan qabul qilinadigan qonunlar toʻplami.
+Ochiq xarajatlarni olib, yashirinlarini olmaydi
 =====
-Bozor mexanizmlari orqali iqtisodiyotni oʻz-oʻzini tartibga solish.
+Yashirin xarajatlarini olib, ochiq xarajatlarini olmaydi
 =====
-Xalqaro tashkilotlar tomonidan belgilangan iqtisodiy qoidalar.
+O’z ichiga ochiq xarajatlarni ham yashirin xarajatlarni ham olmaydi
 +++++
-
-
-Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+Talab va taklifdan narxning quyidagi bozorlardagi muvofiqlashtiruvchi o’rnini tushuntirish uchun foydalanish mumkin:
 =====
-#Milliy iqtisodiyotning barqaror oʻsishini va xalq farovonligini ta'minlash.
+#Istalgan bozordagi
 =====
-Faqat foydani maksimumlashtirish.
+Resurslar bozoridagi
 =====
-Iste'molni maksimumlashtirish va jamg'arma hosil etish.
+Moliyaviy bozoridagi
 =====
-Raqobatchilik muhitini cheklash.
+Tovar bozoridagi
 +++++
-
-
-Ekstensiv iqtisodiy oʻsish qanday amalga oshiriladi?
+Erkin tadbirkorlik tizimida baholarni nima bilan belgilanadi?
 =====
-#Mavjud texnikaviy asosni saqlab qolgan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali.
+#Talab va taklifni o’zaro ta’siri bilan
 =====
-Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali.
+Davlat tomonidan
 =====
-Mavjud resurslardan yaxshiroq foydalanish yo'li bilan.
+Talabning muvozanat bahosiga ta’siri bilan.
 =====
-Yangi texnologiyalarni qoʻllash va ishchi kuchi malakasini oshirish orqali.
+Xarajat bilan
 +++++
-
-
-Iqtisodiy siyosat nima?
+Bozorda baholarning pasayishini keltirib chiqaradigan asosiy sabab:
 =====
-#Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuidir.
+#Talab o’zgarmagan holda taklifning oshishi
 =====
-Davlatning faqat pul-kredit siyosati.
+Taklif o’zgarmagan holda talabning oshishi
 =====
-Faqat bozor mexanizmlari orqali iqtisodiyotni tartibga solish.
+Talab va taklifning oshishi
 =====
-Xususiy korxonalarning foydani maksimumlashtirishga qaratilgan harakatlari.
+Mahsulot sifatining oshishi
 +++++
-
-
-Davlatning iqtisodiy siyosati koʻzlaydigan asosiy maqsadlardan biri nimadan iborat?
+Iste’molchining ratsional harakati:
+====
+#Foydallikni maksimallashtirishga intilish
+=====
+Naflilikni minimallashtirish intilish
+=====
+Xarajatlarni kamaytirishga intilish
 =====
-#Milliy iqtisodiyotning mustaqilligini ta'minlash.
+Foydani kamaytirish istagi
++++++
+Taklif qonuni shuni bildiradiki, agar narxlar oshsa:
 =====
-Faqat eksport hajmini oshirish.
+#Taklif hajmi oshadi
 =====
-Xususiy korxonalarning monopolistik mavqeini kuchaytirish.
+Taklif kamayadi
 =====
-Ishsizlik darajasini mutlaqo nolga tushirish.
+Taklif oshadi
+=====
+Taklif hajmi kamayadi
 +++++
-
-
-Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirib borish orqali erishiladigan iqtisodiy oʻsish turi qanday nomlanadi?
+Barcha iqtisodiy tizimlar duch keladigan fundamental muammo:
 =====
-#Ekstensiv iqtisodiy oʻsish.
+#Tanqislik
 =====
-Intensiv iqtisodiy oʻsish.
+Ishlab chiqarish
 =====
-Innovatsion iqtisodiy oʻsish.
+Iste’mol
 =====
-Barqaror iqtisodiy oʻsish.
+Investittsiyalar
 +++++
-
-
-Iqtisodiy o'sishga ta'sir ko'rsatuvchi omillar shartli ravishda qaysi uch guruhga ajratiladi?
+Agar bozor narxi muvozanati narxidan past bo’lsa:
 =====
-#Talab, taklif va taqsimlash omillari
+#Tovar tanqisligi vujudga keladi
 =====
-Tabiiy, ijtimoiy va madaniy omillar
+Tovar ortiqchaligi vujudga keladi.
 =====
-Ichki, tashqi va mintaqaviy omillar
+Xaridor bozori shakllanadi
 =====
-Moliyaviy, institutsional va texnologik omillar
+Resurslar narxi tushadi
 +++++
-
-
-Olimlarning fikricha, iqtisodiy siyosatning asosiy maqsadlariga nimalar kiradi?
+Talabning baho bo’yicha elastikligi quyidagiga teng:
 =====
-#Iqtisodiy o'sish, to'liq bandlik, iqtisodiy samaradorlik va narxlar barqarorligi
+#Talab hajmining o’zgarishini-ng (%da) narxning o’zgarishi- (%da)ga bo’linmasiga
 =====
-Faqat milliy iqtisodiyotning iqtisodiy o'sishi va eksport salohiyatini oshirish
+Umumiy tushum o’zgarishining (%da) talab hajmini oshishi (%da) bo’linmasiga
 =====
-Davlat byudjeti profitsitini ta'minlash va importni cheklash
+Umumiy tushum kamayishining (%da) baho oshishi (%da) bo’linmasiga
 =====
-Faollikni rag'batlantirish va atrof-muhitni muhofaza qilish
+Talab hajmining oshishiga bo’lgan narxning kamayishiga.
 +++++
-
-
-Iqtisodiy o'sishni o'lchashning asosiy ikki usuli qaysilar?
+Chegaraviy naflilikning kamayishi qonuni quyidagini anglatadi:
 =====
-#Real yalpi ichki mahsulotning o'tgan davrga nisbatan o'zgarishi va aholi jon boshiga real yalpi ichki mahsulotning o'zgarishi
+#Xar bir qo’shimcha sotib olingan tovarning foydaliligi tovarlar sonining oshirish bilan kamayib boradi
 =====
-Faqat yalpi ichki mahsulotning mutloq hajmini hisoblash
+Zeb-ziynat buyumlari chegaraviy foydaliligining ular bahosiga nisbati birinchi extiyoj tavarlarnikidan kichikdir
 =====
-Faqat aholi jon boshiga to'g'ri keladigan milliy daromadni baholash
+Chegariviy   naflilikning mahsulot bahosiga nisbati barcha tovarlar uchun bir xildir
 =====
-Faqat ishlab chiqarish omillari miqdorining o'zgarishini tahlil qilish
+Sotib olingan tovarlarning foydaliligi iste’molchi daromad olgan sari kamayib boradi
 +++++
-
-
-Iqtisodiy siyosatning ta'rifi nima?
+Firmaning doimiy xarajatlari deganda:
 =====
-#Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+#Mahsulot ishlab chiqarilmagan taqdirda ham firmada mavjud bo’ladigan xarajatlar
 =====
-Bozor raqobatini kamaytirishga qaratilgan chora-tadbirlar tizimi.
+Ishlab chiqarishning eng qulay sharoitdagi ishlab chiqarilgan mahsulotning istalgan hajmiga sarflangan minimal xarajatlar
 =====
-Resurslarni taqsimlash bo'yicha ilmiy nazariyalar to'plami.
+Resurslarning ular olingan vatqdagi narxlardagi xarajatlari tushuniladi
 =====
-Narxlarni faqat davlat tomonidan nazorat qilish.
+Yashirin xarajatlar
 +++++
-
-
-Davlat iqtisodiy siyosatining asosiy maqsadlaridan biri nima?
+Raqobatdagi firma har bir resursning chegaraviy mahsuloti uning narxiga teng bo’lgan mahsulot hajmiga erishsa, u:
 =====
-#Iqtisodiy va ijtimoiy barqarorlikni ta'minlash.
+#Minimum harajatlar hisobiga maksimum foyda oladi
 =====
-Yakka tartibdagi firmalarning foydasini maksimallashtirish.
+Maksimal foyda oladi, mahsulot ishlab chiqarish harajdatlari minimal bo’lishi ham bo’lmasligi ham mumkin
 =====
-Xalqaro savdoni minimallashtirish.
+Maksimum foyda olishi shart emas, yoki minimum harajatga erishadi
 =====
-Barcha ishlab chiqarish resurslarini markazlashtirish.
+Maksimum foyda oladi va zararni qoplaydi
 +++++
-
-
-Pul-kredit siyosatining ikki asosiy turi qaysilar?
+Quyidagi muammolarning qaysi biri mikrodarajada xal etiladi?
 =====
-#Qattiq va yumshoq siyosat.
+#Nima va qancha ishlab chiqarish kerak?
 =====
-Fiskal va budjet siyosati.
+To’la bandlikka qanday erishish mumkin?
 =====
-Bevosita va bilvosita ta'sir.
+Inflyatsiyadan qanday qutilish mumkin?
 =====
-Mikro va makro siyosat.
+Iqtisodiy o’sishni qanday rag’balantirish mumkin?
 +++++
-
-
-Iqtisodiy siyosatning ta'rifi qanday?
+Agar talab kamaysa, talab egri chizig’i quyidagicha siljiydi:
 =====
-#Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuidir.
+#Pastga va chapga
 =====
-Moliyaviy sektorni tartibga soluvchi barcha qonunlar yigʻindisi.
+Soat strelkasi xarakati bo’ylab
 =====
-Xalqaro savdo munosabatlarini boshqarish tizimi.
+Yuqoriga va o’ngga
 =====
-Barcha ishlab chiqarish resurslarini markazlashtirish jarayoni.
+Soat strelkasiga teskari yo’nalishda
 +++++
-
-
-Davlat iqtisodiy siyosatining asosiy maqsadlaridan biri nima?
+… iste’molchi tomonidan tovarga to’lashi mumkin bulgan maksimal narx bilan tovarning haqiqiy narxi o’rtasi-dagi farkni bildiradi.
 =====
-#Milliy iqtisodiyotning mustaqilligini ta'minlash va chet elga qaram bo'lishiga yo'l qo'ymaslik.
+#Iste’molchi ortikchaligi
 =====
-Davlat korxonalarining qisqa muddatli foydasini maksimallashtirish.
+Iste’molchi kamligi
 =====
-Barcha iqtisodiy tarmoqlarda qat'iy markaziy rejalashtirishni amalga oshirish.
+Bozor muvozanati
 =====
-Iqtisodiyotdagi barcha xususiy mulk shakllarini yo'q qilish.
+Tovar taqchilligi
 +++++
-
-
-Qattiq monetar siyosatning asosiy xususiyati nima?
+… ishlab chiqaruvchi tomoni-dan olingan umumiy manfaat-ni bildiradi.
 =====
-#Pul massasi qisqartiriladi va uning emissiyasi narxlarni barqarorlashtirish va inflyatsiyani jilovlash uchun qat'iy chegaralanadi.
+#Ishlab chiqaruvchi ortikchaligi
 =====
-Davlat pul massasini qat'iy cheklovlarsiz faol ravishda oshiradi.
+Ishlab chiqaruvchi kamligi
 =====
-Markaziy bank iqtisodiyotga ko'proq pul kiritish uchun davlat obligatsiyalarini sotib oladi.
+To’yinmagan bozor
 =====
-Kredit olish va investitsiyalarni rag'batlantirish uchun foiz stavkalari pasaytiriladi.
+To’yinmagan bozor
 +++++
-
-
-Iqtisodiy siyosat nima?
+Davlatning bozor narxiga ta’sir qilish siyosatidan biri bu ...
 =====
-#Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+#Ishlab chiqarishni cheklash
 =====
-Faqat davlat tomonidan iqtisodiyotni markazlashgan holda boshqarish tizimi.
+Ishlab chiqarishni ko’paytirish
 =====
-Bozor mexanizmlari orqali avtomatik ravishda amalga oshiriladigan jarayon.
+Dotatsion narxlarni qo’llash
 =====
-Jamiyatda pul muomalasini tartibga solishga qaratilgan chora-tadbirlar.
+Narxlarni tushirish
 +++++
-
-
-Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+Tarmoqda faoliyat ko’rsatayotgan firmalarning kamligi …  bozor xususiyati.
 =====
-#Iqtisodiy va ijtimoiy barqarorlikni ta'minlash hamda mavjud tuzumni mustahkamlash.
+#Oligopolik
 =====
-Faqat davlat daromadlarini maksimumlashtirish.
+Monopsonik
 =====
-Xususiy korxonalar faoliyatiga to'liq aralashmaslik.
+Erkli
 =====
-Faqat tashqi savdo balansini ijobiy holatda saqlash.
+Monopol
 +++++
-
-
-Ekstensiv iqtisodiy oʻsish qanday amalga oshiriladi?
+Tarmoqka kiruvchi firmalar uchun kuchli to’siklarning mavjudligi qaysi bozor xususiyati.
 =====
-#Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali.
+#Oligopolik
 =====
-Ishlab chiqarish omillarini sifat jihatidan yaxshilash orqali.
+Raqobatlashgan
 =====
-Yangi texnika va texnologiyalarni qoʻllash hisobiga.
+Monopol
 =====
-Ishchi kuchining malakasini oshirish orqali.
+Erkli
 +++++
-
-
-Iqtisodiy siyosat nima?
+Oligopolik firmalar ko’proq narxlarni barqaror bo’lishini, yoki narx qattiq o’rnatilgan bo’lsa, uni o’zgartirmaslikka harakat qilishlari bu...
 =====
-#Iqtisodiyot subyektlarining faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmui.
+#Qattiq narx siyosati
 =====
-Davlatning faqat soliq yigʻish faoliyati.
+Narxlar jangi
 =====
-Faqat bozor mexanizmining oʻz-oʻzini tartibga solish jarayoni.
+Bozor talabi
 =====
-Xalqaro tashkilotlarning iqtisodiyotga aralashuvi.
+Bozor holati
 +++++
-
-
-Iqtisodiyotni tanglikdan chiqarish yoki inflyatsiyani keskin susaytirish uchun qanday monetar siyosat qoʻllaniladi?
+... yordamida davlatning iqtisodiy siyosatini baholash mumkin.
 =====
-#Qattiq monetar siyosat
+#Iste’molchi va ishlab chiqaruvchi ortikchaligi
 =====
-Yumshoq monetar siyosat
+Davlat g’aznasi
 =====
-Arzon pul siyosati
+Bozorlar holati
 =====
-Ekspansion siyosat
+Iqtisodiy o’sish
 +++++
-
-
-Davlatning iqtisodiy siyosatidagi asosiy maqsad nima?
+Qanday bozorda iste`molchilar-ning ehtiyojlari maksimal darajada qondiriladi.
 =====
-#Milliy iqtisodiyotning barqaror oʻsishini va xalq farovonligini ta'minlash.
+#Raqobatlashgan bozorda
 =====
-Faqat foydani maksimumlashtirish.
+Monopol bozorda
 =====
-Iste'molni maksimumlashtirish.
+Oligapol bozorda
 =====
-Bozor tizimining amal qilishini cheklash.
+Barchasida
 +++++
-
-
-Iqtisodiy siyosat qanday uch darajada boʻladi?
+… bu raqobatlashgan bozorda kerakli resurs uchun firma to’lashi mumkin bo’lgan narx bilan ushbu resursning minimal narxi o’rtasidagi farq.
 =====
-#Mikro, makro va meta
+#Iqtisodiy renta
 =====
-Milliy, hududiy va mahalliy
+Diffirensial renta
 =====
-Toʻgʻridan-toʻgʻri, bilvosita va aralash
+Abstrakt renta
 =====
-Fiskal, monetar va ma'muriy
+Barcha javob hato
 +++++
-
-
-Monetar siyosatning uchta asosiy jihati nimalardan iborat?
+Bozor qaysi holatda samarali faoliyat ko’rsatadi.
 =====
-#Qayta moliyalashtirish yoki hisob siyosati, ochiq bozorda operatsiyalar oʻtkazish siyosati va majburiy zaxira siyosati
+#Erkin holatida
 =====
-Soliq siyosati, investitsiya siyosati va sanoat siyosati
+Monopol holatida
 =====
-Pul-kredit siyosati, fiskal siyosat va ijtimoiy siyosat
+Oligapol holatida
 =====
-Daromadlarni taqsimlash, resurslarni taqsimlash va iqtisodiyotni barqarorlashtirish
+Barcha holatlarda
 +++++
-
-
-Ekstensiv iqtisodiy oʻsish qanday erishiladi?
+...- bitta iste’molchining tovarga bo’gan talabi.
+=====
+#Individual talabi
+=====
+Talab chizigi
+=====
+Taklif chizigi
+=====
+Talab konuni
++++++
+...- tovar narxi bilan sotib olinadigan ushbu tovar miwdori o’rtasidagi bog’liqlikni ifodalovchi egri chiziq.
+=====
+#Talab chizig’i
+=====
+Individual talabi
+=====
+Talab qonuni
+=====
+Taklif chizig’i
++++++
+...- tovar narxi bilan taklif qilinadigan ushbu tovar miqdori o’rtasidagi bog’liqlikni ifodalovchi egri chiziq.
+=====
+#Taklif chizigi
+=====
+Talab chizigi
+=====
+Shaxs talabi
+=====
+Talab konuni
++++++
+...- talab bilan taklifni tenglashtiruvchi narx.
+=====
+#Muvozanat narx
+=====
+Xarajatlar
+=====
+Elastiklik
+=====
+Umumiy naflik
++++++
+...- bu matematik tushuncha bulib, bog’liq o’zgaruvchi bilan erkin o’zgaruvchilar  o’rtasidagi miqdoriy bog’liqlikni ifodalaydi.
 =====
-#Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirib borish orqali
+#Funksiya
 =====
-Ishlab chiqarish omillarini sifat jihatidan yaxshilash orqali
+Muvozanat narx
 =====
-Fan-texnika taraqqiyoti yutuqlaridan foydalanish orqali
+Muvozanatlashgan baho deb
 =====
-Ishchi kuchining malakasini oshirish va tejamkor mehnat predmetlarini qoʻllash orqali
+Umumiy naflik
 +++++
+....- talab hajmi taklif hajmiga mos kelgandagi baho tushuniladi.
+=====
+#Muvozanatlashgan baho deb
+=====
+Umumiy naflik
+=====
+Elastiklik
+=====
+Befarqlik chizig’i
++++++
+…- talab va taklifga ta’sir qiluvchi omillarning bir foizga o’zgarishi natijasida talab va taklif xajmining necha foizga o’zgarishini aniqlaydigan koeffisiyenga aytiladi.
+=====
+#Elastiklik
+=====
+Muvozanatlashgan baho deb
+=====
+Befarklik chizigi
+=====
+Funksiya
++++++
+… - iste’mol qilishda bir-birini o’rnini bosuvchi tovarlar yoki bir xil extiyojni kondiruvchi tovarlar.
+=====
+#O’rindosh tovarlar
+=====
+To’ldiruvchi tovarlar
+=====
+Byudjet
+=====
+Kopital
++++++
+… - birgalikda, komplekt tarzida iste’mol kilinadigan tovarlar.
+=====
+#Tuldiruvchi tovarlar
+=====
+O’rindosh tovarlar
+=====
+Kapital
+=====
+Byudjet
++++++
+…- Bitta tovarga bulgan talabga boshka bir tovarning narxi ta’sir ko’rsatadi.
+=====
+#Kesishgan talab elastikligi
+=====
+Naflik funksiyasi
+=====
+Umumiy naflik
+=====
+Chekli naflik
++++++
+…- bir xil hajmda mahsulot ishlab chiqarishni ta’minlovchi omillar sarflari kombinasiyalarini ifodalovchi egri chiziq.
+=====
+#Izokvanta
+=====
+Daromad
+=====
+Taklif
+=====
+To’g’ri javob yo’q  
++++++
+Mikroiqtisodiyot nimani o‘rganadi?
+==== 
+#Iste’molchi, firma va bozorlarning individual xatti-harakatini 
+====
+Milliy daromadni shakllanishi
+====
+Narxlar umumiy darajasini
+====
+Ishsizlik darajasini
++++++
+Talab qonuni nimani anglatadi?
+====
+#Narx pasaysa talab ortadi
+====
+Narx oshsa talab ortadi
+====
+Narx talabga ta’sir qilmaydi
+====
+Daromad oshsa talab pasayadi
++++++
+Agar narx 10 % ga oshsa va talab 20 % ga kamaygan bo‘lsa, bu talab nechchi elastik?
+====
+#2
+====
+0,2
+====
+1
+====
+–2
++++++
+Mukammal raqobat sharoitida firma qanday narxda sotadi?
+====
+#Bozor narxida
+====
+O‘zi belgilaydi
+==== 
+Monopolist bilan kelishib
+====
+Taklifiga ko‘ra
++++++
+Monopoliyaning asosiy belgisi?
+====
+#Bitta yirik sotuvchi bo‘ladi 
+====
+Ko‘p sotuvchilar mavjud
+==== 
+Bir nechta kichik firmalar mavjud
+====
+Kirish erkinligi yuqori
++++++
+Chegaraviy xarajat (MC) nimani anglatadi?
+====
+#Qo‘shimcha mahsulot birligini ishlab chiqarish xarajati
+====
+Umumiy xarajatlar yig‘indisi
+====
+O‘rtacha xarajatlar
+====
+Faqat doimiy xarajatlar
++++++
+Samara (substitutsiya) effekti nimani anglatadi?
+====
+#Narx o‘zgarishi tufayli tovarlar o‘rtasidagi nisbiy jozibadorlikning o‘zgarishi 
+====
+Narx o‘zgarishi tufayli real daromadning o‘zgarishi
+==== 
+Daromad oshishi tufayli xarid ortishi
+====
+Tovar iste'molining butunlay to‘xtashi
++++++
+Daromad effekti nimani ifodalaydi?
+====
+#Narx o‘zgarishi natijasida iste’molchining haqiqiy daromadi o‘zgarishi
+====
+O‘rinbosar tovarlarning kamayishi
+====
+Narx o‘zgarishi tufayli tovarning nisbiy arzonlashuvi
+====
+Talabning mutlaq oshishi
++++++
+Oddiy (normal) tovarlarda daromad effekti qanday bo‘ladi?
+====
+#Daromad oshsa talab ortadi
+====
+Daromad oshsa talab kamayadi
+====
+Daromad oshsa talab o‘zgarmaydi
+====
+Narx oshsa talab ortadi
++++++
+Past darajadagi tovarlarda daromad effekti qanday?
+====
+#Daromad oshsa talab kamayadi 
+====
+Daromad oshsa talab ortadi
+====
+Narx oshsa talab ortadi
+====
+Narx o‘zgarsa talab o‘zgarmaydi
++++++
+Samara effekti qaysi omil bilan bog‘liq?
+====
+#Nisbiy narxlar o‘zgarishi
+====
+Aholi daromadining o‘sishi
+====
+Tovar sifati
+====
+Reklama darajasi
++++++
+Ishlab chiqarish funksiyasi nimani ifodalaydi?
+====
+#Resurslar miqdori bilan ishlab chiqarilgan mahsulot hajmi o‘rtasidagi munosabatni
+====
+Ishlab chiqaruvchining foydasini 
+=====
+Ishlab chiqarish xarajatlarini
+====
+Mahsulot qiymatini
++++++ 
+Chegaraviy mahsuldorlik (MP) nima?
+====
+#Qo‘shimcha bir birlik resurs qo‘shilganda ishlab chiqariladigan qo‘shimcha mahsulot
+====
+Resurslarning umumiy hajmi
+====
+Umumiy mahsulotning o‘rtacha qiymati
+====
+Ishlab chiqarishning maksimal darajasi
++++++
+Ishlab chiqarishning qisqa muddatli davrida qaysi omil o‘zgarmaydi?
+====
+#Doimiy kapital (mashina, bino)
+====
+Energiya
+====
+Mehnat
+====
+Xomashyo
++++++
+Umumiy nаflik оshаdi, qаchоnki chеkli nаflilik:
+====
+#o’ssа yoki kаmаysа
+====
+ko’tаrilgаndа
+====
+pаst sur’аtdа оshgаndа
+====
+pаsаygаndа
+
 
 
