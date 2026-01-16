@@ -34,6 +34,7 @@ const btnBackToParts = document.getElementById('btnBackToParts');
 const btnShowDetails = document.getElementById('btnShowDetails');
 const btnNextPart = document.getElementById('btnNextPart');
 const btnExportPDF = document.getElementById('btnExportPDF');
+const btnShowIncorrect = document.getElementById('btnShowIncorrect');
 const loadingEl = document.getElementById('loading');
 
 function showEl(el){ if (!el) return; el.classList.remove('hidden'); el.setAttribute('aria-hidden','false'); }
@@ -116,6 +117,16 @@ Mintaqaviy bozorlar
 ====
 Xalqaro savdosi`;
 
+// Fisher-Yates shuffle algorithm
+function shuffleArray(arr) {
+  const shuffled = arr.slice();
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+}
+
 function buildParts(){
   parts = [];
   for (let i=0;i<allQuestions.length;i+=PART_SIZE){
@@ -147,7 +158,7 @@ function renderPartsList(){
 
 function startPart(idx){
   if (!parts[idx]) return;
-  questions = parts[idx];
+  questions = shuffleArray(parts[idx]);
   currentPart = idx+1;
   currentIndex = 0;
   answers = {};
@@ -321,7 +332,7 @@ function renderQuestion(idx) {
           } else {
             showResults();
           }
-        }, 1000);
+        }, 1500);
       }
     });
 
@@ -474,6 +485,77 @@ if (btnShowDetails){
       
       resReview.appendChild(div);
     });
+    showEl(resReview);
+  });
+}
+
+// Show incorrect answers when requested
+if (btnShowIncorrect){
+  btnShowIncorrect.addEventListener('click', () => {
+    if (!resReview) return;
+    // if already shown, hide
+    if (!resReview.classList.contains('hidden')){
+      hideEl(resReview);
+      return;
+    }
+    // build review - only incorrect answers
+    resReview.innerHTML = '';
+    let incorrectCount = 0;
+    questions.forEach((q, i) => {
+      // Skip if this question was answered correctly
+      if (answers[i] && answers[i].correct) return;
+      
+      incorrectCount++;
+      // Question container
+      const div = document.createElement('div');
+      div.className = 'review-item';
+      
+      // Question header - bold va katta
+      const qh = document.createElement('div');
+      qh.innerHTML = `<strong>Savol ${i+1}: ${q.text}</strong>`;
+      div.appendChild(qh);
+      
+      // All choices for this question
+      q.choices.forEach((c, ci) => {
+        const line = document.createElement('div');
+        line.className = 'choice-line';
+        line.textContent = c;
+        
+        // Agar bu to'g'ri javob bo'lsa
+        if (ci === q.correctIndex) {
+          line.classList.add('correct');
+          const correctLabel = document.createElement('small');
+          correctLabel.textContent = '(To\'g\'ri javob)';
+          line.appendChild(correctLabel);
+        }
+        
+        // Agar user bu variantni tanlagan bo'lsa
+        if (answers[i] && answers[i].selectedText === c) {
+          if (answers[i].correct) {
+            // To'g'ri javob tanlagan
+            const selectedLabel = document.createElement('small');
+            selectedLabel.textContent = '✓ Siz tanladingiz — TO\'G\'RI';
+            line.appendChild(selectedLabel);
+          } else {
+            // Noto'g'ri javob tanlagan
+            line.classList.add('wrong');
+            const selectedLabel = document.createElement('small');
+            selectedLabel.textContent = '✗ Siz tanladingiz — NOTO\'G\'RI';
+            line.appendChild(selectedLabel);
+          }
+        }
+        
+        div.appendChild(line);
+      });
+      
+      resReview.appendChild(div);
+    });
+    
+    // Show message if all answers were correct
+    if (incorrectCount === 0) {
+      resReview.innerHTML = '<div style="padding: 20px; text-align: center; color: #34d399; font-weight: bold;">🎉 Tabriklaymiz! Barcha javoblar to\'g\'ri!</div>';
+    }
+    
     showEl(resReview);
   });
 }
