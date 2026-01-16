@@ -356,7 +356,18 @@ function showResults(){
   resCorrect.textContent = correct;
   resWrong.textContent = wrong;
   resPercent.textContent = `${percent}%`;
-  resultPartLabelEl.textContent = `Qism: ${currentPart}/${parts.length}`;
+  
+  // Yakuniy Sinov test uchun o'ziga xos xabar
+  if (currentPart === -1) {
+    // Yakuniy Sinov test
+    if (correct >= 30) {
+      resultPartLabelEl.innerHTML = '<span style="color: #34d399; font-weight: bold;">✓ Tabriklaymiz siz muvaffaqiyatli otdingiz!</span>';
+    } else {
+      resultPartLabelEl.innerHTML = '<span style="color: #f87171; font-weight: bold;">✗ Afsuski, qaytadan urinib ko\'ring</span>';
+    }
+  } else {
+    resultPartLabelEl.textContent = `Qism: ${currentPart}/${parts.length}`;
+  }
 
   // add a badge / mood to the result card for clearer feedback
   const rc = document.querySelector('.result-card');
@@ -399,7 +410,7 @@ function showResults(){
 
   // configure NextPart visibility
   if (btnNextPart){
-    if (currentPart < parts.length) btnNextPart.classList.remove('hidden');
+    if (currentPart < parts.length && currentPart > 0) btnNextPart.classList.remove('hidden');
     else btnNextPart.classList.add('hidden');
   }
 
@@ -518,6 +529,30 @@ if (btnRestart){
 }
 
 const btnBackHome = document.getElementById('btnBackHome');
+const btnFinalTest = document.getElementById('btnFinalTest');
+
+function startFinalTest(){
+  // Random 50 ta savol tanlab olish
+  const randomQuestions = allQuestions.slice().sort(() => 0.5 - Math.random()).slice(0, 50);
+  
+  questions = randomQuestions;
+  currentPart = -1; // Yakuniy sinov testni belgilash uchun
+  currentIndex = 0;
+  answers = {};
+  
+  // update UI
+  document.getElementById('partLabel').textContent = 'Yakuniy Sinov Test';
+  document.getElementById('qTotal').textContent = questions.length;
+  hideEl(homeSection);
+  showEl(quizSection);
+  renderQuestion(0);
+  updateScorePreview();
+}
+
+if (btnFinalTest){
+  btnFinalTest.addEventListener('click', startFinalTest);
+}
+
 if (btnBackHome){
   btnBackHome.addEventListener('click', () => {
     // show parts list
@@ -542,6 +577,7 @@ if (btnBackToParts){
     hideEl(resultScreen);
     showEl(homeSection);
     document.getElementById('partLabel').textContent = '';
+    currentPart = 0; // Reset currentPart
   });
 }
 
