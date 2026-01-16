@@ -300,7 +300,7 @@ function renderQuestion(idx) {
           } else {
             showResults();
           }
-        }, 1000);
+        }, 500);
       } else {
         // wrong gives shake + reveal correct
         label.classList.add('wrong', 'anim-shake');
@@ -321,7 +321,7 @@ function renderQuestion(idx) {
           } else {
             showResults();
           }
-        }, 2000);
+        }, 1000);
       }
     });
 
