@@ -419,28 +419,48 @@ if (btnShowDetails){
     // build review
     resReview.innerHTML = '';
     questions.forEach((q, i) => {
+      // Question container
       const div = document.createElement('div');
       div.className = 'review-item';
+      
+      // Question header - bold va katta
       const qh = document.createElement('div');
-      qh.innerHTML = `<strong>Q${i+1}:</strong> ${q.text}`;
+      qh.innerHTML = `<strong>Savol ${i+1}: ${q.text}</strong>`;
       div.appendChild(qh);
+      
+      // All choices for this question
       q.choices.forEach((c, ci) => {
         const line = document.createElement('div');
         line.className = 'choice-line';
         line.textContent = c;
-        line.style.padding = '6px';
-        line.style.borderRadius = '6px';
-        if (ci === q.correctIndex) line.classList.add('correct');
-        if (answers[i] && answers[i].selectedText === c && !answers[i].correct) line.classList.add('wrong');
-        if (answers[i] && answers[i].selectedText === c){
-          const you = document.createElement('small');
-          you.textContent = ' — Siz tanladingiz';
-          you.style.marginLeft = '8px';
-          you.style.color = '#374151';
-          line.appendChild(you);
+        
+        // Agar bu to'g'ri javob bo'lsa
+        if (ci === q.correctIndex) {
+          line.classList.add('correct');
+          const correctLabel = document.createElement('small');
+          correctLabel.textContent = '(To\'g\'ri javob)';
+          line.appendChild(correctLabel);
         }
+        
+        // Agar user bu variantni tanlagan bo'lsa
+        if (answers[i] && answers[i].selectedText === c) {
+          if (answers[i].correct) {
+            // To'g'ri javob tanlagan
+            const selectedLabel = document.createElement('small');
+            selectedLabel.textContent = '✓ Siz tanladingiz — TO\'G\'RI';
+            line.appendChild(selectedLabel);
+          } else {
+            // Noto'g'ri javob tanlagan
+            line.classList.add('wrong');
+            const selectedLabel = document.createElement('small');
+            selectedLabel.textContent = '✗ Siz tanladingiz — NOTO\'G\'RI';
+            line.appendChild(selectedLabel);
+          }
+        }
+        
         div.appendChild(line);
       });
+      
       resReview.appendChild(div);
     });
     showEl(resReview);
