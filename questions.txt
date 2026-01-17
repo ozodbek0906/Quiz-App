@@ -1,4 +1,47 @@
 +++++
+Iqtisodiyotda omillarni kamayib borish qonuni mavjud. Qanday qilib, ushbu holatda iqtisodiy o'sishga erishish mumkin? 
+====
+#resurslarni oshirish zarur, ammo qo'shimcha birlik kiritilgan resursning 
+ oshib boradi; 
+====
+iqtisodiy omillar juda kam talab qilinadi; 
+====
+qo'shimcha omillarning o'sishi yalpi mahsulot hajmini oshirmaydi, balki 
+qisqartiradi; 
+====
+yana va yana ko'plab resurslar talab etiladi; 
++++++
+Agar iqtisodiy muammolarning bir qismi bozor, bir qismi hukumat 
+tomonidan hal elilsa, bunday iqtisodiyot: 
+====
+#aralash deyiladi; 
+====
+ma'muriy; 
+====
+bozorli; 
+====
+natural; 
++++++
+Hamma iqtisodiy lizimlar uchun fundamental muammo bo'lib hisoblanadi, bu: 
+====
+#ishlab chiqarish; 
+====
+investitsiya; 
+====
+iste'mol; 
+====
+noyoblik va taqchillik; 
++++++ 
+Har qanday iqtisodiy tizimlarda "nima", "qanday" va "kim uchun" degan fundamental savollar mikro va makrodarajada hal etiladi. Quyida tuzilgan savollardan qaysi biri mikroiqtisodiy darajada hal etiladi: 
+====
+#nima va qancha ishlab chiqarish kerak? 
+====
+to'liq bandlik darajasiga qanday qilib erishiladi?
+====
+inflyatsiyadan qanday qutulish mumkin? 
+====
+iqtisodiy o'sishni qanday rag'batlantirish mumkin? 
++++++
 Bozor tizimida noyob ne'matlar muammosi nechta tamoyil orqali yechiladi? 
 ====
 #3 ta 
@@ -48,6 +91,36 @@ iste’molchi kamligi
 bozor muvoznati
 =====
 tovar taqchilligi
++++++
+………ishlab chiqaruvchi tomonidan olingan umumiy manfaatni bildiradi.
+=====
+#ishlab chiqaruvchi ortiqchaligi
+=====
+ishlab chiqaruvchi kamligi
+=====
+to’yinmagan bozor
+=====
+to’yinmagan bozor
++++++
+Davlatning bozor narxiga ta’sir qilish siyosatidan biri bu ......
+=====
+#ishlab chiqarishni cheklash
+=====
+ishlab chiqarishni ko’paytirish
+=====
+dotatsion narxlarni qo’llash
+=====
+Narxlarni tushirish
++++++
+Jamiyat uchun ishlab chiqarish, taqsimlash, ayirboshlash va iste’mol fazalari uchun xizmat qiladigan iqtisodiy mexanizm bu ……..
+=====
+#bozor
+=====
+korxona
+=====
+narx
+=====
+talab
 +++++
 …….. bu bitta sotuvchi va ko’p haridorlar qatnashgan bozor, yoki o’rnini bosadigan tovar bo’lmagan tovarni sotadigan yagona sotuvchi bulgan bozor vaziyati.
 =====
@@ -199,6 +272,66 @@ Xarajatlar
 =====
 Tog’ri javob yo’q
 +++++
+…- ishlab chiqarilgan maxsulot mikdori bilan shu maxsulotni ishlab chiqarishda sarflangan ishlab chiqarish omillari mikdori urtasidagi bog’liqlikni ifodalovchi funksiya .
+=====
+#Ishlab chiqarish funksiyasi
+=====
+Taklif funksiyasi
+=====
+Talab funksiyasi
+=====
+Tog’ri javob yo’q
++++++
+……. bu ishlab chiqarish masshtabining kengayishi sur’ati bilan maxsulot ishlab chiqarishni o’sish sur’ati o’rtasidagi bog’liqlikni ifodalaydi.
+=====
+#Masshtab samarasi
+=====
+Foyda samarasi
+=====
+Daromad samarasi
+=====
+Tog’ri javob yo’q
++++++
+…… bosqichma-bosqich asosiy kapital qiymatining ma’lum bir qismini ishlab chiqariladigan maxsulot qiymatiga o’tkazish yo’li bilan uni qoplash
+=====
+#Amortizasiya
+=====
+Kapital
+=====
+Foyda normasi
+=====
+Tog’ri javob yo’q
++++++
+……. bu ishlab chiqarish resurslari egalarining karorlarini va manfaatlarini muvofiklashtiruvchi institusional tuzilma xisoblanadi.
+=====
+#Firma (korxona)
+=====
+Mas’uliyati cheklanmagan jamiyat
+=====
+Korporasiya
+=====
+Tog’ri javob yo’q
++++++
+…-…..firmani birgalikda tashkil kilib, birgalikda egalik kiluvchi va boshkaruvchi shaxslar guruxi bo’lib, ular firmaning barcha majburiyatlari buyicha to’lik javobgarlikni cheklanmagan ravishda o’zlarining zimmalariga oladilar.
+=====
+#Mas’uliyati cheklanmagan jamiyat
+=====
+Firma (korxona)
+=====
+Korporasiya
+=====
+Tog’ri javob yo’q
++++++
+……. paychilikka asoslangan jamiyat bo’lib, xar bir mulk egasining mas’uliyati ushbu korxonaga ko’shgan xissasi bilan cheklangan.
+=====
+#Korporasiya
+=====
+Firma (korxona)
+=====
+Mas’uliyati cheklanmagan jamiyat
+=====
+Tog’ri javob yo’q
++++++
 ……. bu shunday vakt oraligiki, firma bu oralikda faoliyat ko’rsatganda, u ishlab chiqarish omillaridan kamida bittasining xajmini o’zgartira olmaydi.
 =====
 #Qisqa muddatli oraliq
@@ -259,6 +392,56 @@ Umumiy xarajatlar
 =====
 Tog’ri javob yo’q
 +++++
+Mahsulotlarni sotishdan tushgan tushum…
+=====
+#Daromad
+=====
+Sof foyda
+=====
+Foyda normasi
+=====
+Tog’ri javob yo’q
++++++
+Bir birlik mahsulotni sotishdan kelgan daromadga…
+=====
+#O’rtacha daromad
+=====
+Daromad
+=====
+Sof foyda
+=====
+Tog’ri javob yo’q
++++++
+……..mhxsulotni sotishdan tushgan tushumdan ushbu maxsulotlarni ishlab chiqarish uchun ketgan yalpi xarajatni (tashki xarajatni) ayrilganiga teng.
+=====
+#Foyda
+=====
+Daromad
+=====
+Chekli xarajat
+=====
+Tog’ri javob yo’q
++++++
+…-…Qo’yilgan maqsadga erishishdagi yo’qotishlar.
+=====
+#Tavakkalchilik (risk)
+=====
+Ehtimol
+=====
+Chetlanish
+=====
+Tog’ri javob yo’q
++++++
+Kutiladigan daromadda kafolatlangan natijaga ko’ra ko’prok tavakalchilik bilan bog’liq bo’lgan natijani ustun ko’radigan shaxs…
+=====
+#Tavakkalchilikka moyil shaxs
+=====
+Tavakkalchilikka karshi inson
+=====
+Tavakkalchilikka befark karovchi shaxs
+=====
+Tog’ri javob yo’q
+++++++
 Chekli o’zgaruvchan xarajat
 =====
 #MVC
@@ -369,6 +552,66 @@ Iqtisodiy ne’mat
 =====
 Iqtisodiy ne’mat
 +++++
+……..bu ehtiyojni qondirish vositasi
+=====
+#Iqtisodiy ne’mat
+=====
+Real ehtiyoj
+=====
+Muvozanat narx
+=====
+Alternativ harajatlar
++++++
+Bir-birini o’rnini bosuvchi ne’matlar bu …
+=====
+#bir xil ehtiyojni kondiruvchi ne’matlardir.
+=====
+o’zaro bir-birini to’ldiruvchi ne’matlar
+=====
+tadbirkorlik qobiliyati
+=====
+foydali harakat
++++++
+……. bu shaxsni yoki ishlab chiqarish ehtiyojini komplektlarda qondiradigan
+=====
+#O’zaro bir-birini to’ldiruvchi ne’matlar
+=====
+Iqtisodiy ne’mat
+=====
+Real ehtiyoj
+=====
+Iqtisodiy ehtiyoj
++++++
+……o’ziga xos bo’lgan shunday inson resursi tushuniladiki, u o’zidan boshqa ishlab chiqarish resurslaridan samarali foydalana olish qobiliyatini mujassamlashtiradi.
+=====
+#Tadbirkorlik qobiliyati
+=====
+Iqtisodiy agentlardir
+=====
+foydali harakat
+=====
+Ishchi kuchi
++++++
+……. tovarlarni pulga ayirboshlash normasidir.
+=====
+#baho
+=====
+narx
+=====
+naflik
+=====
+ehtiyoj
++++++
+.......mahsulot ishlab chiqarish uchun qilingan sarflar.
+=====
+#Xarajatlar
+=====
+Muvozanat narx
+=====
+Alternativ harajatlar
+=====
+Real ehtiyoj
++++++
 ...- bu ishlab chiqaruvchilar va sotuvchilar tomonidan berilgan narxlarda sotilishi mumkin bulgan tovarlar mikdori.
 =====
 #Taklif
@@ -458,6 +701,46 @@ Muvozanat narx
 Muvozanatlashgan baho deb
 =====
 Umumiy naflik
++++++
+........ talab xajmi taklif xajmiga mos kelgandagi baho tushuniladi.
+=====
+#Muvozanatlashgan baho deb
+=====
+Umumiy naflik
+=====
+Elastiklik
+=====
+Befarklik chizigi
++++++
+…- talab va taklifga ta’sir kiluvchi omillarning bir foizga uzgarishi natijasida talab va taklif xajmining necha foizga o’zgarishini aniklaydigan koeffisiyenta aytiladi.
+=====
+#Elastiklik
+=====
+Muvozanatlashgan baho deb
+=====
+Befarklik chizig’i
+=====
+Funksiya
++++++
+… - iste’mol qilishda bir-birini o’rnini bosuvchi tovarlar yoki bir xil extiyojni kondiruvchi tovarlar.
+=====
+#O’rindosh tovarlar
+=====
+To'ldiruvchi tovarlar
+=====
+Byudjet
+=====
+kapital
++++++
+… - birgalikda, komplekt tarzida iste’mol kilinadigan tovarlar.
+=====
+#To’ldiruvchi tovarlar
+=====
+O’rindosh tovarlar
+=====
+kapital
+=====
+Byudjet
 +++++
 …- Bitta tovarga bulgan talabga boshka bir tovarning narxi ta’sir ko’rsatadi.
 =====
@@ -1559,6 +1842,76 @@ Umumiy naflik
 =====
 Chekli naflik
 +++++
+Narxlar diversifi-kasiyasi , bu ...
+=====
+#Narxlarni iste’molchilarning imkoniyatlariga karab xar xil darajalarda belgilash;
+=====
+Rakobatchi firmalar o’rnatgan narxdan farkli ularok, minimal narxlarni o’rnatish
+=====
+Narxlarni kat’iy belgilangan tarzda ushlab turish
+=====
+To’gri javob yo’q
++++++
+… ishlab chiqaruvchi tomoni-dan olingan umumiy manfaat-ni bildiradi.
+=====
+#Ishlab chiqaruvchi ortikchaligi
+=====
+Ishlab chiqaruvchi kamligi
+=====
+To’yinmagan bozor
+=====
+To’yinmagan bozor
++++++
+… haridor bitta bulib, sotuv-chilar ko’p bulgan bozor.
+=====
+#Monopsoniya
+=====
+Oligopoliya
+=====
+Monopoliya
+=====
+Erkin bozor
++++++
+Bozor qaysi xolatda samarali faoliyat ko’rsatadi.
+=====
+#Erkin holatida
+=====
+Monopol holatida
+=====
+Oligapol holatida
+=====
+Barcha holatlarda
+++++++
+….- ishlab chiqarish omillaridan foydalangan xolda maxsulot yaratish jarayonini yoki ishlab chiqarish omillarini tayyor maxsulotga aylantirish jarayoni.
+=====
+#Ishlab chiqarish
+=====
+Foyda olish
+=====
+Raqobat
+=====
+To’g’ri javob yo’q
++++++
+…- ishlab chiqarish xajmi o’zgarmaganda bir birlik X omilini necha birlik Y omil bilan almashtirish mumkinligini ko’rsatadi.
+=====
+#Chekli texnologik almashtirish normasi
+=====
+Daromad
+=====
+Narx shakllanishi
+=====
+To’g’ri javob yo’q
++++++
+…- bu o’zgaruvchan resurslar kombinasiyasini kichik miqdorda ko’shimcha sarfi xisobidan umumiy maxsulotning o’sgan kismiga aytiladi
+=====
+#Chekli maxsulot
+=====
+Zaruriy mahsulot
+=====
+Ortiqcha mahsulot
+=====
+To’g’ri javob yo’q
++++++
 …- bir xil hajmda mahsulot ishlab chiqarishni ta’minlovchi omillar sarflari kombinasiyalarini ifodalovchi egri chiziq.
 =====
 #Izokvanta
@@ -1588,6 +1941,37 @@ Narx oshsa talab ortadi
 Narx talabga ta’sir qilmaydi
 ====
 Daromad oshsa talab pasayadi
++++++
+Quyidagilardan qaysi biri talabning narxdan tashqari omiliga kiradi?
+====
+#Aholi daromadi
+====
+Narx o‘zgarishi
+====
+Ishlab chiqarish xarajatlari
+==== 
+Resurslar narxi
++++++
+Taklif egri chizig‘i odatda qanday yo‘nalishda bo‘ladi?
+====
+#Yuqoriga yo‘nalgan 
+====
+Pastga yo‘nalgan
+====
+Vertikal
+====
+Gorizontal
+==== 
++++++
+Elastiklik nima?
+==== 
+#Talabning narx yoki boshqa omillarga sezgirligi
+====
+Narx bilan talab miqdori orasidagi mutlaq farq
+====
+Narxning taklifga ta’siri
+====
+Talab egri chizig‘ining burchagi
 +++++
 Agar narx 10 % ga oshsa va talab 20 % ga kamaygan bo‘lsa, bu talab nechchi elastik?
 ====
