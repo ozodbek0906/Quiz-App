@@ -1,2107 +1,2326 @@
 +++++
-Iqtisodiyotda omillarni kamayib borish qonuni mavjud. Qanday qilib, ushbu holatda iqtisodiy o'sishga erishish mumkin? 
-====
-#resurslarni oshirish zarur, ammo qo'shimcha birlik kiritilgan resursning 
- oshib boradi; 
-====
-iqtisodiy omillar juda kam talab qilinadi; 
-====
-qo'shimcha omillarning o'sishi yalpi mahsulot hajmini oshirmaydi, balki 
-qisqartiradi; 
-====
-yana va yana ko'plab resurslar talab etiladi; 
+"Statistika" atamasi nimani anglatadi?
+=====
+#holat, narsalarning holati.
+=====
+uy boshqaruvi
+=====
+sifat ko'rinishlarining xilma-xilligi
+=====
+hammasi noto'g'ri
+=====
 +++++
-Agar iqtisodiy muammolarning bir qismi bozor, bir qismi hukumat 
-tomonidan hal elilsa, bunday iqtisodiyot: 
-====
-#aralash deyiladi; 
-====
-ma'muriy; 
-====
-bozorli; 
-====
-natural; 
+Statistik ko'rsatkich:
+=====
+#miqdoriy baholash.
+=====
+daraja
+=====
+nisbiy ball
+=====
+hammasi noto'g'ri
 +++++
-Hamma iqtisodiy lizimlar uchun fundamental muammo bo'lib hisoblanadi, bu: 
-====
-#ishlab chiqarish; 
-====
-investitsiya; 
-====
-iste'mol; 
-====
-noyoblik va taqchillik; 
-+++++ 
-Har qanday iqtisodiy tizimlarda "nima", "qanday" va "kim uchun" degan fundamental savollar mikro va makrodarajada hal etiladi. Quyida tuzilgan savollardan qaysi biri mikroiqtisodiy darajada hal etiladi: 
-====
-#nima va qancha ishlab chiqarish kerak? 
-====
-to'liq bandlik darajasiga qanday qilib erishiladi?
-====
-inflyatsiyadan qanday qutulish mumkin? 
-====
-iqtisodiy o'sishni qanday rag'batlantirish mumkin? 
+Statistik agregat quyidagicha:
+=====
+#ijtimoiy-iqtisodiy hodisalarning rivojlanish qonuni.
+=====
+Nazariy fan
+=====
+o'rganilayotgan hodisaning birliklari
+=====
+hammasi noto'g'ri
 +++++
-Bozor tizimida noyob ne'matlar muammosi nechta tamoyil orqali yechiladi? 
+Statistik ma'lumotlar quyidagilardan iborat:
+=====
+#statistik ma'lumotlar.
+=====
+kuzatuv
+=====
+statistik tadqiqot
+=====
+hammasi noto'g'ri
++++++
+Statistik kuzatish quyidagi talablarga javob berishi kerak:
+=====
+#ishonchlilik, samaradorlik va ommaviy jozibadorlik
+=====
+maxfiylik.
+=====
+Yolg'on
+=====
+hammasi noto'g'ri
++++++
+kuzatish sodir bo'ladi:
+=====
+#uzluksiz, uzluksiz, bir martalik oqim, davriy, bir martalik.
+=====
+bir marta
+=====
+idoraviy
+=====
+hammasi noto'g'ri
+++++
+Asosiy massiv usuli quyidagilardan iborat:
+=====
+#o'rganilayotgan belgining qiymati ustun bo'lgan populyatsiya birliklarining qismi ekspertizadan o'tkaziladi.
+=====
+xarakteristikasi tanlangan aholining bir qismi uchun berilgan
+=====
+ixtiyoriy to'ldirish tamoyiliga asoslangan
+=====
+hammasi noto'g'ri
++++++
+Kuzatuvdan maqsad nima?
+=====
+#statistik tadqiqotlar natijasi.
+=====
+ob'ekt ta'rifi
+=====
+maqsadlarni shakllantirish
+=====
+hammasi noto'g'ri
++++++
+statistik shakl:
+=====
+#statistik ma'lumotlar
+=====
+matematik tadqiqotlar
+=====
+muayyan shakllarning shakllari
+=====
+hammasi noto'g'ri
++++++
+xatolar yuzaga keladi:
+=====
+#kuzatish vaqtida noto'g'ri yozib olinganligi sababli.
+=====
+hisoblash tufayli
+=====
+buzilishi tufayli 
+=====
+hammasi noto'g'ri
++++++
+Vakillik xatolari quyidagilardan iborat :
+=====
+#vakillikdagi xatolar
+=====
+hisobotlardagi buzilishlar
+=====
+tasodifiy xatolar
+======
+hammasi noto'g'ri
++++++
+Tizimli xatolar mavjud:
+=====
+# qasddan, qasddan .
+=====
+tasodifiy
+=====
+maxsus
+=====
+hammasi noto'g'ri
++++++
+Mantiqiy nazorat quyidagilardan iborat:
+=====
+#javoblarni mantiqiy nuqtai nazardan tekshirish.
+=====
+arifmetik hisoblash
+=====
+doimiy ma'lumotlarni namuna olish
+=====
+hammasi noto'g'ri
++++++
+Monografik tadqiqot nima?
+=====
+#agregat birliklarni batafsil, chuqur o'rganish
+=====
+aholining bir qismi uchun
+=====
+ro'yxatga olish o'lchov bilan amalga oshiriladi
+=====
+hammasi noto'g'ri
++++++
+Anketa nima?
+=====
+#kuzatish, unda o'rganilayotgan savollarga javoblar suhbatdoshning so'zlaridan yozib olinadi
+=====
+respondentlarning o'zlari tomonidan to'ldiriladi
+=====
+kuzatuv olib borayotgan muxbirlar tomonidan taqdim etilgan ma'lumotlar
+=====
+hammasi noto'g'ri
++++++
+Statistik fan va amaliyot o'rtasida bog'liqlik bormi?
+=====
+#yaqin aloqa va o'zaro bog'liqlik
+=====
+Yo'q
+=====
+kamdan-kam hollarda
+=====
+hammasi noto'g'ri
++++++
+statistik ma'lumotlar:
+=====
+#ijtimoiy hayot hodisalarini miqdoriy tomondan oʻrganuvchi fan
+=====
+uslubiy asos
+=====
+ma'lumotlar yig'ish
+=====
+hammasi noto'g'ri
++++++
+Ilgari statistik ma'lumotlarning nomi nima edi?
+=====
+#siyosiy arifmetika
+=====
+Statistika
+=====
+Kompyuter fanlari
+=====
+hammasi noto'g'ri
++++++
+Statistika zamonaviy fanmi yoki ko'p asrlik tarixga egami?
+=====
+#asrlik tarixga ega
+=====
+ha, zamonaviy
+=====
+u har doim u erda edi
+=====
+hammasi noto'g'ri
++++++
+Bir hil bo'linish sodir bo'lgan guruhlash
+agregatlarni guruhlarga ajratish deyiladi:
+=====
+#tipologik guruhlash
+=====
+tarkibiy guruhlash
+=====
+analitik guruh
+=====
+birlashtirilgan
++++++
+Bajarish texnikasiga ko'ra statistik xulosa quyidagilarga bo'linadi:
+=====
+#oddiy va murakkab uchun.
+=====
+markazlashmagan
+=====
+mexanizatsiyalashgan
+=====
+avtomatlashtirilgan
+++++
+Guruhlashning asosi quyidagilar bo'lishi mumkin:
+=====
+#ham sifat, ham miqdoriy xarakteristikalar;
+=====
+sifat belgisi
+=====
+miqdoriy xususiyat
+=====
+Atributiv
++++++
+Mavzuning rivojlanish xususiyatiga ko'ra statistik jadvallar ajratiladi:
+=====
+#oddiy.
+=====
+Roʻyxatga kiritilgan
+=====
+Kombinativ
+=====
+Xronologik
+++++
+O'zgaruvchi bilan dinamikaning nisbiy ko'rsatkichini olish
+i davr uchun taqqoslash uchun quyidagilar zarur:
+=====
+#joriy ko'rsatkichni asosiy ko'rsatkichga bo'ling.
+=====
+i-chi va (i - 1) davrlar uchun doimiy taqqoslash bazasi bilan nisbiy dinamika ko'rsatkichlarini ko'paytirish
+=====
+i-davr uchun doimiy taqqoslash bazasi bilan dinamikaning nisbiy ko'rsatkichini davr uchun o'xshash ko'rsatkichga bo'lish (i - 1)
+=====
+i-davr uchun doimiy taqqoslash bazasi bilan dinamikaning nisbiy ko'rsatkichini davr uchun o'xshash ko'rsatkichga bo'lish (i + 1)
++++++
+Korxona tomonidan ishlab chiqarish rejasini bajarishning nisbiy ko‘rsatkichi 107 foizni tashkil etdi, ishlab chiqarish hajmi esa o‘tgan davrga nisbatan 5 foizga oshdi. Rejaga nima kiritilgan:
+=====
+# ishlab chiqarish hajmining o'sishi.
+=====
+ishlab chiqarish hajmining pasayishi
+=====
+javob berish mumkin emas
+=====
+Ishlab chiqarish hajmining kamayishi yoki ko'payishi nazarda tutilmaganmi?
++++++
+Og'irlangan va tortilmagan o'rtacha qiymatlar qachon teng bo'ladi?
+o'zingiz:
+=====
+#tarozi yo'qligida.
+=====
+agar og'irliklar teng bo'lsa
+=====
+og'irliklarning yo'qligi yoki tengligi
+=====
+javob berish mumkin emasmi?
++++++
+Garmonik o'rtacha qanday hollarda qo'llaniladi:
+=====
+#nisbatning soni ham, maxraji ham qachon ma'lum bo'ladi?
+=====
+hisoblagich noma'lum bo'lganda
+=====
+maxraj noma'lum bo'lganda
+=====
+javob berish mumkin emas
+=====
++++++
+Barcha chastotalar ga kamaytirilsa, o'rtacha o'zgaradimi
+ba'zi doimiy qiymat:
+=====
+#O'zgartirish
+=====
+O'zgarmaydi
+=====
+Kamayadi
+=====
+oshadimi?
++++++
+Eng ko'p uchraydigan statistik populyatsiya xarakteristikasining qiymati deyiladi:
+=====
+#arifmetik o'rtacha og'irlik
+=====
+vaznli geometrik o'rtacha
+=====
+Moda
+=====
+Median
++++++
+Statistikada median xarakteristikaning qiymati hisoblanadi
+=====
+#to'plangan chastotalar yig'indisi bo'yicha tartiblangan qatorning o'rtasida
+=====
+aholining 25 foizini ajratib turadi
+=====
+eng keng tarqalgan
+=====
+eng yuqori qadriyatlar bilan
++++++
+Hisoblash uchun geometrik o'rtacha qiymat qo'llaniladi:
+=====
+#ma'lum bir davr uchun o'rtacha stavkalar
+=====
+kvadratik funksiyalar ko'rinishidagi o'rtachalar
+=====
+teskari ko'rsatkichlar ko'rinishidagi o'rtacha qiymatlar
+=====
+individual qiymatlar bilan ifodalangan aholi o'rtacha ko'rsatkichlari
++++++
+Garmonik o'rtacha quyidagi hollarda qo'llaniladi:
+=====
+#individual qiymatlar teskari funktsiya sifatida ifodalanadi
+=====
+individual qiymatlar teskari ko'rsatkichlar shaklida ifodalanadi
+=====
+individual qiymatlar turli chastotalarga ega
+=====
+individual qiymatlar quvvat funktsiyasi bilan ifodalanadi
++++++
+Nisbiy intensivlik ko'rsatkichi quyidagilarni tavsiflaydi:
+=====
+#o'rganilayotgan jarayonning muhitda tarqalish darajasi
+=====
+bir xil mutlaq ko'rsatkichlarning nisbati
+=====
+o'rganilayotgan loyihaning tarkibiy qismlari o'rtasidagi munosabatlar
+=====
+joriy va asosiy ko'rsatkichlar nisbati
++++++
+Variant - bu ...
+=====
+#vaqt davomida ommaviy hodisalarning o'zgarishi
+=====
+statistik aholi tarkibining o'zgarishi
+=====
+xarakterli qiymatlarning o'zgarishi
+=====
+aholi tarkibining o'zgarishi
++++++
+O'zgaruvchanlik koeffitsienti nima bilan tavsiflanadi:
+=====
+#xususiyatning o'zgaruvchanlik diapazoni
+=====
+xususiyatning o'zgaruvchanlik darajasi
+=====
+xususiyatlar o'rtasidagi yaqin aloqa
+=====
+belgining o'zgaruvchanlik chegaralari ?
++++++
+Agar atributning barcha qiymatlari 16 marta oshirilsa, dispersiya ...
+=====
+#O'zgarmaydi
+=====
+16 barobar ortadi
+=====
+256 barobar ortadi
+=====
+4 barobar ortadi
++++++
+Guruhlararo dispersiya qanday bo'ladi, agar ular orasida farq bo'lmasa
+Guruhlardagi variantlar:
+=====
+#birlik
+=====
+nol
+=====
+Noldan birgacha o'zgaradi
+=====
+umumiy farq?
++++++
+Ijtimoiy statistika nima qiladi?
+=====
+#Ijtimoiy statistika jamiyatning ijtimoiy va demografik tuzilishining miqdoriy xususiyatlarini, odamlar hayoti va faoliyatini, davlat va huquq bilan munosabatlarini oʻrganadi.
+=====
+Ijtimoiy statistika materiallarni tadqiq qilish va qayta ishlash uchun maxsus metodologiyani ishlab chiqadi
+=====
+Ijtimoiy statistika ma'lumotlarni to'plashda amaliy inson faoliyatining alohida turidir
+=====
+Ijtimoiy statistika - bu korxonalar tomonidan hisobot hujjatlarida taqdim etiladigan aniq ma'lumot
++++++
+Ijtimoiy statistikaning tadqiqot ob'ektlari ...
+=====
+#individual ob'ekt va jamoa ob'ekti (oila, yakka tartibdagi fermer xo'jaliklari)
+=====
+iqtisodiy hodisalarning miqdoriy xarakteristikalari
+=====
+maxsus ma'lumot ma'lumotlari
+=====
+odamlarning xatti-harakati
++++++
+Ijtimoiy statistika bo'limlariga tegishli bo'lgan variantlardan tanlang.
+=====
+#aholi statistikasi, aholi statistikasi va
+demografik statistika
+=====
+moliyaviy statistika, ta'lim darajasi statistikasi
+=====
+uy-joy sharoitlari statistikasi
+=====
+tabiiy resurslar va atrof-muhitni muhofaza qilish statistikasi
++++++
+Bo'sh vaqt statistikasi
+=====
+#statistika sohasi boʻlib, u maʼlum bir davrda (yoki ularning guruhlari) oʻz vaqtini qanday taqsimlashi va oʻtkazishini tavsiflaydi.
+=====
+ta'minot tomondan dam olish xizmatlarining xususiyatlari
+======
+odamlarni o'rganadigan statistika bo'limi
+=====
+ijtimoiy guruhlarning raqamli ma'lumotlari
+=====
++++++
+Turmush darajasi bo'yicha statistika nimani o'rganadi?
+=====
+inson salomatligi holati, umr ko'rish davomiyligi, atrof-muhit sharoitlari, ovqatlanish, kundalik qulaylik, ijtimoiy muhit, madaniy va ma'naviy ehtiyojlarni qondirish, psixologik qulaylik va boshqalar.
+=====
+insonning iste'mol qilingan moddiy ne'matlarining erishilgan hajmining mosligi.
+======
+insonning moddiy ne'matlarining erishilgan hajmining muvofiqligi
+=====
+turli ijtimoiy guruhlar o'rtasidagi raqamli ma'lumotlar
+=====
++++++
+Aholining turmush darajasi qanday?
+=====
+#Bu munosib hayot uchun moddiy resurslarga kirish: sog'lom turmush tarzini saqlash. Hududiy va ijtimoiy harakatchanlikni, axborot almashinuvini va jamiyat hayotida ishtirokini ta'minlash.
+=====
+Bu jamiyatning ijtimoiy hayotidagi munosabatlar tizimini miqdoriy va sifat jihatidan baholashdir
+=====
+Bu o'rganilayotgan hodisa xossasining miqdoriy xarakteristikasidir.
+=====
+Bu aholining real ish haqi va o'sha mahsulotlar o'rtasidagi nisbatdir
++++++
+Ijtimoiy statistikaning xususiyatlariga nima tegishli ekanligini tanlang.
+=====
+#Miqdoriy va nomiqdoriy ma'lumotlardan foydalanadi.O'rganilayotgan aholining ijtimoiy-iqtisodiy turlarini aniqlang va statistik kuzatish ma'lumotlarini umumlashtiring. Ijtimoiy ma'lumotlarni qayta ishlash va umumlashtirish uchun maxsus texnikani qo'llaydi
+=====
+Takroriylik, izchillik va o'zgarishlar tartibi.
+=====
+Maxsus predmet va o'rganish ob'ektlariga ega.
+=====
+Ma'lumotlar savollarga javoblar shaklida yig'iladi.
++++++
+Uzoq va sog‘lom hayot, bilim olish, iqtisodiy ishlab chiqarishda ishtirok etish...
+=====
+#inson rivojlanishi uchun asosiy imkoniyatlar.
+=====
+integral ko'rsatkichlar
+=====
+turmush darajasi ko'rsatkichlari
+=====
+to'g'ri javob yo'q
++++++
+Aholining turmush darajasining integral ko'rsatkichlariga quyidagilar kiradi:
+=====
+#aholi daromadlari va xarajatlari nisbati
+=====
+jon boshiga o'rtacha daromadning yashash minimumiga nisbati
+=====
+ixtiyoriy daromadning shartli bo'sh qismi miqdori
+=====
+aholining qashshoqlik darajasi
++++++
+YaIM kontseptsiyasini joriy etishni birinchi marta kim va qachon taklif qilgan?
+=====
+# Saymon Kuznets, amerikalik iqtisodchi, 1934 yil
+=====
+Vasiliy Leontief, amerikalik iqtisodchi, 1937 yil
+=====
+Milton Fridman, amerikalik iqtisodchi, 1947 yil
+=====
+Leonid Vitalievich Kantorovich, rus iqtisodchisi, 1949 yil
++++++
+Iqtisodiyot va statistikada YaIM nima?
+=====
+#Yalpi ichki mahsulot
+=====
+Yalpi tashqi mahsulot
+=====
+Mahalliy valyuta tovari
+=====
+Tashqi valyuta ishlab chiqarish
++++++
+Statistik kuzatish ob'ekti hisoblanadi
+=====
+#statistik aholi
+=====
+kuzatish birligi
+=====
+aholi birligi
+=====
+hisobot birligi
+++++
+Statistik kuzatish paytida ma'lumotlar olinadigan sub'ekt deyiladi
+=====
+#hisobot birligi
+=====
+kuzatish birligi
+=====
+aholi birligi
+=====
+to'g'ri javob yo'q
++++++
+Kuzatish jarayonida qayd etilishi kerak bo'lgan belgilar (yoki savollar) ro'yxati deyiladi:
+=====
+#kuzatish dasturi
+=====
+statistik shakl
+=====
+kuzatuv vositalari
+=====
+to'g'ri javob yo'q
++++++
+Hisoblangan qiymatlar va o'rganilayotgan miqdorlarning haqiqiy qiymati o'rtasidagi nomuvofiqlik deyiladi:
+=====
+#kuzatish xatosi
+=====
+ro'yxatga olish xatosi
+=====
+vakillik xatosi
+=====
+to'g'ri javob yo'q
++++++
+Mulkchilikning tashkiliy-huquqiy shakllari bo'yicha korxonalarni taqsimlash qaysi guruhlash turini ifodalaydi:
+=====
+#Tipologik
+=====
+Analitik
+=====
+Strukturaviy
+=====
+Ko'p o'lchovli
++++++
+Sanoat korxonalarini mulkchilik turlari bo'yicha guruhlash guruhlashga misol bo'la oladi:
+=====
+#Tipologik
+=====
+Strukturaviy
+=====
+Analitik
+=====
+murakkab
++++++
+Guruhlarning diskret xususiyatlariga quyidagilar kiradi:
+=====
+#oila a'zolari soni
+=====
+ishchilarning ish haqi
+=====
+mamlakat aholisi
+=====
+bank foydasi.
++++++
+Guruhlarning atributiv xususiyatlariga quyidagilar kiradi:
+=====
+#odamning jinsi;
+=====
+korxona foydasi;
+=====
+ish darajasi;
+=====
+poyabzal o'lchami.
++++++
+Guruhlashning asosi quyidagilar bo'lishi mumkin:
+=====
+#ham miqdoriy belgi, ham sifat belgisi.
+=====
+miqdoriy xususiyat;
+=====
+sifat belgisi;
+=====
+to'g'ri javob yo'q
++++++
+Oldindan tuzilgan guruhlash asosida yangi guruhlarni shakllantirish operatsiyasi deyiladi:
+=====
+#ikkinchi darajali guruhlash;
+=====
+kombinatsiyalangan guruhlash;
+=====
+ko'p o'lchovli guruhlash.
 ====
-#3 ta 
+to'g'ri javob yo'q
++++++
+Statistik jadvalning predmeti:
+=====
+#o'rganish ob'ektini tavsiflovchi ko'rsatkichlar tizimi
+=====
+o'rganish ob'ekti;
+=====
+aholining umumiy sonli xarakteristikalari.
+=====
+to'g'ri javob yo'q
++++++
+Predikatning rivojlanish xususiyatiga ko'ra statistik jadvallar ajratiladi:
+=====
+#oddiy;
+=====
+murakkab;
+=====
+ro'yxat;
+=====
+monogam.
++++++
+Birgalikda olingan ikkita xususiyatga asoslangan guruhlash uchun qanday jadval turi qo'llaniladi :
+=====
+#oddiy;
+=====
+guruh;
+=====
+kombinatsion.
+=====
+to'g'ri javob yo'q
++++++
+“Mahsulot va xizmatlar ishlab chiqarish hajmi” ko‘rsatkichi vaqt omilining qaysi turi hisoblanadi?
+=====
+#interval.
+=====
+moment;
+=====
+to'g'ri javob yo'q
+=====
+Taqqoslash
++++++
+Turli ob'ektlarni tavsiflovchi bir xil mutlaq ko'rsatkichning nisbati nisbiy qiymat deb ataladi:
+=====
+#taqqoslashlar.
+======
+karnaylar;
+======
+tuzilmalar;
+======
+muvofiqlashtirish;
++++++
+"Qo'pol tug'ilish darajasi" nisbiy ko'rsatkichdir:
+=====
+#Intensivliklari
+=====
+karnaylar;
+=====
+tuzilmalar;
+=====
+muvofiqlashtirish;
++++++
+"Korxonaning o'z va qarz mablag'lari nisbati" ko'rsatkichi nisbiy qiymat deb ataladi:
+=====
+#koordinatsiya;
+=====
+karnaylar;
+=====
+tuzilmalar;
+=====
+intensivlik;
++++++
+Bir necha yil davomida o'rtacha yo'qotish koeffitsientini hisoblash uchun quyidagi formuladan foydalaniladi:
+=====
+#arifmetik o'rtacha
+=====
+garmonik o'rtacha
+=====
+geometrik o'rtacha
+=====
+to'g'ri javob yo'q
++++++
+Agar barcha og'irliklar ikki baravar oshirilsa, o'rtacha o'zgaradimi?
+=====
+#O'zgarmaydi;
+=====
+2 barobar oshirish;
+=====
+4 marta o'zgaradi.
+=====
+2 barobar kamayadi
++++++
+Bitta nisbat uchun o'rtachani turli shakllarda hisoblash mumkinmi:
+=====
+#taqiqlangan;
+=====
+Balki;
+=====
+qo'shimcha shartlar qo'yilsa mumkin;
+=====
+muayyan populyatsiyalar uchun mumkin
++++++
+Agar barcha variantlar 2 marta kamaytirilsa va barcha og'irliklar 2 barobar oshirilsa, garmonik o'rtacha qanday o'zgaradi:
+=====
+#2 marta kamayadi
+=====
+O'zgarmaydi;
+=====
+2 barobar ortadi;
+=====
+ortadi.
++++++
+Belgining o'rtacha qiymati 20, o'zgaruvchanlik koeffitsienti esa 25%.
+Xarakteristikaning o'zgarishi quyidagilarga teng:
+=====
+#25;
+=====
+20;
+=====
+125;
+=====
+45.
++++++
+Agar barcha variantlar 5 birlikka kamaytirilsa, o'rtacha o'zgaradimi:
+=====
+#5 birlikka kamayadi;
+=====
+variantning og'irligiga qarab ma'lum bir qiymatga kamayadi;
+=====
+O'zgarmaydi;
+=====
+5 birlikka oshadi.
++++++
+Determinatsiya koeffitsienti bu nisbat:
+=====
+jami #guruhlararo tafovut
+=====
+qoldiqdagi guruhlar orasidagi farq
+=====
+umumiy dispersiyadagi nazariy qiymatlarning farqi
 ====
-2 ta; 
+to'g'ri javob yo'q
++++++
+Bir qator dinamika xarakterlanadi:
+=====
+#populyatsiya xususiyatlarining vaqt o'tishi bilan o'zgarishi;
 ====
-4 ta; 
+kosmosdagi populyatsiya xususiyatlarining o'zgarishi;
+=====
+populyatsiyaning qandaydir belgiga ko'ra tuzilishi.
 ====
-5 ta; 
+to'g'ri javob yo'q
 +++++
-Transaksion xarajatlar bu
+Agar bir qator dinamikaning qo'shni darajalari taqqoslansa, ko'rsatkichlar deyiladi:
+=====
+#zanjirlangan.
 ====
-#tovar almashish sohasidagi xarajatlar; 
+Asosiy;
+=====
+to'g'ri javob yo'q
+=====
+dinamikasi
++++++
+O'sish sur'ati salbiy bo'lishi mumkinmi?
+=====
+#bo'lishi mumkin emas;
+=====
+ehtimol, agar indikator pasaysa.
+=====
+to'g'ri javob yo'q
+=====
+Balki
++++++
+Vaqt oralig'i teng bo'lgan intervalli dinamika seriyasining o'rtacha darajasi o'rtacha formula yordamida hisoblanadi:
+=====
+#arifmetik oddiy;
+=====
+arifmetik vaznli;
+=====
+harmonik oddiy;
+=====
+garmonik vaznli.
++++++
+Teng bo'lmagan vaqt oraliqlari bo'lgan intervalli dinamika seriyasining o'rtacha darajasi o'rtacha formula yordamida hisoblanadi:
+=====
+#arifmetik vaznli;
+=====
+arifmetik oddiy;
+=====
+harmonik oddiy;
+=====
+garmonik vaznli.
++++++
+Intervalli dinamika seriyasining o'rtacha darajasi quyidagicha aniqlanadi:
+=====
+#arifmetik o'rtacha;
+=====
+garmonik o'rtacha;
+=====
+o'rtacha xronologik.
++++++
+O'rtacha o'sish sur'ati quyidagi formula bo'yicha aniqlanadi:
+=====
+#arifmetik o'rtacha;
+=====
+garmonik o'rtacha;
+=====
+geometrik o'rtacha.
+=====
+to'g'ri javob yo'q
++++++
+Hodisa rivojlanishining asosiy tendentsiyasini aniqlash uchun quyidagilar qo'llaniladi:
+=====
+#analitik moslashtirish;
+=====
+indeks usuli;
+=====
+harakatlanuvchi o'rtacha usuli;
+=====
+korrelyatsiya tahlili.
++++++
+Asosiy tendentsiya bir qator dinamikaning o'zgarishini anglatadi:
+=====
+#taraqqiyotning qandaydir umumiy yo'nalishini belgilash.
+=====
+qator ichida ma'lum oraliqlarda teng ravishda takrorlanadi;
+=====
+to'g'ri javob yo'q
+=====
+Javob yo'q
++++++
+Tanlangan kuzatish deganda biz quyidagilarni nazarda tutamiz:
+=====
+# tasodifiy tanlangan populyatsiya birliklarining bir qismini uzluksiz kuzatish
+=====
+o'rganilayotgan aholining eng katta birliklarini o'rganish
+=====
+aholining barcha birliklarini uzluksiz kuzatish
+=====
+aholi birliklarining bir qismini qisman kuzatish
++++++
+Kuzatishning namuna olish usuli quyidagilarga asoslanadi:
+=====
+#aholi birliklarini tasodifiy tanlash;
+=====
+aholining eng muhim birliklarini tekshirish;
+=====
+aholining alohida birliklarini tekshirish;
+aholining barcha birliklarini o'rganish.
+=====
+to'g'ri javob yo'q
++++++
+O'rtacha tanlab olish xatosi quyidagilarga bog'liq:
+=====
+#tanlama populyatsiyasining xarakteristikalari qiymatlarining o'zgarishi;
+=====
+bayonotning ishonchlilik ehtimoli;
+=====
+modal interval qiymatlari
 ====
-bozorni o'rganishdagi xarajatlar; 
+to'g'ri javob yo'q
++++++
+Teng qiymatlar uchun maksimal tanlab olish xatosi quyidagi hollarda kattaroq bo'ladi:
+=====
+#qayta tanlash;
+=====
+takrorlanmaydigan tanlov.
+=====
+to'g'ri javob yo'q
+=====
+Javob yo'q
++++++
+Ketma-ket namuna olish uchun o'rtacha tanlab olish xatosini aniqlashda quyidagilar hisoblanadi:
+=====
+#guruhlararo tafovut;
+=====
+umumiy dispersiya;
+=====
+guruh farqlarining o'rtacha qiymati.
+=====
+to'g'ri javob yo'q
++++++
+Aholi ro'yxatini o'tkazishda kuzatuv ob'ekti nima?
+=====
+#mamlakatning butun aholisi;
+=====
+Inson;
 ====
-tovarlar xususiyatini aniqlash bilan bog'liq xarajatlar; 
+uy xo'jaligi;
+=====
+doimiy aholi;
++++++
+Aholining o'sish sur'ati birdan kam:
+=====
+#aholi soni kamaymoqda;
+=====
+aholi soni ortib bormoqda;
+=====
+aholi bir xil darajada qolmoqda.
+=====
+to'g'ri javob yo'q
++++++
+Iqtisodiy faol aholi tarkibiga quyidagilar kiradi:
+=====
+#ishsiz;
+======
+16 yoshgacha bo'lgan o'smirlar;
+=====
+ruhoniylar;
+=====
+kunduzgi universitet talabalari.
+=====
+to'g'ri javob yo'q
++++++
+"Umumiy nikoh darajasi " quyidagilarni tavsiflovchi ko'rsatkichlarni anglatadi:
+=====
+#tabiiy aholi harakati;
+=====
+aholining mexanik harakati.
+=====
+to'g'ri javob yo'q
+=====
+Javob yo'q
++++++
+Aholining o'rtacha yillik miqdorini hisoblash uchun qanday o'rtacha ko'rsatkich qo'llaniladi (yil boshidagi va oxiridagi raqam ma'lum)?
+=====
+#arifmetik o'rtacha oddiy;
+=====
+o'rtacha arifmetik og'irlik;
+=====
+o'rtacha xronologik;
+=====
+garmonik o'rtacha;
++++++
+Agar 1.01, 1.02, 1.03, 1.04 boʻyicha aholi soni maʼlum boʻlsa, chorakda oʻrtacha oylik aholi sonini aniqlash uchun qanday oʻrtacha koʻrsatkich qoʻllaniladi?
+=====
+#o'rta xronologik;
+=====
+arifmetik o'rtacha;
+=====
+garmonik o'rtacha;
 ====
-o'zaro kelishuv va uchrashuvlar bilan bog'liq xarajatlar; 
+geometrik o'rtacha.
 +++++
-Agar 10 ta soat isblab chiqarish o'rniga bir kunda 20 ta soat ishlab chiqarish imkoni bo'lsa, sumka ishlab chiqarishning soat ishlab chiqarish bilan  bog'liq chekli transformatsiya koeffitsiyent qanday bo'ladi? 
+“Iqtisodiy faol aholi” bu:
+=====
+#ishli va ishsizlar.
+=====
+mehnat resurslari;
 ====
-#2; 
-====
- -2; 
-====
-1 
-====
-0,25; 
+mehnatga layoqatli aholi;
+=====
+Band
 +++++
-Fermer har yili 100 t paxta va 300 t bug'doy yetishtiradi. Fermer uchun I t paxta yetishtirishning muqobil xarajati 4 t bug'doyni yetishtirish xarajatiga teng. Fermer barcha imkoniyatlarini paxta yetishlirishga qaratsa, davlatga maksimal necha tonna paxta topshira oladi? 
-====
-#175 I; 
-====
-150 t; 
-====
-200 t; 3
-====
-250 t; 
-+++++ 
-…….. iste’molchi tomonidan tovarga to’lashi mumkin bulgan maksimal narx bilan tovarning haqiqiy narxi o’rtasidagi farqni bildiradi.
+Iqtisodiy faol aholi darajasi iqtisodiy faol aholi soniga nisbati sifatida aniqlanadi:
 =====
-#iste’molchi ortiqchaligi
+#o'rtacha aholi soniga;
 =====
-iste’molchi kamligi
+band aholiga.
 =====
-bozor muvoznati
+to'g'ri javob yo'q
 =====
-tovar taqchilligi
+Javob yo'q
 +++++
-………ishlab chiqaruvchi tomonidan olingan umumiy manfaatni bildiradi.
+Ishsizlik darajasi ishsizlar soniga nisbati sifatida aniqlanadi:
 =====
-#ishlab chiqaruvchi ortiqchaligi
+#iqtisodiy faol aholi soniga;
 =====
-ishlab chiqaruvchi kamligi
+umumiy aholi soniga;
 =====
-to’yinmagan bozor
+xodimlar soniga
 =====
-to’yinmagan bozor
+to'g'ri javob yo'q
 +++++
-Davlatning bozor narxiga ta’sir qilish siyosatidan biri bu ......
+Agar mahsulot ishlab chiqarish 4 marta, ishchilar soni 2 barobar oshsa, mehnat unumdorligi necha marta o'zgaradi?
 =====
-#ishlab chiqarishni cheklash
+#2 marta;
 =====
-ishlab chiqarishni ko’paytirish
+8 marta;
 =====
-dotatsion narxlarni qo’llash
+0,5 marta.
 =====
-Narxlarni tushirish
+to'g'ri javob yo'q
 +++++
-Jamiyat uchun ishlab chiqarish, taqsimlash, ayirboshlash va iste’mol fazalari uchun xizmat qiladigan iqtisodiy mexanizm bu ……..
+Asosiy vositalardan foydalanish samaradorligi quyidagi ko'rsatkichlar bilan tavsiflanadi:
 =====
-#bozor
+# kapital zichligi ;
 =====
-korxona
+yangilanish omili;
 =====
-narx
+likvidlik koeffitsienti;
 =====
-talab
+kapital aylanmasi ;
+=====
+Aylanma mablag'lar aylanmasini qaysi ko'rsatkichlar tavsiflashini ko'rsating:
+=====
+#bir inqilobning davomiyligi;
+=====
+material iste'moli;
+=====
+likvidlik koeffitsienti;
+=====
+kapital zichligi ;
 +++++
-…….. bu bitta sotuvchi va ko’p haridorlar qatnashgan bozor, yoki o’rnini bosadigan tovar bo’lmagan tovarni sotadigan yagona sotuvchi bulgan bozor vaziyati.
+Asosiy vositalarni takror ishlab chiqarish xarajatlari quyidagilar bilan tavsiflanadi:
 =====
-#Sof monopoliya
+#to'liq almashtirish narxi;
 =====
-Oligapoliya
+qoldiq almashtirish qiymati;
 =====
-Monopsoniya
+to'liq asl qiymati;
 =====
-Monopoliya
+qoldiq asl qiymati.
 +++++
-… bu bozor tizimida biror bir tovarni sotishda cheklangan firmalar xukmronlik qilishi.
+Quyidagi elementlardan qaysi biri moddiy asosiy vositalarga tegishli ekanligini ko‘rsating:
 =====
-#Oligopoliya
+#avtomobillar va jihozlar;
 =====
-Sof monopoliya
+savdo belgisi;
 =====
-Monopsoniya
+foydali qazilmalarni qidirish xarajatlari;
 =====
-Monopoliya
+kompyuter dasturi.
 +++++
-……... to’liq raqobatlashmagan bo’-lib, unda qatnashadigan fir-malar soni ko’p bulib, ular-ning har biri uz tovarlari narxini ma’lum chegara da nazorat qiladi.
+Quyidagi iqtisodiy aktivlardan qaysi biri milliy boylik tarkibiga kirmaydi:
 =====
-#Monopol rakobat bozor
+#inson kapitali;
 =====
-Erkin bozor
+Asosiy vositalar;
 =====
-Oligapollashgan bozor
+inventarizatsiya;
 =====
-Barcha javob hato
+ishlab chiqarilmagan moddiy boyliklar;
 +++++
-... yordamida davlatning iqtiso-diy siyosatini baholash mumkin.
+Asosiy vositalarni to'liq tiklash qiymati bo'yicha baholash nimani aks ettiradi:
 =====
-#Iste’molchi va ishlab chiqaruvchi ortiqchaligi
+#asosiy vositalarni ma'lum bir vaqtda takror ishlab chiqarish xarajatlari;
 =====
-Davlat g’aznasi
+asosiy vositalarni ishga tushirish vaqtidagi haqiqiy qiymati;
 =====
-Bozorlar holati
+kitob qiymati;
 =====
-Iqtisodiy o’sish
+yil oxiridagi qiymat.
 +++++
-Bozor kaysi xolatda samara-li faoliyat ko’rsatadi.
+Asosiy vositalar tarkibiga nimalar kiritilganligini ko'rsating:
 =====
-#Erkin holatida
+#kompyuter dasturiy ta'minoti.
 =====
-Monopol holatida
+tugallanmagan ishlab chiqarish;
 =====
-Oligapol holatida
+tayyor mahsulotlar;
 =====
-Barcha holatlarda
+to'g'ri javob yo'q
 +++++
-Quyidagilarda chekli daromad bozor narxidan past bo’lmaydi.
+Asosiy vositalardan foydalanish samaradorligi quyidagi ko'rsatkichlar bilan tavsiflanadi:
 =====
-#Monopollarda
+#foydalanish;
 =====
-Mukammal raqobatchilarda
+kapital zichligi ;
 =====
-Oligapollarda
+yangilanish omili;
 =====
-barchasida
+kapital-mehnat nisbati ;
 +++++
-Oligapoliya so`zi qaysi tildan olingan
+Tovar va xizmatlar bozorining rivojlanish tezligini o'rganish uchun quyidagilardan foydalaning:
 =====
-#Grekcha
+#dinamik qator ko'rsatkichlari.
 =====
-Lotincha
+narx indekslari;
 =====
-Inglizcha
+o'rtacha quvvat ko'rsatkichlari;
 =====
-fransuzcha
+tizimli o'rtacha ko'rsatkichlar;
 +++++
-Raqobatlashuvchi firmaga nisbatan monopolist ish xaqini qanday to’laydi ?
+Talab va taklifning mavsumiy tebranishlarini o'rganish uchun quyidagilardan foydalaning:
 =====
-#ishchi kuchini kup yollagan holda, ish xaqini xam kup tulaydi.
+#mavsumiylik indeksi
 =====
-ishchi kuchini kam yollagan holda, ish haqini xam kam tulaydi
+tovar aylanmasining jismoniy hajmi indeksi;
 =====
-ishchi kuchini kup yollagan holda, ish xaqini kam tulaydi;
+vaqt seriyalari ko'rsatkichlari;
 =====
-ishchi kuchini kam yollagan holda, ish haqi stavkasini yukori tulaydi
+o'rtacha xronologik ko'rsatkichlar
 +++++
-Qaysi xollarda firma iste’molchi ortiqchaligini to’liq egallashi mumkin.
+Tovar va xizmatlar bozori holatini tavsiflovchi ko'rsatkichlarni belgilang:
 =====
-#monopollashgan bozor sharoitida
+#bozor muvozanatining darajasi;
 =====
-narx diskrinimasiyasini qo’llanilganda
+mahsulot turi
 =====
-yalpi foydani maksimallashtirsa
+bozor xavfi darajasi;
 =====
-barcha javob hato
+to'g'ri javob yo'q
 +++++
-……. ishlab chiqaruvchi tomonidan olingan umumiy manfaatni bildiradi.
+Agar mahsulot ishlab chiqarish 4 marta, ishchilar soni 2 barobar oshsa, mehnat unumdorligi necha marta o'zgaradi?
 =====
-#Ishlab chiqaruvchi ortikchaligi
+#2 marta;
 =====
-Ishlab chiqaruvchi kamligi
+8 marta;
 =====
-To’yinmagan bozor
+0,5 marta.
 =====
-To’yinmagan bozor
+to'g'ri javob yo'q
 +++++
-……. ishlab chiqarish omillaridan foydalangan xolda maxsulot yaratish jarayonini yoki ishlab chiqarish omillarini tayyor maxsulotga aylantirish jarayoni.
+Korxona aylanma mablag'larining aylanish koeffitsientini hisoblashda foydalaniladigan mahsulot ko'rsatkichi:
 =====
-#Ishlab chiqarish
+#sotilgan mahsulotlar hajmi;
 =====
-Foyda olish
+yalpi qo'shilgan qiymat;
 =====
-Raqobat
+mahsulot (ishlar, xizmatlar) hajmi;
 =====
-Tog’ri javob yo’q
+yalpi ishlab chiqarish.
 +++++
-…- ishlab chiqarish xajmi o’zgarmaganda bir birlik X omilini necha birlik Y omil bilan almashtirish mumkinligini ko’rsatadi.
+Aylanma mablag'lardan foydalanish samaradorligi quyidagilar bilan tavsiflanadi:
 =====
-#Chekli texnologik almashtirish normasi
-=====
-Daromad
-=====
-Narx shakllanishi
-=====
-Tog’ri javob yo’q
-+++++
-…- bu uzgaruvchan resurslar kombinasiyasini kichik mikdorda ko’shimcha sarfi xisobidan umumiy maxsulotning o’sgan kismiga aytiladi.
-=====
-#Chekli maxsulot
-=====
-Zaruriy mahsulot
-=====
-Ortiqcha mahsulot
-=====
-Tog’ri javob yo’q
-+++++
-…… bir xil xajmda maxsulot ishlab chiqarishni ta’minlovchi omillar sarflari kombinasiyalarini ifodalovchi egri chizik.
-=====
-#Izokvanta
-=====
-Daromad
-=====
-Taklif
-=====
-Tog’ri javob yo’q
-+++++
-……. yigindisi bir xil yalpi xarajatga teng bulgan resurslar sarflari kombinasiyalarini ifodalovchi chizik.
-=====
-#Izokosta
+#aylanma koeffitsienti, bir aylanishning o'rtacha davomiyligi;
 =====
 Foyda
 =====
-Xarajatlar
+kapital- mehnat nisbati;
 =====
-Tog’ri javob yo’q
+Kapital unumdorligi
 +++++
-…- ishlab chiqarilgan maxsulot mikdori bilan shu maxsulotni ishlab chiqarishda sarflangan ishlab chiqarish omillari mikdori urtasidagi bog’liqlikni ifodalovchi funksiya .
+O‘zbekiston Respublikasi aholisi daromadlari tarkibida eng katta ulush quyidagilarga to‘g‘ri keladi:
 =====
-#Ishlab chiqarish funksiyasi
+#ish haqi;
 =====
-Taklif funksiyasi
+tadbirkorlik faoliyatidan olingan daromadlar;
+====
+mulkdan daromad.
 =====
-Talab funksiyasi
+to'g'ri javob yo'q
++++++
+Iqtisodiyotning quyidagi tarmoqlari haqiqiy yakuniy iste'molga ega:
+=====
+#uy xo'jaliklari, davlat idoralari, uy xo'jaliklariga xizmat ko'rsatuvchi notijorat tashkilotlari;
+=====
+uy xo'jaliklari, davlat organlari;
+=====
+milliy iqtisodiyotning barcha tarmoqlari.
+=====
+to'g'ri javob yo'q
++++++
+Inson taraqqiyoti indeksi quyidagi ko'rsatkichlarga tegishli:
+=====
+#aholi turmush darajasining umumlashtiruvchi ko'rsatkichlari;
+=====
+aholi daromadlarining kontsentratsiyasi;
+=====
+aholi xarajatlari.
+====
+to'g'ri javob yo'q
++++++
+Tashqi savdo bojxona statistikasi bo'yicha ma'lumotlarning asosiy manbai quyidagilardan iborat:
+=====
+#yuk bojxona deklaratsiyasi;
+=====
+bojxona organlarining hisobotlari;
+=====
+tashqi iqtisodiy faoliyat ishtirokchilarining hisoboti.
+=====
+to'g'ri javob yo'q
++++++
+Bojxona statistikasi ma'lumotlariga ko'ra tovarlarni import qilish qiymatiga quyidagilar kiradi:
+=====
+#bojxona to'lovlarini to'lamagan holda tovarlarni ishlab chiqarish va import qiluvchi davlat chegarasiga yetkazish bilan bog'liq xarajatlar;
 =====
-Tog’ri javob yo’q
+tovarlarni ishlab chiqarish va eksport qiluvchi davlat chegarasiga yetkazish bilan bog'liq xarajatlar;
+=====
+tovarlarni ishlab chiqarish va import qiluvchi davlat chegarasiga yetkazish, shu jumladan bojxona to‘lovlarini to‘lash bilan bog‘liq xarajatlar.
+=====
+to'g'ri javob yo'q
 +++++
-……. bu ishlab chiqarish masshtabining kengayishi sur’ati bilan maxsulot ishlab chiqarishni o’sish sur’ati o’rtasidagi bog’liqlikni ifodalaydi.
+Tovarlar eksporti va importini baholash quyidagilar bo'yicha amalga oshiriladi:
 =====
-#Masshtab samarasi
+#statistik qiymat;
 =====
-Foyda samarasi
+bojxona qiymati;
 =====
-Daromad samarasi
+faktura qiymati.
 =====
-Tog’ri javob yo’q
+to'g'ri javob yo'q
 +++++
-…… bosqichma-bosqich asosiy kapital qiymatining ma’lum bir qismini ishlab chiqariladigan maxsulot qiymatiga o’tkazish yo’li bilan uni qoplash
+Joriy obligatsiya daromadi quyidagicha hisoblanadi:
 =====
-#Amortizasiya
+#muayyan davr mobaynida olingan daromadning obligatsiyaning bozor narxiga nisbati sifatida
 =====
-Kapital
+ma'lum bir vaqtda bozor narxining nisbati sifatida;
 =====
-Foyda normasi
+obligatsiyaning nominal qiymatining mahsuloti;
 =====
-Tog’ri javob yo’q
+chiqarish vaqtida tayinlangan.
 +++++
-……. bu ishlab chiqarish resurslari egalarining karorlarini va manfaatlarini muvofiklashtiruvchi institusional tuzilma xisoblanadi.
+"Statistika" atamasi nimani anglatadi?
+=====
+#holat, narsalarning holati.
 =====
-#Firma (korxona)
+uy boshqaruvi
 =====
-Mas’uliyati cheklanmagan jamiyat
+sifat ko'rinishlarining xilma-xilligi
 =====
-Korporasiya
+hammasi noto'g'ri
 =====
-Tog’ri javob yo’q
 +++++
-…-…..firmani birgalikda tashkil kilib, birgalikda egalik kiluvchi va boshkaruvchi shaxslar guruxi bo’lib, ular firmaning barcha majburiyatlari buyicha to’lik javobgarlikni cheklanmagan ravishda o’zlarining zimmalariga oladilar.
+Statistik ko'rsatkich:
 =====
-#Mas’uliyati cheklanmagan jamiyat
+#miqdoriy baholash.
 =====
-Firma (korxona)
+daraja
 =====
-Korporasiya
+nisbiy ball
 =====
-Tog’ri javob yo’q
+hammasi noto'g'ri
 +++++
-……. paychilikka asoslangan jamiyat bo’lib, xar bir mulk egasining mas’uliyati ushbu korxonaga ko’shgan xissasi bilan cheklangan.
+Statistik agregat quyidagicha:
 =====
-#Korporasiya
+#ijtimoiy-iqtisodiy hodisalarning rivojlanish qonuni.
 =====
-Firma (korxona)
+Nazariy fan
 =====
-Mas’uliyati cheklanmagan jamiyat
+o'rganilayotgan hodisaning birliklari
 =====
-Tog’ri javob yo’q
+hammasi noto'g'ri
 +++++
-……. bu shunday vakt oraligiki, firma bu oralikda faoliyat ko’rsatganda, u ishlab chiqarish omillaridan kamida bittasining xajmini o’zgartira olmaydi.
+Statistik ma'lumotlar quyidagilardan iborat:
 =====
-#Qisqa muddatli oraliq
+#statistik ma'lumotlar.
 =====
-Bazis oraliq
+kuzatuv
 =====
-Uzoq muddatli oraliq
+statistik tadqiqot
 =====
-Tog’ri javob yo’q
+hammasi noto'g'ri
 +++++
-……. bu oraliqda firma ishlab chiqarishda foydalanayotgan barcha ishlab chiqarish omillari xajmini (ishlab chiqarish quvvatini xam) o’zgartiradi.
+Statistik kuzatish quyidagi talablarga javob berishi kerak:
 =====
-#Uzok muddatli oraliq
+#ishonchlilik, samaradorlik va ommaviy jozibadorlik
 =====
-Bazis oraliq
+maxfiylik.
 =====
-Qiska muddatli oraliq
+Yolg'on
 =====
-Tog’ri javob yo’q
+hammasi noto'g'ri
 +++++
-…- bu qisqa muddatli oraliqda maxsulot ishlab chiqarish xajmiga bog’liq bo’lmagan xarajatdir
+kuzatish sodir bo'ladi:
 =====
-#O’zgarmas xarajat
+#uzluksiz, uzluksiz, bir martalik oqim, davriy, bir martalik.
 =====
-Qo’shimcha xarajat
+bir marta
 =====
-Ortiqcha xarajat
+idoraviy
 =====
-Tog’ri javob yo’q
+hammasi noto'g'ri
+++++
+Asosiy massiv usuli quyidagilardan iborat:
+=====
+#o'rganilayotgan belgining qiymati ustun bo'lgan populyatsiya birliklarining qismi ekspertizadan o'tkaziladi.
+=====
+xarakteristikasi tanlangan aholining bir qismi uchun berilgan
+=====
+ixtiyoriy to'ldirish tamoyiliga asoslangan
+=====
+hammasi noto'g'ri
 +++++
-…… maxsulot ishlab chiqarish xajmiga bog’liq bo’lgan xarajat, ya’ni masulot xajmi oshganda yoki kamayganda o’zgaradigan xarajat.
+Kuzatuvdan maqsad nima?
 =====
-#O’zgaruvchan xarajat
+#statistik tadqiqotlar natijasi.
 =====
-O’zgarmas xarajat
+ob'ekt ta'rifi
 =====
-Qo’shimcha xarajat
+maqsadlarni shakllantirish
 =====
-Tog’ri javob yo’q
+hammasi noto'g'ri
 +++++
-…… qisqa muddatli orliqda ma’lum miqdorda mahsulot ishlab chiqarish uchun sarflangan o’zgarmas va o’zgaruvchan xarajatlarning yigindisi
+statistik shakl:
 =====
-#Umumiy xarajatlar
+#statistik ma'lumotlar
 =====
-O’zgaruvchan xarajat
+matematik tadqiqotlar
 =====
-Qo’shimcha xarajat
+muayyan shakllarning shakllari
 =====
-Tog’ri javob yo’q
+hammasi noto'g'ri
 +++++
-…… ishlab chiqarish xajmini kichik miqdorga (odatda bir birlikka) oshirish bilan bog’liq bo’lgan ko’shimcha umumiy xarajatdir
+xatolar yuzaga keladi:
 =====
-#Chekli xarajat
+#kuzatish vaqtida noto'g'ri yozib olinganligi sababli.
 =====
-Daromad
+hisoblash tufayli
 =====
-Umumiy xarajatlar
+buzilishi tufayli 
 =====
-Tog’ri javob yo’q
+hammasi noto'g'ri
 +++++
-Mahsulotlarni sotishdan tushgan tushum…
+Vakillik xatolari quyidagilardan iborat :
 =====
-#Daromad
+#vakillikdagi xatolar
 =====
-Sof foyda
+hisobotlardagi buzilishlar
 =====
-Foyda normasi
+tasodifiy xatolar
+======
+hammasi noto'g'ri
++++++
+Tizimli xatolar mavjud:
+=====
+# qasddan, qasddan .
 =====
-Tog’ri javob yo’q
+tasodifiy
+=====
+maxsus
+=====
+hammasi noto'g'ri
 +++++
-Bir birlik mahsulotni sotishdan kelgan daromadga…
+Mantiqiy nazorat quyidagilardan iborat:
 =====
-#O’rtacha daromad
+#javoblarni mantiqiy nuqtai nazardan tekshirish.
 =====
-Daromad
+arifmetik hisoblash
 =====
-Sof foyda
+doimiy ma'lumotlarni namuna olish
 =====
-Tog’ri javob yo’q
+hammasi noto'g'ri
 +++++
-……..mhxsulotni sotishdan tushgan tushumdan ushbu maxsulotlarni ishlab chiqarish uchun ketgan yalpi xarajatni (tashki xarajatni) ayrilganiga teng.
+Monografik tadqiqot nima?
 =====
-#Foyda
+#agregat birliklarni batafsil, chuqur o'rganish
 =====
-Daromad
+aholining bir qismi uchun
 =====
-Chekli xarajat
+ro'yxatga olish o'lchov bilan amalga oshiriladi
 =====
-Tog’ri javob yo’q
+hammasi noto'g'ri
 +++++
-…-…Qo’yilgan maqsadga erishishdagi yo’qotishlar.
+Anketa nima?
 =====
-#Tavakkalchilik (risk)
+#kuzatish, unda o'rganilayotgan savollarga javoblar suhbatdoshning so'zlaridan yozib olinadi
 =====
-Ehtimol
+respondentlarning o'zlari tomonidan to'ldiriladi
 =====
-Chetlanish
+kuzatuv olib borayotgan muxbirlar tomonidan taqdim etilgan ma'lumotlar
 =====
-Tog’ri javob yo’q
+hammasi noto'g'ri
 +++++
-Kutiladigan daromadda kafolatlangan natijaga ko’ra ko’prok tavakalchilik bilan bog’liq bo’lgan natijani ustun ko’radigan shaxs…
+Statistik fan va amaliyot o'rtasida bog'liqlik bormi?
 =====
-#Tavakkalchilikka moyil shaxs
+#yaqin aloqa va o'zaro bog'liqlik
 =====
-Tavakkalchilikka karshi inson
+Yo'q
 =====
-Tavakkalchilikka befark karovchi shaxs
+kamdan-kam hollarda
 =====
-Tog’ri javob yo’q
-++++++
-Chekli o’zgaruvchan xarajat
+hammasi noto'g'ri
++++++
+statistik ma'lumotlar:
 =====
-#MVC
+#ijtimoiy hayot hodisalarini miqdoriy tomondan oʻrganuvchi fan
 =====
-TC
+uslubiy asos
 =====
-AFC
+ma'lumotlar yig'ish
 =====
-Tog’ri javob yo’q
+hammasi noto'g'ri
 +++++
-…oldin kilingan xarajatlar bulib, ularni kaytadan tiklash mumkin emas.
+Ilgari statistik ma'lumotlarning nomi nima edi?
 =====
-#Qaytarilmaydigan xarajatlar
+#siyosiy arifmetika
 =====
-Ortiqcha xarajatlar
+Statistika
 =====
-Zaruriy xarajatlar
+Kompyuter fanlari
 =====
-Tog’ri javob yo’q
+hammasi noto'g'ri
 +++++
-……. yo’qotishlar su gurta kompaniyasi tomonidan to’lik qoplanishiga ishonch hosil qilgan holda, vujudga kelishi mumkin bo’lgan yo’qotishlar yehtimolini ongli ravishda oshirib ko’rsatishga intiluvchi shaxsning xatti-xarakati.
+Statistika zamonaviy fanmi yoki ko'p asrlik tarixga egami?
 =====
-#Ma’naviy tavakkalchilik
+#asrlik tarixga ega
 =====
-Zaruriy tavakkalchilik
+ha, zamonaviy
 =====
-Tavakkalchiliklarni qo’shish
+u har doim u erda edi
 =====
-Tog’ri javob yo’q
+hammasi noto'g'ri
 +++++
-.......iqtisodiy faoliyatdagi asosiy maqsadlardan bulib, u aholi jon boshiga ijtimoiy mahsulot miqdorining o’sishi, ularnig turmush darajasini o’sganligini ko’rsatadi.
+Bir hil bo'linish sodir bo'lgan guruhlash
+agregatlarni guruhlarga ajratish deyiladi:
 =====
-#Iqtisodiy o’sish
+#tipologik guruhlash
 =====
-Muvozanatlashgan baho deb
+tarkibiy guruhlash
 =====
-Iqtisodiy bazis tushunchalar deb
+analitik guruh
 =====
-Funksiya
+birlashtirilgan
 +++++
-Xar qanday davlatning iqtisodiy o’sishida nichta omil bor
+Bajarish texnikasiga ko'ra statistik xulosa quyidagilarga bo'linadi:
 =====
-#6
+#oddiy va murakkab uchun.
 =====
-8
+markazlashmagan
 =====
-5
+mexanizatsiyalashgan
 =====
-7
+avtomatlashtirilgan
+++++
+Guruhlashning asosi quyidagilar bo'lishi mumkin:
+=====
+#ham sifat, ham miqdoriy xarakteristikalar;
+=====
+sifat belgisi
+=====
+miqdoriy xususiyat
+=====
+Atributiv
 +++++
-…-uni o’rganish faoliyatining shakllari, usullari va ularning bog’liqligi tushuniladi
+Mavzuning rivojlanish xususiyatiga ko'ra statistik jadvallar ajratiladi:
+=====
+#oddiy.
 =====
-#Fanni o’rganish uslubi (metodologiyasi) deganda
+Roʻyxatga kiritilgan
 =====
-Ne’matlar noyobligi
+Kombinativ
 =====
-Real ehtiyoj
+Xronologik
+++++
+O'zgaruvchi bilan dinamikaning nisbiy ko'rsatkichini olish
+i davr uchun taqqoslash uchun quyidagilar zarur:
 =====
-Alternativ harajatlar
+#joriy ko'rsatkichni asosiy ko'rsatkichga bo'ling.
+=====
+i-chi va (i - 1) davrlar uchun doimiy taqqoslash bazasi bilan nisbiy dinamika ko'rsatkichlarini ko'paytirish
+=====
+i-davr uchun doimiy taqqoslash bazasi bilan dinamikaning nisbiy ko'rsatkichini davr uchun o'xshash ko'rsatkichga bo'lish (i - 1)
+=====
+i-davr uchun doimiy taqqoslash bazasi bilan dinamikaning nisbiy ko'rsatkichini davr uchun o'xshash ko'rsatkichga bo'lish (i + 1)
 +++++
-…-bu sotuvchilar va xaridorlar o’rtasidagi mahsulot sotish va sotib olish bo’yicha erkin munosabatlar tizimidir
+Korxona tomonidan ishlab chiqarish rejasini bajarishning nisbiy ko‘rsatkichi 107 foizni tashkil etdi, ishlab chiqarish hajmi esa o‘tgan davrga nisbatan 5 foizga oshdi. Rejaga nima kiritilgan:
 =====
-#bozor
+# ishlab chiqarish hajmining o'sishi.
 =====
-firma
+ishlab chiqarish hajmining pasayishi
 =====
-auksion
+javob berish mumkin emas
 =====
-Talab va taklif
+Ishlab chiqarish hajmining kamayishi yoki ko'payishi nazarda tutilmaganmi?
 +++++
-……bu biror tovar yoki resurs xajmining ma’lum vaqt oraligida chegaralanganligidir
+Og'irlangan va tortilmagan o'rtacha qiymatlar qachon teng bo'ladi?
+o'zingiz:
 =====
-#Ne’matlar noyobligi
+#tarozi yo'qligida.
 =====
-Real ehtiyoj
+agar og'irliklar teng bo'lsa
 =====
-Iqtisodiy ehtiyoj
+og'irliklarning yo'qligi yoki tengligi
 =====
-Iqtisodiy ne’mat
+javob berish mumkin emasmi?
 +++++
-………mikroiqtisodiy jarayonlarda qatnashadigan iqtisodiy tushunchalarga aytiladi.
+Garmonik o'rtacha qanday hollarda qo'llaniladi:
 =====
-#Iqtisodiy bazis tushunchalar deb
+#nisbatning soni ham, maxraji ham qachon ma'lum bo'ladi?
 =====
-Katigorea tushunchalar deb
+hisoblagich noma'lum bo'lganda
 =====
-Daromat tushunchalar deb
+maxraj noma'lum bo'lganda
 =====
-Alternativ tushunchalar deb
+javob berish mumkin emas
+=====
 +++++
-……..shaxsni, korxonani yoki jamiyatni faoliyat ko’rsatishi va rivojlanishini ta’minlab turishga undovchi zaruriyat, iqtisodiy faoliyatga undaydigan ichki kuch tushuniladi.
+Barcha chastotalar ga kamaytirilsa, o'rtacha o'zgaradimi
+ba'zi doimiy qiymat:
 =====
-#Iqtisodiy ehtiyoj
+#O'zgartirish
 =====
-Real ehtiyoj
+O'zgarmaydi
 =====
-Iqtisodiy ne’mat
+Kamayadi
 =====
-Alternativ harajatlar
+oshadimi?
 +++++
-… - ushbu ehtiyojni qondirish uchun shaxsning daromadi yetarli bo’lishi taqozo qilinadi.
+Eng ko'p uchraydigan statistik populyatsiya xarakteristikasining qiymati deyiladi:
 =====
-#Real ehtiyoj
+#arifmetik o'rtacha og'irlik
 =====
-Iqtisodiy ehtiyoj
+vaznli geometrik o'rtacha
 =====
-Iqtisodiy ne’mat
+Moda
 =====
-Iqtisodiy ne’mat
+Median
 +++++
-……..bu ehtiyojni qondirish vositasi
+Statistikada median xarakteristikaning qiymati hisoblanadi
 =====
-#Iqtisodiy ne’mat
+#to'plangan chastotalar yig'indisi bo'yicha tartiblangan qatorning o'rtasida
 =====
-Real ehtiyoj
+aholining 25 foizini ajratib turadi
 =====
-Muvozanat narx
+eng keng tarqalgan
 =====
-Alternativ harajatlar
+eng yuqori qadriyatlar bilan
 +++++
-Bir-birini o’rnini bosuvchi ne’matlar bu …
+Hisoblash uchun geometrik o'rtacha qiymat qo'llaniladi:
 =====
-#bir xil ehtiyojni kondiruvchi ne’matlardir.
+#ma'lum bir davr uchun o'rtacha stavkalar
 =====
-o’zaro bir-birini to’ldiruvchi ne’matlar
+kvadratik funksiyalar ko'rinishidagi o'rtachalar
 =====
-tadbirkorlik qobiliyati
+teskari ko'rsatkichlar ko'rinishidagi o'rtacha qiymatlar
 =====
-foydali harakat
+individual qiymatlar bilan ifodalangan aholi o'rtacha ko'rsatkichlari
 +++++
-……. bu shaxsni yoki ishlab chiqarish ehtiyojini komplektlarda qondiradigan
+Garmonik o'rtacha quyidagi hollarda qo'llaniladi:
 =====
-#O’zaro bir-birini to’ldiruvchi ne’matlar
+#individual qiymatlar teskari funktsiya sifatida ifodalanadi
 =====
-Iqtisodiy ne’mat
+individual qiymatlar teskari ko'rsatkichlar shaklida ifodalanadi
 =====
-Real ehtiyoj
+individual qiymatlar turli chastotalarga ega
 =====
-Iqtisodiy ehtiyoj
+individual qiymatlar quvvat funktsiyasi bilan ifodalanadi
 +++++
-……o’ziga xos bo’lgan shunday inson resursi tushuniladiki, u o’zidan boshqa ishlab chiqarish resurslaridan samarali foydalana olish qobiliyatini mujassamlashtiradi.
+Nisbiy intensivlik ko'rsatkichi quyidagilarni tavsiflaydi:
 =====
-#Tadbirkorlik qobiliyati
+#o'rganilayotgan jarayonning muhitda tarqalish darajasi
 =====
-Iqtisodiy agentlardir
+bir xil mutlaq ko'rsatkichlarning nisbati
 =====
-foydali harakat
+o'rganilayotgan loyihaning tarkibiy qismlari o'rtasidagi munosabatlar
 =====
-Ishchi kuchi
+joriy va asosiy ko'rsatkichlar nisbati
 +++++
-……. tovarlarni pulga ayirboshlash normasidir.
+Variant - bu ...
 =====
-#baho
+#vaqt davomida ommaviy hodisalarning o'zgarishi
 =====
-narx
+statistik aholi tarkibining o'zgarishi
 =====
-naflik
+xarakterli qiymatlarning o'zgarishi
 =====
-ehtiyoj
+aholi tarkibining o'zgarishi
 +++++
-.......mahsulot ishlab chiqarish uchun qilingan sarflar.
+O'zgaruvchanlik koeffitsienti nima bilan tavsiflanadi:
 =====
-#Xarajatlar
+#xususiyatning o'zgaruvchanlik diapazoni
 =====
-Muvozanat narx
+xususiyatning o'zgaruvchanlik darajasi
 =====
-Alternativ harajatlar
+xususiyatlar o'rtasidagi yaqin aloqa
 =====
-Real ehtiyoj
+belgining o'zgaruvchanlik chegaralari ?
 +++++
-...- bu ishlab chiqaruvchilar va sotuvchilar tomonidan berilgan narxlarda sotilishi mumkin bulgan tovarlar mikdori.
+Agar atributning barcha qiymatlari 16 marta oshirilsa, dispersiya ...
 =====
-#Taklif
+#O'zgarmaydi
 =====
-Taklif qonuni
+16 barobar ortadi
 =====
-Taklif chizig’i
+256 barobar ortadi
 =====
-Talab chizig’i
+4 barobar ortadi
 +++++
-... - berilgan narxlarda haridorlar tomonidan sotib olinishi mumkin bulgan tovarlar mikdori.
+Guruhlararo dispersiya qanday bo'ladi, agar ular orasida farq bo'lmasa
+Guruhlardagi variantlar:
 =====
-#Talab
+#birlik
 =====
-Talab chizig’i
+nol
 =====
-Talab qonuni
+Noldan birgacha o'zgaradi
 =====
-Shaxs talabi
+umumiy farq?
 +++++
-...- to’g’ridan-to’g’ri narx o’zgarishi bilan bogliq xolda taklifning o’zgarishi.
+Ijtimoiy statistika nima qiladi?
 =====
-#Taklif qonuni
+#Ijtimoiy statistika jamiyatning ijtimoiy va demografik tuzilishining miqdoriy xususiyatlarini, odamlar hayoti va faoliyatini, davlat va huquq bilan munosabatlarini oʻrganadi.
 =====
-Talab chizig’i
+Ijtimoiy statistika materiallarni tadqiq qilish va qayta ishlash uchun maxsus metodologiyani ishlab chiqadi
 =====
-Talab qonuni
+Ijtimoiy statistika ma'lumotlarni to'plashda amaliy inson faoliyatining alohida turidir
 =====
-Shaxs talabi
+Ijtimoiy statistika - bu korxonalar tomonidan hisobot hujjatlarida taqdim etiladigan aniq ma'lumot
 +++++
-... - narxdan tashqari boshqa omillar o’zgarmaganda talab mikdori bilan narx o’rtasidagi teskari bog’liqlik.
+Ijtimoiy statistikaning tadqiqot ob'ektlari ...
 =====
-#Talab qonuni
+#individual ob'ekt va jamoa ob'ekti (oila, yakka tartibdagi fermer xo'jaliklari)
 =====
-Shaxs talabi
+iqtisodiy hodisalarning miqdoriy xarakteristikalari
 =====
-Talab chizig’i
+maxsus ma'lumot ma'lumotlari
 =====
-Taklif chizig’i
+odamlarning xatti-harakati
 +++++
-...- bitta iste’molchining tovarga bo’gan talabi.
+Ijtimoiy statistika bo'limlariga tegishli bo'lgan variantlardan tanlang.
 =====
-#Shaxs talabi
+#aholi statistikasi, aholi statistikasi va
+demografik statistika
 =====
-Talab chizig’i
+moliyaviy statistika, ta'lim darajasi statistikasi
 =====
-Taklif chizigi
+uy-joy sharoitlari statistikasi
 =====
-Talab qonuni
+tabiiy resurslar va atrof-muhitni muhofaza qilish statistikasi
 +++++
-...- tovar narxi bilan sotib olinadigan ushbu tovar mikdori o’rtasidagi bog’liqlikni ifodalovchi egri chiziq.
+Bo'sh vaqt statistikasi
 =====
-#Talab chizig’i
+#statistika sohasi boʻlib, u maʼlum bir davrda (yoki ularning guruhlari) oʻz vaqtini qanday taqsimlashi va oʻtkazishini tavsiflaydi.
 =====
-Shaxs talabi
+ta'minot tomondan dam olish xizmatlarining xususiyatlari
+======
+odamlarni o'rganadigan statistika bo'limi
 =====
-Talab qonuni
+ijtimoiy guruhlarning raqamli ma'lumotlari
 =====
-Taklif chizig’i
 +++++
-...- tovar narxi bilan taklif kilinadigan ushbu tovar mikdori o’rtasidagi bog’liqlikni ifodalovchi egri chizik.
+Turmush darajasi bo'yicha statistika nimani o'rganadi?
 =====
-#Taklif chizig’i
+inson salomatligi holati, umr ko'rish davomiyligi, atrof-muhit sharoitlari, ovqatlanish, kundalik qulaylik, ijtimoiy muhit, madaniy va ma'naviy ehtiyojlarni qondirish, psixologik qulaylik va boshqalar.
 =====
-Talab chizig’i
+insonning iste'mol qilingan moddiy ne'matlarining erishilgan hajmining mosligi.
+======
+insonning moddiy ne'matlarining erishilgan hajmining muvofiqligi
 =====
-Shaxs talabi
+turli ijtimoiy guruhlar o'rtasidagi raqamli ma'lumotlar
 =====
-Talab qonuni
 +++++
-...- talab bilan taklifni tenglashtiruvchi narx.
+Aholining turmush darajasi qanday?
 =====
-#Muvozanat narx
+#Bu munosib hayot uchun moddiy resurslarga kirish: sog'lom turmush tarzini saqlash. Hududiy va ijtimoiy harakatchanlikni, axborot almashinuvini va jamiyat hayotida ishtirokini ta'minlash.
 =====
-Xarajatlar
+Bu jamiyatning ijtimoiy hayotidagi munosabatlar tizimini miqdoriy va sifat jihatidan baholashdir
 =====
-Elastiklik
+Bu o'rganilayotgan hodisa xossasining miqdoriy xarakteristikasidir.
 =====
-Umumiy naflik
+Bu aholining real ish haqi va o'sha mahsulotlar o'rtasidagi nisbatdir
 +++++
-...- bu matematik tushuncha bulib, bog’liq o’zgaruvchi bilan erkin o’zgaruvchilar  o’rtasidagi miqdoriy bog’liqlikni ifodalaydi.
+Ijtimoiy statistikaning xususiyatlariga nima tegishli ekanligini tanlang.
 =====
-#Funksiya
+#Miqdoriy va nomiqdoriy ma'lumotlardan foydalanadi.O'rganilayotgan aholining ijtimoiy-iqtisodiy turlarini aniqlang va statistik kuzatish ma'lumotlarini umumlashtiring. Ijtimoiy ma'lumotlarni qayta ishlash va umumlashtirish uchun maxsus texnikani qo'llaydi
 =====
-Muvozanat narx
+Takroriylik, izchillik va o'zgarishlar tartibi.
 =====
-Muvozanatlashgan baho deb
+Maxsus predmet va o'rganish ob'ektlariga ega.
 =====
-Umumiy naflik
+Ma'lumotlar savollarga javoblar shaklida yig'iladi.
 +++++
-........ talab xajmi taklif xajmiga mos kelgandagi baho tushuniladi.
+Uzoq va sog‘lom hayot, bilim olish, iqtisodiy ishlab chiqarishda ishtirok etish...
 =====
-#Muvozanatlashgan baho deb
+#inson rivojlanishi uchun asosiy imkoniyatlar.
 =====
-Umumiy naflik
+integral ko'rsatkichlar
 =====
-Elastiklik
+turmush darajasi ko'rsatkichlari
 =====
-Befarklik chizigi
+to'g'ri javob yo'q
 +++++
-…- talab va taklifga ta’sir kiluvchi omillarning bir foizga uzgarishi natijasida talab va taklif xajmining necha foizga o’zgarishini aniklaydigan koeffisiyenta aytiladi.
+Aholining turmush darajasining integral ko'rsatkichlariga quyidagilar kiradi:
 =====
-#Elastiklik
+#aholi daromadlari va xarajatlari nisbati
 =====
-Muvozanatlashgan baho deb
+jon boshiga o'rtacha daromadning yashash minimumiga nisbati
 =====
-Befarklik chizig’i
+ixtiyoriy daromadning shartli bo'sh qismi miqdori
 =====
-Funksiya
+aholining qashshoqlik darajasi
 +++++
-… - iste’mol qilishda bir-birini o’rnini bosuvchi tovarlar yoki bir xil extiyojni kondiruvchi tovarlar.
+YaIM kontseptsiyasini joriy etishni birinchi marta kim va qachon taklif qilgan?
 =====
-#O’rindosh tovarlar
+# Saymon Kuznets, amerikalik iqtisodchi, 1934 yil
 =====
-To'ldiruvchi tovarlar
+Vasiliy Leontief, amerikalik iqtisodchi, 1937 yil
 =====
-Byudjet
+Milton Fridman, amerikalik iqtisodchi, 1947 yil
 =====
-kapital
+Leonid Vitalievich Kantorovich, rus iqtisodchisi, 1949 yil
 +++++
-… - birgalikda, komplekt tarzida iste’mol kilinadigan tovarlar.
+Iqtisodiyot va statistikada YaIM nima?
 =====
-#To’ldiruvchi tovarlar
+#Yalpi ichki mahsulot
 =====
-O’rindosh tovarlar
+Yalpi tashqi mahsulot
 =====
-kapital
+Mahalliy valyuta tovari
 =====
-Byudjet
+Tashqi valyuta ishlab chiqarish
 +++++
-…- Bitta tovarga bulgan talabga boshka bir tovarning narxi ta’sir ko’rsatadi.
+Statistik kuzatish ob'ekti hisoblanadi
+=====
+#statistik aholi
 =====
-#Kesishgan talab elastikligi
+kuzatish birligi
 =====
-Naflik funksiyasi
+aholi birligi
 =====
-Umumiy naflik
+hisobot birligi
+++++
+Statistik kuzatish paytida ma'lumotlar olinadigan sub'ekt deyiladi
 =====
-Chekli naflik
+#hisobot birligi
+=====
+kuzatish birligi
+=====
+aholi birligi
+=====
+to'g'ri javob yo'q
 +++++
-…- iste’mol qilingan ne’matlar dan olingan jami naflik.
+Kuzatish jarayonida qayd etilishi kerak bo'lgan belgilar (yoki savollar) ro'yxati deyiladi:
 =====
-#Umumiy naflik
+#kuzatish dasturi
 =====
-Chekli naflik
+statistik shakl
 =====
-kapital
+kuzatuv vositalari
 =====
-Elastiklik
+to'g'ri javob yo'q
 +++++
-…- oxirgi yoki navbatdagi birlik ne’matni iste’mol qilishdan olinadigan naflik.
+Hisoblangan qiymatlar va o'rganilayotgan miqdorlarning haqiqiy qiymati o'rtasidagi nomuvofiqlik deyiladi:
 =====
-#Chekli naflik
+#kuzatish xatosi
 =====
-Narx
+ro'yxatga olish xatosi
 =====
-Kapital
+vakillik xatosi
 =====
-Umumiy naflik
+to'g'ri javob yo'q
 +++++
-…- tovar sifatiga bog’liq bulgan talab.
+Mulkchilikning tashkiliy-huquqiy shakllari bo'yicha korxonalarni taqsimlash qaysi guruhlash turini ifodalaydi:
 =====
-#Funksional talab
+#Tipologik
 =====
-Taklif
+Analitik
 =====
-Funksional Taklif
+Strukturaviy
 =====
-Daromat
+Ko'p o'lchovli
 +++++
-…- bir xil darajadagi naflik beruvchi ne’matlar mikdorlari kombinasiyalarini ifodalovchi egri chiziq.
+Sanoat korxonalarini mulkchilik turlari bo'yicha guruhlash guruhlashga misol bo'la oladi:
 =====
-#Befarklik chizig’i
+#Tipologik
 =====
-daromat chizig’i
+Strukturaviy
 =====
-narx chizig’i
+Analitik
 =====
-kapital chizig’i 
+murakkab
 +++++
-…- iste’molchining ma’lum vaqt oralig’ida oladigan barcha daromadlari yig’indisi.
+Guruhlarning diskret xususiyatlariga quyidagilar kiradi:
 =====
-#Byudjet
+#oila a'zolari soni
 =====
-Daromat
+ishchilarning ish haqi
 =====
-Narx
+mamlakat aholisi
 =====
-Kapital
+bank foydasi.
 +++++
-Agar iqtisodiy muammolarning bir qismi bozor, bir qismi hukumat tomonidan hal etilsa, bunday iqtisodiyot
+Guruhlarning atributiv xususiyatlariga quyidagilar kiradi:
 =====
-#Aralash
+#odamning jinsi;
 =====
-Bozor
+korxona foydasi;
 =====
-Natural
+ish darajasi;
 =====
-Ma’muriy
+poyabzal o'lchami.
 +++++
-Birinchi yil fermer 120 gektarlik yeridan 2400 sentner bug’doy, ikkinchi yili esa u 150 gektar yeridan 2250 sentner bug’doy oldi. Shu ikki yil uchun o’rtacha hosildorlikni aniqlang.
+Guruhlashning asosi quyidagilar bo'lishi mumkin:
+=====
+#ham miqdoriy belgi, ham sifat belgisi.
 =====
-#17.2 sentner
+miqdoriy xususiyat;
 =====
-18 sentner
+sifat belgisi;
 =====
-15.6 sentner
+to'g'ri javob yo'q
++++++
+Oldindan tuzilgan guruhlash asosida yangi guruhlarni shakllantirish operatsiyasi deyiladi:
+=====
+#ikkinchi darajali guruhlash;
 =====
-19.4 sentner
+kombinatsiyalangan guruhlash;
+=====
+ko'p o'lchovli guruhlash.
+====
+to'g'ri javob yo'q
 +++++
-Firmaning doimiy xarajatlari bu-
+Statistik jadvalning predmeti:
 =====
-#Ishlab chiqarish hajmiga bog’liq bo’lmagan xarajatlar.
+#o'rganish ob'ektini tavsiflovchi ko'rsatkichlar tizimi
 =====
-Har qanday maxsulot ishlab chiqarish hajmida minimal miqdorda sarflanayotgan xarajatlardir
+o'rganish ob'ekti;
 =====
-Resurslar sotib olinayotganda ularga ketgan xarajatlardir.
+aholining umumiy sonli xarakteristikalari.
 =====
-Ishchi xodimlarga to’lanadigan haqdir
+to'g'ri javob yo'q
 +++++
-Oligopoliya bu-
+Predikatning rivojlanish xususiyatiga ko'ra statistik jadvallar ajratiladi:
 =====
-#Unchalik ko’p bo’lmagan raqobatlashuvchi firmalardir
+#oddiy;
 =====
-Bir xil turdagi maxsulotlarni ishlab chiqaruvchi kata hajmdagi raqobatlashuvchi firmalar yig’indisi
+murakkab;
 =====
-Faqat bitta yirik firma
+ro'yxat;
 =====
-Faqat bitta yirik xaridor
+monogam.
 +++++
-Monopol hokimiyatda narx monopolist tomonidan
+Birgalikda olingan ikkita xususiyatga asoslangan guruhlash uchun qanday jadval turi qo'llaniladi :
 =====
-#Talab elastikligini bilgani holda belgilanadi
+#oddiy;
 =====
-Raqobatchi firmalar ko’rsatmasiga ko’ra belgilanadi
+guruh;
 =====
-Bozor narxidan kelib chiqib belgilanadi
+kombinatsion.
 =====
-Raqobatchi firmalar bilan kelishilgan holda belgilanadi
+to'g'ri javob yo'q
 +++++
-Quyidagilardan qaysi biri monopoliyaga olib kelmaydi?
+“Mahsulot va xizmatlar ishlab chiqarish hajmi” ko‘rsatkichi vaqt omilining qaysi turi hisoblanadi?
 =====
-#Tovar ishlab chiqarish va sotish bo’yicha bir qancha alternativ firmalarning mavjudligi
+#interval.
 =====
-Mualliflik huquqi
+moment;
 =====
-Bitta resurs zaxirasi ustidan mutloq egalik qilish
+to'g'ri javob yo'q
+=====
+Taqqoslash
++++++
+Turli ob'ektlarni tavsiflovchi bir xil mutlaq ko'rsatkichning nisbati nisbiy qiymat deb ataladi:
 =====
-Lisenziya
+#taqqoslashlar.
+======
+karnaylar;
+======
+tuzilmalar;
+======
+muvofiqlashtirish;
 +++++
-Asosiy kapital sirasiga nimalar kiradi?
+"Qo'pol tug'ilish darajasi" nisbiy ko'rsatkichdir:
 =====
-#Texnika va texnologiyalar
+#Intensivliklari
 =====
-Davlat obligatsiyalari
+karnaylar;
 =====
-Tashkilot kassasidagi qoldiq pullar
+tuzilmalar;
 =====
-Tashkilotlar hisobida mavjud bo’lgan pul mablag’lari
+muvofiqlashtirish;
 +++++
-Har qanday iqtisodiy tizimda “nima” “qanday” va “kim uchun” degan fundamental savollar mikro va makro darajada hal etiladi. Quyida tuzilgan savollardan qaysi biri mikroiqtisodiyot darajada hal etiladi?
+"Korxonaning o'z va qarz mablag'lari nisbati" ko'rsatkichi nisbiy qiymat deb ataladi:
 =====
-#Nima va qancha ishlab chiqilishi kerak
+#koordinatsiya;
 =====
-To’liq bandlik darajasiga qanday qilib erishiladi
+karnaylar;
 =====
-Infilatsiyadan qanday qutulish mumkin
+tuzilmalar;
 =====
-Iqtisodiy o’sishni qanday rag’batlantirish mumkin
+intensivlik;
 +++++
-Bozor talabiga quyidagi omillardan qaysi biri ta’sir etmaydi
+Bir necha yil davomida o'rtacha yo'qotish koeffitsientini hisoblash uchun quyidagi formuladan foydalaniladi:
 =====
-#Istemolchilar soni
+#arifmetik o'rtacha
 =====
-Istemolchilar daromadi
+garmonik o'rtacha
 =====
-O’rnini to’ldiruvchi tovarlar narxi
+geometrik o'rtacha
 =====
-To’ldiruvchi tovarlar narxi
+to'g'ri javob yo'q
 +++++
-Agar bozor narxi muvozonat narxdan past bo’lsa
+Agar barcha og'irliklar ikki baravar oshirilsa, o'rtacha o'zgaradimi?
 =====
-#Sotuvchilar kamayadi
+#O'zgarmaydi;
 =====
-Defitsit paydo bo’ladi
+2 barobar oshirish;
 =====
-Ortiqcha taklif paydo bo’ladi
+4 marta o'zgaradi.
 =====
-Resurslar narxi kamayadi
+2 barobar kamayadi
 +++++
-Tovarning muvozonat narxi bu
+Bitta nisbat uchun o'rtachani turli shakllarda hisoblash mumkinmi:
 =====
-#Ortiqcha talab ham, ortiqcha taklif ham bo’lmaydigan narx
+#taqiqlangan;
 =====
-Ortiqcha talabni paydo qiladigan narxdan tuqori narx
+Balki;
 =====
-Ortiqcha taklifni paydo qiladigan narxdan yuqori narx
+qo'shimcha shartlar qo'yilsa mumkin;
 =====
-Hamma javob to’g’ri
+muayyan populyatsiyalar uchun mumkin
 +++++
-Texnologiyaning takomillashuvi nimaning siljishiga olib keladi
+Agar barcha variantlar 2 marta kamaytirilsa va barcha og'irliklar 2 barobar oshirilsa, garmonik o'rtacha qanday o'zgaradi:
 =====
-#Egri taklif chizig’ining yuqori va o’ngga
+#2 marta kamayadi
 =====
-Egri taklif chizig’ining chapga va pastga
+O'zgarmaydi;
 =====
-Egri talab chizig’ining yuqori va o’ngga
+2 barobar ortadi;
 =====
-Egri talab chizig’ining chapga va pastga
+ortadi.
 +++++
-Qaysi ibora insonlarning biror bir tovarni sotib olish uchun imkoniyat va xoxish borligini anglatadi?
+Belgining o'rtacha qiymati 20, o'zgaruvchanlik koeffitsienti esa 25%.
+Xarakteristikaning o'zgarishi quyidagilarga teng:
 =====
-#Talab
+#25;
 =====
-Ehtiyoj
+20;
 =====
-Zaruriyat
+125;
 =====
-Xoxish
+45.
 +++++
-Agar Tovar bahosi talab va taklif egri chiziqlarining kesishish nuqtasidan past bo’lsa, u holda
+Agar barcha variantlar 5 birlikka kamaytirilsa, o'rtacha o'zgaradimi:
 =====
-#Taqchillik yuzga keladi
+#5 birlikka kamayadi;
 =====
-Tovar ortiqchaligi yuzaga keladi
+variantning og'irligiga qarab ma'lum bir qiymatga kamayadi;
 =====
-Ishsizlik ko’payadi
+O'zgarmaydi;
 =====
-Muvozonat holat ta’minlanadi
+5 birlikka oshadi.
 +++++
-Agar Tovar bahosi talab va taklif egri chiziqlarining kesishish nuqtasidan yuqori bo’lsa, u holda
+Determinatsiya koeffitsienti bu nisbat:
 =====
-#Tovar ortiqchaligi yuzaga keladi
+jami #guruhlararo tafovut
 =====
-Taqchillik yuzga keladi
+qoldiqdagi guruhlar orasidagi farq
 =====
-Ishsizlik ko’payadi
+umumiy dispersiyadagi nazariy qiymatlarning farqi
+====
+to'g'ri javob yo'q
++++++
+Bir qator dinamika xarakterlanadi:
+=====
+#populyatsiya xususiyatlarining vaqt o'tishi bilan o'zgarishi;
+====
+kosmosdagi populyatsiya xususiyatlarining o'zgarishi;
+=====
+populyatsiyaning qandaydir belgiga ko'ra tuzilishi.
+====
+to'g'ri javob yo'q
++++++
+Agar bir qator dinamikaning qo'shni darajalari taqqoslansa, ko'rsatkichlar deyiladi:
+=====
+#zanjirlangan.
+====
+Asosiy;
 =====
-Muvozonat holat ta’minlanadi
+to'g'ri javob yo'q
+=====
+dinamikasi
 +++++
-Agar Tovar bahosi talab va taklif egri chiziqlarining kesishish nuqtasida  bo’lsa, u holda
+O'sish sur'ati salbiy bo'lishi mumkinmi?
 =====
-#Muvozonat holat ta’minlanadi
+#bo'lishi mumkin emas;
 =====
-Taqchillik yuzga keladi
+ehtimol, agar indikator pasaysa.
 =====
-Ishsizlik ko’payadi
+to'g'ri javob yo'q
 =====
-Tovar ortiqchaligi yuzaga keladi
+Balki
 +++++
-Tovar maxsuloti bahosining pasayishi sabablariga quyidagi omillardan qaysi biri ta’sir ko’rsatadi?
+Vaqt oralig'i teng bo'lgan intervalli dinamika seriyasining o'rtacha darajasi o'rtacha formula yordamida hisoblanadi:
 =====
-#Ishlab chiqarish resurslari narxining pasayishi
+#arifmetik oddiy;
 =====
-Xususiy tadbirkorlik uchun soliqlarning ko’tarilganligi
+arifmetik vaznli;
 =====
-To’ldiruvchi tovarlar narxining arzonlashuvi
+harmonik oddiy;
 =====
-Istemolchi daromadining ko’tarilganligi
+garmonik vaznli.
 +++++
-Narx bo’yicha taklif mutloq elastic bo’lgani holda, ishlab chiqaruvchidan sotilgan har birlik maxsulot uchun belgilangan soliq olinsa, u holda
+Teng bo'lmagan vaqt oraliqlari bo'lgan intervalli dinamika seriyasining o'rtacha darajasi o'rtacha formula yordamida hisoblanadi:
+=====
+#arifmetik vaznli;
 =====
-#Muvozonat narx ko’tariladi
+arifmetik oddiy;
+=====
+harmonik oddiy;
+=====
+garmonik vaznli.
++++++
+Intervalli dinamika seriyasining o'rtacha darajasi quyidagicha aniqlanadi:
 =====
-Muvozonat sotuv hajmi kamayadi
+#arifmetik o'rtacha;
 =====
-Istemolchi ortiqchaligi kamayadi
+garmonik o'rtacha;
 =====
-Sotuvchilar ortiqchaligi kamayadi
+o'rtacha xronologik.
 +++++
-Talab birlik elastik deyiladi
+O'rtacha o'sish sur'ati quyidagi formula bo'yicha aniqlanadi:
 =====
-#Agar absolyut elastiklik koofisenti 1 ga teng bo’lsa
+#arifmetik o'rtacha;
 =====
-Agar absolyut elastiklik koofisenti 1 dan katta bo’lsa
+garmonik o'rtacha;
 =====
-Agar absolyut elastiklik koofisenti 1 dan kichik bo’lsa
+geometrik o'rtacha.
 =====
-Hamma javoblar to’g’ri 
+to'g'ri javob yo'q
 +++++
-Talab elastik deyiladi
+Hodisa rivojlanishining asosiy tendentsiyasini aniqlash uchun quyidagilar qo'llaniladi:
 =====
-#Agar absolyut elastiklik koefisenti 1 dan katta bo’lsa
+#analitik moslashtirish;
 =====
-Agar absolyut elastiklik koefisenti 1 ga teng bo’lsa
+indeks usuli;
 =====
-Agar absolyut elastiklik koefisenti 1 dan kichik bo’lsa
+harakatlanuvchi o'rtacha usuli;
 =====
-Hamma javoblar to’g’ri
+korrelyatsiya tahlili.
 +++++
-Talab noelastik deyiladi
+Asosiy tendentsiya bir qator dinamikaning o'zgarishini anglatadi:
 =====
-#Agar absolyut elastiklik koefisenti 1 dan kichik bo’lsa
+#taraqqiyotning qandaydir umumiy yo'nalishini belgilash.
 =====
-Agar absolyut elastiklik koefisenti 1 dan katta bo’lsa
+qator ichida ma'lum oraliqlarda teng ravishda takrorlanadi;
 =====
-Agar absolyut elastiklik koefisenti 1 ga teng bo’lsa
+to'g'ri javob yo'q
 =====
-Hamma javoblar to’g’ri
+Javob yo'q
 +++++
-Noelastik bo’lgan tovarning narxi 7 dollardan 8 dollarga ko’tarilganda, daromad
+Tanlangan kuzatish deganda biz quyidagilarni nazarda tutamiz:
 =====
-#Ko’tariladi
+# tasodifiy tanlangan populyatsiya birliklarining bir qismini uzluksiz kuzatish
 =====
-qisqaradi
+o'rganilayotgan aholining eng katta birliklarini o'rganish
 =====
-O’zgarishsiz qoladi
+aholining barcha birliklarini uzluksiz kuzatish
 =====
-Mutloq noelastik
+aholi birliklarining bir qismini qisman kuzatish
 +++++
-Mikroiqtisodiyotda asosiy shaxs bo’lib kim hisoblanadi?
+Kuzatishning namuna olish usuli quyidagilarga asoslanadi:
 =====
-#Ishlab chiqaruvchi.
+#aholi birliklarini tasodifiy tanlash;
 =====
-Iste’molchi.
+aholining eng muhim birliklarini tekshirish;
 =====
-Davlat
+aholining alohida birliklarini tekshirish;
+aholining barcha birliklarini o'rganish.
 =====
-Vositachi
+to'g'ri javob yo'q
 +++++
-Agar bahoning o’zgarishi natijasida sotib olingan tovarlar miqdori o’zgarmasa talab to’g’risida nima deyish mumkin?
+O'rtacha tanlab olish xatosi quyidagilarga bog'liq:
 =====
-#Elastik emas.
+#tanlama populyatsiyasining xarakteristikalari qiymatlarining o'zgarishi;
 =====
-To’liq qondirilgan
+bayonotning ishonchlilik ehtimoli;
 =====
-Muvozanatda
+modal interval qiymatlari
+====
+to'g'ri javob yo'q
++++++
+Teng qiymatlar uchun maksimal tanlab olish xatosi quyidagi hollarda kattaroq bo'ladi:
+=====
+#qayta tanlash;
+=====
+takrorlanmaydigan tanlov.
+=====
+to'g'ri javob yo'q
 =====
-Elastik
+Javob yo'q
 +++++
-Tadbirkorlarni tovar sifatini yaxshilash, narxini pasaytirish va raqobatdoshlardan o’zishga majbur qiluvchi kuch:
+Ketma-ket namuna olish uchun o'rtacha tanlab olish xatosini aniqlashda quyidagilar hisoblanadi:
 =====
-#Foyda olishga qiziqish
+#guruhlararo tafovut;
 =====
-Baholarning shakllanishini tuzish
+umumiy dispersiya;
 =====
-O’rin qoplash bahosi
+guruh farqlarining o'rtacha qiymati.
 =====
-Harajatlarni aniqlash
+to'g'ri javob yo'q
 +++++
-Ishlab chiqarish xarajatlari deganda nimani tushunasiz?
+Aholi ro'yxatini o'tkazishda kuzatuv ob'ekti nima?
 =====
-#Ishlab chiqarish xarajatlari deganda resurslarni ushbu faoliyat yo’nalishida tutib qolish uchun amalga oshiriladigan barcha ichki va tashqi to’lovlar summasi tushuniladi
+#mamlakatning butun aholisi;
 =====
-Ishlab chiqarish xarajatlari – kapital tovarlarga sarflangan mablag’lardir
+Inson;
+====
+uy xo'jaligi;
 =====
-Ishlab chiqarish harajatlari deganda firmaning ishlab chiqarish uchun kerakli xom ashyo va materiallarni yetkazib beruvchilaraga amalga oshiriladigan barcha to’lovlar tushuniladi
+doimiy aholi;
++++++
+Aholining o'sish sur'ati birdan kam:
+=====
+#aholi soni kamaymoqda;
 =====
-Mahsulot tannarxiga kiritiladigan xarajatlar tushuniladi
+aholi soni ortib bormoqda;
+=====
+aholi bir xil darajada qolmoqda.
+=====
+to'g'ri javob yo'q
 +++++
-Doimiy xarajatlar deganda nimani tushunasiz?
+Iqtisodiy faol aholi tarkibiga quyidagilar kiradi:
 =====
-#Doimiy xarajatlar deganda kattaligi ishlab chiqarish hajmining o’zgarishiga bog’liq bo’lmagan xarajatlar tushuniladi.
+#ishsiz;
+======
+16 yoshgacha bo'lgan o'smirlar;
 =====
-Doimiy xarajat deganda maxsulot tannarxiga to’g’ridan-to’g’ri kiritiladigan xarajatlar tushuniladi
+ruhoniylar;
 =====
-Doimiy xarajat deganda kattaligi ishlab chiqarish xarajatlariga proportsional o’zgaradigan xarajatlar tushuniladi
+kunduzgi universitet talabalari.
 =====
-Doimiy xarajatlar ish xaqi va material sarflardir
+to'g'ri javob yo'q
 +++++
-Resurslarning o’rinalmashtiruvchi turlari soni ko’paysa, resursga bo’lgan talab elastikligi qanday o’zgaradi?
+"Umumiy nikoh darajasi " quyidagilarni tavsiflovchi ko'rsatkichlarni anglatadi:
 =====
-#Resursga bo’lgan talab elastikligi ko’payadi
+#tabiiy aholi harakati;
 =====
-Resursga bo’lgan talab elastikligi kamayadi.
+aholining mexanik harakati.
 =====
-Resursga bo’lgan talab elastikligi o’zgarmaydi
+to'g'ri javob yo'q
 =====
-Resursning elastikligi oshadi
+Javob yo'q
 +++++
-Quyidagilardan qaysi biri nazariy iqtisodiyot predmeti tahriflariga tegishli emas?
+Aholining o'rtacha yillik miqdorini hisoblash uchun qanday o'rtacha ko'rsatkich qo'llaniladi (yil boshidagi va oxiridagi raqam ma'lum)?
 =====
-#Cheksiz ishlab chiqarish resurslari.
+#arifmetik o'rtacha oddiy;
 =====
-Resurslardan samarali foydalanish
+o'rtacha arifmetik og'irlik;
 =====
-Extiyojlarni maksimal qondirish
+o'rtacha xronologik;
 =====
-Moddiy va ma’naviy ehtiyojlar
+garmonik o'rtacha;
 +++++
-Quyidagi xolatlarning qaysi biri bozor iqtisodiyotiga xos emas?
+Agar 1.01, 1.02, 1.03, 1.04 boʻyicha aholi soni maʼlum boʻlsa, chorakda oʻrtacha oylik aholi sonini aniqlash uchun qanday oʻrtacha koʻrsatkich qoʻllaniladi?
+=====
+#o'rta xronologik;
 =====
-#Markazlashtirilgan rejalashtirish
+arifmetik o'rtacha;
 =====
-Raqobat
+garmonik o'rtacha;
+====
+geometrik o'rtacha.
++++++
+“Iqtisodiy faol aholi” bu:
+=====
+#ishli va ishsizlar.
 =====
-Xususiy mulkchilik
+mehnat resurslari;
+====
+mehnatga layoqatli aholi;
 =====
-Tadbirkorlik tanlovining erkinligi
+Band
 +++++
-Talabning baho bo’yicha elastikligi quyidagi holda yuqori bo’ladi:
+Iqtisodiy faol aholi darajasi iqtisodiy faol aholi soniga nisbati sifatida aniqlanadi:
 =====
-#Birlamchi ehtiyoj tovarlariga
+#o'rtacha aholi soniga;
 =====
-Iste’molchi tovarni eng yuqori naflilik bilan ishlatsa
+band aholiga.
 =====
-Ishlab chiqarishning muqobil xarajatlariqancha ko’p bo’lsa
+to'g'ri javob yo'q
 =====
-Zeb-ziynat buyumlaridan ko’ra birinchi extiyoj tovarlariga
+Javob yo'q
 +++++
-Naflilikni maksimallashtirish uchun iste’molchi:
+Ishsizlik darajasi ishsizlar soniga nisbati sifatida aniqlanadi:
 =====
-#Sotib olinayotgan ohirgi birlik tovarlar chegaraviy nafliliklari tenglashtirishi kerak
+#iqtisodiy faol aholi soniga;
 =====
-Faqat brend tovarlar sotib olishi kerak
+umumiy aholi soniga;
 =====
-Barcha tovar narxlari umumiy nafliliklariga proportsional bo’lishiga amal qilishi kerak
+xodimlar soniga
 =====
-Sifatsiz tovarlarni sotib olmasligi kerak
+to'g'ri javob yo'q
 +++++
-Ish haqi stavkalarining oshishi bilan:
+Agar mahsulot ishlab chiqarish 4 marta, ishchilar soni 2 barobar oshsa, mehnat unumdorligi necha marta o'zgaradi?
 =====
-#Agar mehnatga bo’lgan talab elastik bo’lsa, bandlik darajasi qisqaradi
+#2 marta;
 =====
-Agar mehnatga bo’lgan talab mutloq noyelastik bo’lsa, bandlik darajasi qisqaradi
+8 marta;
 =====
-Agar mehnatga bo’lgan talab elastik bo’lsa, bandlik darajasi oshadi
+0,5 marta.
 =====
-Agar mehnatga bo’lgan talab noyelastik bo’lsa, bandlik darajasi oshadi
+to'g'ri javob yo'q
 +++++
-Iqtisodiyotda ishlab chiqarish omillari unumdorligining pasayib borish qonuni amal qiladi. Ushbu sharoitda iqtisodiy o’sish qanday qilib tahminlanadi?
+Asosiy vositalardan foydalanish samaradorligi quyidagi ko'rsatkichlar bilan tavsiflanadi:
+=====
+# kapital zichligi ;
+=====
+yangilanish omili;
+=====
+likvidlik koeffitsienti;
 =====
-#Tobora ko’proq va ko’proq hajmda resurslar talab etiladi
+kapital aylanmasi ;
 =====
-Qo’shimcha resurslarning o’sishi umumiy ishlab chiqarish hajmini oshirmaydi, balki kamaytiradi
+Aylanma mablag'lar aylanmasini qaysi ko'rsatkichlar tavsiflashini ko'rsating:
 =====
-Resurlar miqdorini oshirish kerak, lekin qo’shimcha birlik resurs narxi oshib boradi
+#bir inqilobning davomiyligi;
 =====
-Tobora kamroq miqdorda ishlab chiqarish omillari talab etiladi
+material iste'moli;
+=====
+likvidlik koeffitsienti;
+=====
+kapital zichligi ;
 +++++
-Foydani maksimallashtirish kimning manfaatiga mos keladi?
+Asosiy vositalarni takror ishlab chiqarish xarajatlari quyidagilar bilan tavsiflanadi:
 =====
-#Xususiy firmalar
+#to'liq almashtirish narxi;
 =====
-Yer egalari
+qoldiq almashtirish qiymati;
 =====
-Ishchilar
+to'liq asl qiymati;
 =====
-Iste’molchilar
+qoldiq asl qiymati.
 +++++
-Agar tovarga bo’lgan talab va uning taklifi oshsa:
+Quyidagi elementlardan qaysi biri moddiy asosiy vositalarga tegishli ekanligini ko‘rsating:
 =====
-#Narxi turg’unligicha qoladi
+#avtomobillar va jihozlar;
 =====
-Tovarning umumiy hajmi oshadi
+savdo belgisi;
 =====
-Narxi oshadi
+foydali qazilmalarni qidirish xarajatlari;
 =====
-Jamiyat turmush darajasi oshadi
+kompyuter dasturi.
 +++++
-Noyelastik talab shuni anglatadiki:
+Quyidagi iqtisodiy aktivlardan qaysi biri milliy boylik tarkibiga kirmaydi:
 =====
-#Narxning 1% ga oshishi talab kattaligini 1% dan kamroq darajaga pasaytiradi
+#inson kapitali;
 =====
-Narxning 1% ga oshishi talab kattaligini 1% dan oshiqroq darajaga kamaytiradi
+Asosiy vositalar;
 =====
-Narxning istalgan o’zgarishi umumiy tushum kattaligini o’zgartirmaydi
+inventarizatsiya;
 =====
-Narxning 1% ga o’sishi talab kattalagiga ta’hsir etmaydi
+ishlab chiqarilmagan moddiy boyliklar;
 +++++
-A tovarni v tovar bilan almashtirish normasi quyidagini anglatadi:
+Asosiy vositalarni to'liq tiklash qiymati bo'yicha baholash nimani aks ettiradi:
 =====
-#Umumiy naflilikni o’zgarmagan holda iste’molchi qo’shimcha bir birlik v tovarni olish uchun a tovarning qancha birligidan voz kechish kerak
+#asosiy vositalarni ma'lum bir vaqtda takror ishlab chiqarish xarajatlari;
 =====
-Agar a va v tovarlar iste’molchili bir birlikka oshsa, ular chegaraviy nafliliklari qaysi darajada o’zgaradi
+asosiy vositalarni ishga tushirish vaqtidagi haqiqiy qiymati;
 =====
-Iste’molchi daromadi oshib, a tovar iste’moli bir birlikka o’zgarmasa, iste’molchi v tovardan qancha sotib oladi
+kitob qiymati;
 =====
-V tovar bahosi 1 dollarga kamayganda iste’molchi a tovardan qancha sotib oladi
+yil oxiridagi qiymat.
 +++++
-Firma harajatlarining minimal darajasiga erishadi, qachonki:
+Asosiy vositalar tarkibiga nimalar kiritilganligini ko'rsating:
 =====
-#Ishlab chiqarish omillari chegaraviy mahsuloti ular narxiga teng bo’lsa
+#kompyuter dasturiy ta'minoti.
 =====
-Barcha ishlab chiqarish omillari chegaraviy mahsuloti bir xil bo’lsa
+tugallanmagan ishlab chiqarish;
 =====
-Barcha ishlab chiqarish omillari narxi bir xil bo’lsa
+tayyor mahsulotlar;
 =====
-Ishlab chiqarish omillari chegaraviy mahsuloti 0 ga teng bo’lsa
+to'g'ri javob yo'q
 +++++
-Iqtisodiy nazariya:
+Asosiy vositalardan foydalanish samaradorligi quyidagi ko'rsatkichlar bilan tavsiflanadi:
 =====
-#Barcha iqtisodiy tizimlarni o’rganishda qo’llaniladi
+#foydalanish;
 =====
-Faqatgina ho’jalik yuritishning kapitalistik tizimini o’rganish uchun qo’llaniladi
+kapital zichligi ;
 =====
-Sotsializmga xos bo’lgan iqtisodiy munosabatlarni o’rganishda qo’llab bo’lmaydi
+yangilanish omili;
 =====
-Faqat iqtisodiy fanlarni o’rganishda qo’llaniladi
+kapital-mehnat nisbati ;
 +++++
-Agar iqtisodiy muammolar qisman bozor, qisman davlat tomonidan hal qilinsa, iqtisodiyot:
+Tovar va xizmatlar bozorining rivojlanish tezligini o'rganish uchun quyidagilardan foydalaning:
 =====
-#Aralash iqtisodiyot deb hisoblanadi
+#dinamik qator ko'rsatkichlari.
 =====
-Bozor
+narx indekslari;
 =====
-Natural
+o'rtacha quvvat ko'rsatkichlari;
 =====
-Buyruqbozlikka asoslangan
+tizimli o'rtacha ko'rsatkichlar;
 +++++
-Yer, kapital, mehnat, ishlab chiqarish omillarining bazaviy guruhlanishidir. Kapital tarkibiga quyidagilarni kiritsa bo’ladi-mi?
+Talab va taklifning mavsumiy tebranishlarini o'rganish uchun quyidagilardan foydalaning:
 =====
-#Kapital jumlasiga pul ham, aktsiya ham obligatsiya ham kirmaydi
+#mavsumiylik indeksi
 =====
-Faqat aktsiya va obligatsiya
+tovar aylanmasining jismoniy hajmi indeksi;
 =====
-Pul va obligatsiyalar
+vaqt seriyalari ko'rsatkichlari;
 =====
-Pul, aktsiya va obligatsiya
+o'rtacha xronologik ko'rsatkichlar
 +++++
-Izokvanta quyidagini aks ettiradi:
+Tovar va xizmatlar bozori holatini tavsiflovchi ko'rsatkichlarni belgilang:
 =====
-#Ishlab chiqarish funktsiyasini
+#bozor muvozanatining darajasi;
 =====
-Mahsulot umumiy hajmiy egri chizig’ini
+mahsulot turi
 =====
-Berilgan resurslar hisobiga ishlab chiqariladigan mahsulotning turli hajmlarini
+bozor xavfi darajasi;
 =====
-O’rtacha mahsulot egri chizig’ini
+to'g'ri javob yo'q
 +++++
-Raqobatli firma foydani maksimallashtirish uchun qo’shimcha ishlovchilarni faqat quyidagi holda yollaydi:
+Agar mahsulot ishlab chiqarish 4 marta, ishchilar soni 2 barobar oshsa, mehnat unumdorligi necha marta o'zgaradi?
 =====
-#Pul ifodasidagi mehnatning chegaraviy mahsulotiish haqi stavkasidan kata bo’lsa
+#2 marta;
 =====
-Pul ifodasidagi mehnatning chegaraviy mahsulotiish haqi stavkasidan kichik bo’lsa
+8 marta;
 =====
-Pul ifodasidagi mahsulot kattaligi kamaysa
+0,5 marta.
 =====
-Umumiy daromad umumiy xarajatdan kichik bo’lsa
+to'g'ri javob yo'q
 +++++
-Quyidagilarning qaysi biri ishlab chiqaruvchi iqtisodiy omilni anglatadi
+Korxona aylanma mablag'larining aylanish koeffitsientini hisoblashda foydalaniladigan mahsulot ko'rsatkichi:
 =====
-#Ishlab chiqarish vositalari
+#sotilgan mahsulotlar hajmi;
 =====
-Pul kapitali
+yalpi qo'shilgan qiymat;
+=====
+mahsulot (ishlar, xizmatlar) hajmi;
+=====
+yalpi ishlab chiqarish.
++++++
+Aylanma mablag'lardan foydalanish samaradorligi quyidagilar bilan tavsiflanadi:
 =====
-Foiz
+#aylanma koeffitsienti, bir aylanishning o'rtacha davomiyligi;
 =====
 Foyda
-+++++
-Tovarni bir bozorda arzonroq sotib olib, boshqa bozorda qimmatroq sotish quyidagini namoyon etmaydi:
-=====
-#Yuqori narx mavjud bozorlarda talabni oshirish vositasini;
-=====
-Narx darajasi yuqori bo’lgan bozorda taklif hajmini oshirish vositasini;
-=====
-Konkret bozorlardagi narxlar orasidagi farqlarning sababini;
-=====
-Foyda olish maqsadida bajarilgan operatsiyani;
-+++++
-Erkin yoki takomillashgan bozor shartlari nimalardan iborat?
-=====
-#Sotuvchilar, xaridorlar ko’pligi sabali baholarni nazorat qiluvchi organ yo’q
-=====
-Xaridorlar sotuvchlardan ko’p
-=====
-Sotuvchi xaridorlardan ko’p
-=====
-Xaridorlar sotuvchilarga teng.
-+++++
-Bozor iqtisodiyotida taklifning kamayishi quyidagini keltirib chiqaradi:
-=====
-#Baholarning ko’tarilishini
-=====
-Soliqlarning ko’tarilishini
-=====
-Kapital qo’yilmalarning ortishini
-=====
-Talabning pasayishini
-+++++
-Ishlab chiqaruvchining ratsional harakati:
-=====
-#Foyda miqdorini maksimallashtirishga intilish
-=====
-Ish haqini kamaytirishga intilish
-=====
-Kapital quyilmalarni oshirishga intilish
-=====
-Harajatlarni oshishiga qiziqish
-+++++
-Daromad samarasining moxiyati nimadan iborat?
-=====
-#Daromad samarasi baholarning pasayishi natijasida iste’molchida avvalgi daromad hisobiga ko’proq mahsulot sotib olish imkoniyati tug’ilishini anglatadi
-=====
-Daromad samarasi deganda baholarning ko’tarilishi natijasida iste’molchilarning o’zgarmas daromadlari hisobiga avvalgidan ko’proq mahsulot sotish olib imkoniyatlarini tushuniladi
-=====
-Daromad samarasi deganda baholarning o’zgarmay qolishi iste’molchilar o’zgarmas daromad hisobiga ko’proq mahsulot sotib olish imkoniyati tug’ilishi tushuniladi
-=====
-Ko’proq daromad oldi degani
-+++++
-Ishlab chiqarish omillarining barcha mavjud bo’lishi mumkin to’plamlari variantlari vai shlab chiqarilgan mahsulot hajmi orasidagi bog’lanish.
-=====
-#Ishlab chiqarish funktsiyasi
-=====
-Mahsulotning umumiy ishlab chiqarish hajmi egri chizig’i
-=====
-Ishlab chiqarish imkoniyatlari egri chizig’i
-=====
-Umumiy xarajatlar egri chizig’I yordamida ifodalanadi
-+++++
-Chegaraviy mehnat unumdorligi deganda nimani tushunasiz?
-=====
-#Chegaraviy mehnat unumdorilgi deganda boshqa omillar o’zgarmagan holda qo’shimcha bir birlik mexnatdan foydalanish hisobiga ishlab chiqariladigan qo’shimcha maxsulot hajmi tushuniladi.
-=====
-Chegaraviy mehnat unumdorligi deganda vaqt birligi ichida ishlab chiqarilgan maxsulot tushuniladi
-=====
-Chegaraviy mehnat unumdorligi deganda birishchiga to’g’ri keladigan yillik maxsulot hajmi tushuniladi.
-=====
-Qo’shimcha ishichi kuchi yollash degani
-+++++
-Bozor iqtisodiyoti sharoitida «qanday qilib ishlab chiqarish» muammosi quyidagicha hal etiladi?
-=====
-#Ishlab chiqaruvchilarning foyda olishga, demakki, ishlab chiqarish xarajatlarinni kamaytirishga bo’lgan intilishlari orqali
-=====
-Yakuniy mahsulot narxlarida o’z aksini topuvchi iste’molchilar talabining hajmi o’zgarishi orqali.
-=====
-Iqtisodiyotda ishlab chiqarish vositalaridan keng foydalanish orqali.
-=====
-Ishlab chiqarishning texnologik uslublaridan keng qo’llaniladigan ixtisoslashuv asosida.
-+++++
-Talab qonuni quyidagini bildiradi:
-=====
-#Tovar narxi tushsa, uni sotib olish hajmi oshadi
-=====
-Agar iste’molchilar daromadi oshsa, ular odatda ko’proq tovarlar sotib oladi.
-=====
-Talab egri chizig’I odatda ijobiy og’ishga ega.
-=====
-Taklifning talabdan ortiqchaligi narxning pasayishini keltirib chiqaradi
-+++++
-Qisqa muddatli davrda foydani maksimallashtiruvchi firma ishlab chiqarishni to’xtatadi:
-=====
-#Umumiy daromad umumiy o’zgaruvchan xarajatdan kichik bo’lsa
-=====
-Normal foyda o’rtacha tarmoqdagidan kichik bo’lsa
-=====
-Umumiy daromad umumiy xarajatdan kichik bo’lsa
-=====
-Baho minimal o’rtacha xarajatdan kichik bo’lsa
-+++++
-Ishlab chiqarish omilining pul ifodasidagi chegaraviy mahsulot-bu:
-=====
-#Qo’shimcha birlik ishlab chiqarish omili evaziga ishlab chiqariladigan qo’shimcha mahsulotlardan olinadigan tushumdir
-=====
-Mahsulot oxirgi birligining sotish narxidir
-=====
-Mukammal bozor sharoitida aniqlash mumkin emas
-=====
-Qo’shimcha birlik ishlab chiqarish omili hisobiga mahsulot ishlab chiqarish omilining hajmi o’zgarishi
-+++++
-Mehnatga haq to’lashning chegaraviy xarajatlari:
-=====
-#Bir qo’shimcha ishchini yollash bilan mehnat umumiy xarajatlarining o’sishi
-=====
-Ishlab chiqarilayotgan mahsulot, soni bir donaga oshishi bilan doimiy xarajatlarning o’sishi
-=====
-Monopolist uchun mutloq noyelastik
-=====
-Ishlab chiqarilayotgan mahsulot soni bir donaga oshishish bilan o’zgaruvchan xarajatning o’sishi
-+++++
-Holatlarning qaysi biri mahsulotga bo’lgan talabning kamayishi oqibati emas?
-=====
-#Ushbu tarmoqda ishlatiladigan resurlar narxining oshishi
-=====
-Mahsulot taklifining kamayishi
-=====
-Tarmoqda ishlab chiqarish hajmining kamayishi
-=====
-Ushbu mahsulot ishlab chiqaruvchi tarmoqda foydaning kamayishi
-+++++
-X tovar bo’lgan talab egri chizig’ining siljishini nima bilan tushuntirish mumkin?
-=====
-#Iste’molchilar didi x tovarga qiziqish uyg’otdi va ular tovarning xar qanday narxida undan ko’proq sotib ola boshladilar
-=====
-X tovar narxi oshdi va iste’molchitlar undan kamroq sotib olishga majbur bo’ldilar
-=====
-X tovar taklifi bahzi sabablarga ko’ra kamaygan
-=====
-X tovar narxi tushdi va iste’molchilar undan ko’proq sotib ola boshladilar
-+++++
-Tovar taklifining kamayishi quyidagini keltirib chiqaradi:
-=====
-#O’zaro o’rin almashtiruvchi tovarlarga bo’lgan talab oshadi
-=====
-Agar talab baho bo’yicha elastik bo’lsa, sotuvchining umumiy tushumi oshadi
-=====
-Agar talab daromad bo’yicha elastik bo’lmasa, sotuvchining umumiy tushumi oshadi
-=====
-O’zaro to’ldiruvchi tovarga talab oshadi
-+++++
-Quyidagi xulosalarning biri noto’g’ri. Uni toping.
-=====
-#Befarqlik egri chizig’idagi har bir nuqta pul daromadining bir xil darajasini bildiradi
-=====
-Befarqlik egri chiziqdagi har bir nuqta 2 tovarning turli kombinatsiyalarini anglatadi
-=====
-Befarqlik egri chizig’idagi har bir nuqta extiyojlarini kondirishning bir xil darajasini bildiradi
-=====
-Daromad chizig’idagi har bir nuqta pul daromadning bir xil darajasini bildiradi
-+++++
-Agar iste’molchi byudjet chizig’i bilan chegaralangan sohada yotuvchi tovarlar to’plamini tanlasa, u
-=====
-#O’z daromadini to’liq sarflamaydi
-=====
-O’z daromad imkoniyatidan ko’proq tovarloarni sotib olishni hohlaydi
-=====
-Naflilikni maksimallashtiradi
-=====
-Iste’molchi muvozanat xolatida bo’ladi
-+++++
-Resursga bo’lgan talab quyidagiga bog’liq:
-=====
-#Yuqoridagi javoblarning barchasi to’g’ri
-=====
-Resursning o’rin bosuvchisiga bo’lgan narxga
-=====
-O’rin to’ldiruvchi resurslar narxiga
-=====
-Ushbu resurs yordamida ishlab chiqariladigan mahsulotga bo’lgan talabga
-+++++
-Agariqtisodiy umumlashtirishlar (printsiplar va qonunlar) faktlarga asoslansa, tahlilning bu usuli….
-=====
-#Induktiv
-=====
-Gipotetik
-=====
-Deduktiv
-=====
-Tajrifiy
-+++++
-«Nima, qanday va kim uchun ishlab chiqarish kerak?» muammosi taalluqli bo’ladi
-=====
-#Ijtimoiy-iqtisodiy va siyosiy tashkil etilishdan qathiy nazar barcha jamiyatga
-=====
-Faqat bozor iqtisodiyotiga
-=====
-Faqat qoloq iqtisodiyotga
 =====
-Totalitar tizimga
-+++++
-Raqobatli bozor mexanizmi shunday usulki, u orqali:
-=====
-#Qarorlar muvofiqlashtiriladi, mutanosiblashtiriladi
-=====
-Qarorlar mutanosibligi tahminlanadi
-=====
-Iste’molchilar, ishlab chiqaruvchilar va ishlab chiqarish omillari egalari qarorlari muvofiqlashtiriladi
-=====
-Qarorlar muvofiqlashtirilmaydi, mutanosiblashtirilmaydi
-+++++
-Aralash iqtisodiyotda davlatning roli:
-=====
-#Cheklangan
-=====
-Hech qanday holda namoyon bo’lmaydi
-=====
-Ancha salmoqli
-=====
-Ho’jalikning ko’p sohalarida namoyon bo’ladi
-+++++
-Taklif qonuni shuni bildiradiki, agar narxlar pasaysa:
-=====
-#Taklif hajmi kamayadi
-=====
-Taklif kamayadi
-=====
-Taklif oshadi
-=====
-Taklif hajmi oshadi
-+++++
-Agar tovarning istalgan miqdori bir xil narxda sotilsa, ushbu tovarlarga bo’lgan talab:
-=====
-#Mutloq noelastik
-=====
-Elastik
-=====
-Birlik elastiklikda
-=====
-Noelastik
-+++++
-Iste’molchi xatti-xarakati nazariyasi shuni taqozo etadiki, iste’molchi quyidagi kattalikni maksimallashtirishga xarakat qiladi:
-=====
-#Umumiy naflilikni
-=====
-Umumiy va chegaraviy naflilik orasidagi farqni
-=====
-O’rtacha naflilikni
-=====
-Chegaraviy naflilikni
-+++++
-Iqtisodiy harajatlar o’z ichiga quyidagilarni oladi:
-=====
-#Barcha ochiq va yashirin xarajatlar va normal foyda
-=====
-Ochiq xarajatlarni olib, yashirinlarini olmaydi
-=====
-Yashirin xarajatlarini olib, ochiq xarajatlarini olmaydi
-=====
-O’z ichiga ochiq xarajatlarni ham yashirin xarajatlarni ham olmaydi
-+++++
-Talab va taklifdan narxning quyidagi bozorlardagi muvofiqlashtiruvchi o’rnini tushuntirish uchun foydalanish mumkin:
-=====
-#Istalgan bozordagi
-=====
-Resurslar bozoridagi
-=====
-Moliyaviy bozoridagi
-=====
-Tovar bozoridagi
-+++++
-Erkin tadbirkorlik tizimida baholarni nima bilan belgilanadi?
-=====
-#Talab va taklifni o’zaro ta’siri bilan
+kapital- mehnat nisbati;
 =====
-Davlat tomonidan
-=====
-Talabning muvozanat bahosiga ta’siri bilan.
-=====
-Xarajat bilan
+Kapital unumdorligi
 +++++
-Bozorda baholarning pasayishini keltirib chiqaradigan asosiy sabab:
-=====
-#Talab o’zgarmagan holda taklifning oshishi
+O‘zbekiston Respublikasi aholisi daromadlari tarkibida eng katta ulush quyidagilarga to‘g‘ri keladi:
 =====
-Taklif o’zgarmagan holda talabning oshishi
+#ish haqi;
 =====
-Talab va taklifning oshishi
-=====
-Mahsulot sifatining oshishi
-+++++
-Iste’molchining ratsional harakati:
+tadbirkorlik faoliyatidan olingan daromadlar;
 ====
-#Foydallikni maksimallashtirishga intilish
-=====
-Naflilikni minimallashtirish intilish
-=====
-Xarajatlarni kamaytirishga intilish
-=====
-Foydani kamaytirish istagi
-+++++
-Taklif qonuni shuni bildiradiki, agar narxlar oshsa:
-=====
-#Taklif hajmi oshadi
-=====
-Taklif kamayadi
-=====
-Taklif oshadi
-=====
-Taklif hajmi kamayadi
-+++++
-Barcha iqtisodiy tizimlar duch keladigan fundamental muammo:
-=====
-#Tanqislik
-=====
-Ishlab chiqarish
-=====
-Iste’mol
-=====
-Investittsiyalar
-+++++
-Agar bozor narxi muvozanati narxidan past bo’lsa:
-=====
-#Tovar tanqisligi vujudga keladi
-=====
-Tovar ortiqchaligi vujudga keladi.
-=====
-Xaridor bozori shakllanadi
-=====
-Resurslar narxi tushadi
-+++++
-Talabning baho bo’yicha elastikligi quyidagiga teng:
-=====
-#Talab hajmining o’zgarishini-ng (%da) narxning o’zgarishi- (%da)ga bo’linmasiga
-=====
-Umumiy tushum o’zgarishining (%da) talab hajmini oshishi (%da) bo’linmasiga
-=====
-Umumiy tushum kamayishining (%da) baho oshishi (%da) bo’linmasiga
-=====
-Talab hajmining oshishiga bo’lgan narxning kamayishiga.
-+++++
-Chegaraviy naflilikning kamayishi qonuni quyidagini anglatadi:
-=====
-#Xar bir qo’shimcha sotib olingan tovarning foydaliligi tovarlar sonining oshirish bilan kamayib boradi
-=====
-Zeb-ziynat buyumlari chegaraviy foydaliligining ular bahosiga nisbati birinchi extiyoj tavarlarnikidan kichikdir
-=====
-Chegariviy   naflilikning mahsulot bahosiga nisbati barcha tovarlar uchun bir xildir
-=====
-Sotib olingan tovarlarning foydaliligi iste’molchi daromad olgan sari kamayib boradi
-+++++
-Firmaning doimiy xarajatlari deganda:
-=====
-#Mahsulot ishlab chiqarilmagan taqdirda ham firmada mavjud bo’ladigan xarajatlar
-=====
-Ishlab chiqarishning eng qulay sharoitdagi ishlab chiqarilgan mahsulotning istalgan hajmiga sarflangan minimal xarajatlar
-=====
-Resurslarning ular olingan vatqdagi narxlardagi xarajatlari tushuniladi
-=====
-Yashirin xarajatlar
-+++++
-Raqobatdagi firma har bir resursning chegaraviy mahsuloti uning narxiga teng bo’lgan mahsulot hajmiga erishsa, u:
-=====
-#Minimum harajatlar hisobiga maksimum foyda oladi
-=====
-Maksimal foyda oladi, mahsulot ishlab chiqarish harajdatlari minimal bo’lishi ham bo’lmasligi ham mumkin
-=====
-Maksimum foyda olishi shart emas, yoki minimum harajatga erishadi
-=====
-Maksimum foyda oladi va zararni qoplaydi
-+++++
-Quyidagi muammolarning qaysi biri mikrodarajada xal etiladi?
-=====
-#Nima va qancha ishlab chiqarish kerak?
-=====
-To’la bandlikka qanday erishish mumkin?
-=====
-Inflyatsiyadan qanday qutilish mumkin?
-=====
-Iqtisodiy o’sishni qanday rag’balantirish mumkin?
-+++++
-Agar talab kamaysa, talab egri chizig’i quyidagicha siljiydi:
-=====
-#Pastga va chapga
-=====
-Soat strelkasi xarakati bo’ylab
-=====
-Yuqoriga va o’ngga
-=====
-Soat strelkasiga teskari yo’nalishda
-+++++
-… iste’molchi tomonidan tovarga to’lashi mumkin bulgan maksimal narx bilan tovarning haqiqiy narxi o’rtasi-dagi farkni bildiradi.
-=====
-#Iste’molchi ortikchaligi
-=====
-Iste’molchi kamligi
-=====
-Bozor muvozanati
-=====
-Tovar taqchilligi
-+++++
-… ishlab chiqaruvchi tomoni-dan olingan umumiy manfaat-ni bildiradi.
-=====
-#Ishlab chiqaruvchi ortikchaligi
-=====
-Ishlab chiqaruvchi kamligi
-=====
-To’yinmagan bozor
-=====
-To’yinmagan bozor
-+++++
-Davlatning bozor narxiga ta’sir qilish siyosatidan biri bu ...
-=====
-#Ishlab chiqarishni cheklash
-=====
-Ishlab chiqarishni ko’paytirish
-=====
-Dotatsion narxlarni qo’llash
-=====
-Narxlarni tushirish
-+++++
-Tarmoqda faoliyat ko’rsatayotgan firmalarning kamligi …  bozor xususiyati.
-=====
-#Oligopolik
-=====
-Monopsonik
-=====
-Erkli
-=====
-Monopol
-+++++
-Tarmoqka kiruvchi firmalar uchun kuchli to’siklarning mavjudligi qaysi bozor xususiyati.
-=====
-#Oligopolik
-=====
-Raqobatlashgan
-=====
-Monopol
-=====
-Erkli
-+++++
-Oligopolik firmalar ko’proq narxlarni barqaror bo’lishini, yoki narx qattiq o’rnatilgan bo’lsa, uni o’zgartirmaslikka harakat qilishlari bu...
-=====
-#Qattiq narx siyosati
-=====
-Narxlar jangi
-=====
-Bozor talabi
-=====
-Bozor holati
-+++++
-... yordamida davlatning iqtisodiy siyosatini baholash mumkin.
-=====
-#Iste’molchi va ishlab chiqaruvchi ortikchaligi
-=====
-Davlat g’aznasi
-=====
-Bozorlar holati
-=====
-Iqtisodiy o’sish
-+++++
-Qanday bozorda iste`molchilar-ning ehtiyojlari maksimal darajada qondiriladi.
-=====
-#Raqobatlashgan bozorda
-=====
-Monopol bozorda
-=====
-Oligapol bozorda
-=====
-Barchasida
-+++++
-… bu raqobatlashgan bozorda kerakli resurs uchun firma to’lashi mumkin bo’lgan narx bilan ushbu resursning minimal narxi o’rtasidagi farq.
-=====
-#Iqtisodiy renta
-=====
-Diffirensial renta
-=====
-Abstrakt renta
-=====
-Barcha javob hato
-+++++
-Bozor qaysi holatda samarali faoliyat ko’rsatadi.
-=====
-#Erkin holatida
-=====
-Monopol holatida
-=====
-Oligapol holatida
-=====
-Barcha holatlarda
-+++++
-...- bitta iste’molchining tovarga bo’gan talabi.
-=====
-#Individual talabi
-=====
-Talab chizigi
-=====
-Taklif chizigi
-=====
-Talab konuni
-+++++
-...- tovar narxi bilan sotib olinadigan ushbu tovar miwdori o’rtasidagi bog’liqlikni ifodalovchi egri chiziq.
-=====
-#Talab chizig’i
-=====
-Individual talabi
-=====
-Talab qonuni
-=====
-Taklif chizig’i
-+++++
-...- tovar narxi bilan taklif qilinadigan ushbu tovar miqdori o’rtasidagi bog’liqlikni ifodalovchi egri chiziq.
-=====
-#Taklif chizigi
-=====
-Talab chizigi
-=====
-Shaxs talabi
-=====
-Talab konuni
-+++++
-...- talab bilan taklifni tenglashtiruvchi narx.
-=====
-#Muvozanat narx
-=====
-Xarajatlar
-=====
-Elastiklik
-=====
-Umumiy naflik
-+++++
-...- bu matematik tushuncha bulib, bog’liq o’zgaruvchi bilan erkin o’zgaruvchilar  o’rtasidagi miqdoriy bog’liqlikni ifodalaydi.
-=====
-#Funksiya
-=====
-Muvozanat narx
-=====
-Muvozanatlashgan baho deb
-=====
-Umumiy naflik
-+++++
-....- talab hajmi taklif hajmiga mos kelgandagi baho tushuniladi.
-=====
-#Muvozanatlashgan baho deb
-=====
-Umumiy naflik
-=====
-Elastiklik
-=====
-Befarqlik chizig’i
-+++++
-…- talab va taklifga ta’sir qiluvchi omillarning bir foizga o’zgarishi natijasida talab va taklif xajmining necha foizga o’zgarishini aniqlaydigan koeffisiyenga aytiladi.
-=====
-#Elastiklik
-=====
-Muvozanatlashgan baho deb
-=====
-Befarklik chizigi
-=====
-Funksiya
-+++++
-… - iste’mol qilishda bir-birini o’rnini bosuvchi tovarlar yoki bir xil extiyojni kondiruvchi tovarlar.
-=====
-#O’rindosh tovarlar
-=====
-To’ldiruvchi tovarlar
-=====
-Byudjet
-=====
-Kopital
-+++++
-… - birgalikda, komplekt tarzida iste’mol kilinadigan tovarlar.
-=====
-#Tuldiruvchi tovarlar
-=====
-O’rindosh tovarlar
-=====
-Kapital
-=====
-Byudjet
-+++++
-…- Bitta tovarga bulgan talabga boshka bir tovarning narxi ta’sir ko’rsatadi.
-=====
-#Kesishgan talab elastikligi
-=====
-Naflik funksiyasi
-=====
-Umumiy naflik
-=====
-Chekli naflik
-+++++
-Narxlar diversifi-kasiyasi , bu ...
-=====
-#Narxlarni iste’molchilarning imkoniyatlariga karab xar xil darajalarda belgilash;
-=====
-Rakobatchi firmalar o’rnatgan narxdan farkli ularok, minimal narxlarni o’rnatish
-=====
-Narxlarni kat’iy belgilangan tarzda ushlab turish
-=====
-To’gri javob yo’q
-+++++
-… ishlab chiqaruvchi tomoni-dan olingan umumiy manfaat-ni bildiradi.
-=====
-#Ishlab chiqaruvchi ortikchaligi
-=====
-Ishlab chiqaruvchi kamligi
-=====
-To’yinmagan bozor
-=====
-To’yinmagan bozor
-+++++
-… haridor bitta bulib, sotuv-chilar ko’p bulgan bozor.
-=====
-#Monopsoniya
-=====
-Oligopoliya
-=====
-Monopoliya
-=====
-Erkin bozor
-+++++
-Bozor qaysi xolatda samarali faoliyat ko’rsatadi.
-=====
-#Erkin holatida
-=====
-Monopol holatida
-=====
-Oligapol holatida
-=====
-Barcha holatlarda
-++++++
-….- ishlab chiqarish omillaridan foydalangan xolda maxsulot yaratish jarayonini yoki ishlab chiqarish omillarini tayyor maxsulotga aylantirish jarayoni.
-=====
-#Ishlab chiqarish
-=====
-Foyda olish
+mulkdan daromad.
 =====
-Raqobat
-=====
-To’g’ri javob yo’q
-+++++
-…- ishlab chiqarish xajmi o’zgarmaganda bir birlik X omilini necha birlik Y omil bilan almashtirish mumkinligini ko’rsatadi.
-=====
-#Chekli texnologik almashtirish normasi
-=====
-Daromad
-=====
-Narx shakllanishi
-=====
-To’g’ri javob yo’q
+to'g'ri javob yo'q
 +++++
-…- bu o’zgaruvchan resurslar kombinasiyasini kichik miqdorda ko’shimcha sarfi xisobidan umumiy maxsulotning o’sgan kismiga aytiladi
+Iqtisodiyotning quyidagi tarmoqlari haqiqiy yakuniy iste'molga ega:
 =====
-#Chekli maxsulot
+#uy xo'jaliklari, davlat idoralari, uy xo'jaliklariga xizmat ko'rsatuvchi notijorat tashkilotlari;
 =====
-Zaruriy mahsulot
+uy xo'jaliklari, davlat organlari;
 =====
-Ortiqcha mahsulot
+milliy iqtisodiyotning barcha tarmoqlari.
 =====
-To’g’ri javob yo’q
+to'g'ri javob yo'q
 +++++
-…- bir xil hajmda mahsulot ishlab chiqarishni ta’minlovchi omillar sarflari kombinasiyalarini ifodalovchi egri chiziq.
+Inson taraqqiyoti indeksi quyidagi ko'rsatkichlarga tegishli:
 =====
-#Izokvanta
+#aholi turmush darajasining umumlashtiruvchi ko'rsatkichlari;
 =====
-Daromad
-=====
-Taklif
-=====
-To’g’ri javob yo’q  
-+++++
-Mikroiqtisodiyot nimani o‘rganadi?
-==== 
-#Iste’molchi, firma va bozorlarning individual xatti-harakatini 
-====
-Milliy daromadni shakllanishi
-====
-Narxlar umumiy darajasini
-====
-Ishsizlik darajasini
-+++++
-Talab qonuni nimani anglatadi?
-====
-#Narx pasaysa talab ortadi
-====
-Narx oshsa talab ortadi
-====
-Narx talabga ta’sir qilmaydi
-====
-Daromad oshsa talab pasayadi
-+++++
-Quyidagilardan qaysi biri talabning narxdan tashqari omiliga kiradi?
-====
-#Aholi daromadi
-====
-Narx o‘zgarishi
-====
-Ishlab chiqarish xarajatlari
-==== 
-Resurslar narxi
-+++++
-Taklif egri chizig‘i odatda qanday yo‘nalishda bo‘ladi?
-====
-#Yuqoriga yo‘nalgan 
-====
-Pastga yo‘nalgan
-====
-Vertikal
-====
-Gorizontal
-==== 
-+++++
-Elastiklik nima?
-==== 
-#Talabning narx yoki boshqa omillarga sezgirligi
-====
-Narx bilan talab miqdori orasidagi mutlaq farq
-====
-Narxning taklifga ta’siri
-====
-Talab egri chizig‘ining burchagi
-+++++
-Agar narx 10 % ga oshsa va talab 20 % ga kamaygan bo‘lsa, bu talab nechchi elastik?
-====
-#2
-====
-0,2
-====
-1
-====
-–2
-+++++
-Mukammal raqobat sharoitida firma qanday narxda sotadi?
-====
-#Bozor narxida
-====
-O‘zi belgilaydi
-==== 
-Monopolist bilan kelishib
-====
-Taklifiga ko‘ra
-+++++
-Monopoliyaning asosiy belgisi?
-====
-#Bitta yirik sotuvchi bo‘ladi 
-====
-Ko‘p sotuvchilar mavjud
-==== 
-Bir nechta kichik firmalar mavjud
-====
-Kirish erkinligi yuqori
-+++++
-Chegaraviy xarajat (MC) nimani anglatadi?
-====
-#Qo‘shimcha mahsulot birligini ishlab chiqarish xarajati
-====
-Umumiy xarajatlar yig‘indisi
-====
-O‘rtacha xarajatlar
-====
-Faqat doimiy xarajatlar
-+++++
-Samara (substitutsiya) effekti nimani anglatadi?
-====
-#Narx o‘zgarishi tufayli tovarlar o‘rtasidagi nisbiy jozibadorlikning o‘zgarishi 
-====
-Narx o‘zgarishi tufayli real daromadning o‘zgarishi
-==== 
-Daromad oshishi tufayli xarid ortishi
-====
-Tovar iste'molining butunlay to‘xtashi
-+++++
-Daromad effekti nimani ifodalaydi?
-====
-#Narx o‘zgarishi natijasida iste’molchining haqiqiy daromadi o‘zgarishi
-====
-O‘rinbosar tovarlarning kamayishi
-====
-Narx o‘zgarishi tufayli tovarning nisbiy arzonlashuvi
-====
-Talabning mutlaq oshishi
-+++++
-Oddiy (normal) tovarlarda daromad effekti qanday bo‘ladi?
-====
-#Daromad oshsa talab ortadi
-====
-Daromad oshsa talab kamayadi
-====
-Daromad oshsa talab o‘zgarmaydi
-====
-Narx oshsa talab ortadi
-+++++
-Past darajadagi tovarlarda daromad effekti qanday?
-====
-#Daromad oshsa talab kamayadi 
-====
-Daromad oshsa talab ortadi
-====
-Narx oshsa talab ortadi
-====
-Narx o‘zgarsa talab o‘zgarmaydi
-+++++
-Samara effekti qaysi omil bilan bog‘liq?
-====
-#Nisbiy narxlar o‘zgarishi
-====
-Aholi daromadining o‘sishi
-====
-Tovar sifati
-====
-Reklama darajasi
-+++++
-Ishlab chiqarish funksiyasi nimani ifodalaydi?
-====
-#Resurslar miqdori bilan ishlab chiqarilgan mahsulot hajmi o‘rtasidagi munosabatni
-====
-Ishlab chiqaruvchining foydasini 
+aholi daromadlarining kontsentratsiyasi;
 =====
-Ishlab chiqarish xarajatlarini
+aholi xarajatlari.
 ====
-Mahsulot qiymatini
-+++++ 
-Chegaraviy mahsuldorlik (MP) nima?
-====
-#Qo‘shimcha bir birlik resurs qo‘shilganda ishlab chiqariladigan qo‘shimcha mahsulot
-====
-Resurslarning umumiy hajmi
-====
-Umumiy mahsulotning o‘rtacha qiymati
-====
-Ishlab chiqarishning maksimal darajasi
-+++++
-Ishlab chiqarishning qisqa muddatli davrida qaysi omil o‘zgarmaydi?
-====
-#Doimiy kapital (mashina, bino)
-====
-Energiya
-====
-Mehnat
-====
-Xomashyo
+to'g'ri javob yo'q
 +++++
-Umumiy nаflik оshаdi, qаchоnki chеkli nаflilik:
-====
-#o’ssа yoki kаmаysа
-====
-ko’tаrilgаndа
-====
-pаst sur’аtdа оshgаndа
-====
-pаsаygаndа
-
-
 
