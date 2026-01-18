@@ -59,7 +59,7 @@ bir marta
 idoraviy
 =====
 hammasi noto'g'ri
-++++
++++++
 Asosiy massiv usuli quyidagilardan iborat:
 =====
 #o'rganilayotgan belgining qiymati ustun bo'lgan populyatsiya birliklarining qismi ekspertizadan o'tkaziladi.
