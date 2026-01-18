@@ -210,7 +210,7 @@ markazlashmagan
 mexanizatsiyalashgan
 =====
 avtomatlashtirilgan
-++++
++++++
 Guruhlashning asosi quyidagilar bo'lishi mumkin:
 =====
 #ham sifat, ham miqdoriy xarakteristikalar;
@@ -230,7 +230,7 @@ Roʻyxatga kiritilgan
 Kombinativ
 =====
 Xronologik
-++++
++++++
 O'zgaruvchi bilan dinamikaning nisbiy ko'rsatkichini olish
 i davr uchun taqqoslash uchun quyidagilar zarur:
 =====
@@ -498,7 +498,7 @@ kuzatish birligi
 aholi birligi
 =====
 hisobot birligi
-++++
++++++
 Statistik kuzatish paytida ma'lumotlar olinadigan sub'ekt deyiladi
 =====
 #hisobot birligi
@@ -1241,7 +1241,7 @@ bir marta
 idoraviy
 =====
 hammasi noto'g'ri
-++++
++++++
 Asosiy massiv usuli quyidagilardan iborat:
 =====
 #o'rganilayotgan belgining qiymati ustun bo'lgan populyatsiya birliklarining qismi ekspertizadan o'tkaziladi.
@@ -1412,7 +1412,7 @@ Roʻyxatga kiritilgan
 Kombinativ
 =====
 Xronologik
-++++
++++++
 O'zgaruvchi bilan dinamikaning nisbiy ko'rsatkichini olish
 i davr uchun taqqoslash uchun quyidagilar zarur:
 =====
@@ -1680,7 +1680,7 @@ kuzatish birligi
 aholi birligi
 =====
 hisobot birligi
-++++
++++++
 Statistik kuzatish paytida ma'lumotlar olinadigan sub'ekt deyiladi
 =====
 #hisobot birligi
