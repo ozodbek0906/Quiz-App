@@ -980,7 +980,7 @@ yangilanish omili;
 likvidlik koeffitsienti;
 =====
 kapital aylanmasi ;
-=====
++++++
 Aylanma mablag'lar aylanmasini qaysi ko'rsatkichlar tavsiflashini ko'rsating:
 =====
 #bir inqilobning davomiyligi;
@@ -1392,7 +1392,7 @@ markazlashmagan
 mexanizatsiyalashgan
 =====
 avtomatlashtirilgan
-++++
++++++
 Guruhlashning asosi quyidagilar bo'lishi mumkin:
 =====
 #ham sifat, ham miqdoriy xarakteristikalar;
@@ -2162,7 +2162,7 @@ yangilanish omili;
 likvidlik koeffitsienti;
 =====
 kapital aylanmasi ;
-=====
++++++
 Aylanma mablag'lar aylanmasini qaysi ko'rsatkichlar tavsiflashini ko'rsating:
 =====
 #bir inqilobning davomiyligi;
