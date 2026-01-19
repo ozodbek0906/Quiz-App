@@ -65,16 +65,70 @@ async function exportResultPDF(){
   actions.forEach(a => a.remove());
   // remove confetti overlays if present
   const conf = clone.querySelector('.confetti'); if (conf) conf.remove();
-  // ensure readable font sizes for print
+  
+  // Style the clone for PDF: white background, dark text, preserve colors
   clone.style.boxShadow = 'none';
   clone.style.padding = '18px';
-  const wrapper = document.createElement('div'); wrapper.style.background = '#fff'; wrapper.style.padding = '20px'; wrapper.appendChild(clone);
+  clone.style.background = '#ffffff';
+  clone.style.border = '2px solid #7c3aed';
+  clone.style.color = '#000000';
+  
+  // Style all text elements for readability - keep borders and colors visible
+  clone.querySelectorAll('*').forEach(el => {
+    // Don't override text color for colored borders/badges
+    if (el.style.borderColor && el.style.borderColor !== '') {
+      // Keep existing border colors
+    } else {
+      el.style.borderColor = '#ccc';
+    }
+    // Keep semi-transparent backgrounds for visual distinction
+    const bgColor = window.getComputedStyle(el).backgroundColor;
+    if (bgColor && bgColor !== 'transparent' && bgColor !== 'rgba(0, 0, 0, 0)') {
+      el.style.background = bgColor.replace(/rgba\((.*),.*\)/, 'rgba($1, 0.15)');
+    } else {
+      el.style.background = 'transparent';
+    }
+    // Set text color to dark for readability
+    el.style.color = '#000000';
+  });
+  
+  // Style headings
+  clone.querySelectorAll('h2, h3, h4, h5, h6').forEach(el => {
+    el.style.color = '#1a1a1a';
+    el.style.fontWeight = '700';
+  });
+  
+  // Style strong tags
+  clone.querySelectorAll('strong').forEach(el => {
+    el.style.color = '#000000';
+    el.style.fontWeight = '700';
+  });
+  
+  // Style paragraphs
+  clone.querySelectorAll('p').forEach(el => {
+    el.style.color = '#000000';
+    el.style.margin = '10px 0';
+  });
+  
+  // Keep borders visible with dark colors
+  clone.querySelectorAll('[style*="border"]').forEach(el => {
+    const style = el.getAttribute('style');
+    if (!style.includes('border-color')) {
+      el.style.borderColor = '#7c3aed';
+    }
+  });
+  
+  const wrapper = document.createElement('div');
+  wrapper.style.background = '#ffffff';
+  wrapper.style.padding = '20px';
+  wrapper.style.color = '#000000';
+  wrapper.appendChild(clone);
 
   const opt = {
     margin: 12,
     filename: `test_result_qism_${currentPart}.pdf`,
     image: { type: 'jpeg', quality: 0.98 },
-    html2canvas: { scale: 2, useCORS: true },
+    html2canvas: { scale: 2, useCORS: true, backgroundColor: '#ffffff' },
     jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
   };
   try{
