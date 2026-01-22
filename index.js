@@ -229,68 +229,55 @@ function startPart(idx){
 
 // Parse input format into questions
 function parseQuestions(raw) {
-  const parts = raw.split('+++++');
+  const blocks = raw.split(/\+{4,}/);
   const qlist = [];
   
-  for (let block of parts) {
+  for (let block of blocks) {
     block = block.trim();
     if (!block) continue;
 
-    const lines = block.split(/\r?\n/);
+    const lines = block.split(/\r?\n/).map(l => l.trim()).filter(l => l);
     if (lines.length === 0) continue;
 
     // First line is the question
-    let qline = lines[0].trim();
-    if (!qline) continue;
-
+    const questionText = lines[0];
     const choices = [];
     let correctIndex = -1;
 
-    // Process remaining lines - they should be between ==== separators
-    // Each ==== marks a choice below it
-    let i = 1;
-    while (i < lines.length) {
-      const line = lines[i].trim();
+    // Find all choices (lines between ==== separators)
+    for (let i = 1; i < lines.length; i++) {
+      const line = lines[i];
       
-      // Skip empty lines and look for ==== separators
-      if (line === '====' || line === '=====' || line.match(/^=+$/)) {
-        i++;
-        // Next non-empty line is the choice
-        while (i < lines.length) {
-          const choiceLine = lines[i].trim();
-          if (!choiceLine) {
-            i++;
-            continue;
-          }
-          
-          // Check if this choice is marked as correct with #
-          let isCorrect = false;
-          let choiceText = choiceLine;
-          
-          if (choiceText.startsWith('#')) {
-            isCorrect = true;
-            choiceText = choiceText.replace(/^#\s*/, '').trim();
-            correctIndex = choices.length;
-          }
-          
-          // Clean up trailing semicolons if present
-          choiceText = choiceText.replace(/;\s*$/, '').trim();
-          
-          if (choiceText) {
-            choices.push(choiceText);
-          }
-          i++;
-          break;
-        }
-      } else {
-        i++;
+      // Skip separator lines
+      if (/^=+$/.test(line)) continue;
+      
+      // This is a choice
+      let choiceText = line;
+      let isCorrect = false;
+      
+      // Check if marked with # as correct answer (handle both "# text" and "#text")
+      if (choiceText.startsWith('#')) {
+        isCorrect = true;
+        choiceText = choiceText.substring(1).trim();
+        correctIndex = choices.length;
+      }
+      
+      if (choiceText) {
+        choices.push(choiceText);
       }
     }
 
-    if (choices.length > 0 && correctIndex >= 0) {
-      qlist.push({ text: qline, choices, correctIndex });
+    // Add question if it has choices and a marked correct answer
+    if (choices.length >= 2 && correctIndex >= 0) {
+      qlist.push({ 
+        text: questionText, 
+        choices: choices, 
+        correctIndex: correctIndex 
+      });
     }
   }
+  
+  console.log(`✓ Jami ${qlist.length} ta savol parse qilindi`);
   return qlist;
 }
 

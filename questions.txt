@@ -1,2326 +1,2463 @@
-+++++
-"Statistika" atamasi nimani anglatadi?
-=====
-#holat, narsalarning holati.
-=====
-uy boshqaruvi
-=====
-sifat ko'rinishlarining xilma-xilligi
-=====
-hammasi noto'g'ri
-=====
-+++++
-Statistik ko'rsatkich:
-=====
-#miqdoriy baholash.
-=====
-daraja
-=====
-nisbiy ball
-=====
-hammasi noto'g'ri
-+++++
-Statistik agregat quyidagicha:
-=====
-#ijtimoiy-iqtisodiy hodisalarning rivojlanish qonuni.
-=====
-Nazariy fan
-=====
-o'rganilayotgan hodisaning birliklari
-=====
-hammasi noto'g'ri
-+++++
-Statistik ma'lumotlar quyidagilardan iborat:
-=====
-#statistik ma'lumotlar.
-=====
-kuzatuv
-=====
-statistik tadqiqot
-=====
-hammasi noto'g'ri
-+++++
-Statistik kuzatish quyidagi talablarga javob berishi kerak:
-=====
-#ishonchlilik, samaradorlik va ommaviy jozibadorlik
-=====
-maxfiylik.
-=====
-Yolg'on
-=====
-hammasi noto'g'ri
-+++++
-kuzatish sodir bo'ladi:
-=====
-#uzluksiz, uzluksiz, bir martalik oqim, davriy, bir martalik.
-=====
-bir marta
-=====
-idoraviy
-=====
-hammasi noto'g'ri
-+++++
-Asosiy massiv usuli quyidagilardan iborat:
-=====
-#o'rganilayotgan belgining qiymati ustun bo'lgan populyatsiya birliklarining qismi ekspertizadan o'tkaziladi.
-=====
-xarakteristikasi tanlangan aholining bir qismi uchun berilgan
-=====
-ixtiyoriy to'ldirish tamoyiliga asoslangan
-=====
-hammasi noto'g'ri
-+++++
-Kuzatuvdan maqsad nima?
-=====
-#statistik tadqiqotlar natijasi.
-=====
-ob'ekt ta'rifi
-=====
-maqsadlarni shakllantirish
-=====
-hammasi noto'g'ri
-+++++
-statistik shakl:
-=====
-#statistik ma'lumotlar
-=====
-matematik tadqiqotlar
-=====
-muayyan shakllarning shakllari
-=====
-hammasi noto'g'ri
-+++++
-xatolar yuzaga keladi:
-=====
-#kuzatish vaqtida noto'g'ri yozib olinganligi sababli.
-=====
-hisoblash tufayli
-=====
-buzilishi tufayli 
-=====
-hammasi noto'g'ri
-+++++
-Vakillik xatolari quyidagilardan iborat :
-=====
-#vakillikdagi xatolar
-=====
-hisobotlardagi buzilishlar
-=====
-tasodifiy xatolar
-======
-hammasi noto'g'ri
-+++++
-Tizimli xatolar mavjud:
-=====
-# qasddan, qasddan .
-=====
-tasodifiy
-=====
-maxsus
-=====
-hammasi noto'g'ri
-+++++
-Mantiqiy nazorat quyidagilardan iborat:
-=====
-#javoblarni mantiqiy nuqtai nazardan tekshirish.
-=====
-arifmetik hisoblash
-=====
-doimiy ma'lumotlarni namuna olish
-=====
-hammasi noto'g'ri
-+++++
-Monografik tadqiqot nima?
-=====
-#agregat birliklarni batafsil, chuqur o'rganish
-=====
-aholining bir qismi uchun
-=====
-ro'yxatga olish o'lchov bilan amalga oshiriladi
-=====
-hammasi noto'g'ri
-+++++
-Anketa nima?
-=====
-#kuzatish, unda o'rganilayotgan savollarga javoblar suhbatdoshning so'zlaridan yozib olinadi
-=====
-respondentlarning o'zlari tomonidan to'ldiriladi
-=====
-kuzatuv olib borayotgan muxbirlar tomonidan taqdim etilgan ma'lumotlar
-=====
-hammasi noto'g'ri
-+++++
-Statistik fan va amaliyot o'rtasida bog'liqlik bormi?
-=====
-#yaqin aloqa va o'zaro bog'liqlik
-=====
-Yo'q
-=====
-kamdan-kam hollarda
-=====
-hammasi noto'g'ri
-+++++
-statistik ma'lumotlar:
-=====
-#ijtimoiy hayot hodisalarini miqdoriy tomondan oʻrganuvchi fan
-=====
-uslubiy asos
-=====
-ma'lumotlar yig'ish
-=====
-hammasi noto'g'ri
-+++++
-Ilgari statistik ma'lumotlarning nomi nima edi?
-=====
-#siyosiy arifmetika
-=====
-Statistika
-=====
-Kompyuter fanlari
-=====
-hammasi noto'g'ri
-+++++
-Statistika zamonaviy fanmi yoki ko'p asrlik tarixga egami?
-=====
-#asrlik tarixga ega
-=====
-ha, zamonaviy
-=====
-u har doim u erda edi
-=====
-hammasi noto'g'ri
-+++++
-Bir hil bo'linish sodir bo'lgan guruhlash
-agregatlarni guruhlarga ajratish deyiladi:
-=====
-#tipologik guruhlash
-=====
-tarkibiy guruhlash
-=====
-analitik guruh
-=====
-birlashtirilgan
-+++++
-Bajarish texnikasiga ko'ra statistik xulosa quyidagilarga bo'linadi:
-=====
-#oddiy va murakkab uchun.
-=====
-markazlashmagan
-=====
-mexanizatsiyalashgan
-=====
-avtomatlashtirilgan
-+++++
-Guruhlashning asosi quyidagilar bo'lishi mumkin:
-=====
-#ham sifat, ham miqdoriy xarakteristikalar;
-=====
-sifat belgisi
-=====
-miqdoriy xususiyat
-=====
-Atributiv
-+++++
-Mavzuning rivojlanish xususiyatiga ko'ra statistik jadvallar ajratiladi:
-=====
-#oddiy.
-=====
-Roʻyxatga kiritilgan
-=====
-Kombinativ
-=====
-Xronologik
-+++++
-O'zgaruvchi bilan dinamikaning nisbiy ko'rsatkichini olish
-i davr uchun taqqoslash uchun quyidagilar zarur:
-=====
-#joriy ko'rsatkichni asosiy ko'rsatkichga bo'ling.
-=====
-i-chi va (i - 1) davrlar uchun doimiy taqqoslash bazasi bilan nisbiy dinamika ko'rsatkichlarini ko'paytirish
-=====
-i-davr uchun doimiy taqqoslash bazasi bilan dinamikaning nisbiy ko'rsatkichini davr uchun o'xshash ko'rsatkichga bo'lish (i - 1)
-=====
-i-davr uchun doimiy taqqoslash bazasi bilan dinamikaning nisbiy ko'rsatkichini davr uchun o'xshash ko'rsatkichga bo'lish (i + 1)
-+++++
-Korxona tomonidan ishlab chiqarish rejasini bajarishning nisbiy ko‘rsatkichi 107 foizni tashkil etdi, ishlab chiqarish hajmi esa o‘tgan davrga nisbatan 5 foizga oshdi. Rejaga nima kiritilgan:
-=====
-# ishlab chiqarish hajmining o'sishi.
-=====
-ishlab chiqarish hajmining pasayishi
-=====
-javob berish mumkin emas
-=====
-Ishlab chiqarish hajmining kamayishi yoki ko'payishi nazarda tutilmaganmi?
-+++++
-Og'irlangan va tortilmagan o'rtacha qiymatlar qachon teng bo'ladi?
-o'zingiz:
-=====
-#tarozi yo'qligida.
-=====
-agar og'irliklar teng bo'lsa
-=====
-og'irliklarning yo'qligi yoki tengligi
-=====
-javob berish mumkin emasmi?
-+++++
-Garmonik o'rtacha qanday hollarda qo'llaniladi:
-=====
-#nisbatning soni ham, maxraji ham qachon ma'lum bo'ladi?
-=====
-hisoblagich noma'lum bo'lganda
-=====
-maxraj noma'lum bo'lganda
-=====
-javob berish mumkin emas
-=====
-+++++
-Barcha chastotalar ga kamaytirilsa, o'rtacha o'zgaradimi
-ba'zi doimiy qiymat:
-=====
-#O'zgartirish
-=====
-O'zgarmaydi
-=====
-Kamayadi
-=====
-oshadimi?
-+++++
-Eng ko'p uchraydigan statistik populyatsiya xarakteristikasining qiymati deyiladi:
-=====
-#arifmetik o'rtacha og'irlik
-=====
-vaznli geometrik o'rtacha
-=====
-Moda
-=====
-Median
-+++++
-Statistikada median xarakteristikaning qiymati hisoblanadi
-=====
-#to'plangan chastotalar yig'indisi bo'yicha tartiblangan qatorning o'rtasida
-=====
-aholining 25 foizini ajratib turadi
-=====
-eng keng tarqalgan
-=====
-eng yuqori qadriyatlar bilan
-+++++
-Hisoblash uchun geometrik o'rtacha qiymat qo'llaniladi:
-=====
-#ma'lum bir davr uchun o'rtacha stavkalar
-=====
-kvadratik funksiyalar ko'rinishidagi o'rtachalar
-=====
-teskari ko'rsatkichlar ko'rinishidagi o'rtacha qiymatlar
-=====
-individual qiymatlar bilan ifodalangan aholi o'rtacha ko'rsatkichlari
-+++++
-Garmonik o'rtacha quyidagi hollarda qo'llaniladi:
-=====
-#individual qiymatlar teskari funktsiya sifatida ifodalanadi
-=====
-individual qiymatlar teskari ko'rsatkichlar shaklida ifodalanadi
-=====
-individual qiymatlar turli chastotalarga ega
-=====
-individual qiymatlar quvvat funktsiyasi bilan ifodalanadi
-+++++
-Nisbiy intensivlik ko'rsatkichi quyidagilarni tavsiflaydi:
-=====
-#o'rganilayotgan jarayonning muhitda tarqalish darajasi
-=====
-bir xil mutlaq ko'rsatkichlarning nisbati
-=====
-o'rganilayotgan loyihaning tarkibiy qismlari o'rtasidagi munosabatlar
-=====
-joriy va asosiy ko'rsatkichlar nisbati
-+++++
-Variant - bu ...
-=====
-#vaqt davomida ommaviy hodisalarning o'zgarishi
-=====
-statistik aholi tarkibining o'zgarishi
-=====
-xarakterli qiymatlarning o'zgarishi
-=====
-aholi tarkibining o'zgarishi
-+++++
-O'zgaruvchanlik koeffitsienti nima bilan tavsiflanadi:
-=====
-#xususiyatning o'zgaruvchanlik diapazoni
-=====
-xususiyatning o'zgaruvchanlik darajasi
-=====
-xususiyatlar o'rtasidagi yaqin aloqa
-=====
-belgining o'zgaruvchanlik chegaralari ?
-+++++
-Agar atributning barcha qiymatlari 16 marta oshirilsa, dispersiya ...
-=====
-#O'zgarmaydi
-=====
-16 barobar ortadi
-=====
-256 barobar ortadi
-=====
-4 barobar ortadi
-+++++
-Guruhlararo dispersiya qanday bo'ladi, agar ular orasida farq bo'lmasa
-Guruhlardagi variantlar:
-=====
-#birlik
-=====
-nol
-=====
-Noldan birgacha o'zgaradi
-=====
-umumiy farq?
-+++++
-Ijtimoiy statistika nima qiladi?
-=====
-#Ijtimoiy statistika jamiyatning ijtimoiy va demografik tuzilishining miqdoriy xususiyatlarini, odamlar hayoti va faoliyatini, davlat va huquq bilan munosabatlarini oʻrganadi.
-=====
-Ijtimoiy statistika materiallarni tadqiq qilish va qayta ishlash uchun maxsus metodologiyani ishlab chiqadi
-=====
-Ijtimoiy statistika ma'lumotlarni to'plashda amaliy inson faoliyatining alohida turidir
-=====
-Ijtimoiy statistika - bu korxonalar tomonidan hisobot hujjatlarida taqdim etiladigan aniq ma'lumot
-+++++
-Ijtimoiy statistikaning tadqiqot ob'ektlari ...
-=====
-#individual ob'ekt va jamoa ob'ekti (oila, yakka tartibdagi fermer xo'jaliklari)
-=====
-iqtisodiy hodisalarning miqdoriy xarakteristikalari
-=====
-maxsus ma'lumot ma'lumotlari
-=====
-odamlarning xatti-harakati
-+++++
-Ijtimoiy statistika bo'limlariga tegishli bo'lgan variantlardan tanlang.
-=====
-#aholi statistikasi, aholi statistikasi va
-demografik statistika
-=====
-moliyaviy statistika, ta'lim darajasi statistikasi
-=====
-uy-joy sharoitlari statistikasi
-=====
-tabiiy resurslar va atrof-muhitni muhofaza qilish statistikasi
-+++++
-Bo'sh vaqt statistikasi
-=====
-#statistika sohasi boʻlib, u maʼlum bir davrda (yoki ularning guruhlari) oʻz vaqtini qanday taqsimlashi va oʻtkazishini tavsiflaydi.
-=====
-ta'minot tomondan dam olish xizmatlarining xususiyatlari
-======
-odamlarni o'rganadigan statistika bo'limi
-=====
-ijtimoiy guruhlarning raqamli ma'lumotlari
-=====
-+++++
-Turmush darajasi bo'yicha statistika nimani o'rganadi?
-=====
-inson salomatligi holati, umr ko'rish davomiyligi, atrof-muhit sharoitlari, ovqatlanish, kundalik qulaylik, ijtimoiy muhit, madaniy va ma'naviy ehtiyojlarni qondirish, psixologik qulaylik va boshqalar.
-=====
-insonning iste'mol qilingan moddiy ne'matlarining erishilgan hajmining mosligi.
-======
-insonning moddiy ne'matlarining erishilgan hajmining muvofiqligi
-=====
-turli ijtimoiy guruhlar o'rtasidagi raqamli ma'lumotlar
-=====
-+++++
-Aholining turmush darajasi qanday?
-=====
-#Bu munosib hayot uchun moddiy resurslarga kirish: sog'lom turmush tarzini saqlash. Hududiy va ijtimoiy harakatchanlikni, axborot almashinuvini va jamiyat hayotida ishtirokini ta'minlash.
-=====
-Bu jamiyatning ijtimoiy hayotidagi munosabatlar tizimini miqdoriy va sifat jihatidan baholashdir
-=====
-Bu o'rganilayotgan hodisa xossasining miqdoriy xarakteristikasidir.
-=====
-Bu aholining real ish haqi va o'sha mahsulotlar o'rtasidagi nisbatdir
-+++++
-Ijtimoiy statistikaning xususiyatlariga nima tegishli ekanligini tanlang.
-=====
-#Miqdoriy va nomiqdoriy ma'lumotlardan foydalanadi.O'rganilayotgan aholining ijtimoiy-iqtisodiy turlarini aniqlang va statistik kuzatish ma'lumotlarini umumlashtiring. Ijtimoiy ma'lumotlarni qayta ishlash va umumlashtirish uchun maxsus texnikani qo'llaydi
-=====
-Takroriylik, izchillik va o'zgarishlar tartibi.
-=====
-Maxsus predmet va o'rganish ob'ektlariga ega.
-=====
-Ma'lumotlar savollarga javoblar shaklida yig'iladi.
-+++++
-Uzoq va sog‘lom hayot, bilim olish, iqtisodiy ishlab chiqarishda ishtirok etish...
-=====
-#inson rivojlanishi uchun asosiy imkoniyatlar.
-=====
-integral ko'rsatkichlar
-=====
-turmush darajasi ko'rsatkichlari
-=====
-to'g'ri javob yo'q
-+++++
-Aholining turmush darajasining integral ko'rsatkichlariga quyidagilar kiradi:
-=====
-#aholi daromadlari va xarajatlari nisbati
-=====
-jon boshiga o'rtacha daromadning yashash minimumiga nisbati
-=====
-ixtiyoriy daromadning shartli bo'sh qismi miqdori
-=====
-aholining qashshoqlik darajasi
-+++++
-YaIM kontseptsiyasini joriy etishni birinchi marta kim va qachon taklif qilgan?
-=====
-# Saymon Kuznets, amerikalik iqtisodchi, 1934 yil
-=====
-Vasiliy Leontief, amerikalik iqtisodchi, 1937 yil
-=====
-Milton Fridman, amerikalik iqtisodchi, 1947 yil
-=====
-Leonid Vitalievich Kantorovich, rus iqtisodchisi, 1949 yil
-+++++
-Iqtisodiyot va statistikada YaIM nima?
-=====
-#Yalpi ichki mahsulot
-=====
-Yalpi tashqi mahsulot
-=====
-Mahalliy valyuta tovari
-=====
-Tashqi valyuta ishlab chiqarish
-+++++
-Statistik kuzatish ob'ekti hisoblanadi
-=====
-#statistik aholi
-=====
-kuzatish birligi
-=====
-aholi birligi
-=====
-hisobot birligi
-+++++
-Statistik kuzatish paytida ma'lumotlar olinadigan sub'ekt deyiladi
-=====
-#hisobot birligi
-=====
-kuzatish birligi
-=====
-aholi birligi
-=====
-to'g'ri javob yo'q
-+++++
-Kuzatish jarayonida qayd etilishi kerak bo'lgan belgilar (yoki savollar) ro'yxati deyiladi:
-=====
-#kuzatish dasturi
-=====
-statistik shakl
-=====
-kuzatuv vositalari
-=====
-to'g'ri javob yo'q
-+++++
-Hisoblangan qiymatlar va o'rganilayotgan miqdorlarning haqiqiy qiymati o'rtasidagi nomuvofiqlik deyiladi:
-=====
-#kuzatish xatosi
-=====
-ro'yxatga olish xatosi
-=====
-vakillik xatosi
-=====
-to'g'ri javob yo'q
-+++++
-Mulkchilikning tashkiliy-huquqiy shakllari bo'yicha korxonalarni taqsimlash qaysi guruhlash turini ifodalaydi:
-=====
-#Tipologik
-=====
-Analitik
-=====
-Strukturaviy
-=====
-Ko'p o'lchovli
-+++++
-Sanoat korxonalarini mulkchilik turlari bo'yicha guruhlash guruhlashga misol bo'la oladi:
-=====
-#Tipologik
-=====
-Strukturaviy
-=====
-Analitik
-=====
-murakkab
-+++++
-Guruhlarning diskret xususiyatlariga quyidagilar kiradi:
-=====
-#oila a'zolari soni
-=====
-ishchilarning ish haqi
-=====
-mamlakat aholisi
-=====
-bank foydasi.
-+++++
-Guruhlarning atributiv xususiyatlariga quyidagilar kiradi:
-=====
-#odamning jinsi;
-=====
-korxona foydasi;
-=====
-ish darajasi;
-=====
-poyabzal o'lchami.
-+++++
-Guruhlashning asosi quyidagilar bo'lishi mumkin:
-=====
-#ham miqdoriy belgi, ham sifat belgisi.
-=====
-miqdoriy xususiyat;
-=====
-sifat belgisi;
-=====
-to'g'ri javob yo'q
-+++++
-Oldindan tuzilgan guruhlash asosida yangi guruhlarni shakllantirish operatsiyasi deyiladi:
-=====
-#ikkinchi darajali guruhlash;
-=====
-kombinatsiyalangan guruhlash;
-=====
-ko'p o'lchovli guruhlash.
+++++
+What is the primary goal of simple linear regression?
 ====
-to'g'ri javob yo'q
-+++++
-Statistik jadvalning predmeti:
-=====
-#o'rganish ob'ektini tavsiflovchi ko'rsatkichlar tizimi
-=====
-o'rganish ob'ekti;
-=====
-aholining umumiy sonli xarakteristikalari.
-=====
-to'g'ri javob yo'q
-+++++
-Predikatning rivojlanish xususiyatiga ko'ra statistik jadvallar ajratiladi:
-=====
-#oddiy;
-=====
-murakkab;
-=====
-ro'yxat;
-=====
-monogam.
-+++++
-Birgalikda olingan ikkita xususiyatga asoslangan guruhlash uchun qanday jadval turi qo'llaniladi :
-=====
-#oddiy;
-=====
-guruh;
-=====
-kombinatsion.
-=====
-to'g'ri javob yo'q
-+++++
-“Mahsulot va xizmatlar ishlab chiqarish hajmi” ko‘rsatkichi vaqt omilining qaysi turi hisoblanadi?
-=====
-#interval.
-=====
-moment;
-=====
-to'g'ri javob yo'q
-=====
-Taqqoslash
-+++++
-Turli ob'ektlarni tavsiflovchi bir xil mutlaq ko'rsatkichning nisbati nisbiy qiymat deb ataladi:
-=====
-#taqqoslashlar.
-======
-karnaylar;
-======
-tuzilmalar;
-======
-muvofiqlashtirish;
-+++++
-"Qo'pol tug'ilish darajasi" nisbiy ko'rsatkichdir:
-=====
-#Intensivliklari
-=====
-karnaylar;
-=====
-tuzilmalar;
-=====
-muvofiqlashtirish;
-+++++
-"Korxonaning o'z va qarz mablag'lari nisbati" ko'rsatkichi nisbiy qiymat deb ataladi:
-=====
-#koordinatsiya;
-=====
-karnaylar;
-=====
-tuzilmalar;
-=====
-intensivlik;
-+++++
-Bir necha yil davomida o'rtacha yo'qotish koeffitsientini hisoblash uchun quyidagi formuladan foydalaniladi:
-=====
-#arifmetik o'rtacha
-=====
-garmonik o'rtacha
-=====
-geometrik o'rtacha
-=====
-to'g'ri javob yo'q
-+++++
-Agar barcha og'irliklar ikki baravar oshirilsa, o'rtacha o'zgaradimi?
-=====
-#O'zgarmaydi;
-=====
-2 barobar oshirish;
-=====
-4 marta o'zgaradi.
-=====
-2 barobar kamayadi
-+++++
-Bitta nisbat uchun o'rtachani turli shakllarda hisoblash mumkinmi:
-=====
-#taqiqlangan;
-=====
-Balki;
-=====
-qo'shimcha shartlar qo'yilsa mumkin;
-=====
-muayyan populyatsiyalar uchun mumkin
-+++++
-Agar barcha variantlar 2 marta kamaytirilsa va barcha og'irliklar 2 barobar oshirilsa, garmonik o'rtacha qanday o'zgaradi:
-=====
-#2 marta kamayadi
-=====
-O'zgarmaydi;
-=====
-2 barobar ortadi;
-=====
-ortadi.
-+++++
-Belgining o'rtacha qiymati 20, o'zgaruvchanlik koeffitsienti esa 25%.
-Xarakteristikaning o'zgarishi quyidagilarga teng:
-=====
-#25;
-=====
-20;
-=====
-125;
-=====
-45.
-+++++
-Agar barcha variantlar 5 birlikka kamaytirilsa, o'rtacha o'zgaradimi:
-=====
-#5 birlikka kamayadi;
-=====
-variantning og'irligiga qarab ma'lum bir qiymatga kamayadi;
-=====
-O'zgarmaydi;
-=====
-5 birlikka oshadi.
-+++++
-Determinatsiya koeffitsienti bu nisbat:
-=====
-jami #guruhlararo tafovut
-=====
-qoldiqdagi guruhlar orasidagi farq
-=====
-umumiy dispersiyadagi nazariy qiymatlarning farqi
+To model non-linear relationships using splines
 ====
-to'g'ri javob yo'q
-+++++
-Bir qator dinamika xarakterlanadi:
-=====
-#populyatsiya xususiyatlarining vaqt o'tishi bilan o'zgarishi;
+To reduce the dimensionality of multiple predictors
 ====
-kosmosdagi populyatsiya xususiyatlarining o'zgarishi;
-=====
-populyatsiyaning qandaydir belgiga ko'ra tuzilishi.
+To cluster data points into groups based on similarity
 ====
-to'g'ri javob yo'q
-+++++
-Agar bir qator dinamikaning qo'shni darajalari taqqoslansa, ko'rsatkichlar deyiladi:
-=====
-#zanjirlangan.
-====
-Asosiy;
-=====
-to'g'ri javob yo'q
-=====
-dinamikasi
-+++++
-O'sish sur'ati salbiy bo'lishi mumkinmi?
-=====
-#bo'lishi mumkin emas;
-=====
-ehtimol, agar indikator pasaysa.
-=====
-to'g'ri javob yo'q
-=====
-Balki
-+++++
-Vaqt oralig'i teng bo'lgan intervalli dinamika seriyasining o'rtacha darajasi o'rtacha formula yordamida hisoblanadi:
-=====
-#arifmetik oddiy;
-=====
-arifmetik vaznli;
-=====
-harmonik oddiy;
-=====
-garmonik vaznli.
-+++++
-Teng bo'lmagan vaqt oraliqlari bo'lgan intervalli dinamika seriyasining o'rtacha darajasi o'rtacha formula yordamida hisoblanadi:
-=====
-#arifmetik vaznli;
-=====
-arifmetik oddiy;
-=====
-harmonik oddiy;
-=====
-garmonik vaznli.
-+++++
-Intervalli dinamika seriyasining o'rtacha darajasi quyidagicha aniqlanadi:
-=====
-#arifmetik o'rtacha;
-=====
-garmonik o'rtacha;
-=====
-o'rtacha xronologik.
-+++++
-O'rtacha o'sish sur'ati quyidagi formula bo'yicha aniqlanadi:
-=====
-#arifmetik o'rtacha;
-=====
-garmonik o'rtacha;
-=====
-geometrik o'rtacha.
-=====
-to'g'ri javob yo'q
-+++++
-Hodisa rivojlanishining asosiy tendentsiyasini aniqlash uchun quyidagilar qo'llaniladi:
-=====
-#analitik moslashtirish;
-=====
-indeks usuli;
-=====
-harakatlanuvchi o'rtacha usuli;
-=====
-korrelyatsiya tahlili.
-+++++
-Asosiy tendentsiya bir qator dinamikaning o'zgarishini anglatadi:
-=====
-#taraqqiyotning qandaydir umumiy yo'nalishini belgilash.
-=====
-qator ichida ma'lum oraliqlarda teng ravishda takrorlanadi;
-=====
-to'g'ri javob yo'q
-=====
-Javob yo'q
-+++++
-Tanlangan kuzatish deganda biz quyidagilarni nazarda tutamiz:
-=====
-# tasodifiy tanlangan populyatsiya birliklarining bir qismini uzluksiz kuzatish
-=====
-o'rganilayotgan aholining eng katta birliklarini o'rganish
-=====
-aholining barcha birliklarini uzluksiz kuzatish
-=====
-aholi birliklarining bir qismini qisman kuzatish
-+++++
-Kuzatishning namuna olish usuli quyidagilarga asoslanadi:
-=====
-#aholi birliklarini tasodifiy tanlash;
-=====
-aholining eng muhim birliklarini tekshirish;
-=====
-aholining alohida birliklarini tekshirish;
-aholining barcha birliklarini o'rganish.
-=====
-to'g'ri javob yo'q
-+++++
-O'rtacha tanlab olish xatosi quyidagilarga bog'liq:
-=====
-#tanlama populyatsiyasining xarakteristikalari qiymatlarining o'zgarishi;
-=====
-bayonotning ishonchlilik ehtimoli;
-=====
-modal interval qiymatlari
-====
-to'g'ri javob yo'q
-+++++
-Teng qiymatlar uchun maksimal tanlab olish xatosi quyidagi hollarda kattaroq bo'ladi:
-=====
-#qayta tanlash;
-=====
-takrorlanmaydigan tanlov.
-=====
-to'g'ri javob yo'q
-=====
-Javob yo'q
-+++++
-Ketma-ket namuna olish uchun o'rtacha tanlab olish xatosini aniqlashda quyidagilar hisoblanadi:
-=====
-#guruhlararo tafovut;
-=====
-umumiy dispersiya;
-=====
-guruh farqlarining o'rtacha qiymati.
-=====
-to'g'ri javob yo'q
-+++++
-Aholi ro'yxatini o'tkazishda kuzatuv ob'ekti nima?
-=====
-#mamlakatning butun aholisi;
-=====
-Inson;
-====
-uy xo'jaligi;
-=====
-doimiy aholi;
-+++++
-Aholining o'sish sur'ati birdan kam:
-=====
-#aholi soni kamaymoqda;
-=====
-aholi soni ortib bormoqda;
-=====
-aholi bir xil darajada qolmoqda.
-=====
-to'g'ri javob yo'q
-+++++
-Iqtisodiy faol aholi tarkibiga quyidagilar kiradi:
-=====
-#ishsiz;
-======
-16 yoshgacha bo'lgan o'smirlar;
-=====
-ruhoniylar;
-=====
-kunduzgi universitet talabalari.
-=====
-to'g'ri javob yo'q
-+++++
-"Umumiy nikoh darajasi " quyidagilarni tavsiflovchi ko'rsatkichlarni anglatadi:
-=====
-#tabiiy aholi harakati;
-=====
-aholining mexanik harakati.
-=====
-to'g'ri javob yo'q
-=====
-Javob yo'q
-+++++
-Aholining o'rtacha yillik miqdorini hisoblash uchun qanday o'rtacha ko'rsatkich qo'llaniladi (yil boshidagi va oxiridagi raqam ma'lum)?
-=====
-#arifmetik o'rtacha oddiy;
-=====
-o'rtacha arifmetik og'irlik;
-=====
-o'rtacha xronologik;
-=====
-garmonik o'rtacha;
-+++++
-Agar 1.01, 1.02, 1.03, 1.04 boʻyicha aholi soni maʼlum boʻlsa, chorakda oʻrtacha oylik aholi sonini aniqlash uchun qanday oʻrtacha koʻrsatkich qoʻllaniladi?
-=====
-#o'rta xronologik;
-=====
-arifmetik o'rtacha;
-=====
-garmonik o'rtacha;
-====
-geometrik o'rtacha.
-+++++
-“Iqtisodiy faol aholi” bu:
-=====
-#ishli va ishsizlar.
-=====
-mehnat resurslari;
-====
-mehnatga layoqatli aholi;
-=====
-Band
-+++++
-Iqtisodiy faol aholi darajasi iqtisodiy faol aholi soniga nisbati sifatida aniqlanadi:
-=====
-#o'rtacha aholi soniga;
-=====
-band aholiga.
-=====
-to'g'ri javob yo'q
-=====
-Javob yo'q
-+++++
-Ishsizlik darajasi ishsizlar soniga nisbati sifatida aniqlanadi:
-=====
-#iqtisodiy faol aholi soniga;
-=====
-umumiy aholi soniga;
-=====
-xodimlar soniga
-=====
-to'g'ri javob yo'q
-+++++
-Agar mahsulot ishlab chiqarish 4 marta, ishchilar soni 2 barobar oshsa, mehnat unumdorligi necha marta o'zgaradi?
-=====
-#2 marta;
-=====
-8 marta;
-=====
-0,5 marta.
-=====
-to'g'ri javob yo'q
-+++++
-Asosiy vositalardan foydalanish samaradorligi quyidagi ko'rsatkichlar bilan tavsiflanadi:
-=====
-# kapital zichligi ;
-=====
-yangilanish omili;
-=====
-likvidlik koeffitsienti;
-=====
-kapital aylanmasi ;
-+++++
-Aylanma mablag'lar aylanmasini qaysi ko'rsatkichlar tavsiflashini ko'rsating:
-=====
-#bir inqilobning davomiyligi;
-=====
-material iste'moli;
-=====
-likvidlik koeffitsienti;
-=====
-kapital zichligi ;
-+++++
-Asosiy vositalarni takror ishlab chiqarish xarajatlari quyidagilar bilan tavsiflanadi:
-=====
-#to'liq almashtirish narxi;
-=====
-qoldiq almashtirish qiymati;
-=====
-to'liq asl qiymati;
-=====
-qoldiq asl qiymati.
-+++++
-Quyidagi elementlardan qaysi biri moddiy asosiy vositalarga tegishli ekanligini ko‘rsating:
-=====
-#avtomobillar va jihozlar;
-=====
-savdo belgisi;
-=====
-foydali qazilmalarni qidirish xarajatlari;
-=====
-kompyuter dasturi.
-+++++
-Quyidagi iqtisodiy aktivlardan qaysi biri milliy boylik tarkibiga kirmaydi:
-=====
-#inson kapitali;
-=====
-Asosiy vositalar;
-=====
-inventarizatsiya;
-=====
-ishlab chiqarilmagan moddiy boyliklar;
-+++++
-Asosiy vositalarni to'liq tiklash qiymati bo'yicha baholash nimani aks ettiradi:
-=====
-#asosiy vositalarni ma'lum bir vaqtda takror ishlab chiqarish xarajatlari;
-=====
-asosiy vositalarni ishga tushirish vaqtidagi haqiqiy qiymati;
-=====
-kitob qiymati;
-=====
-yil oxiridagi qiymat.
-+++++
-Asosiy vositalar tarkibiga nimalar kiritilganligini ko'rsating:
-=====
-#kompyuter dasturiy ta'minoti.
-=====
-tugallanmagan ishlab chiqarish;
-=====
-tayyor mahsulotlar;
-=====
-to'g'ri javob yo'q
-+++++
-Asosiy vositalardan foydalanish samaradorligi quyidagi ko'rsatkichlar bilan tavsiflanadi:
-=====
-#foydalanish;
-=====
-kapital zichligi ;
-=====
-yangilanish omili;
-=====
-kapital-mehnat nisbati ;
-+++++
-Tovar va xizmatlar bozorining rivojlanish tezligini o'rganish uchun quyidagilardan foydalaning:
-=====
-#dinamik qator ko'rsatkichlari.
-=====
-narx indekslari;
-=====
-o'rtacha quvvat ko'rsatkichlari;
-=====
-tizimli o'rtacha ko'rsatkichlar;
-+++++
-Talab va taklifning mavsumiy tebranishlarini o'rganish uchun quyidagilardan foydalaning:
-=====
-#mavsumiylik indeksi
-=====
-tovar aylanmasining jismoniy hajmi indeksi;
-=====
-vaqt seriyalari ko'rsatkichlari;
-=====
-o'rtacha xronologik ko'rsatkichlar
-+++++
-Tovar va xizmatlar bozori holatini tavsiflovchi ko'rsatkichlarni belgilang:
-=====
-#bozor muvozanatining darajasi;
-=====
-mahsulot turi
-=====
-bozor xavfi darajasi;
-=====
-to'g'ri javob yo'q
-+++++
-Agar mahsulot ishlab chiqarish 4 marta, ishchilar soni 2 barobar oshsa, mehnat unumdorligi necha marta o'zgaradi?
-=====
-#2 marta;
-=====
-8 marta;
-=====
-0,5 marta.
-=====
-to'g'ri javob yo'q
-+++++
-Korxona aylanma mablag'larining aylanish koeffitsientini hisoblashda foydalaniladigan mahsulot ko'rsatkichi:
-=====
-#sotilgan mahsulotlar hajmi;
-=====
-yalpi qo'shilgan qiymat;
-=====
-mahsulot (ishlar, xizmatlar) hajmi;
-=====
-yalpi ishlab chiqarish.
-+++++
-Aylanma mablag'lardan foydalanish samaradorligi quyidagilar bilan tavsiflanadi:
-=====
-#aylanma koeffitsienti, bir aylanishning o'rtacha davomiyligi;
-=====
-Foyda
-=====
-kapital- mehnat nisbati;
-=====
-Kapital unumdorligi
-+++++
-O‘zbekiston Respublikasi aholisi daromadlari tarkibida eng katta ulush quyidagilarga to‘g‘ri keladi:
-=====
-#ish haqi;
-=====
-tadbirkorlik faoliyatidan olingan daromadlar;
-====
-mulkdan daromad.
-=====
-to'g'ri javob yo'q
-+++++
-Iqtisodiyotning quyidagi tarmoqlari haqiqiy yakuniy iste'molga ega:
-=====
-#uy xo'jaliklari, davlat idoralari, uy xo'jaliklariga xizmat ko'rsatuvchi notijorat tashkilotlari;
-=====
-uy xo'jaliklari, davlat organlari;
-=====
-milliy iqtisodiyotning barcha tarmoqlari.
-=====
-to'g'ri javob yo'q
-+++++
-Inson taraqqiyoti indeksi quyidagi ko'rsatkichlarga tegishli:
-=====
-#aholi turmush darajasining umumlashtiruvchi ko'rsatkichlari;
-=====
-aholi daromadlarining kontsentratsiyasi;
-=====
-aholi xarajatlari.
-====
-to'g'ri javob yo'q
-+++++
-Tashqi savdo bojxona statistikasi bo'yicha ma'lumotlarning asosiy manbai quyidagilardan iborat:
-=====
-#yuk bojxona deklaratsiyasi;
-=====
-bojxona organlarining hisobotlari;
-=====
-tashqi iqtisodiy faoliyat ishtirokchilarining hisoboti.
-=====
-to'g'ri javob yo'q
-+++++
-Bojxona statistikasi ma'lumotlariga ko'ra tovarlarni import qilish qiymatiga quyidagilar kiradi:
-=====
-#bojxona to'lovlarini to'lamagan holda tovarlarni ishlab chiqarish va import qiluvchi davlat chegarasiga yetkazish bilan bog'liq xarajatlar;
-=====
-tovarlarni ishlab chiqarish va eksport qiluvchi davlat chegarasiga yetkazish bilan bog'liq xarajatlar;
-=====
-tovarlarni ishlab chiqarish va import qiluvchi davlat chegarasiga yetkazish, shu jumladan bojxona to‘lovlarini to‘lash bilan bog‘liq xarajatlar.
-=====
-to'g'ri javob yo'q
-+++++
-Tovarlar eksporti va importini baholash quyidagilar bo'yicha amalga oshiriladi:
-=====
-#statistik qiymat;
-=====
-bojxona qiymati;
-=====
-faktura qiymati.
-=====
-to'g'ri javob yo'q
-+++++
-Joriy obligatsiya daromadi quyidagicha hisoblanadi:
-=====
-#muayyan davr mobaynida olingan daromadning obligatsiyaning bozor narxiga nisbati sifatida
-=====
-ma'lum bir vaqtda bozor narxining nisbati sifatida;
-=====
-obligatsiyaning nominal qiymatining mahsuloti;
-=====
-chiqarish vaqtida tayinlangan.
-+++++
-"Statistika" atamasi nimani anglatadi?
-=====
-#holat, narsalarning holati.
-=====
-uy boshqaruvi
-=====
-sifat ko'rinishlarining xilma-xilligi
-=====
-hammasi noto'g'ri
-=====
-+++++
-Statistik ko'rsatkich:
-=====
-#miqdoriy baholash.
-=====
-daraja
-=====
-nisbiy ball
-=====
-hammasi noto'g'ri
-+++++
-Statistik agregat quyidagicha:
-=====
-#ijtimoiy-iqtisodiy hodisalarning rivojlanish qonuni.
-=====
-Nazariy fan
-=====
-o'rganilayotgan hodisaning birliklari
-=====
-hammasi noto'g'ri
-+++++
-Statistik ma'lumotlar quyidagilardan iborat:
-=====
-#statistik ma'lumotlar.
-=====
-kuzatuv
-=====
-statistik tadqiqot
-=====
-hammasi noto'g'ri
-+++++
-Statistik kuzatish quyidagi talablarga javob berishi kerak:
-=====
-#ishonchlilik, samaradorlik va ommaviy jozibadorlik
-=====
-maxfiylik.
-=====
-Yolg'on
-=====
-hammasi noto'g'ri
-+++++
-kuzatish sodir bo'ladi:
-=====
-#uzluksiz, uzluksiz, bir martalik oqim, davriy, bir martalik.
-=====
-bir marta
-=====
-idoraviy
-=====
-hammasi noto'g'ri
-+++++
-Asosiy massiv usuli quyidagilardan iborat:
-=====
-#o'rganilayotgan belgining qiymati ustun bo'lgan populyatsiya birliklarining qismi ekspertizadan o'tkaziladi.
-=====
-xarakteristikasi tanlangan aholining bir qismi uchun berilgan
-=====
-ixtiyoriy to'ldirish tamoyiliga asoslangan
-=====
-hammasi noto'g'ri
-+++++
-Kuzatuvdan maqsad nima?
-=====
-#statistik tadqiqotlar natijasi.
-=====
-ob'ekt ta'rifi
-=====
-maqsadlarni shakllantirish
-=====
-hammasi noto'g'ri
-+++++
-statistik shakl:
-=====
-#statistik ma'lumotlar
-=====
-matematik tadqiqotlar
-=====
-muayyan shakllarning shakllari
-=====
-hammasi noto'g'ri
-+++++
-xatolar yuzaga keladi:
-=====
-#kuzatish vaqtida noto'g'ri yozib olinganligi sababli.
-=====
-hisoblash tufayli
-=====
-buzilishi tufayli 
-=====
-hammasi noto'g'ri
-+++++
-Vakillik xatolari quyidagilardan iborat :
-=====
-#vakillikdagi xatolar
-=====
-hisobotlardagi buzilishlar
-=====
-tasodifiy xatolar
-======
-hammasi noto'g'ri
-+++++
-Tizimli xatolar mavjud:
-=====
-# qasddan, qasddan .
-=====
-tasodifiy
-=====
-maxsus
-=====
-hammasi noto'g'ri
-+++++
-Mantiqiy nazorat quyidagilardan iborat:
-=====
-#javoblarni mantiqiy nuqtai nazardan tekshirish.
-=====
-arifmetik hisoblash
-=====
-doimiy ma'lumotlarni namuna olish
-=====
-hammasi noto'g'ri
-+++++
-Monografik tadqiqot nima?
-=====
-#agregat birliklarni batafsil, chuqur o'rganish
-=====
-aholining bir qismi uchun
-=====
-ro'yxatga olish o'lchov bilan amalga oshiriladi
-=====
-hammasi noto'g'ri
-+++++
-Anketa nima?
-=====
-#kuzatish, unda o'rganilayotgan savollarga javoblar suhbatdoshning so'zlaridan yozib olinadi
-=====
-respondentlarning o'zlari tomonidan to'ldiriladi
-=====
-kuzatuv olib borayotgan muxbirlar tomonidan taqdim etilgan ma'lumotlar
-=====
-hammasi noto'g'ri
-+++++
-Statistik fan va amaliyot o'rtasida bog'liqlik bormi?
-=====
-#yaqin aloqa va o'zaro bog'liqlik
-=====
-Yo'q
-=====
-kamdan-kam hollarda
-=====
-hammasi noto'g'ri
-+++++
-statistik ma'lumotlar:
-=====
-#ijtimoiy hayot hodisalarini miqdoriy tomondan oʻrganuvchi fan
-=====
-uslubiy asos
-=====
-ma'lumotlar yig'ish
-=====
-hammasi noto'g'ri
-+++++
-Ilgari statistik ma'lumotlarning nomi nima edi?
-=====
-#siyosiy arifmetika
-=====
-Statistika
-=====
-Kompyuter fanlari
-=====
-hammasi noto'g'ri
-+++++
-Statistika zamonaviy fanmi yoki ko'p asrlik tarixga egami?
-=====
-#asrlik tarixga ega
-=====
-ha, zamonaviy
-=====
-u har doim u erda edi
-=====
-hammasi noto'g'ri
-+++++
-Bir hil bo'linish sodir bo'lgan guruhlash
-agregatlarni guruhlarga ajratish deyiladi:
-=====
-#tipologik guruhlash
-=====
-tarkibiy guruhlash
-=====
-analitik guruh
-=====
-birlashtirilgan
-+++++
-Bajarish texnikasiga ko'ra statistik xulosa quyidagilarga bo'linadi:
-=====
-#oddiy va murakkab uchun.
-=====
-markazlashmagan
-=====
-mexanizatsiyalashgan
-=====
-avtomatlashtirilgan
-+++++
-Guruhlashning asosi quyidagilar bo'lishi mumkin:
-=====
-#ham sifat, ham miqdoriy xarakteristikalar;
-=====
-sifat belgisi
-=====
-miqdoriy xususiyat
-=====
-Atributiv
-+++++
-Mavzuning rivojlanish xususiyatiga ko'ra statistik jadvallar ajratiladi:
-=====
-#oddiy.
-=====
-Roʻyxatga kiritilgan
-=====
-Kombinativ
-=====
-Xronologik
-+++++
-O'zgaruvchi bilan dinamikaning nisbiy ko'rsatkichini olish
-i davr uchun taqqoslash uchun quyidagilar zarur:
-=====
-#joriy ko'rsatkichni asosiy ko'rsatkichga bo'ling.
-=====
-i-chi va (i - 1) davrlar uchun doimiy taqqoslash bazasi bilan nisbiy dinamika ko'rsatkichlarini ko'paytirish
-=====
-i-davr uchun doimiy taqqoslash bazasi bilan dinamikaning nisbiy ko'rsatkichini davr uchun o'xshash ko'rsatkichga bo'lish (i - 1)
-=====
-i-davr uchun doimiy taqqoslash bazasi bilan dinamikaning nisbiy ko'rsatkichini davr uchun o'xshash ko'rsatkichga bo'lish (i + 1)
-+++++
-Korxona tomonidan ishlab chiqarish rejasini bajarishning nisbiy ko‘rsatkichi 107 foizni tashkil etdi, ishlab chiqarish hajmi esa o‘tgan davrga nisbatan 5 foizga oshdi. Rejaga nima kiritilgan:
-=====
-# ishlab chiqarish hajmining o'sishi.
-=====
-ishlab chiqarish hajmining pasayishi
-=====
-javob berish mumkin emas
-=====
-Ishlab chiqarish hajmining kamayishi yoki ko'payishi nazarda tutilmaganmi?
-+++++
-Og'irlangan va tortilmagan o'rtacha qiymatlar qachon teng bo'ladi?
-o'zingiz:
-=====
-#tarozi yo'qligida.
-=====
-agar og'irliklar teng bo'lsa
-=====
-og'irliklarning yo'qligi yoki tengligi
-=====
-javob berish mumkin emasmi?
-+++++
-Garmonik o'rtacha qanday hollarda qo'llaniladi:
-=====
-#nisbatning soni ham, maxraji ham qachon ma'lum bo'ladi?
-=====
-hisoblagich noma'lum bo'lganda
-=====
-maxraj noma'lum bo'lganda
-=====
-javob berish mumkin emas
-=====
-+++++
-Barcha chastotalar ga kamaytirilsa, o'rtacha o'zgaradimi
-ba'zi doimiy qiymat:
-=====
-#O'zgartirish
-=====
-O'zgarmaydi
-=====
-Kamayadi
-=====
-oshadimi?
-+++++
-Eng ko'p uchraydigan statistik populyatsiya xarakteristikasining qiymati deyiladi:
-=====
-#arifmetik o'rtacha og'irlik
-=====
-vaznli geometrik o'rtacha
-=====
-Moda
-=====
-Median
-+++++
-Statistikada median xarakteristikaning qiymati hisoblanadi
-=====
-#to'plangan chastotalar yig'indisi bo'yicha tartiblangan qatorning o'rtasida
-=====
-aholining 25 foizini ajratib turadi
-=====
-eng keng tarqalgan
-=====
-eng yuqori qadriyatlar bilan
-+++++
-Hisoblash uchun geometrik o'rtacha qiymat qo'llaniladi:
-=====
-#ma'lum bir davr uchun o'rtacha stavkalar
-=====
-kvadratik funksiyalar ko'rinishidagi o'rtachalar
-=====
-teskari ko'rsatkichlar ko'rinishidagi o'rtacha qiymatlar
-=====
-individual qiymatlar bilan ifodalangan aholi o'rtacha ko'rsatkichlari
-+++++
-Garmonik o'rtacha quyidagi hollarda qo'llaniladi:
-=====
-#individual qiymatlar teskari funktsiya sifatida ifodalanadi
-=====
-individual qiymatlar teskari ko'rsatkichlar shaklida ifodalanadi
-=====
-individual qiymatlar turli chastotalarga ega
-=====
-individual qiymatlar quvvat funktsiyasi bilan ifodalanadi
-+++++
-Nisbiy intensivlik ko'rsatkichi quyidagilarni tavsiflaydi:
-=====
-#o'rganilayotgan jarayonning muhitda tarqalish darajasi
-=====
-bir xil mutlaq ko'rsatkichlarning nisbati
-=====
-o'rganilayotgan loyihaning tarkibiy qismlari o'rtasidagi munosabatlar
-=====
-joriy va asosiy ko'rsatkichlar nisbati
-+++++
-Variant - bu ...
-=====
-#vaqt davomida ommaviy hodisalarning o'zgarishi
-=====
-statistik aholi tarkibining o'zgarishi
-=====
-xarakterli qiymatlarning o'zgarishi
-=====
-aholi tarkibining o'zgarishi
-+++++
-O'zgaruvchanlik koeffitsienti nima bilan tavsiflanadi:
-=====
-#xususiyatning o'zgaruvchanlik diapazoni
-=====
-xususiyatning o'zgaruvchanlik darajasi
-=====
-xususiyatlar o'rtasidagi yaqin aloqa
-=====
-belgining o'zgaruvchanlik chegaralari ?
-+++++
-Agar atributning barcha qiymatlari 16 marta oshirilsa, dispersiya ...
-=====
-#O'zgarmaydi
-=====
-16 barobar ortadi
-=====
-256 barobar ortadi
-=====
-4 barobar ortadi
-+++++
-Guruhlararo dispersiya qanday bo'ladi, agar ular orasida farq bo'lmasa
-Guruhlardagi variantlar:
-=====
-#birlik
-=====
-nol
-=====
-Noldan birgacha o'zgaradi
-=====
-umumiy farq?
-+++++
-Ijtimoiy statistika nima qiladi?
-=====
-#Ijtimoiy statistika jamiyatning ijtimoiy va demografik tuzilishining miqdoriy xususiyatlarini, odamlar hayoti va faoliyatini, davlat va huquq bilan munosabatlarini oʻrganadi.
-=====
-Ijtimoiy statistika materiallarni tadqiq qilish va qayta ishlash uchun maxsus metodologiyani ishlab chiqadi
-=====
-Ijtimoiy statistika ma'lumotlarni to'plashda amaliy inson faoliyatining alohida turidir
-=====
-Ijtimoiy statistika - bu korxonalar tomonidan hisobot hujjatlarida taqdim etiladigan aniq ma'lumot
-+++++
-Ijtimoiy statistikaning tadqiqot ob'ektlari ...
-=====
-#individual ob'ekt va jamoa ob'ekti (oila, yakka tartibdagi fermer xo'jaliklari)
-=====
-iqtisodiy hodisalarning miqdoriy xarakteristikalari
-=====
-maxsus ma'lumot ma'lumotlari
-=====
-odamlarning xatti-harakati
-+++++
-Ijtimoiy statistika bo'limlariga tegishli bo'lgan variantlardan tanlang.
-=====
-#aholi statistikasi, aholi statistikasi va
-demografik statistika
-=====
-moliyaviy statistika, ta'lim darajasi statistikasi
-=====
-uy-joy sharoitlari statistikasi
-=====
-tabiiy resurslar va atrof-muhitni muhofaza qilish statistikasi
-+++++
-Bo'sh vaqt statistikasi
-=====
-#statistika sohasi boʻlib, u maʼlum bir davrda (yoki ularning guruhlari) oʻz vaqtini qanday taqsimlashi va oʻtkazishini tavsiflaydi.
-=====
-ta'minot tomondan dam olish xizmatlarining xususiyatlari
-======
-odamlarni o'rganadigan statistika bo'limi
-=====
-ijtimoiy guruhlarning raqamli ma'lumotlari
-=====
-+++++
-Turmush darajasi bo'yicha statistika nimani o'rganadi?
-=====
-inson salomatligi holati, umr ko'rish davomiyligi, atrof-muhit sharoitlari, ovqatlanish, kundalik qulaylik, ijtimoiy muhit, madaniy va ma'naviy ehtiyojlarni qondirish, psixologik qulaylik va boshqalar.
-=====
-insonning iste'mol qilingan moddiy ne'matlarining erishilgan hajmining mosligi.
-======
-insonning moddiy ne'matlarining erishilgan hajmining muvofiqligi
-=====
-turli ijtimoiy guruhlar o'rtasidagi raqamli ma'lumotlar
-=====
-+++++
-Aholining turmush darajasi qanday?
-=====
-#Bu munosib hayot uchun moddiy resurslarga kirish: sog'lom turmush tarzini saqlash. Hududiy va ijtimoiy harakatchanlikni, axborot almashinuvini va jamiyat hayotida ishtirokini ta'minlash.
-=====
-Bu jamiyatning ijtimoiy hayotidagi munosabatlar tizimini miqdoriy va sifat jihatidan baholashdir
-=====
-Bu o'rganilayotgan hodisa xossasining miqdoriy xarakteristikasidir.
-=====
-Bu aholining real ish haqi va o'sha mahsulotlar o'rtasidagi nisbatdir
-+++++
-Ijtimoiy statistikaning xususiyatlariga nima tegishli ekanligini tanlang.
-=====
-#Miqdoriy va nomiqdoriy ma'lumotlardan foydalanadi.O'rganilayotgan aholining ijtimoiy-iqtisodiy turlarini aniqlang va statistik kuzatish ma'lumotlarini umumlashtiring. Ijtimoiy ma'lumotlarni qayta ishlash va umumlashtirish uchun maxsus texnikani qo'llaydi
-=====
-Takroriylik, izchillik va o'zgarishlar tartibi.
-=====
-Maxsus predmet va o'rganish ob'ektlariga ega.
-=====
-Ma'lumotlar savollarga javoblar shaklida yig'iladi.
-+++++
-Uzoq va sog‘lom hayot, bilim olish, iqtisodiy ishlab chiqarishda ishtirok etish...
-=====
-#inson rivojlanishi uchun asosiy imkoniyatlar.
-=====
-integral ko'rsatkichlar
-=====
-turmush darajasi ko'rsatkichlari
-=====
-to'g'ri javob yo'q
-+++++
-Aholining turmush darajasining integral ko'rsatkichlariga quyidagilar kiradi:
-=====
-#aholi daromadlari va xarajatlari nisbati
-=====
-jon boshiga o'rtacha daromadning yashash minimumiga nisbati
-=====
-ixtiyoriy daromadning shartli bo'sh qismi miqdori
-=====
-aholining qashshoqlik darajasi
-+++++
-YaIM kontseptsiyasini joriy etishni birinchi marta kim va qachon taklif qilgan?
-=====
-# Saymon Kuznets, amerikalik iqtisodchi, 1934 yil
-=====
-Vasiliy Leontief, amerikalik iqtisodchi, 1937 yil
-=====
-Milton Fridman, amerikalik iqtisodchi, 1947 yil
-=====
-Leonid Vitalievich Kantorovich, rus iqtisodchisi, 1949 yil
-+++++
-Iqtisodiyot va statistikada YaIM nima?
-=====
-#Yalpi ichki mahsulot
-=====
-Yalpi tashqi mahsulot
-=====
-Mahalliy valyuta tovari
-=====
-Tashqi valyuta ishlab chiqarish
-+++++
-Statistik kuzatish ob'ekti hisoblanadi
-=====
-#statistik aholi
-=====
-kuzatish birligi
-=====
-aholi birligi
-=====
-hisobot birligi
-+++++
-Statistik kuzatish paytida ma'lumotlar olinadigan sub'ekt deyiladi
-=====
-#hisobot birligi
-=====
-kuzatish birligi
-=====
-aholi birligi
-=====
-to'g'ri javob yo'q
-+++++
-Kuzatish jarayonida qayd etilishi kerak bo'lgan belgilar (yoki savollar) ro'yxati deyiladi:
-=====
-#kuzatish dasturi
-=====
-statistik shakl
-=====
-kuzatuv vositalari
-=====
-to'g'ri javob yo'q
-+++++
-Hisoblangan qiymatlar va o'rganilayotgan miqdorlarning haqiqiy qiymati o'rtasidagi nomuvofiqlik deyiladi:
-=====
-#kuzatish xatosi
-=====
-ro'yxatga olish xatosi
-=====
-vakillik xatosi
-=====
-to'g'ri javob yo'q
-+++++
-Mulkchilikning tashkiliy-huquqiy shakllari bo'yicha korxonalarni taqsimlash qaysi guruhlash turini ifodalaydi:
-=====
-#Tipologik
-=====
-Analitik
-=====
-Strukturaviy
-=====
-Ko'p o'lchovli
-+++++
-Sanoat korxonalarini mulkchilik turlari bo'yicha guruhlash guruhlashga misol bo'la oladi:
-=====
-#Tipologik
-=====
-Strukturaviy
-=====
-Analitik
-=====
-murakkab
-+++++
-Guruhlarning diskret xususiyatlariga quyidagilar kiradi:
-=====
-#oila a'zolari soni
-=====
-ishchilarning ish haqi
-=====
-mamlakat aholisi
-=====
-bank foydasi.
-+++++
-Guruhlarning atributiv xususiyatlariga quyidagilar kiradi:
-=====
-#odamning jinsi;
-=====
-korxona foydasi;
-=====
-ish darajasi;
-=====
-poyabzal o'lchami.
-+++++
-Guruhlashning asosi quyidagilar bo'lishi mumkin:
-=====
-#ham miqdoriy belgi, ham sifat belgisi.
-=====
-miqdoriy xususiyat;
-=====
-sifat belgisi;
-=====
-to'g'ri javob yo'q
-+++++
-Oldindan tuzilgan guruhlash asosida yangi guruhlarni shakllantirish operatsiyasi deyiladi:
-=====
-#ikkinchi darajali guruhlash;
-=====
-kombinatsiyalangan guruhlash;
-=====
-ko'p o'lchovli guruhlash.
-====
-to'g'ri javob yo'q
-+++++
-Statistik jadvalning predmeti:
-=====
-#o'rganish ob'ektini tavsiflovchi ko'rsatkichlar tizimi
-=====
-o'rganish ob'ekti;
-=====
-aholining umumiy sonli xarakteristikalari.
-=====
-to'g'ri javob yo'q
-+++++
-Predikatning rivojlanish xususiyatiga ko'ra statistik jadvallar ajratiladi:
-=====
-#oddiy;
-=====
-murakkab;
-=====
-ro'yxat;
-=====
-monogam.
-+++++
-Birgalikda olingan ikkita xususiyatga asoslangan guruhlash uchun qanday jadval turi qo'llaniladi :
-=====
-#oddiy;
-=====
-guruh;
-=====
-kombinatsion.
-=====
-to'g'ri javob yo'q
-+++++
-“Mahsulot va xizmatlar ishlab chiqarish hajmi” ko‘rsatkichi vaqt omilining qaysi turi hisoblanadi?
-=====
-#interval.
-=====
-moment;
-=====
-to'g'ri javob yo'q
-=====
-Taqqoslash
-+++++
-Turli ob'ektlarni tavsiflovchi bir xil mutlaq ko'rsatkichning nisbati nisbiy qiymat deb ataladi:
-=====
-#taqqoslashlar.
-======
-karnaylar;
-======
-tuzilmalar;
-======
-muvofiqlashtirish;
-+++++
-"Qo'pol tug'ilish darajasi" nisbiy ko'rsatkichdir:
-=====
-#Intensivliklari
-=====
-karnaylar;
-=====
-tuzilmalar;
-=====
-muvofiqlashtirish;
-+++++
-"Korxonaning o'z va qarz mablag'lari nisbati" ko'rsatkichi nisbiy qiymat deb ataladi:
-=====
-#koordinatsiya;
-=====
-karnaylar;
-=====
-tuzilmalar;
-=====
-intensivlik;
-+++++
-Bir necha yil davomida o'rtacha yo'qotish koeffitsientini hisoblash uchun quyidagi formuladan foydalaniladi:
-=====
-#arifmetik o'rtacha
-=====
-garmonik o'rtacha
-=====
-geometrik o'rtacha
-=====
-to'g'ri javob yo'q
-+++++
-Agar barcha og'irliklar ikki baravar oshirilsa, o'rtacha o'zgaradimi?
-=====
-#O'zgarmaydi;
-=====
-2 barobar oshirish;
-=====
-4 marta o'zgaradi.
-=====
-2 barobar kamayadi
-+++++
-Bitta nisbat uchun o'rtachani turli shakllarda hisoblash mumkinmi:
-=====
-#taqiqlangan;
-=====
-Balki;
-=====
-qo'shimcha shartlar qo'yilsa mumkin;
-=====
-muayyan populyatsiyalar uchun mumkin
-+++++
-Agar barcha variantlar 2 marta kamaytirilsa va barcha og'irliklar 2 barobar oshirilsa, garmonik o'rtacha qanday o'zgaradi:
-=====
-#2 marta kamayadi
-=====
-O'zgarmaydi;
-=====
-2 barobar ortadi;
-=====
-ortadi.
-+++++
-Belgining o'rtacha qiymati 20, o'zgaruvchanlik koeffitsienti esa 25%.
-Xarakteristikaning o'zgarishi quyidagilarga teng:
-=====
-#25;
-=====
-20;
-=====
-125;
-=====
-45.
-+++++
-Agar barcha variantlar 5 birlikka kamaytirilsa, o'rtacha o'zgaradimi:
-=====
-#5 birlikka kamayadi;
-=====
-variantning og'irligiga qarab ma'lum bir qiymatga kamayadi;
-=====
-O'zgarmaydi;
-=====
-5 birlikka oshadi.
-+++++
-Determinatsiya koeffitsienti bu nisbat:
-=====
-jami #guruhlararo tafovut
-=====
-qoldiqdagi guruhlar orasidagi farq
-=====
-umumiy dispersiyadagi nazariy qiymatlarning farqi
-====
-to'g'ri javob yo'q
-+++++
-Bir qator dinamika xarakterlanadi:
-=====
-#populyatsiya xususiyatlarining vaqt o'tishi bilan o'zgarishi;
-====
-kosmosdagi populyatsiya xususiyatlarining o'zgarishi;
-=====
-populyatsiyaning qandaydir belgiga ko'ra tuzilishi.
-====
-to'g'ri javob yo'q
-+++++
-Agar bir qator dinamikaning qo'shni darajalari taqqoslansa, ko'rsatkichlar deyiladi:
-=====
-#zanjirlangan.
-====
-Asosiy;
-=====
-to'g'ri javob yo'q
-=====
-dinamikasi
-+++++
-O'sish sur'ati salbiy bo'lishi mumkinmi?
-=====
-#bo'lishi mumkin emas;
-=====
-ehtimol, agar indikator pasaysa.
-=====
-to'g'ri javob yo'q
-=====
-Balki
-+++++
-Vaqt oralig'i teng bo'lgan intervalli dinamika seriyasining o'rtacha darajasi o'rtacha formula yordamida hisoblanadi:
-=====
-#arifmetik oddiy;
-=====
-arifmetik vaznli;
-=====
-harmonik oddiy;
-=====
-garmonik vaznli.
-+++++
-Teng bo'lmagan vaqt oraliqlari bo'lgan intervalli dinamika seriyasining o'rtacha darajasi o'rtacha formula yordamida hisoblanadi:
-=====
-#arifmetik vaznli;
-=====
-arifmetik oddiy;
-=====
-harmonik oddiy;
-=====
-garmonik vaznli.
-+++++
-Intervalli dinamika seriyasining o'rtacha darajasi quyidagicha aniqlanadi:
-=====
-#arifmetik o'rtacha;
-=====
-garmonik o'rtacha;
-=====
-o'rtacha xronologik.
-+++++
-O'rtacha o'sish sur'ati quyidagi formula bo'yicha aniqlanadi:
-=====
-#arifmetik o'rtacha;
-=====
-garmonik o'rtacha;
-=====
-geometrik o'rtacha.
-=====
-to'g'ri javob yo'q
-+++++
-Hodisa rivojlanishining asosiy tendentsiyasini aniqlash uchun quyidagilar qo'llaniladi:
-=====
-#analitik moslashtirish;
-=====
-indeks usuli;
-=====
-harakatlanuvchi o'rtacha usuli;
-=====
-korrelyatsiya tahlili.
-+++++
-Asosiy tendentsiya bir qator dinamikaning o'zgarishini anglatadi:
-=====
-#taraqqiyotning qandaydir umumiy yo'nalishini belgilash.
-=====
-qator ichida ma'lum oraliqlarda teng ravishda takrorlanadi;
-=====
-to'g'ri javob yo'q
-=====
-Javob yo'q
-+++++
-Tanlangan kuzatish deganda biz quyidagilarni nazarda tutamiz:
-=====
-# tasodifiy tanlangan populyatsiya birliklarining bir qismini uzluksiz kuzatish
-=====
-o'rganilayotgan aholining eng katta birliklarini o'rganish
-=====
-aholining barcha birliklarini uzluksiz kuzatish
-=====
-aholi birliklarining bir qismini qisman kuzatish
-+++++
-Kuzatishning namuna olish usuli quyidagilarga asoslanadi:
-=====
-#aholi birliklarini tasodifiy tanlash;
-=====
-aholining eng muhim birliklarini tekshirish;
-=====
-aholining alohida birliklarini tekshirish;
-aholining barcha birliklarini o'rganish.
-=====
-to'g'ri javob yo'q
-+++++
-O'rtacha tanlab olish xatosi quyidagilarga bog'liq:
-=====
-#tanlama populyatsiyasining xarakteristikalari qiymatlarining o'zgarishi;
-=====
-bayonotning ishonchlilik ehtimoli;
-=====
-modal interval qiymatlari
-====
-to'g'ri javob yo'q
-+++++
-Teng qiymatlar uchun maksimal tanlab olish xatosi quyidagi hollarda kattaroq bo'ladi:
-=====
-#qayta tanlash;
-=====
-takrorlanmaydigan tanlov.
-=====
-to'g'ri javob yo'q
-=====
-Javob yo'q
-+++++
-Ketma-ket namuna olish uchun o'rtacha tanlab olish xatosini aniqlashda quyidagilar hisoblanadi:
-=====
-#guruhlararo tafovut;
-=====
-umumiy dispersiya;
-=====
-guruh farqlarining o'rtacha qiymati.
-=====
-to'g'ri javob yo'q
-+++++
-Aholi ro'yxatini o'tkazishda kuzatuv ob'ekti nima?
-=====
-#mamlakatning butun aholisi;
-=====
-Inson;
-====
-uy xo'jaligi;
-=====
-doimiy aholi;
-+++++
-Aholining o'sish sur'ati birdan kam:
-=====
-#aholi soni kamaymoqda;
-=====
-aholi soni ortib bormoqda;
-=====
-aholi bir xil darajada qolmoqda.
-=====
-to'g'ri javob yo'q
-+++++
-Iqtisodiy faol aholi tarkibiga quyidagilar kiradi:
-=====
-#ishsiz;
-======
-16 yoshgacha bo'lgan o'smirlar;
-=====
-ruhoniylar;
-=====
-kunduzgi universitet talabalari.
-=====
-to'g'ri javob yo'q
-+++++
-"Umumiy nikoh darajasi " quyidagilarni tavsiflovchi ko'rsatkichlarni anglatadi:
-=====
-#tabiiy aholi harakati;
-=====
-aholining mexanik harakati.
-=====
-to'g'ri javob yo'q
-=====
-Javob yo'q
-+++++
-Aholining o'rtacha yillik miqdorini hisoblash uchun qanday o'rtacha ko'rsatkich qo'llaniladi (yil boshidagi va oxiridagi raqam ma'lum)?
-=====
-#arifmetik o'rtacha oddiy;
-=====
-o'rtacha arifmetik og'irlik;
-=====
-o'rtacha xronologik;
-=====
-garmonik o'rtacha;
-+++++
-Agar 1.01, 1.02, 1.03, 1.04 boʻyicha aholi soni maʼlum boʻlsa, chorakda oʻrtacha oylik aholi sonini aniqlash uchun qanday oʻrtacha koʻrsatkich qoʻllaniladi?
-=====
-#o'rta xronologik;
-=====
-arifmetik o'rtacha;
-=====
-garmonik o'rtacha;
-====
-geometrik o'rtacha.
-+++++
-“Iqtisodiy faol aholi” bu:
-=====
-#ishli va ishsizlar.
-=====
-mehnat resurslari;
-====
-mehnatga layoqatli aholi;
-=====
-Band
-+++++
-Iqtisodiy faol aholi darajasi iqtisodiy faol aholi soniga nisbati sifatida aniqlanadi:
-=====
-#o'rtacha aholi soniga;
-=====
-band aholiga.
-=====
-to'g'ri javob yo'q
-=====
-Javob yo'q
-+++++
-Ishsizlik darajasi ishsizlar soniga nisbati sifatida aniqlanadi:
-=====
-#iqtisodiy faol aholi soniga;
-=====
-umumiy aholi soniga;
-=====
-xodimlar soniga
-=====
-to'g'ri javob yo'q
-+++++
-Agar mahsulot ishlab chiqarish 4 marta, ishchilar soni 2 barobar oshsa, mehnat unumdorligi necha marta o'zgaradi?
-=====
-#2 marta;
-=====
-8 marta;
-=====
-0,5 marta.
-=====
-to'g'ri javob yo'q
-+++++
-Asosiy vositalardan foydalanish samaradorligi quyidagi ko'rsatkichlar bilan tavsiflanadi:
-=====
-# kapital zichligi ;
-=====
-yangilanish omili;
-=====
-likvidlik koeffitsienti;
-=====
-kapital aylanmasi ;
-+++++
-Aylanma mablag'lar aylanmasini qaysi ko'rsatkichlar tavsiflashini ko'rsating:
-=====
-#bir inqilobning davomiyligi;
-=====
-material iste'moli;
-=====
-likvidlik koeffitsienti;
-=====
-kapital zichligi ;
-+++++
-Asosiy vositalarni takror ishlab chiqarish xarajatlari quyidagilar bilan tavsiflanadi:
-=====
-#to'liq almashtirish narxi;
-=====
-qoldiq almashtirish qiymati;
-=====
-to'liq asl qiymati;
-=====
-qoldiq asl qiymati.
-+++++
-Quyidagi elementlardan qaysi biri moddiy asosiy vositalarga tegishli ekanligini ko‘rsating:
-=====
-#avtomobillar va jihozlar;
-=====
-savdo belgisi;
-=====
-foydali qazilmalarni qidirish xarajatlari;
-=====
-kompyuter dasturi.
-+++++
-Quyidagi iqtisodiy aktivlardan qaysi biri milliy boylik tarkibiga kirmaydi:
-=====
-#inson kapitali;
-=====
-Asosiy vositalar;
-=====
-inventarizatsiya;
-=====
-ishlab chiqarilmagan moddiy boyliklar;
-+++++
-Asosiy vositalarni to'liq tiklash qiymati bo'yicha baholash nimani aks ettiradi:
-=====
-#asosiy vositalarni ma'lum bir vaqtda takror ishlab chiqarish xarajatlari;
-=====
-asosiy vositalarni ishga tushirish vaqtidagi haqiqiy qiymati;
-=====
-kitob qiymati;
-=====
-yil oxiridagi qiymat.
-+++++
-Asosiy vositalar tarkibiga nimalar kiritilganligini ko'rsating:
-=====
-#kompyuter dasturiy ta'minoti.
-=====
-tugallanmagan ishlab chiqarish;
-=====
-tayyor mahsulotlar;
-=====
-to'g'ri javob yo'q
-+++++
-Asosiy vositalardan foydalanish samaradorligi quyidagi ko'rsatkichlar bilan tavsiflanadi:
-=====
-#foydalanish;
-=====
-kapital zichligi ;
-=====
-yangilanish omili;
-=====
-kapital-mehnat nisbati ;
-+++++
-Tovar va xizmatlar bozorining rivojlanish tezligini o'rganish uchun quyidagilardan foydalaning:
-=====
-#dinamik qator ko'rsatkichlari.
-=====
-narx indekslari;
-=====
-o'rtacha quvvat ko'rsatkichlari;
-=====
-tizimli o'rtacha ko'rsatkichlar;
-+++++
-Talab va taklifning mavsumiy tebranishlarini o'rganish uchun quyidagilardan foydalaning:
-=====
-#mavsumiylik indeksi
-=====
-tovar aylanmasining jismoniy hajmi indeksi;
-=====
-vaqt seriyalari ko'rsatkichlari;
-=====
-o'rtacha xronologik ko'rsatkichlar
-+++++
-Tovar va xizmatlar bozori holatini tavsiflovchi ko'rsatkichlarni belgilang:
-=====
-#bozor muvozanatining darajasi;
-=====
-mahsulot turi
-=====
-bozor xavfi darajasi;
-=====
-to'g'ri javob yo'q
-+++++
-Agar mahsulot ishlab chiqarish 4 marta, ishchilar soni 2 barobar oshsa, mehnat unumdorligi necha marta o'zgaradi?
-=====
-#2 marta;
-=====
-8 marta;
-=====
-0,5 marta.
-=====
-to'g'ri javob yo'q
-+++++
-Korxona aylanma mablag'larining aylanish koeffitsientini hisoblashda foydalaniladigan mahsulot ko'rsatkichi:
-=====
-#sotilgan mahsulotlar hajmi;
-=====
-yalpi qo'shilgan qiymat;
-=====
-mahsulot (ishlar, xizmatlar) hajmi;
-=====
-yalpi ishlab chiqarish.
-+++++
-Aylanma mablag'lardan foydalanish samaradorligi quyidagilar bilan tavsiflanadi:
-=====
-#aylanma koeffitsienti, bir aylanishning o'rtacha davomiyligi;
-=====
-Foyda
-=====
-kapital- mehnat nisbati;
-=====
-Kapital unumdorligi
-+++++
-O‘zbekiston Respublikasi aholisi daromadlari tarkibida eng katta ulush quyidagilarga to‘g‘ri keladi:
-=====
-#ish haqi;
-=====
-tadbirkorlik faoliyatidan olingan daromadlar;
-====
-mulkdan daromad.
-=====
-to'g'ri javob yo'q
-+++++
-Iqtisodiyotning quyidagi tarmoqlari haqiqiy yakuniy iste'molga ega:
-=====
-#uy xo'jaliklari, davlat idoralari, uy xo'jaliklariga xizmat ko'rsatuvchi notijorat tashkilotlari;
-=====
-uy xo'jaliklari, davlat organlari;
-=====
-milliy iqtisodiyotning barcha tarmoqlari.
-=====
-to'g'ri javob yo'q
-+++++
-Inson taraqqiyoti indeksi quyidagi ko'rsatkichlarga tegishli:
-=====
-#aholi turmush darajasining umumlashtiruvchi ko'rsatkichlari;
-=====
-aholi daromadlarining kontsentratsiyasi;
-=====
-aholi xarajatlari.
-====
-to'g'ri javob yo'q
-+++++
+# To model the relationship between one predictor and one response using a straight line
 
+++++
+Which assumption concerns the average of the errors in simple linear regression?
+====
+# E[εi]=0
+====
+E[εi]=β0
+====
+εi are perfectly correlated
+====
+Var(εi)=σ2xi
+
+++++
+What does the slope parameter β1 represent?
+====
+The value of y when x=0
+====
+The variance of the residuals
+====
+The correlation between x and y squared
+====
+#The expected change in y for a one-unit increase in x
+
+++++
+What does R2 measure in simple linear regression?
+====
+The probability the model is correct
+====
+The square root of the mean squared error
+====
+The covariance between residuals and fitted values
+====
+# The proportion of variance in y explained by x
+
+++++
+Which diagnostic pattern suggests heteroskedasticity?
+====
+Residuals scattered with constant spread
+====
+Residuals forming a random horizontal band around 0
+====
+Residuals symmetrically distributed with constant variance
+====
+# Residual spread increasing with ŷ in a residuals-versus-fitted plot
+
+++++
+What does the residual for observation i represent?
+====
+ε ̂i =β1xi
+====
+# ε ̂i =yi−ŷi
+====
+ε ̂i =0 for all i in OLS
+====
+ε ̂i =ŷi−yi only if positive
+
+++++
+Which condition guarantees that the OLS estimator is unique?
+====
+n>p always
+====
+Errors are homoskedastic
+====
+Predictors are standardized
+====
+# X has full column rank
+
+++++
+Which diagnostic primarily detects heteroskedasticity in residuals?
+====
+Chow test
+====
+Shapiro–Wilk test
+====
+# Breusch–Pagan test
+====
+Durbin–Watson test
+
+++++
+In multivariate regression, what does the coefficient βj represent when other predictors are included?
+====
+A causal effect regardless of confounding
+====
+The effect ignoring omitted variables only
+====
+# The marginal effect holding other predictors fixed
+====
+The total derivative of y with respect to all predictors
+
+++++
+What is the primary goal of multivariate linear regression in a supervised learning context?
+====
+Reduce the dimensionality of the feature space
+====
+Cluster observations into groups without labels
+====
+Predict a single categorical label from multiple inputs
+====
+# Predict a continuous outcome using multiple input features
+
+++++
+Which statement best describes the linearity assumption in ordinary least squares (OLS) regression?
+====
+The residuals must have constant correlation.
+====
+The predictors must be linearly independent of each other.
+====
+Both predictors and outcome must be normally distributed.
+====
+# The relationship between predictors and the expected value of the outcome is linear in parameters.
+
+++++
+Why is the independence (no autocorrelation) assumption important in time series regression?
+====
+It ensuresb β^ is unbiased.
+====
+It ensures the regressors are exogenous.
+====
+It ensures the model is linear in parameters.
+====
+# It ensures standard error formulas are valid for inference.
+
+++++
+Under which circumstance is normality of errors most critical in OLS?
+====
+For consistency of β^.
+====
+For large-sample confidence intervals.
+====
+# For exact small-sample t- and F-tests.
+====
+For the Gauss–Markov theorem to hold.
+
+++++
+What is the consequence of violating homoscedasticity while maintaining exogeneity?
+====
+The model becomes nonlinear.
+====
+β^ becomes biased.
+====
+The regression loses identifiability.
+====
+# β^ remains unbiased but is inefficient; usual standard errors are invalid.
+
+++++
+Which diagnostic plot primarily assesses linearity and homoscedasticity?
+====
+# Residuals vs. fitted values plot
+====
+Autocorrelation function (ACF) of residuals
+====
+Normal Q–Q plot of residuals
+====
+Scale–location plot of leverage
+
+++++
+Which assumption is checked by the Durbin–Watson statistic in linear regression?
+====
+Homoscedasticity
+====
+Normality of errors
+====
+No multicollinearity
+====
+# First-order autocorrelation of residuals
+
+++++
+Which residual pattern in a residuals vs. fitted plot most clearly signals heteroscedasticity?
+====
+Random cloud with constant vertical spread
+====
+# Funnel shape with spread increasing in ŷ
+====
+Single extreme outlier with otherwise constant spread
+====
+Oscillating residuals around zero with constant amplitude
+
+++++
+Under the Gauss–Markov theorem, OLS is BLUE under which condition set?
+====
+Nonlinearity handled via feature engineering
+====
+Normality of errors, exogeneity, and large samples
+====
+Linearity, heteroskedasticity, and autocorrelation
+====
+# Linearity, exogeneity, no perfect multicollinearity, homoskedasticity, and no autocorrelation
+
+++++
+What is the interpretation of βj in a multivariate linear model?
+====
+Causal effect of xj on y in any dataset
+====
+Change in y for a one-unit increase averaged over all xk
+====
+Total derivative of y with respect to xj along observed data path
+====
+# Change in E[y] for a one-unit increase in xj holding other xk fixed
+
+++++
+How does adding a redundant predictor perfectly collinear with an existing one affect OLS?
+====
+Leaves estimator unchanged and identifiable
+====
+Improves variance properties without drawbacks
+====
+Reduces residual sum of squares but keeps identifiability
+====
+# With perfect collinearity, many solutions achieve the same fit; RSS does not uniquely identify coefficients
+
+++++
+What does the coefficient of determination R2 measure?
+====
+Ratio of RSS to TSS
+====
+Expected prediction error on new data
+====
+Correlation between residuals and fitted values
+====
+# Proportion of variance in yy explained by the model
+
+++++
+Why is adjusted R2 preferred over R2 for model comparison with different p?
+====
+It equals cross-validated R2
+====
+It is unaffected by sample size n
+====
+It always decreases when adding any predictor
+====
+# It penalizes adding predictors that do not improve fit sufficiently
+
+++++
+How can you detect multicollinearity among predictors?
+====
+Low training error
+====
+Large R2 but insignificant individual tt-tests
+====
+# High variance inflation factors (VIFs) for some predictors
+====
+Normal Q–Q plot of residuals is linear
+
+++++
+Which statement about interaction terms is correct?
+====
+Interactions violate linearity of parameters
+====
+Interaction terms always reduce model variance
+====
+Interactions eliminate the need for main effects
+====
+# Including x1x2 allows the effect of x1 on y to depend on x2
+
+++++
+What does heteroskedasticity-robust (HC) standard errors address?
+====
+Endogeneity of regressors
+====
+Serial correlation in time series
+====
+Model misspecification of functional form
+====
+# Non-constant error variance across observations
+
+++++
+What is the geometric interpretation of OLS?
+====
+Scaling y to unit length
+====
+Rotation of y to align with X
+====
+Projection of y onto the null space of X
+====
+# Orthogonal projection of y onto the column space of X
+
+++++
+In multiple regression, what does a partial t-test for βj assess?
+====
+Whether residuals are normal
+====
+Whether Xj is correlated with Y
+====
+Whether all regressors jointly explain Y
+====
+# Whether Xj has partial effect on Y controlling for other regressors
+
+++++
+What is the interpretation of a 95% confidence interval for βj?
+====
+The interval contains 95% of the data
+====
+βj varies across samples with 95% probability
+====
+There is a 95% chance βj lies in the realized interval
+====
+# In repeated samples, 95% of such intervals cover the true βj
+
+++++
+Which test detects overall significance of a multiple regression with k−1 predictors (excluding intercept)?
+====
+Partial t-test on each coefficient
+====
+# F-test for H0: β1 = ⋯ = βk−1 = 0
+====
+Breusch–Pagan test
+====
+Durbin–Watson test
+
+++++
+A prediction interval for a new observation at x0 is wider than a confidence interval for the mean response at x0 because
+====
+It ignores heteroskedasticity
+====
+It uses a larger t-critical value
+====
+It includes uncertainty from β^ only
+====
+# It includes irreducible error σ2 in addition to parameter uncertainty
+
+++++
+Collinearity primarily affects which aspect of inference?
+====
+Normality of residuals
+====
+Consistency of β^
+====
+Unbiasedness of β^
+====
+# Variance of β^ and width of intervals
+
+++++
+Suppose X includes a constant. The model’s R2 equals
+====
+ESS/RSS
+====
+RSS/TSS
+====
+1-TSS/RSS
+====
+# 1-TSS/RSS with TSS=∑(yi-ŷ)2
+
+++++
+The White test primarily assesses
+====
+Autocorrelation
+====
+# Heteroskedasticity
+====
+Normality of residuals
+====
+Model misspecification of functional form only
+
+++++
+Which assumption is central to one-way ANOVA for comparing group means?
+====
+Normality of the grand mean
+====
+Independence between factors
+====
+Equal sample sizes in all groups
+====
+# Homogeneity of variances across groups
+
+++++
+What does the F-statistic in one-way ANOVA compare?
+====
+Group means to individual observations
+====
+Sum of squares total to mean square error
+====
+Within-group variance to between-group variance
+====
+# Between-group variance to within-group variance
+
+++++
+Under the null hypothesis of equal means in one-way ANOVA, the expected value of the F-statistic is closest to:
+====
+0
+====
+# 1
+====
+k
+====
+n
+
+++++
+Which scenario most justifies using a one-way ANOVA?
+====
+Comparing two dependent samples
+====
+# Comparing the means of three independent groups
+====
+Testing the association between two categorical variables
+====
+Modeling a continuous outcome with a continuous predictor
+
+++++
+In ANOVA, the total sum of squares decomposes as:
+====
+SSTotal=SSError−SSModel
+====
+SSTotal=SSModel−SSError
+====
+# SSTotal=SSBetween+SSWithin
+====
+SSTotal=SSBetween−SSWithin
+
+++++
+What are the degrees of freedom for MSbetween in a one-way ANOVA with k groups?
+====
+k
+====
+# k−1
+====
+n−1
+====
+n−k
+
+++++
+If homoscedasticity is violated in one-way ANOVA, which alternative is most appropriate?
+====
+Friedman test
+====
+Paired t-test
+====
+# Welch’s ANOVA
+====
+Kruskal–Wallis test
+
+++++
+In a balanced one-way ANOVA with k=4 groups and ni=10 each, what are the error degrees of freedom?
+====
+9
+====
+30
+====
+40
+====
+# 36
+
+++++
+Which residual diagnostic best checks ANOVA normality assumption?
+====
+Residuals versus leverage plot
+====
+Plot residuals versus fitted values
+====
+Scale–location plot
+====
+# Normal Q–Q plot of residuals
+
+++++
+What is the primary consequence of severe multicollinearity in an OLS regression?
+====
+Biased coefficient estimates
+====
+Violation of homoskedasticity
+====
+Biased prediction of the response
+====
+# Inflated standard errors of coefficients
+
+++++
+Which diagnostic best indicates multicollinearity among predictors?
+====
+Low residual standard error
+====
+Significant overall F-test
+====
+Large R2 of the overall model
+====
+# High Variance Inflation Factor (VIF) values
+
+++++
+What happens to R2 when you add a new predictor to an OLS model?
+====
+It can decrease
+====
+It becomes undefined
+====
+It always increases strictly
+====
+# It stays the same or increases
+
+++++
+Adjusted R2 is designed to:
+====
+Replace cross-validation
+====
+Detect heteroskedasticity
+====
+Measure out-of-sample accuracy exactly
+====
+# Penalize adding predictors that do not improve fit
+
+++++
+In the presence of high multicollinearity, which statement about coefficient significance is most accurate?
+====
+P-values uniformly decrease
+====
+t-statistics become larger
+====
+All coefficients become insignificant
+====
+# Some coefficients may be insignificant despite high R2
+
+++++
+Which formula defines R2 in linear regression with intercept?
+====
+R2=SSE/n
+====
+R2=SSR/SSE
+====
+R2=SSE/SST
+====
+# R2=1-SSE/SST
+
+++++
+When does R2 become negative?
+====
+Never, it is always in [0,1]
+====
+Only with multicollinearity
+====
+Only with heteroskedastic errors
+====
+# When the model has no intercept and fits worse than the mean
+
+++++
+Which metric is appropriate for comparing models with different numbers of predictors while accounting for fit and complexity?
+====
+Raw R2
+====
+# Adjusted R2
+====
+Training MSE only
+====
+p-values of individual terms
+
+++++
+How does perfect multicollinearity affect OLS estimation?
+====
+Predictions are impossible
+====
+OLS still yields unique estimates
+====
+# Coefficients are not identifiable
+====
+Standard errors are finite but large
+
+++++
+For polynomial terms like xx and x2, what transformation often reduces multicollinearity?
+====
+Remove x entirely
+====
+Add more polynomial terms
+====
+# Standardize and center x
+====
+Log-transform the response
+
+++++
+Which statement about Radj2 is correct?
+====
+Radj2 is always larger than R2
+====
+Radj2 equals cross-validated R2
+====
+Radj2 does not depend on sample size
+====
+# Radj2 can be less than R2 and even negative
+
+++++
+Why might stepwise selection inflate R2 and significance levels?
+====
+It reduces multicollinearity
+====
+It decreases model complexity
+====
+It enforces orthogonality of predictors
+====
+# It conditions on the data, causing selection bias
+
+++++
+In the decomposition SST=SSR+SSE, what do the terms represent?
+====
+Total, residual, and regression sum of squares respectively
+====
+Residual, regression, and total sum of squares respectively
+====
+Regression, residual, and total sum of squares respectively
+====
+# Total, regression, and residual sum of squares respectively
+
+++++
+What does multicollinearity primarily refer to in a regression context?
+====
+High variance of the error term
+====
+# Strong correlation between predictors
+====
+Nonlinear relationships among predictors
+====
+Strong correlation between predictors and the outcome
+
+++++
+Which consequence is most directly associated with severe multicollinearity?
+====
+Violation of independence of errors
+====
+Systematic underestimation of R2
+====
+Biased ordinary least squares (OLS) estimates
+====
+# Inflated standard errors for coefficient estimates
+
+++++
+Which statistic is commonly used to diagnose multicollinearity for a predictor Xj?
+====
+# Variance inflation factor (VIF)
+====
+Shapiro–Wilk test
+====
+Breusch–Pagan test
+====
+Durbin–Watson statistic
+
+++++
+How is the variance inflation factor (VIF) for Xj defined?
+====
+VIFj=1−Rj2
+====
+VIFj=(1−R2)1/2
+====
+# VIFj=1/(1−Rj2)
+====
+VIFj=R2 of the full model
+
+++++
+Which of the following best describes the effect of perfect multicollinearity?
+====
+R2 becomes zero
+====
+OLS still works but with higher variance
+====
+OLS coefficients become perfectly unbiased
+====
+# OLS cannot uniquely estimate some coefficients
+
+++++
+What is adjusted R2 intended to correct for?
+====
+Nonlinearity
+====
+Autocorrelation
+====
+Heteroskedasticity
+====
+# Number of predictors relative to sample size
+
+++++
+If VIFj=10, what is the corresponding Rj2 from regressing Xj on other predictors?
+====
+Rj2=0.1
+====
+Rj2=0.5
+====
+# Rj2=0.9
+====
+Rj2=0.99
+
+++++
+Which approach can mitigate multicollinearity without dropping variables?
+====
+Ignoring the intercept
+====
+# Use of ridge regression
+====
+Using a smaller sample size
+====
+Increasing the number of highly correlated predictors
+
+++++
+Which statement about R2 in linear regression with an intercept is true?
+====
+R2 is always 1
+====
+R2 can be negative
+====
+R2 equals adjusted R2
+====
+# R2 cannot decrease when adding predictors
+
+++++
+In the presence of multicollinearity, which diagnostic might falsely suggest insignificance for important predictors?
+====
+High adjusted R2
+====
+Small p-values for many coefficients
+====
+High F-statistic for overall model
+====
+# Large p-values for individual coefficients
+
+++++
+What does the tolerance for Xj equal, and how is it interpreted?
+====
+(1−R2)1/2, small values indicate good fit
+====
+# 1−Rj2, small values indicate high collinearity
+====
+R2 of the full model, large values indicate high collinearity
+====
+1/VIFj, large values indicate high collinearity
+
+++++
+Which scenario most clearly indicates multicollinearity problems?
+====
+Low R2, high residual variance
+====
+Low adjusted R2, high F-statistic
+====
+High R2, significant individual t-tests
+====
+# High R2, insignificant individual t-tests, significant overall F-test
+
+++++
+What is the effect of centering predictors (subtracting means) on multicollinearity?
+====
+Increases R2
+====
+Always makes VIFs equal to 1
+====
+Eliminates multicollinearity among predictors
+====
+# Reduces correlation with the intercept and improves interpretability of interaction terms
+
+++++
+Which change will not reduce multicollinearity?
+====
+# Randomly permuting the response variable
+====
+Dropping one of a pair of nearly identical predictors
+====
+Collecting more diverse data that breaks linear dependencies
+====
+Combining highly correlated predictors into an index or principal component
+
+++++
+Which identity links R2 to sums of squares in models with an intercept?
+====
+R2=SSR/SSE
+====
+R2=SSE/SST
+====
+R2=SST/SSR
+====
+# R2=1-SSR/SST
+
+++++
+In a multiple regression, you observe R2=0.95, adjusted R2=0.60, and several large VIFs. What is the most plausible explanation?
+====
+Data are randomly generated noise
+====
+Model underfits due to omitted variables
+====
+Excellent fit with stable, well-identified coefficients
+====
+# Severe multicollinearity inflates variance; many predictors do not add independent information
+
+++++
+Which step should you perform first when building a regression model?
+====
+Standardize all features
+====
+Fit a k-fold cross-validated model
+====
+Split data into training and test sets
+====
+# Define the problem, target y, and candidate predictors X
+
+++++
+Which metric is most appropriate for evaluating ordinary least squares (OLS) with continuous targets?
+====
+F1
+====
+AUC
+====
+# RMSE
+====
+Accuracy
+
+++++
+Which statement about multicollinearity is true?
+====
+It always improves prediction
+====
+It has no effect on OLS estimates
+====
+It can be detected only by plotting residuals
+====
+# It inflates variance of β^ and destabilizes coefficients
+
+++++
+What does the residual plot vs. fitted values help diagnose in linear regression?
+====
+Class imbalance
+====
+Overfitting due to high p
+====
+Data leakage from test to train
+====
+# Non-constant variance (heteroskedasticity) and nonlinearity
+
+++++
+Which statement best describes the mean average (naïve mean) forecasting method?
+====
+It fits a linear trend ŷt=a+bt
+====
+It predicts ŷt+1 as the most recent observation yt.
+====
+# It predicts ŷt+1  as the average of all past observations up to t.
+====
+It weights recent observations more heavily via a smoothing constant α.
+
+++++
+When is the mean average method most appropriate?
+====
+When data are intermittent with many zeros.
+====
+When there is a structural break just occurred.
+====
+When the series has strong trend and seasonality.
+====
+# When the series is stationary around a constant mean.
+
+++++
+A set of monthly seasonal indices for a multiplicative model should have what property?
+====
+They should sum to 12.
+====
+# Their average should be 1.
+====
+They should multiply to 1.
+====
+Their variance should be 0.
+
+++++
+Which diagnostic suggests an additive rather than multiplicative seasonal model?
+====
+The series is strictly stationary.
+====
+Seasonal amplitudes grow as the level increases.
+====
+Residuals show variance proportional to fitted values.
+====
+# Seasonal peaks and troughs are roughly constant in absolute size.
+
+++++
+In linear trend analysis using OLS, which model is commonly used?
+====
+yt=abt+ϵt
+====
+# yt=a+bt+ϵt
+====
+yt=a+blnt+ϵt
+====
+yt=a+bt+ct2+ϵt
+
+++++
+Simple exponential smoothing (SES) updates the level using which recursion?
+====
+Lt=αyt+αLt−1
+====
+Lt=αyt+(1−α)Lt−1
+====
+# Lt=Lt−1+α(yt−Lt−1)
+====
+Lt=(1−α)yt+αLt−1
+
+++++
+Which metric measures the average absolute size of forecast errors without considering their direction?
+====
+# MAD
+====
+MSE
+====
+MAPE
+====
+Bias
+
+++++
+What does MAPE=10% most directly indicate?
+====
+Maximum error is 10%
+====
+Mean error is 10 units
+====
+Standard deviation of errors is 10%
+====
+# Average absolute error is 10% of actuals
+
+++++
+Given actuals [100,120,80] and forecasts [90,126,88], what is the MAD?
+====
+6
+====
+# 8
+====
+10
+====
+12
+
+++++
+For scale-dependent comparison across different products, which is most appropriate?
+====
+MAD
+====
+MSE
+====
+# MAPE
+====
+RMSE
+
+++++
+Given errors e = [−2, 3, −1, 0], what are MAD and MSE?
+====
+MAD=2, MSE=3
+====
+MAD=1.5, MSE=2.5
+====
+# MAD=1.5, MSE=3.5
+====
+MAD=1.25, MSE=2.5
+
+++++
+In simple exponential smoothing, increasing α tends to:
+====
+Make forecasts unbiased
+====
+# Smooth less, respond faster
+====
+Smooth more, respond slower
+====
+Leave responsiveness unchanged
+
+++++
+For a stable level with no trend or seasonality, which method is most suitable?
+====
+ARIMA(1,1,1) by default
+====
+# Simple exponential smoothing
+====
+Holt’s linear trend
+====
+Holt–Winters multiplicative
+
+++++
+Given actual At=200 and forecast Ft=180, what is the percentage error and contribution to MAPE?
+====
+10%, contributes 10%
+====
+20%, contributes 20%
+====
+# −10%, contributes 10%
+====
+−20%, contributes 20%
+
+++++
+When comparing models using MSE, what principle applies under squared-error loss?
+====
+# Choose the lowest MSE
+====
+Choose the highest MSE
+====
+Choose the model with smallest MAD
+====
+Choose the model with fewest parameters
+
+++++
+Which error metric is most sensitive to outliers?
+====
+MAD
+====
+# MSE
+====
+MAPE
+====
+Bias
+
+++++
+A model yields MAD=5 and MSE=49. What does this suggest about error distribution?
+====
+MAPE must be 10%
+====
+Errors are all around ±5
+====
+Errors must be normally distributed
+====
+# Likely many small errors and a few large outliers
+
+++++
+Compute MAPE for actuals [50,0,100] and forecasts [45,5,110] using standard definition.
+====
+10%
+====
+8.3%
+====
+6.7%
+====
+# Undefined due to zero actual
+
+++++
+Given a 3-term moving average forecast method, how is the next forecast computed?
+====
+Ft+1=At
+====
+Ft+1=Ft
+====
+Ft+1=αAt+(1−α)Ft
+====
+# Ft+1=(At+At−1+At−2)/3
+
+++++
+If two models have equal MAPE but different MSE, which statement is most reasonable?
+====
+Both models must also have equal MAD
+====
+They have identical error distributions
+====
+# The one with lower MSE has fewer large errors
+====
+The one with higher MSE has better performance under squared loss
+
+++++
+Which statement best describes the primary purpose of a scientific abstract?
+====
+To persuade readers to adopt a viewpoint
+====
+To replace the need to read the full paper
+====
+To provide exhaustive methodological detail
+====
+# To concisely summarize the study’s question, methods, results, and implications
+
+++++
+What is the most effective way to formulate a research question for clarity and focus?
+====
+Frame the question around personal interest only
+====
+Avoid operational definitions to keep flexibility
+====
+Use broad, exploratory phrasing without boundaries
+====
+# Define a specific population, variable(s), and outcome
+
+++++
+In the IMRaD structure, where should limitations of the study primarily be discussed?
+====
+Methods
+====
+Results
+====
+# Discussion
+====
+Introduction
+
+++++
+Which practice best improves clarity in Methods sections?
+====
+Using passive voice exclusively
+====
+Embedding interpretations alongside procedures
+====
+Summarizing with vague generalities to save space
+====
+# Providing step-by-step procedures with sufficient detail for replication
+
+++++
+When reporting statistical results, which presentation is most appropriate?
+====
+Report only p-values without context.
+====
+# Report effect size with confidence interval and exact p-value.
+====
+State significance only: “significant at 5%.”
+====
+Use adjectives like “huge” or “minimal” without numbers.
+
+++++
+Which approach best strengthens the logical flow of an Introduction?
+====
+Present results briefly to entice readers
+====
+Start with detailed methods to show expertise
+====
+Include all literature regardless of relevance
+====
+# Begin broadly, narrow to the gap, and end with objectives or hypotheses
+
+++++
+How should abbreviations be introduced in a manuscript?
+====
+Put abbreviations only in a glossary, not in text
+====
+Assume common abbreviations need no introduction
+====
+Use many abbreviations to save space without defining them
+====
+# Define at first use: full term followed by abbreviation in parentheses
+
+++++
+Which title is most effective for a scientific article?
+====
+“A Study of Biology”
+====
+“New Findings on Pollution”
+====
+“Interesting Observations About Climate”
+====
+# “Urban Heat Islands Increase Nighttime Tair by 1.8 ∘C1.8∘C in Mid-Latitude Cities”
+
+++++
+Which practice best supports reproducible reporting of computational analyses?
+====
+Provide only final graphs and tables
+====
+Summarize algorithms without code or seeds
+====
+Rely on proprietary tools without documenting workflows
+====
+# Describe software, versions, packages, and parameter settings
+
+++++
+Which strategy best improves readability at the sentence level?
+====
+Use long sentences to appear sophisticated
+====
+Front-load sentences with dense subordinate clauses
+====
+Nominalize verbs and stack many prepositional phrases
+====
+# Prefer active voice where appropriate and keep subject–verb–object order
+
+++++
+How should you handle contradictory evidence in the literature review?
+====
+Cite only studies that support your hypothesis
+====
+Dismiss opposing studies as flawed without analysis
+====
+Avoid discussing controversy to maintain a clean narrative
+====
+# Acknowledge conflicting results and analyze methodological differences
+
+++++
+Which is the most appropriate way to describe a non-significant result in research paper?
+====
+“No effect exists.”
+====
+“The study was underpowered.”
+====
+“Results were negative, so we stopped investigating.”
+====
+#  “No statistically significant difference was detected (p=0.08); estimate =0.3 with 95%  CI=[−0.1,0.7].”
+
+++++
+Which is a primary reason to use R for statistical analysis?
+====
+It is limited to Windows platforms
+====
+It only supports basic descriptive statistics
+====
+It is a proprietary tool with paid support only
+====
+# It provides a vast ecosystem of community-contributed packages
+
+++++
+What is a key advantage of R’s functional programming style in data analysis?
+====
+It prevents vectorized operations
+====
+It encourages side effects in functions
+====
+It forces object-oriented patterns only
+====
+# It enables concise, reusable analysis pipelines
+
+++++
+Which command in R installs a package from CRAN?
+====
+cran_install("dplyr")
+====
+install.package("dplyr")
+====
+library.install("dplyr")
+====
+# install.packages("dplyr")
+
+++++
+How do you load an installed package into the current R session?
+====
+# library("ggplot2")
+====
+source("ggplot2.R")
+====
+install.packages("ggplot2")
+====
+requireNamespace("ggplot2", attach=TRUE)
+
+++++
+Which statement best describes CRAN?
+====
+A code editor for writing R scripts
+====
+A local package cache on your computer
+====
+A visualization library within base R
+====
+# A comprehensive repository of R packages with checks
+
+++++
+What is the typical first step to obtain R on a new machine?
+====
+Clone the R source from GitHub only
+====
+# Download binaries from the CRAN website
+====
+Install RStudio which automatically includes R
+====
+Use only system package managers; binaries are unavailable
+
+++++
+What does RStudio (or Posit IDE) primarily add to R workflows?
+====
+A replacement for the R language
+====
+A mandatory package manager for CRAN
+====
+Hardware acceleration for all computations
+====
+# An integrated environment for coding, console, plots, and projects
+
+++++
+What is the simplest way to get help for a function like mean in R?
+====
+doc(mean)
+====
+man(mean)
+====
+info(mean)
+====
+# help("mean") or ?mean
+
+++++
+Which command reads a CSV file into a data frame using base R?
+====
+# All of the above
+====
+read.csv("data.csv")
+====
+readr::read_csv("data.csv")
+====
+read.table("data.csv", sep=",")
+
+++++
+Why do many analysts prefer R for reproducible research?
+====
+Because R forbids scripting
+====
+Because R cannot render documents
+====
+Because R lacks package management
+====
+# Because R integrates code, narrative, and output through tools like R Markdown and Quarto
+
+++++
+How can you install a package from GitHub rather than CRAN?
+====
+git install user/repo
+====
+source_github("user/repo")
+====
+install.packages("user/repo")
+====
+# remotes::install_github("user/repo")
+
+++++
+How do you compute the mean of column x in data frame df while ignoring missing values?
+====
+mean(df$x)
+====
+na.omit(mean(df$x))
+====
+# mean(df$x, na.rm=TRUE)
+====
+sum(df$x)/length(df$x)
+
+++++
+In ggplot2, what does aes() specify?
+====
+Facet layout
+====
+Global theme settings
+====
+Geometric object types
+====
+# Mappings from variables to aesthetics
+
+++++
+Which ggplot2 function adds points to a scatter plot?
+====
+geom_bar()
+====
+geom_line()
+====
+# geom_point()
+====
+geom_histogram()
+
+++++
+In base R, which function gives a quick summary of each column in a data frame?
+====
+str()
+====
+table()
+====
+length()
+====
+# summary()
+
+++++
+What is the appropriate plot for visualizing the distribution of a single continuous variable?
+====
+Line plot
+====
+Scatter plot
+====
+# Histogram or density plot
+====
+Bar plot of counts of unique numeric values
+
+++++
+How can you add a regression line to a scatter plot in ggplot2?
+====
+geom_line()
+====
+stat_summary(fun = mean)
+====
+geom_abline() without data
+====
+# geom_smooth(method = "lm", se = FALSE)
+
+++++
+Which function in R is commonly used to fit a simple linear regression model?
+====
+# lm()
+====
+glm()
+====
+nls()
+====
+lmer()
+
+++++
+What does the coefficient of x represent in the model fit by lm(y ~ x + z, data=d)?
+====
+The intercept of the model
+====
+Effect of x only when z=0 and x=0
+====
+Marginal change in y with no controls
+====
+# Change in y per unit x holding z constant
+
+++++
+How do you fit a logistic regression in R with binary outcome y and predictors x and z?
+====
+lm(y ~ x + z)
+====
+nls(y ~ x + z, start=...)
+====
+# glm(y ~ x + z, family = binomial())
+====
+glm(y ~ x + z, family = gaussian())
+
+++++
+Which function extracts variance inflation factors to assess multicollinearity in linear models?
+====
+# car::vif()
+====
+MASS::rlm()
+====
+stats::var()
+====
+lm.influence()
+
+++++
+Which statement best describes a dataset’s tidy format?
+====
+Missing values are removed entirely
+====
+All values are stored in a single column
+====
+Each variable is a row and each observation is a column
+====
+# Each observation is a row and each variable is a column
+
+++++
+When is Pearson’s correlation appropriate for two variables X and Y?
+====
+When X is categorical and Y is numeric
+====
+When X and Y are time series with strong autocorrelation
+====
+When X and Y have a monotonic but non-linear relationship with many ties
+====
+# When X and Y have a linear relationship and are approximately jointly normal
+
+++++
+A correlation of r = 0.8 between two variables implies what?
+====
+X and Y are perfectly linearly related
+====
+X causes Y to increase by 0.8 units on average
+====
+The relationship is significant at α=0.05
+====
+# There is a strong positive linear association between X and Y
+
+++++
+Which plot is most useful to inspect linearity and outliers before computing Pearson’s correlation?
+====
+QQ plot
+====
+Box plot
+====
+Histogram
+====
+# Scatter plot
+
+++++
+What does the p-value represent in a hypothesis test?
+====
+Probability of Type II error
+====
+Probability that H0 is true
+====
+Probability that Ha is true
+====
+Probability of observing data as or more extreme than observed under H0
+
+++++
+Which step comes first in a typical research process?
+====
+Analyze data
+====
+Collect primary data
+====
+# Formulate the research problem
+====
+Draft conclusions and recommendations
+
+++++
+In Excel’s Data Analysis ToolPak, which procedure tests association between two categorical variables (e.g., region and return status)?
+====
+Regression
+====
+Correlation
+====
+# Chi-Square Test
+====
+t-Test: Two-Sample Assuming Unequal Variances
+
+++++
+To reduce multicollinearity before running regression in Excel, which check is most appropriate?
+====
+Examine R2
+====
+Run a paired t-test
+====
+Create a histogram of the dependent variable
+====
+Inspect Pearson correlation matrix among predictors
+
+++++
+Which step directly follows defining hypotheses in the research process?
+====
+Literature review
+====
+Write executive summary
+====
+Conclusions and recommendations
+====
+# Sampling design and data collection plan
+
+++++
+In R, which function is typically used to estimate an Ordinary Least Squares regression?
+====
+# lm()
+====
+glm()
+====
+nls()
+====
+lmer()
+
+++++
+Which measure is most appropriate to describe the central tendency of a highly skewed distribution?
+====
+Mean
+====
+Mode
+====
+# Median
+====
+Midrange
+
+++++
+For a dataset, which statement about variance and standard standard deviation is true?
+====
+They are always equal
+====
+# Variance=(SD)2
+====
+SD=(Variance)2
+====
+Both are measured in the same units as the data
+
+++++
+A dataset has x̄ =50 and s=10. What is the z-score of an observation x=70?
+====
+# z=2
+====
+z=−2
+====
+z=0.2
+====
+z=1.5
+
+++++
+What does a z-score of −1.2 indicate?
+====
+The observation is 1.2 units below the mean
+====
+The observation is below the minimum by 1.2 units
+====
+The observation is 1.2 percentiles below the mean
+====
+# The observation is 1.2 standard deviations below the mean
+
+++++
+In the model  yt=β0+β1t+εt, what does β1 represent?
+====
+Seasonal index
+====
+Autocorrelation at lag 1
+====
+# Average additive change per period
+====
+Average multiplicative growth per period
+
+++++
+Which best describes cross-sectional economic data?
+====
+# Data collected on many entities at one point in time
+====
+Data collected on one entity across many time periods
+====
+Data transformed into rates of change rather than levels
+====
+Data combining multiple entities observed over multiple time periods
+
+++++
+What defines a time series in economics?
+====
+# Observations ordered by time
+====
+Observations ordered by categories
+====
+Observations from a cross-country survey
+====
+Observations from a randomized experiment
+
+++++
+Panel data are distinguished by which feature?
+====
+A single entity over time
+====
+Multiple entities at one time
+====
+Data with only qualitative variables
+====
+# Multiple entities over multiple time periods
+
+++++
+National accounts (e.g., GDP) are best classified as what type of data?
+====
+# Macro time series
+====
+Micro cross-sectional
+====
+Experimental microdata
+====
+Qualitative case studies
+
+++++
+Price quotes collected by statistical agencies to compute CPI are primarily what type?
+====
+Experimental time series
+====
+Cross-sectional microdata
+====
+Qualitative interview data
+====
+# Panel microdata with item-outlet over time
+
+++++
+Randomized controlled trials (RCTs) produce which kind of data?
+====
+Simulated data
+====
+# Experimental data
+====
+Observational data
+====
+Administrative data
+
+++++
+Household Consumption Expenditure Survey at one date yields what structure?
+====
+Time series
+====
+Panel microdata
+====
+Event-study time series
+====
+# Cross-sectional microdata
+
+++++
+What are nominal economic data?
+====
+Quantity indexes only
+====
+Values adjusted for inflation
+====
+Data normalized by population
+====
+# Values measured in current prices
+
+++++
+Seasonally adjusted data differ from not seasonally adjusted by:
+====
+Converting to real terms
+====
+Averaging across years only
+====
+Including only summer observations
+====
+# Removing predictable seasonal patterns
+
+++++
+Difference-in-differences typically uses which data structure?
+====
+Cross-sectional only
+====
+Only pure time series for one unit
+====
+Qualitative case study narratives
+====
+# Panel or repeated cross-sections around a policy change
+
+++++
+What are microdata in economics?
+====
+Aggregate series like GDP and CPI
+====
+Only experimental observations
+====
+Only qualitative interview transcripts
+====
+# Unit-level observations such as households, firms, or transactions
+
+++++
+Which best describes real economic data?
+====
+Data measured only in physical units
+====
+Data that exclude taxes and subsidies
+====
+# Data adjusted for changes in price levels
+====
+Data expressed in base-period quantities
+
+++++
+Which source most likely yields qualitative economic data?
+====
+Credit card transaction logs
+====
+Central bank policy rate series
+====
+# Text of earnings call transcripts
+====
+Bureau of Labor Statistics payroll counts
+
+++++
+Which of the following is a primary source of data?
+====
+Textbook summary
+====
+News commentary
+====
+# Government census
+====
+Wikipedia article
+
+++++
+What is the main advantage of using secondary data?
+====
+It is always more accurate
+====
+# It saves time and resources
+====
+It eliminates sampling errors
+====
+It guarantees representativeness
+
+++++
+Which method is best for obtaining qualitative data?
+====
+# Focus groups
+====
+Surveys with closed questions
+====
+Government statistics
+====
+Structured interviews
+
+++++
+Which sampling method ensures every member of a population has an equal chance of selection?
+====
+# Random sampling
+====
+Convenience sampling
+====
+Snowball sampling
+====
+Quota sampling
+
+++++
+Which of the following is NOT a data collection method?
+====
+# Regression analysis
+====
+Observation
+====
+Experimentation
+====
+Questionnaire
+
+++++
+What type of data is obtained from sensors measuring temperature?
+====
+# Quantitative
+====
+Qualitative
+====
+Nominal
+====
+Secondary
+
+++++
+Which of the following is an example of secondary data?
+====
+# World Bank database
+====
+Interviewing employees
+====
+Company’s internal sales records
+====
+Conducting a survey
+
+++++
+Which data collection method is most prone to interviewer bias?
+====
+Online surveys
+====
+# Face-to-face interviews
+====
+Experiments
+====
+Observation
+
+++++
+Which of the following is an ethical issue in data collection?
+====
+# Obtaining informed consent
+====
+Ensuring random sampling
+====
+Applying regression models
+====
+Using large sample sizes
+
+++++
+Which data collection method is best for studying consumer behavior in a store?
+====
+Focus group
+====
+# Observation
+====
+Online survey
+====
+Government statistics
+
+++++
+Which graph is best for showing the distribution of a single continuous variable?
+====
+# Histogram
+====
+Pie chart
+====
+Line graph
+=====
+Scatter plot 
+
+++++
+A pie chart is most appropriate when:
+====
+# Showing proportions of categories
+====
+Displaying trends over time
+====
+Comparing two continuous variables
+=====
+Showing correlation strength 
+
+++++
+Which graphical method is best for identifying outliers in data?
+====
+Bar chart
+====
+# Box plot
+====
+Line chart
+====
+Pie chart 
+
+++++
+What does the length of bars in a bar chart represent?
+====
+# Frequency or magnitude of a category
+====
+Correlation between variables
+====
+Trend over time
+====
+Distribution spread 
+
+++++
+Which chart is most suitable for time series data?
+====
+# Line chart
+====
+Histogram
+====
+Pie chart
+====
+Scatter plot
+
+++++
+In a scatter plot, points clustered along a rising diagonal suggest:
+====
+Negative correlation
+====
+# Positive correlation
+====
+No correlation
+====
+Random distribution 
+
+++++
+If a histogram shows a long tail to the right, the data is:
+====
+Symmetric
+====
+# Positively skewed
+====
+Negatively skewed
+====
+Uniform
+
+++++
+In a box plot, the line inside the box represents:
+====
+Mean
+====
+# Median
+====
+Mode
+====
+Range
+
+++++
+Which graph would best show the relationship between study hours and exam scores?
+====
+# Scatter plot
+====
+Pie chart
+====
+Histogram
+====
+Box plot
+
+++++
+Which visualization is most effective for showing proportions of budget allocation?
+====
+# Pie chart
+====
+Line chart
+====
+Scatter plot
+====
+Histogram 
+
+++++
+Which of the following is a primary database source for demographic statistics?
+====
+# World Bank Data
+====
+Wikipedia
+====
+News articles
+====
+Blogs
+
+++++
+Which type of database provides raw, unprocessed data?
+====
+# Primary databases
+====
+Secondary databases
+====
+Meta-databases
+====
+Analytical dashboards
+
+++++
+Which database is most suitable for economic indicators across countries?
+====
+# IMF Data Portal
+====
+Instagram Analytics
+====
+Personal spreadsheets
+====
+Local newspapers
+
+++++
+What is the main advantage of using open-access databases?
+====
+# Free availability and transparency
+====
+Guaranteed accuracy
+====
+Always up-to-date
+====
+No need for cleaning
+
+++++
+Which database would you use to analyze household survey data in Uzbekistan?
+====
+# National Statistics Committee database
+====
+Eurostat
+====
+OECD Data
+====
+UN Data
+
+++++
+A researcher studying trade flows should consult:
+====
+# UN Comtrade database
+====
+Facebook Ads Manager
+====
+Local blogs
+====
+Personal diaries 
+
+++++
+Which database is best for health-related statistics?
+====
+# WHO Global Health Observatory
+====
+IMF World Economic Outlook
+====
+Spotify charts
+====
+OECD Education database
+
+++++
+Which of the following is an example of a proprietary database?
+====
+# Bloomberg Terminal
+====
+World Bank Open Data
+====
+UN Data
+====
+Eurostat 
+
+++++
+Which type of database is most prone to access restrictions?
+====
+#Proprietary databases
+====
+Open-access databases
+====
+Government census databases
+====
+Academic repositories
+
+++++
+What is a common limitation of secondary databases?
+====
+# May not fit research purpose
+====
+Always expensive
+====
+Lack of metadata
+====
+No historical records 
+
+++++
+Which database is best for time-series financial data?
+====
+# Yahoo Finance
+====
+WHO Health Observatory
+====
+UN Comtrade
+====
+Eurostat Education
+
+++++
+Which of the following is a meta-database that aggregates multiple sources?
+====
+Google Dataset Search
+====
+Spotify
+====
+Netflix
+====
+Instagram Insights 
+
+++++
+Which database is most suitable for analyzing academic publications?
+====
+# Scopus
+====
+WHO Health Observatory
+====
+IMF Data Portal
+====
+UN Comtrade 
+
+++++
+Which of the following is a specialized database for education statistics?
+====
+# UNESCO Institute for Statistics
+====
+Bloomberg Terminal
+====
+WHO Global Health Observatory
+====
+IMF World Economic Outlook 
+
+++++
+Which database is best for analyzing digital economy trends?
+====
+# ITU ICT Statistics
+====
+Spotify playlists
+====
+Netflix library
+====
+WHO Health Observatory 
+
+++++
+Which of the following is an example of a regional statistical database?
+====
+# Eurostat
+====
+World Bank Data
+====
+UN Data
+====
+OECD Data
+
+++++
+Which of the following is an open-source platform widely used for sharing datasets and competitions?
+====
+# Kaggle
+====
+Bloomberg Terminal
+====
+Eurostat
+====
+Thomson Reuters Eikon
+
+++++
+Which open-source tool allows interactive dashboards and visualizations for statistical data?
+====
+# Apache Superset
+====
+Bloomberg Terminal
+====
+Eurostat data
+====
+OECD Data Portal
+
+++++
+Which repository is often used for machine learning datasets and notebooks?
+====
+# Kaggle Datasets
+====
+CIS-Stat Portal
+====
+IMF Data Portal
+====
+WHO Health Observatory
+
+++++
+Which open-source search engine aggregates datasets from multiple institutions worldwide?
+====
+# Google Dataset Search
+====
+Spotify
+====
+Netflix
+====
+Facebook Ads Manager 
+
+++++
+The Interstate Statistical Committee of the CIS provides:
+====
+# GDP, national accounts, and production measures
+====
+Movie ratings
+====
+Music charts
+====
+Social media analytics
+
+++++
+Which organization provides migration and demographic statistics for CIS countries?
+====
+# UNECE (United Nations Economic Commission for Europe)
+====
+Spotify
+====
+Netflix
+====
+IMF 
+
+++++
+Which function in R is used to calculate the mean of a dataset?
+====
+# mean()
+====
+avg()
+====
+median()
+====
+summary() 
+
+++++
+Which R package is most commonly used for data visualization?
+====
+# ggplot2
+====
+dplyr
+====
+tidyr
+====
+caret 
+
+++++
+What does the function lm() in R perform?
+====
+# Linear regression
+====
+Logistic regression
+====
+ANOVA
+====
+Correlation analysis 
+
+++++
+Which package is part of the “tidyverse” and used for data manipulation?
+====
+# dplyr
+====
+ggplot2
+====
+caret
+====
+MASS 
+
+++++
+Which function in R is used to calculate correlation?
+====
+# cor()
+====
+lm()
+====
+anova()
+====
+summary() 
+
+++++
+In R, what does the output of summary(lm(y ~ x)) provide?
+====
+# Regression coefficients and significance levels
+====
+Only correlation values
+====
+Frequency distribution
+====
+Boxplot visualization 
+
+++++
+Which function is used to perform hypothesis testing for mean differences?
+====
+# t.test()
+====
+lm()
+====
+anova()
+====
+chisq.test()
+
+++++
+Which R package is best for time-series analysis?
+====
+# forecast
+====
+ggplot2
+====
+caret
+====
+tidyr 
+
+++++
+Which function in R is used to perform chi-square tests?
+====
+# chisq.test()
+====
+t.test()
+====
+lm()
+====
+cor()
+
+++++
+Which package is used for reshaping data in R?
+====
+# tidyr
+====
+ggplot2
+====
+caret
+====
+MASS 
+
+++++
+Which function in R is used to create boxplots?
+====
+# boxplot()
+====
+plot()
+====
+hist()
+====
+barplot() 
+
+++++
+Which function in R is used to calculate variance?
+====
+# var()
+====
+sd()
+====
+mean()
+====
+anova()
+
+++++
+Which function in R is used to calculate standard deviation?
+====
+# sd()
+====
+var()
+====
+mean()
+====
+summary() 
+
+++++
+Which package is best for creating interactive web apps with R?
+====
+# shiny
+====
+ggplot2
+====
+caret
+====
+tidyr
+
+++++
+Which of the following is a primary data collection method?
+====
+# Surveys
+====
+Gapminder database
+====
+World Bank Data
+====
+OECD Statistics 
+
+++++
+Which method is best for collecting qualitative primary data?
+====
+# Focus groups
+====
+Government census
+====
+Gapminder datasets
+====
+IMF database 
+
+++++
+Which of the following is NOT a primary data collection method?
+====
+Observation
+====
+Experimentation
+====
+# Regression analysis
+====
+Interviews 
+
+++++
+Gapminder is best known for:
+====
+# Visualizing global development statistics
+====
+Conducting primary surveys
+====
+Collecting interviews
+====
+Running experiments
+
+++++
+Which website specializes in visual storytelling of development indicators?
+====
+# Gapminder
+====
+Bloomberg Terminal
+====
+IMF World Economic Outlook
+====
+WHO Health Observatory
+
+++++
+Which open-source search engine aggregates datasets worldwide?
+====
+# Google Dataset Search
+====
+Netflix
+====
+Spotify
+====
+Facebook Ads Manager 
+
+++++
+Which CIS-specific statistical portal publishes bilingual tables?
+====
+# CIS-Stat official website
+====
+Kaggle
+====
+Bloomberg Terminal
+====
+OECD Data
+
+++++
+Which package is most commonly used for building interactive dashboards in R?
+====
+# shiny
+====
+ggplot2
+====
+caret
+====
+MASS 
+
+++++
+Which package extends Shiny to create professional dashboards with tabs and layouts?
+====
+# shinydashboard
+====
+tidyr
+====
+caret
+====
+MASS 
+
+++++
+Which package allows embedding interactive plots into Shiny dashboards?
+====
+# plotly
+====
+caret
+====
+MASS
+====
+tidyr 
+
+++++
+Which package is used for creating interactive tables in dashboards?
+====
+# DT
+====
+ggplot2
+====
+caret
+====
+MASS 
+
+++++
+Which package is best for creating dashboards with flexible layouts and themes?
+====
+# flexdashboard
+====
+shinydashboard
+====
+caret
+====
+MASS
