@@ -1,1000 +1,409 @@
-+++++
-PISA assessment qaysi yoshdagi o‘quvchilarni baholaydi?
-====
-A) 10–11 yosh
-====
-B) 12–13 yosh
-====
-# C) 15 yosh
-====
-D) 17 yosh
-+++++
-PISA ning asosiy yo‘nalishlaridan biri:
-====
-A) Artistic skills
-====
-# B) Reading literacy
-====
-C) Grammar only
-====
-D) Sport skills
-+++++
-PIRLS dasturi nimani baholaydi?
-====
-A) Matematika
-====
-# B) O‘qish savodxonligi
-====
-C) Informatika
-====
-D) Sport
-+++++
-TIMSS asosan qaysi fanlarga qaratilgan?
-====
-A) Tarix va geografiya
-====
-# B) Matematika va tabiiy fanlar
-====
-C) Adabiyot
-====
-D) San’at
-+++++
-PISA tadqiqoti nechchi yilda bir o‘tkaziladi?
-====
-A) Har yili
-====
-B) 2 yilda
-====
-# C) 3 yilda
-====
-D) 5 yilda
-+++++
-PISA tadqiqotini qaysi tashkilot o‘tkazadi?
-====
-A) UNESCO
-====
-# B) OECD
-====
-C) UNICEF
-====
-D) World Bank
-+++++
-PIRLS qaysi sinf o‘quvchilarini baholaydi?
-====
-A) 2-sinf
-====
-B) 3-sinf
-====
-# C) 4-sinf
-====
-D) 6-sinf
-+++++
-TIMSS tadqiqoti qaysi sinflarda o‘tkaziladi?
-====
-A) 1 va 2
-====
-# B) 4 va 8
-====
-C) 9 va 10
-====
-D) 11
-+++++
-Reading literacy nimani anglatadi?
-====
-A) Matn yodlash
-====
-# B) Matnni tushunish va tahlil qilish
-====
-C) Tez o‘qish
-====
-D) She’r yozish
-+++++
-Mathematical literacy bu:
-====
-A) Formula yodlash
-====
-# B) Matematikani hayotiy vaziyatlarda qo‘llash
-====
-C) Faqat misol yechish
-====
-D) Nazariya
-+++++
-Science literacy —
-====
-A) Tajriba ko‘chirish
-====
-# B) Ilmiy tushunchalarni hayotda qo‘llash
-====
-C) Kitob o‘qish
-====
-D) Test yodlash
-+++++
-PISA testlari asosan nimani o‘lchaydi?
-====
-A) Yod olish
-====
-# B) Kompetensiya
-====
-C) Intizom
-====
-D) Baholar
-+++++
-PIRLS baholash turi:
-====
-A) Og‘zaki
-====
-# B) Matn asosida test
-====
-C) Sport
-====
-D) Amaliy ish
-+++++
-TIMSS natijalari nima uchun kerak?
-====
-A) O‘quvchini jazolash
-====
-# B) Ta’lim sifatini yaxshilash
-====
-C) Maktab yopish
-====
-D) Darsni kamaytirish
-+++++
-PISA topshiriqlari ko‘proq:
-====
-A) Nazariy
-====
-# B) Hayotiy vaziyatli
-====
-C) She’rli
-====
-D) Rasmsiz
-+++++
-Critical thinking nima?
-====
-# A) Tanqidiy fikrlash
-====
-B) Yodlash
-====
-C) Nusxa olish
-====
-D) Tinglash
-+++++
-21-asr ko‘nikmalariga kiradi:
-====
-A) Faqat yozish
-====
-# B) Collaboration
-====
-C) Yodlash
-====
-D) Takrorlash
-+++++
-Problem solving —
-====
-A) Kitob o‘qish
-====
-# B) Muammo yechish
-====
-C) Yozish
-====
-D) Tinglash
-+++++
-PIRLS asosiy maqsadi:
-====
-A) Matematikani oshirish
-====
-# B) O‘qish savodxonligini baholash
-====
-C) Sport
-====
-D) Rasm
-+++++
-TIMSS nimani solishtiradi?
-====
-A) O‘qituvchi yoshini
-====
-# B) Davlatlar ta’lim natijalarini
-====
-C) Maktab binosini
-====
-D) Forma rangini
-+++++
-PIRLS cycle:
-====
-A) 2 years
-====
-# B) 5 years
-====
-C) 4 years
-====
-D) 1 year
-+++++
-PIRLS “silent reading”ga urg‘u beradi, chunki:
-====
-A) It’s faster
-====
-# B) It reflects real-life reading
-====
-C) It is easier for teachers
-====
-D) It avoids comprehension
-+++++
-PIRLSda qaysi ko‘nikma baholanmaydi?
-====
-A) Constructing meaning
-====
-B) Interpreting ideas
-====
-# C) Solving math equations
-====
-D) Evaluating content
-+++++
-PIRLS results are used to:
-====
-# A) Improve early reading programs
-====
-B) Close primary schools
-====
-C) Reduce reading time
-====
-D) Teach physics
-+++++
-PIRLSda test shakli:
-====
-# A) Mixed format tasks
-====
-B) Only multiple choice
-====
-C) Only essay
-====
-D) Yes/no
-+++++
-PIRLS “benchmarking” nima?
-====
-A) Student punishment
-====
-# B) Comparing reading standards
-====
-C) Reducing tests
-====
-D) Changing teachers
-+++++
-PIRLS “progress monitoring cycle”:
-====
-# A) PIRLS Literacy
-====
-B) PIRLS Maths
-====
-C) PIRLS Sport
-====
-D) PIRLS Science
-+++++
-PIRLS topshiriqlarida asosiy e’tibor:
-====
-A) Memory
-====
-# B) Deep understanding
-====
-C) Grammar
-====
-D) Spelling
-+++++
-PIRLSda parental involvement:
-====
-A) Ignored completely
-====
-# B) Positively correlated
-====
-C) Negatively correlated
-====
-D) Not studied
-+++++
-PIRLS “reader behaviour” tushunchasi nimani bildiradi?
-====
-A) Reading speed only
-====
-# B) Engagement with text
-====
-C) Writing style
-====
-D) Pronunciation
-+++++
-TIMSS qaysi sohani baholaydi?
-====
-A) Reading
-====
-# B) Math & Science
-====
-C) Physical Education
-====
-D) ICT
-+++++
-TIMSS nechanchi sinflarni baholaydi?
-====
-A) 2–3
-====
-# B) 4 va 8
-====
-C) 10–11
-====
-D) 1–2
-+++++
-TIMSSni o‘tkazadigan tashkilot:
-====
-A) OECD
-====
-# B) IEA
-====
-C) UNESCO
-====
-D) UNDP
-+++++
-TIMSS math tasks include:
-====
-A) Only algebra
-====
-# B) Arithmetic, geometry, data
-====
-C) Only word problems
-====
-D) Only graphs
-+++++
-TIMSS science tasks measure:
-====
-A) Chemistry only
-====
-# B) Biology, physics, earth science
-====
-C) Astronomy only
-====
-D) Zoology only
-+++++
-TIMSS cycle:
-====
-A) 3 years
-====
-# B) 4 years
-====
-C) 5 years
-====
-D) 1 year
-+++++
-TIMSSda cognitive domains:
-====
-# A) Remember, Apply, Reason
-====
-B) Read, Write, Speak
-====
-C) Listen, Watch, Draw
-====
-D) Analyse, Sing, Dance
-+++++
-TIMSS questionnaires assess:
-====
-A) Student hobbies
-====
-# B) Home and school context
-====
-C) Political views
-====
-D) Religion
-+++++
-TIMSS yordam beradi:
-====
-# A) Improve math/science curriculum
-====
-B) Reduce lessons
-====
-C) Remove tests
-====
-D) Teach languages
-+++++
-TIMSSda item formats:
-====
-# A) Mixed (MCQ + constructed response)
-====
-B) Only MCQ
-====
-C) Only essay
-====
-D) Only oral
-+++++
-TIMSSda universal design nima uchun kerak?
-====
-A) To make tests harder
-====
-# B) Inclusiveness
-====
-C) Remove visuals
-====
-D) Shorten tasks
-+++++
-TIMSS numeracy dasturi kimlar uchun?
-====
-A) Preschool
-====
-# B) Lower-achieving students
-====
-C) Athletes
-====
-D) Teachers only
-+++++
-TIMSSda scale anchoring vazifasi:
-====
-# A) Determine achievement levels
-====
-B) Shorten tests
-====
-C) Make scoring easier
-====
-D) Remove context
-+++++
-TIMSSda sample size:
-====
-A) Very small
-====
-# B) Representative samples
-====
-C) Random volunteers
-====
-D) Only gifted students
-+++++
-TIMSS 2023 yangiligi:
-====
-A) AI integration
-====
-# B) Computer-based testing
-====
-C) No science
-====
-D) Reading added
-+++++
-AI in education yordam beradi:
-====
-# A) Automate grading
-====
-B) Decrease learning
-====
-C) Stop feedback
-====
-D) Remove teachers
-+++++
-Adaptive learning system:
-====
-A) One-size-fits-all
-====
-# B) Personalizes learning
-====
-C) No data usage
-====
-D) Punishes students
-+++++
-Chatbots in ELT work as:
-====
-# A) Speaking partners
-====
-B) Internet blockers
-====
-C) Test removers
-====
-D) Translators only
-+++++
-AI ethical issue:
-====
-# A) Fairness
-====
-B) Pencil quality
-====
-C) Desk size
-====
-D) Classroom design
-+++++
-AI plagiarism detection:
-====
-# A) Turnitin
-====
-B) Photoshop
-====
-C) Excel
-====
-D) WordPad
-+++++
-AI can support inclusive education via:
-====
-# A) Speech-to-text
-====
-B) Removing assistive tools
-====
-C) Making tests harder
-====
-D) Blocking devices
-+++++
-AI-based assessment:
-====
-# A) Real-time feedback
-====
-B) No feedback
-====
-C) Random grading
-====
-D) Removing evaluation
-+++++
-AI ning differensial talimdagi roli:
-====
-# A) Personal recommendations
-====
-B) Same tasks for all
-====
-C) Students isolation
-====
-D) Punishment
-+++++
-VR in education allows:
-====
-# A) Immersive learning
-====
-B) Only entertainment
-====
-C) No interaction
-====
-D) Reading only
-+++++
-AI helps teachers:
-====
-# A) Reduce planning time
-====
-B) Delete lessons
-====
-C) Increase stress
-====
-D) Remove content
-+++++
-AI-based early warning systems detect:
-====
-# A) Dropout risks
-====
-B) Sports skills
-====
-C) Fashion style
-====
-D) Favourite colour
-+++++
-Gamification with AI improves:
-====
-# A) Motivation
-====
-B) Laziness
-====
-C) Stress
-====
-D) Silence
-+++++
-AI-generated analytics:
-====
-# A) Tracks student progress
-====
-B) Creates confusion
-====
-C) Stops learning
-====
-D) Limits teachers
-+++++
-AI supports language learning by:
-====
-# A) Immediate correction
-====
-B) Blocking practice
-====
-C) Removing vocabulary
-====
-D) Confusing grammar
-+++++
-AI limitations:
-====
-# A) Bias
-====
-B) Always perfect
-====
-C) Zero errors
-====
-D) No data needs
-+++++
-CALL stands for:
-====
-# A) Computer Assisted Language Learning
-====
-B) Creative Art Learning
-====
-C) Computer Algebra Learning
-====
-D) Contextual Arabic Learning
-+++++
-TBLL focuses on:
-====
-# A) Tasks
-====
-B) Grammar memorization
-====
-C) Dictation
-====
-D) Spelling only
-+++++
-CLIL aims to teach:
-====
-# A) Content + Language
-====
-B) Sport
-====
-C) Music
-====
-D) Painting
-+++++
-PBLL involves:
-====
-# A) Real projects
-====
-B) Grammar tests only
-====
-C) Copying texts
-====
-D) Silent reading
-+++++
-Flipped classroom:
-====
-# A) Learning at home, practicing in class
-====
-B) No homework
-====
-C) No video
-====
-D) No teaching
-+++++
-Digital literacy includes:
-====
-# A) Using ICT effectively
-====
-B) Only typing
-====
-C) Only games
-====
-D) Only printing
-+++++
-Interactive whiteboards enable:
-====
-# A) Collaborative activities
-====
-B) No visuals
-====
-C) Passive learning
-====
-D) Paper use
-+++++
-Mobile learning:
-====
-# A) Anytime, anywhere
-====
-B) Only in class
-====
-C) Only writing
-====
-D) No feedback
-+++++
-Gamification tools:
-====
-# A) Kahoot
-====
-B) Hammer
-====
-C) Notebook
-====
-D) Ruler
-+++++
-LMS examples:
-====
-# A) Moodle
-====
-B) Ballpen
-====
-C) Chair
-====
-D) Blackboard (physical)
-+++++
-Online assessment:
-====
-# A) Google Forms
-====
-B) Ruler
-====
-C) Textbook
-====
-D) Chalk
-+++++
-AR in ELT allows:
-====
-# A) 3D interaction
-====
-B) No visuals
-====
-C) Only paper tasks
-====
-D) No context
-+++++
-Corpus-based learning uses:
-====
-# A) Real language data
-====
-B) Only teacher talk
-====
-C) Poetry
-====
-D) Short stories only
-+++++
-Teacher digital competence includes:
-====
-# A) Creating e-content
-====
-B) Only handwriting
-====
-C) No technology
-====
-D) Chalk-only teaching
-+++++
-Blended learning:
-====
-# A) Online + offline
-====
-B) Only online
-====
-C) Only offline
-====
-D) No teaching
-+++++
-Bloomning eng past darajasi:
-====
-# A) Remember
-====
-B) Evaluate
-====
-C) Analyse
-====
-D) Create
-+++++
-Bloom “Apply” darajasi nimani anglatadi?
-====
-# A) Using knowledge
-====
-B) Memorizing
-====
-C) Drawing
-====
-D) Singing
-+++++
-“Analyse” darajasida o‘quvchi:
-====
-# A) Breaks down information
-====
-B) Sings
-====
-C) Recites
-====
-D) Listens only
-+++++
-“Evaluate” darajasi:
-====
-# A) Judging based on criteria
-====
-B) Repeating
-====
-C) Copying
-====
-D) Matching
-+++++
-“Create” darajasi:
-====
-# A) Producing new ideas
-====
-B) Memorizing
-====
-C) Listening
-====
-D) Reading
-+++++
-“Understand” darajasi:
-====
-# A) Explain, summarize
-====
-B) Invent
-====
-C) Build
-====
-D) Predict
-+++++
-Bloom’s taxonomy is used for:
-====
-# A) Learning objectives
-====
-B) Furniture
-====
-C) School design
-====
-D) Architecture
-+++++
-Bloom berish tartibi:
-====
-# A) Remember → Understand → Apply → Analyse → Evaluate → Create
-====
-B) Create → Apply …
-====
-C) Apply → Remember …
-====
-D) Understand → Create → Remember
-+++++
-Bloomning yuqori darajalari:
-====
-# A) Analyse, Evaluate, Create
-====
-B) Remember only
-====
-C) Understand only
-====
-D) Apply only
-+++++
-Learning outcomes Bloom asosida yoziladi:
-====
-# A) Measurable verbs
-====
-B) Random words
-====
-C) Pictures
-====
-D) Questions only
-+++++
-Bloom verbs misoli:
-====
-# A) Define
-====
-B) Run
-====
-C) Sleep
-====
-D) Cry
-+++++
-Lower-order skills:
-====
-# A) Remember–Understand–Apply
-====
-B) Analyse–Evaluate–Create
-====
-C) Create only
-====
-D) Evaluate only
-+++++
-HOTS degani:
-====
-# A) Higher-order thinking skills
-====
-B) Hot room
-====
-C) Fast reading
-====
-D) Memory only
-+++++
-Bloomdan foydalanish darsda:
-====
-# A) Structured learning
-====
-B) Chaos
-====
-C) No control
-====
-D) No objectives
-+++++
-Bloom tasks should be:
-====
-# A) Level-appropriate
-====
-B) Random
-====
-C) Too easy
-====
-D) Too hard
-+++++
-Inkyuziv ta’lim asosiy g‘oyasi:
-====
-# A) Everyone learns together
-====
-B) Only gifted students
-====
-C) Segregation
-====
-D) Isolation
-+++++
-Inclusive education supports:
-====
-# A) Special needs children
-====
-B) Only teachers
-====
-C) Only parents
-====
-D) Only high achievers
-+++++
-Universal Design for Learning:
-====
-# A) Flexible learning paths
-====
-B) One-size-for-all
-====
-C) No differentiation
-====
-D) Memorization
-+++++
-Differentiated instruction:
-====
-# A) Learner needs-based tasks
-====
-B) Same tasks
-====
-C) No feedback
-====
-D) Only tests
-+++++
-Modern educational paradigms:
-====
-# A) Student-centered
-====
-B) Teacher-only
-====
-C) Book-only
-====
-D) Exam-only
-+++++
-Constructivism:
-====
-# A) Learners build knowledge
-====
-B) Teacher talks only
-====
-C) Memorizing
-====
-D) Copying
-+++++
-Humanistic paradigm emphasizes:
-====
-# A) Learner well-being
-====
-B) Tests only
-====
-C) Punishment
-====
-D) Competition
-+++++
-Competency-based education:
-====
-# A) Skills application
-====
-B) Only theory
-====
-C) No assessment
-====
-D) Only reading
-+++++
-Inclusive assessment includes:
-====
-# A) Multiple formats
-====
-B) Only written test
-====
-C) Only oral test
-====
-D) No support
-+++++
-Modern pedagogy trends:
-====
-# A) Personalization
-====
-B) Uniform teaching
-====
-C) No technology
-====
-D) Hard memorization
+=====
+Which of the following words is spelled differently in American English and British English?
++++++ Analyze
++++++ Color
++++++ Theatre
++++++ #Both b and c
+
+=====
+A growing number of these expert professionals ____ having to train foreigners as the students end up___ the teachers who have to then unhappily contend with no jobs at all or new jobs with drastically reduced pay packets.
++++++ resist, challenging
++++++ welcome, assisting
++++++ are, supplanting
++++++ #resent, replacing
+
+=====
+What is intonation?
++++++ Tone used to express anger or dissatisfaction.
++++++ #The changing of pitch in a word, used to show intention or further meaning.
++++++ A sentence structure used to create rhetorical questions.
++++++ A sentence used to create interrogative questions
+
+=====
+In a language class students are memorizing the dialogues through drill and practice and the teacher is correcting their pronunciation, mistakes immediately. They are practicing the dialogues in chorus. The teacher is following the.
++++++ Natural method
++++++ #Audio-lingual method
++++++ CLT method
++++++ Direct method
+
+=====
+A teacher writes certain words clearly on the black-board and students note them down in their notebooks. Which one of the following is best suitable to describe this strategy of teaching spellings?
++++++ Play method
++++++ Drill method
++++++ #Transcription method
++++++ Dictation method
+
+=====
+Which of the two is an American variant? 1) I have some money. 2) I’ve got some money.
++++++ I have some money.
++++++ I’ve got some money.
++++++ #Both are possible
++++++ None
+
+=====
+The synonym of the word Burgeoning?
++++++ Exuberant
++++++ #Flourishing
++++++ Lavish
++++++ Decreasing
+
+=====
+If you waste time, you?
++++++ Willy-Nilly
++++++ #Dilly- Dally
++++++ Easy- Peasy
++++++ Super-Duper
+
+=====
+India should not tolerate Chinese Incursion of its territory and realize that appeasement of an assertive China is a recipe for global marginalization
++++++ incursion of their territory
++++++ incursion of his territories
++++++ No correction required
++++++ #incursions into its territory
+
+=====
+Which of the two is an American variant? 1) I’m busy right now. 2) I’m busy just now.
++++++ #I’m busy right now.
++++++ I’m busy just now.
++++++ Both are possible
++++++ None
+
+=====
+My wallet is on a diet, it seems to be an example of
++++++ Basic English
++++++ Formal English
++++++ #Witty English
++++++ Royal English
+
+=====
+Correct the mistake in this sentence: I thought it a waste of money to throw away so much food.
++++++ I thought it is a waste of money.
++++++ #The sentence has no mistakes
++++++ The sentence is not clear.
++++++ None
+
+=====
+Please pardon my inability to engage, as I'm completely enveloped in matters requiring my attention as an example of?
++++++ Royal English
++++++ Informal English
++++++ #Formal English
++++++ Upper Class English
+
+=====
+Which one of the following pairs is deemed to be receptive Skills?
++++++ Speaking and Writing
++++++ #Listening and Reading
++++++ Listening and Speaking
++++++ Writing and Reading
+
+=====
+What is the American English word for pavement?
++++++ Subway
++++++ Railroad
++++++ Elevator
++++++ #Sidewalk
+
+=====
+‘Let us go forth to the lead the land we love.’- J.F Kennedy
++++++ #Alliteration
++++++ Analogy
++++++ Anecdote
++++++ Cause and effect analysis
+
+=====
+When introducing new vocabulary, what are the three things students will need to know?
++++++ Meaning, form, production.
++++++ Form, meaning, usage.
++++++ #Meaning, form, pronunciation.
++++++ Meaning, usage, presentation.
+
+=====
+L1 is a student’s native language.
++++++ #True
++++++ False
+
+=====
+Oh, jolly good! I do hope you wouldn’t mind extending your gracious support to me in this predicament as an example of?
++++++ Basic English
++++++ Friendly English
++++++ Witty English
++++++ #Royal English
+
+=====
+Which of these techniques could be used to encourage shy students to participate in speaking activities?
++++++ Smiling to make students feel comfortable
++++++ Disciplining students for not participating
++++++ #Provide opportunity for students to speak to each other.
++++++ Reward effort no matte
+
+=====
+An example of word collocation:
++++++ #Make a wish
++++++ I couldn't open it
++++++ It was green
++++++ You rock
+
+=====
+It aligns perfectly with our standards.
++++++ Idiomatic English
++++++ Formal English
++++++ #Business English
++++++ Basic English
+
+=====
+A person who does planning for the future with wisdom is called?
++++++ #Visionary
++++++ Philanthropist
++++++ Treacherous
++++++ Assertive
+
+=====
+Select C2 words
++++++ Tiny, Laugh, Tricky Cool
++++++ #Effortless, Gripping, Archaic, Tedious
++++++ Inexpensive, Unattractive, Spacious, Compact
++++++ Economical, Chortle, Sob, Innovative
+
+=====
+If someone has supernatural beliefs and thinks certain actions can bring good or bad luck, they are?
++++++ Surreptitious
++++++ Pretentious
++++++ #Superstitious
++++++ Rambunctious
+
+=====
+The Union cabinet on Wednesday_____a proposal for the complete electrification of Japanese Railways in the next four years, reducing dependence on imported fossil fuel and saving revenue for the national ______
++++++ Postponed, Railways
++++++ #Approved, Carrier
++++++ Discussed, Transport
++++++ Told, Railways
+
+=====
+The word cold synonym is?
++++++ Apt
++++++ Transparent
++++++ Warm
++++++ #Gelid
+
+=====
+If someone constantly reflects on their thoughts and experiences, they are —--
++++++ Decisive
++++++ #Introspective
++++++ Pensive
++++++ Impressive
+
+=====
+The Congress working committee will be restructured and young faces will be inducted.
++++++ Will restructure
++++++ Will have restructured
++++++ #Will be restructured
++++++ Can restructure
+
+=====
+Pick which of these words has the stress located in the correct place:
++++++ #Orange
++++++ Orange
++++++ Orange
++++++ Orange
+
+=====
+The consonants P,B,M,W are regarded as ?
++++++ Labio-Dental
++++++ Dental
++++++ Alveolar
++++++ #Bilabial
+
+=====
+Which of the following words are considered to be called Voiced(ED)
++++++ Cooked,Baked
++++++ Played,Washed
++++++ #Laughed,Loved
++++++ Ended,Hoped
+
+=====
+A good Tesol teacher is the one that uses a mixture of feedback techniques depending on the situation.
++++++ #TRUE
++++++ FALSE
+
+=====
+Glowing at night,especially of Clouds___
++++++ Velleity
++++++ #Noctilucent
++++++ Numinous
++++++ Zephyr
+
+=====
+A person from Newcastle is a____
++++++ Glaswegian
++++++ Manchesterian
++++++ #Geordie
++++++ Londoner
+
+=====
+Pick the correct sentence (A=False ,B=True)
++++++ John is kindness,so many people want to chat with him.
++++++ #John is so kind that many people want to chat with him.
+
+=====
+The synonym of the word Flibbertigibbet ?
++++++ Exuberant
++++++ #Talkative
++++++ Lavish
++++++ Reserved
+
+=====
+If you are weak,you are a ?
++++++ Willy-Nilly
++++++ #Wishy-Washy
++++++ Easy- Peasy
++++++ Super-Duper
+
+=====
+Which of the following is unlikely to help you build a strong relationship with your co-teacher?
++++++ Ask more than you tell
++++++ Display honestly
++++++ Demonstrate your competence
++++++ #Wait until you are asked to help
+
+=====
+Which of the two is an American variant ?
++++++ #I’m busy right now
++++++ I’m busy just now
+
+=====
+Ah !,what a splendid spectacle it has been ! Life,with all its whims and caprices,threw it most elaborate challenges at you.To navigate this curious world with such panache is no small feat.So my dear,with a bow and flourish.I must say,welldone. This is a statement used for what occasion ?
++++++ Condolences
++++++ Birthday
++++++ #Victory
++++++ Ritual
+
+=====
+Correct the mistake in this sentence:I thought it a waste of money to throw away so much food.
++++++ #The sentence has no mistakes
++++++ The sentence is not clear
++++++ None
++++++ None
+
+=====
+I would not wish to entangle myself in such a matter is an example of _____
++++++ Upper class English
++++++ Informal English
++++++ #Formal English
++++++ Royal English
+
+=====
+Which one of the following pairs is deemed to be Productive skills?
++++++ Listening and Reading
++++++ #Speaking and Writing
++++++ Listening and Speaking
++++++ Writing and Reading
+
+=====
+Which of the following tenses is used to express politeness in the English Language?
++++++ Past Simple
++++++ Present Perfect
++++++ #Future Simple
++++++ Future Continuous
+
+=====
+She’s eaten her lunch.’ is an example of which tense ?
++++++ #Present Perfect
++++++ Present Simple
++++++ Past Simple
++++++ Present Continuous
+
+=====
+When introducing new vocabulary,what are the three things students will need to know?
++++++ Meaning,form,production.
++++++ Form,meaning,usage.
++++++ #Meaning,form,pronunciation.
++++++ Meaning,usage,presentation.
+
+=====
+Uzbek learners often over,- or misuse articles ‘a’,’an’ and ‘the’ because articles do not exist in Uzbek language
++++++ #TRUE
++++++ FALSE
+
+=====
+It is with a heavy heart that I must acknowledge your venture into perilous waters,a decision that truly vexes the very essence of my soul ?
++++++ A Basic English
++++++ B Friendly English
++++++ C Witty English
++++++ #Royal English
+
+=====
+Which of these techniques could be used to encourage shy students to participate in speaking activities ?
++++++ Smiling to make students feel comfortable
++++++ Discipline students for not participating
++++++ #Provide opportunity for students to speak to each other.
++++++ Reward effort no matter how small.
+
+=====
+An example of word collocation:
++++++ #Make a wish
++++++ I couldn't open it
++++++ It was green
++++++ You rock
+
+=====
+It is my duty to point out that your decision was unwise and contrary to decorum.
++++++ Idiomatic English
++++++ #Formal English
++++++ Business English
++++++ Basic English
+
+=====
+A person who does planning for the future with wisdom is called ?
++++++ #Visionary
++++++ Philanthropist
++++++ Treacherous
++++++ Assertive
+
+=====
+Select C2 words
++++++ Tiny,Laugh,Tricky Cool
++++++ #Effortless,Gripping,Archaic,Tedious
++++++ Inexpensive,Unattractive,Spacious,Compact
++++++ Economical,Chortle
+
+=====
+If someone has supernatural beliefs and thinks certain actions can bring good or bad luck,they are ?
++++++ Surreptitious
++++++ Pretentious
++++++ #Superstitious
++++++ Rambunctious
+
+=====
+Identify content words :
++++++ Sell,Is,Employ
++++++ #Red,Small,Lazy
++++++ Quickly,Into,Peter
++++++ Lorry,the,Water
+
+=====
+The word Discombobulated synonym is ?
++++++ Smart
++++++ Tyranny
++++++ Warm
++++++ #Confused
+
+=====
+If someone constantly reflects on their thoughts and experiences,they are —--
++++++ Decisive
++++++ #Introspective
++++++ Pensive
++++++ Impressive
+
+=====
+What is the relationship between the words ‘Wind’ and ‘Wind’?
++++++ #Homonyms
++++++ Heteronyms
++++++ Synonyms
++++++ Comparative
+
+=====
+Identify the irregular verb and regular noun pair.
++++++ Jumped,men
++++++ Sit,foot
++++++ #Ran,cat
++++++ Jumped,man

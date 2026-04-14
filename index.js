@@ -1,143 +1,161 @@
 /* Quiz app: parse custom format, store in localStorage, run quiz */
-'use strict';
+"use strict";
 
-const LS_KEY = 'quiz_questions_v1';
+const LS_KEY = "quiz_questions_v1";
 
 // DOM
 // (import textarea and DB buttons removed; questions load from questions.json)
-const qIndexEl = document.getElementById('qIndex');
-const qTotalEl = document.getElementById('qTotal');
-const questionText = document.getElementById('questionText');
-const choicesForm = document.getElementById('choicesForm');
-const btnNext = document.getElementById('btnNext');
-const btnPrev = document.getElementById('btnPrev');
-const resultEl = document.getElementById('result');
-const scoreEl = document.getElementById('score');
-const totalCountEl = document.getElementById('totalCount');
-const scorePreviewVal = document.getElementById('scorePreviewVal');
-const reviewEl = document.getElementById('review');
-const btnRestart = document.getElementById('btnRestart');
-const quizSection = document.getElementById('quizSection');
-const homeSection = document.getElementById('home');
-const btnStart = document.getElementById('btnStart');
+const qIndexEl = document.getElementById("qIndex");
+const qTotalEl = document.getElementById("qTotal");
+const questionText = document.getElementById("questionText");
+const choicesForm = document.getElementById("choicesForm");
+const btnNext = document.getElementById("btnNext");
+const btnPrev = document.getElementById("btnPrev");
+const resultEl = document.getElementById("result");
+const scoreEl = document.getElementById("score");
+const totalCountEl = document.getElementById("totalCount");
+const scorePreviewVal = document.getElementById("scorePreviewVal");
+const reviewEl = document.getElementById("review");
+const btnRestart = document.getElementById("btnRestart");
+const quizSection = document.getElementById("quizSection");
+const homeSection = document.getElementById("home");
+const btnStart = document.getElementById("btnStart");
 
 // Result screen elements
-const resultScreen = document.getElementById('resultScreen');
-const resTotal = document.getElementById('resTotal');
-const resCorrect = document.getElementById('resCorrect');
-const resWrong = document.getElementById('resWrong');
-const resPercent = document.getElementById('resPercent');
-const resultPartLabelEl = document.getElementById('resultPartLabel');
-const resReview = document.getElementById('resReview');
-const btnRestartPart = document.getElementById('btnRestartPart');
-const btnBackToParts = document.getElementById('btnBackToParts');
-const btnShowDetails = document.getElementById('btnShowDetails');
-const btnNextPart = document.getElementById('btnNextPart');
-const btnExportPDF = document.getElementById('btnExportPDF');
-const btnShowIncorrect = document.getElementById('btnShowIncorrect');
-const loadingEl = document.getElementById('loading');
+const resultScreen = document.getElementById("resultScreen");
+const resTotal = document.getElementById("resTotal");
+const resCorrect = document.getElementById("resCorrect");
+const resWrong = document.getElementById("resWrong");
+const resPercent = document.getElementById("resPercent");
+const resultPartLabelEl = document.getElementById("resultPartLabel");
+const resReview = document.getElementById("resReview");
+const btnRestartPart = document.getElementById("btnRestartPart");
+const btnBackToParts = document.getElementById("btnBackToParts");
+const btnShowDetails = document.getElementById("btnShowDetails");
+const btnNextPart = document.getElementById("btnNextPart");
+const btnExportPDF = document.getElementById("btnExportPDF");
+const btnShowIncorrect = document.getElementById("btnShowIncorrect");
+const loadingEl = document.getElementById("loading");
 
-function showEl(el){ if (!el) return; el.classList.remove('hidden'); el.setAttribute('aria-hidden','false'); }
-function hideEl(el){ if (!el) return; el.classList.add('hidden'); el.setAttribute('aria-hidden','true'); }
+function showEl(el) {
+  if (!el) return;
+  el.classList.remove("hidden");
+  el.setAttribute("aria-hidden", "false");
+}
+function hideEl(el) {
+  if (!el) return;
+  el.classList.add("hidden");
+  el.setAttribute("aria-hidden", "true");
+}
 
-function showToast(msg, timeout=1600){
-  const t = document.createElement('div');
-  t.className = 'app-toast';
+function showToast(msg, timeout = 1600) {
+  const t = document.createElement("div");
+  t.className = "app-toast";
   t.textContent = msg;
   document.body.appendChild(t);
   // schedule hide and remove
-  setTimeout(()=> t.classList.add('hide'), Math.max(0, timeout - 260));
-  setTimeout(()=> t.remove(), timeout);
+  setTimeout(() => t.classList.add("hide"), Math.max(0, timeout - 260));
+  setTimeout(() => t.remove(), timeout);
 }
 
-async function exportResultPDF(){
-  if (typeof window.html2pdf !== 'function'){
-    alert('PDF kutubxonasi yuklanmadi. Internetga ulanganligingizni tekshiring.');
+async function exportResultPDF() {
+  if (typeof window.html2pdf !== "function") {
+    alert(
+      "PDF kutubxonasi yuklanmadi. Internetga ulanganligingizni tekshiring.",
+    );
     return;
   }
-  const el = document.querySelector('.result-card');
-  if (!el) return alert('Natija elementi topilmadi');
+  const el = document.querySelector(".result-card");
+  if (!el) return alert("Natija elementi topilmadi");
 
   // clone and sanitize the result for a clean PDF output
   const clone = el.cloneNode(true);
   // remove interactive controls from the clone
-  const actions = clone.querySelectorAll('.result-actions, .part-btn, button');
-  actions.forEach(a => a.remove());
+  const actions = clone.querySelectorAll(".result-actions, .part-btn, button");
+  actions.forEach((a) => a.remove());
   // remove confetti overlays if present
-  const conf = clone.querySelector('.confetti'); if (conf) conf.remove();
-  
+  const conf = clone.querySelector(".confetti");
+  if (conf) conf.remove();
+
   // Style the clone for PDF: white background, dark text, preserve colors
-  clone.style.boxShadow = 'none';
-  clone.style.padding = '18px';
-  clone.style.background = '#ffffff';
-  clone.style.border = '2px solid #7c3aed';
-  clone.style.color = '#000000';
-  
+  clone.style.boxShadow = "none";
+  clone.style.padding = "18px";
+  clone.style.background = "#ffffff";
+  clone.style.border = "2px solid #7c3aed";
+  clone.style.color = "#000000";
+
   // Style all text elements for readability - keep borders and colors visible
-  clone.querySelectorAll('*').forEach(el => {
+  clone.querySelectorAll("*").forEach((el) => {
     // Don't override text color for colored borders/badges
-    if (el.style.borderColor && el.style.borderColor !== '') {
+    if (el.style.borderColor && el.style.borderColor !== "") {
       // Keep existing border colors
     } else {
-      el.style.borderColor = '#ccc';
+      el.style.borderColor = "#ccc";
     }
     // Keep semi-transparent backgrounds for visual distinction
     const bgColor = window.getComputedStyle(el).backgroundColor;
-    if (bgColor && bgColor !== 'transparent' && bgColor !== 'rgba(0, 0, 0, 0)') {
-      el.style.background = bgColor.replace(/rgba\((.*),.*\)/, 'rgba($1, 0.15)');
+    if (
+      bgColor &&
+      bgColor !== "transparent" &&
+      bgColor !== "rgba(0, 0, 0, 0)"
+    ) {
+      el.style.background = bgColor.replace(
+        /rgba\((.*),.*\)/,
+        "rgba($1, 0.15)",
+      );
     } else {
-      el.style.background = 'transparent';
+      el.style.background = "transparent";
     }
     // Set text color to dark for readability
-    el.style.color = '#000000';
+    el.style.color = "#000000";
   });
-  
+
   // Style headings
-  clone.querySelectorAll('h2, h3, h4, h5, h6').forEach(el => {
-    el.style.color = '#1a1a1a';
-    el.style.fontWeight = '700';
+  clone.querySelectorAll("h2, h3, h4, h5, h6").forEach((el) => {
+    el.style.color = "#1a1a1a";
+    el.style.fontWeight = "700";
   });
-  
+
   // Style strong tags
-  clone.querySelectorAll('strong').forEach(el => {
-    el.style.color = '#000000';
-    el.style.fontWeight = '700';
+  clone.querySelectorAll("strong").forEach((el) => {
+    el.style.color = "#000000";
+    el.style.fontWeight = "700";
   });
-  
+
   // Style paragraphs
-  clone.querySelectorAll('p').forEach(el => {
-    el.style.color = '#000000';
-    el.style.margin = '10px 0';
+  clone.querySelectorAll("p").forEach((el) => {
+    el.style.color = "#000000";
+    el.style.margin = "10px 0";
   });
-  
+
   // Keep borders visible with dark colors
-  clone.querySelectorAll('[style*="border"]').forEach(el => {
-    const style = el.getAttribute('style');
-    if (!style.includes('border-color')) {
-      el.style.borderColor = '#7c3aed';
+  clone.querySelectorAll('[style*="border"]').forEach((el) => {
+    const style = el.getAttribute("style");
+    if (!style.includes("border-color")) {
+      el.style.borderColor = "#7c3aed";
     }
   });
-  
-  const wrapper = document.createElement('div');
-  wrapper.style.background = '#ffffff';
-  wrapper.style.padding = '20px';
-  wrapper.style.color = '#000000';
+
+  const wrapper = document.createElement("div");
+  wrapper.style.background = "#ffffff";
+  wrapper.style.padding = "20px";
+  wrapper.style.color = "#000000";
   wrapper.appendChild(clone);
 
   const opt = {
     margin: 12,
     filename: `test_result_qism_${currentPart}.pdf`,
-    image: { type: 'jpeg', quality: 0.98 },
-    html2canvas: { scale: 2, useCORS: true, backgroundColor: '#ffffff' },
-    jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
+    image: { type: "jpeg", quality: 0.98 },
+    html2canvas: { scale: 2, useCORS: true, backgroundColor: "#ffffff" },
+    jsPDF: { unit: "mm", format: "a4", orientation: "portrait" },
   };
-  try{
-    showToast('PDF tayyorlanmoqda...');
+  try {
+    showToast("PDF tayyorlanmoqda...");
     await window.html2pdf().set(opt).from(wrapper).save();
-    showToast('PDF saqlandi');
-  }catch(e){
+    showToast("PDF saqlandi");
+  } catch (e) {
     console.error(e);
-    alert('PDF yaratishda xato: '+ e.message);
+    alert("PDF yaratishda xato: " + e.message);
   }
 }
 
@@ -181,102 +199,108 @@ function shuffleArray(arr) {
   return shuffled;
 }
 
-function buildParts(){
+function buildParts() {
   parts = [];
-  for (let i=0;i<allQuestions.length;i+=PART_SIZE){
-    parts.push(allQuestions.slice(i, i+PART_SIZE));
+  for (let i = 0; i < allQuestions.length; i += PART_SIZE) {
+    parts.push(allQuestions.slice(i, i + PART_SIZE));
   }
 }
 
-function renderPartsList(){
-  const partsListEl = document.getElementById('partsList');
+function renderPartsList() {
+  const partsListEl = document.getElementById("partsList");
   if (!partsListEl) return;
-  partsListEl.innerHTML = '';
-  if (!parts.length){
-    partsListEl.textContent = 'Savollar topilmadi.'; return;
+  partsListEl.innerHTML = "";
+  if (!parts.length) {
+    partsListEl.textContent = "Savollar topilmadi.";
+    return;
   }
   // ensure buttons are enabled and accessible
-  partsListEl.querySelectorAll('.part-btn').forEach(b=> b.disabled = false);
+  partsListEl
+    .querySelectorAll(".part-btn")
+    .forEach((b) => (b.disabled = false));
   parts.forEach((p, idx) => {
-    const btn = document.createElement('button');
-    btn.className = 'part-btn';
-    btn.textContent = `${idx+1}-qism (${p.length} savol)`;
-    btn.setAttribute('aria-label', `Qism ${idx+1} — ${p.length} savol`);
+    const btn = document.createElement("button");
+    btn.className = "part-btn";
+    btn.textContent = `${idx + 1}-qism (${p.length} savol)`;
+    btn.setAttribute("aria-label", `Qism ${idx + 1} — ${p.length} savol`);
     btn.dataset.partIndex = idx;
-    btn.addEventListener('click', () => startPart(idx));
-    btn.style.animation = 'pop .34s var(--ease) both';
-    btn.style.animationDelay = (idx * 60) + 'ms';
+    btn.addEventListener("click", () => startPart(idx));
+    btn.style.animation = "pop .34s var(--ease) both";
+    btn.style.animationDelay = idx * 60 + "ms";
     partsListEl.appendChild(btn);
   });
 }
 
-function startPart(idx){
+function startPart(idx) {
   if (!parts[idx]) return;
   questions = shuffleArray(parts[idx]);
-  currentPart = idx+1;
+  currentPart = idx + 1;
   currentIndex = 0;
   answers = {};
   // update UI
-  document.getElementById('partLabel').textContent = `Qism ${currentPart}/${parts.length}`;
-  document.getElementById('qTotal').textContent = questions.length;
+  document.getElementById("partLabel").textContent =
+    `Qism ${currentPart}/${parts.length}`;
+  document.getElementById("qTotal").textContent = questions.length;
   hideEl(homeSection);
   showEl(quizSection);
   renderQuestion(0);
   updateScorePreview();
 }
 
-
-
 // Parse input format into questions
 function parseQuestions(raw) {
-  const blocks = raw.split(/\+{4,}/);
   const qlist = [];
-  
-  for (let block of blocks) {
-    block = block.trim();
-    if (!block) continue;
+  const lines = raw.replace(/\r/g, "").split("\n");
+  let blockLines = [];
 
-    const lines = block.split(/\r?\n/).map(l => l.trim()).filter(l => l);
-    if (lines.length === 0) continue;
+  function flushBlock() {
+    if (!blockLines.length) return;
+    const trimmed = blockLines
+      .map((l) => l.trim())
+      .filter((l, idx) => idx === 0 || l !== "");
+    if (trimmed.length > 1) {
+      const questionText = trimmed[0];
+      const choices = [];
+      let correctIndex = -1;
 
-    // First line is the question
-    const questionText = lines[0];
-    const choices = [];
-    let correctIndex = -1;
+      for (let i = 1; i < trimmed.length; i++) {
+        let line = trimmed[i];
+        if (/^=+$/.test(line)) continue;
 
-    // Find all choices (lines between ==== separators)
-    for (let i = 1; i < lines.length; i++) {
-      const line = lines[i];
-      
-      // Skip separator lines
-      if (/^=+$/.test(line)) continue;
-      
-      // This is a choice
-      let choiceText = line;
-      let isCorrect = false;
-      
-      // Check if marked with # as correct answer (handle both "# text" and "#text")
-      if (choiceText.startsWith('#')) {
-        isCorrect = true;
-        choiceText = choiceText.substring(1).trim();
-        correctIndex = choices.length;
+        // Strip plus markers if present
+        line = line.replace(/^[+]+\s*/, "").trim();
+        if (!line) continue;
+
+        let isCorrect = false;
+        if (line.startsWith("#")) {
+          isCorrect = true;
+          line = line.substring(1).trim();
+        }
+
+        if (line) {
+          if (isCorrect) correctIndex = choices.length;
+          choices.push(line);
+        }
       }
-      
-      if (choiceText) {
-        choices.push(choiceText);
+
+      if (choices.length >= 2 && correctIndex >= 0) {
+        qlist.push({ text: questionText, choices, correctIndex });
       }
     }
-
-    // Add question if it has choices and a marked correct answer
-    if (choices.length >= 2 && correctIndex >= 0) {
-      qlist.push({ 
-        text: questionText, 
-        choices: choices, 
-        correctIndex: correctIndex 
-      });
-    }
+    blockLines = [];
   }
-  
+
+  for (const rawLine of lines) {
+    const line = rawLine.trim();
+    if (/^=+$/.test(line)) {
+      flushBlock();
+      continue;
+    }
+    if (line === "") continue;
+    blockLines.push(rawLine);
+  }
+  flushBlock();
+
   console.log(`✓ Jami ${qlist.length} ta savol parse qilindi`);
   return qlist;
 }
@@ -285,11 +309,14 @@ function saveQuestions(qs) {
   localStorage.setItem(LS_KEY, JSON.stringify(qs));
 }
 function loadQuestions() {
-  try{
+  try {
     const raw = localStorage.getItem(LS_KEY);
     if (!raw) return null;
     return JSON.parse(raw);
-  }catch(e){console.warn(e);return null}
+  } catch (e) {
+    console.warn(e);
+    return null;
+  }
 }
 
 // UI render
@@ -299,18 +326,25 @@ function renderQuestion(idx) {
   qIndexEl.textContent = idx + 1;
   qTotalEl.textContent = questions.length;
   questionText.textContent = q.text;
-  choicesForm.innerHTML = '';
+  choicesForm.innerHTML = "";
   // subtle entry animation for question box
-  const qBox = document.getElementById('questionBox');
-  if (qBox){
-    qBox.classList.remove('pulse-in');
+  const qBox = document.getElementById("questionBox");
+  if (qBox) {
+    qBox.classList.remove("pulse-in");
     void qBox.offsetWidth; // force reflow
-    qBox.classList.add('pulse-in');
-    qBox.addEventListener('animationend', ()=> qBox.classList.remove('pulse-in'), {once:true});
+    qBox.classList.add("pulse-in");
+    qBox.addEventListener(
+      "animationend",
+      () => qBox.classList.remove("pulse-in"),
+      { once: true },
+    );
   }
 
   // build shuffled choices with correctness flag
-  const renderChoices = q.choices.map((c, i) => ({ text: c, isCorrect: i === q.correctIndex }));
+  const renderChoices = q.choices.map((c, i) => ({
+    text: c,
+    isCorrect: i === q.correctIndex,
+  }));
   for (let i = renderChoices.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [renderChoices[i], renderChoices[j]] = [renderChoices[j], renderChoices[i]];
@@ -318,32 +352,37 @@ function renderQuestion(idx) {
 
   renderChoices.forEach((rc, i) => {
     const id = `q${idx}_c${i}`;
-    const label = document.createElement('label');
-    label.className = 'choice';
-    const input = document.createElement('input');
-    input.type = 'radio';
-    input.name = 'choice';
+    const label = document.createElement("label");
+    label.className = "choice";
+    const input = document.createElement("input");
+    input.type = "radio";
+    input.name = "choice";
     input.value = i;
     input.id = id;
-    input.dataset.correct = rc.isCorrect ? '1' : '0';
+    input.dataset.correct = rc.isCorrect ? "1" : "0";
     input.dataset.text = rc.text;
 
     // pre-select if user already answered this question
-    if (answers[idx] && answers[idx].selectedText === rc.text) input.checked = true;
+    if (answers[idx] && answers[idx].selectedText === rc.text)
+      input.checked = true;
 
-    input.addEventListener('change', () => {
-      const isCorrect = input.dataset.correct === '1';
+    input.addEventListener("change", () => {
+      const isCorrect = input.dataset.correct === "1";
       answers[idx] = { selectedText: rc.text, correct: isCorrect };
       updateScorePreview();
       // disable inputs
-      const inputs = choicesForm.querySelectorAll('input');
-      inputs.forEach(inp => inp.disabled = true);
-      label.classList.add('disabled');
+      const inputs = choicesForm.querySelectorAll("input");
+      inputs.forEach((inp) => (inp.disabled = true));
+      label.classList.add("disabled");
 
       if (isCorrect) {
         // visual pop for correct answer
-        label.classList.add('correct', 'anim-pop');
-        label.addEventListener('animationend', () => label.classList.remove('anim-pop'), { once: true });
+        label.classList.add("correct", "anim-pop");
+        label.addEventListener(
+          "animationend",
+          () => label.classList.remove("anim-pop"),
+          { once: true },
+        );
         // advance after 1s
         setTimeout(() => {
           if (currentIndex < questions.length - 1) {
@@ -355,14 +394,25 @@ function renderQuestion(idx) {
         }, 500);
       } else {
         // wrong gives shake + reveal correct
-        label.classList.add('wrong', 'anim-shake');
-        label.addEventListener('animationend', () => label.classList.remove('anim-shake'), { once: true });
-        const correctInput = choicesForm.querySelector('input[data-correct="1"]');
+        label.classList.add("wrong", "anim-shake");
+        label.addEventListener(
+          "animationend",
+          () => label.classList.remove("anim-shake"),
+          { once: true },
+        );
+        const correctInput = choicesForm.querySelector(
+          'input[data-correct="1"]',
+        );
         if (correctInput) {
-          const correctLabel = correctInput.closest('.choice') || correctInput.parentElement;
+          const correctLabel =
+            correctInput.closest(".choice") || correctInput.parentElement;
           if (correctLabel) {
-            correctLabel.classList.add('correct', 'anim-pop');
-            correctLabel.addEventListener('animationend', () => correctLabel.classList.remove('anim-pop'), { once: true });
+            correctLabel.classList.add("correct", "anim-pop");
+            correctLabel.addEventListener(
+              "animationend",
+              () => correctLabel.classList.remove("anim-pop"),
+              { once: true },
+            );
           }
         }
         // advance after 2s
@@ -377,7 +427,7 @@ function renderQuestion(idx) {
       }
     });
 
-    const span = document.createElement('span');
+    const span = document.createElement("span");
     span.textContent = rc.text;
     label.appendChild(input);
     label.appendChild(span);
@@ -385,7 +435,7 @@ function renderQuestion(idx) {
   });
 }
 
-function updateScorePreview(){
+function updateScorePreview() {
   let score = 0;
   questions.forEach((q, i) => {
     if (answers[i] && answers[i].correct) score++;
@@ -393,47 +443,57 @@ function updateScorePreview(){
   scorePreviewVal.textContent = score;
 }
 
-function showResults(){
+function showResults() {
   // compute stats
   const total = questions.length;
   let correct = 0;
-  for (let i=0;i<total;i++){
+  for (let i = 0; i < total; i++) {
     if (answers[i] && answers[i].correct) correct++;
   }
   const wrong = total - correct;
-  const percent = Math.round((correct/total)*100);
+  const percent = Math.round((correct / total) * 100);
 
   // set UI
   resTotal.textContent = total;
   resCorrect.textContent = correct;
   resWrong.textContent = wrong;
   resPercent.textContent = `${percent}%`;
-  
+
   // Yakuniy Sinov test uchun o'ziga xos xabar
   if (currentPart === -1) {
     // Yakuniy Sinov test
     if (correct >= 30) {
-      resultPartLabelEl.innerHTML = '<span style="color: #34d399; font-weight: bold;">✓ Tabriklaymiz siz muvaffaqiyatli otdingiz!</span>';
+      resultPartLabelEl.innerHTML =
+        '<span style="color: #34d399; font-weight: bold;">✓ Tabriklaymiz siz muvaffaqiyatli otdingiz!</span>';
     } else {
-      resultPartLabelEl.innerHTML = '<span style="color: #f87171; font-weight: bold;">✗ Afsuski, qaytadan urinib ko\'ring</span>';
+      resultPartLabelEl.innerHTML =
+        '<span style="color: #f87171; font-weight: bold;">✗ Afsuski, qaytadan urinib ko\'ring</span>';
     }
   } else {
     resultPartLabelEl.textContent = `Qism: ${currentPart}/${parts.length}`;
   }
 
   // add a badge / mood to the result card for clearer feedback
-  const rc = document.querySelector('.result-card');
-  if (rc){
-    rc.querySelectorAll('.result-badge').forEach(n=>n.remove());
-    if (percent >= 85){
-      rc.classList.remove('result-ok','result-bad'); rc.classList.add('result-good');
-      const b = document.createElement('div'); b.className = 'result-badge'; b.textContent = 'Ajoyib! 🎉'; rc.prepend(b);
-    } else if (percent >= 60){
-      rc.classList.remove('result-good','result-bad'); rc.classList.add('result-ok');
-      const b = document.createElement('div'); b.className = 'result-badge'; b.textContent = 'Yaxshi — biroz mashq qiling'; rc.prepend(b);
+  const rc = document.querySelector(".result-card");
+  if (rc) {
+    rc.querySelectorAll(".result-badge").forEach((n) => n.remove());
+    if (percent >= 85) {
+      rc.classList.remove("result-ok", "result-bad");
+      rc.classList.add("result-good");
+      const b = document.createElement("div");
+      b.className = "result-badge";
+      b.textContent = "Ajoyib! 🎉";
+      rc.prepend(b);
+    } else if (percent >= 60) {
+      rc.classList.remove("result-good", "result-bad");
+      rc.classList.add("result-ok");
+      const b = document.createElement("div");
+      b.className = "result-badge";
+      b.textContent = "Yaxshi — biroz mashq qiling";
+      rc.prepend(b);
     } else {
       // Low scores: keep result card neutral (no badge)
-      rc.classList.remove('result-good','result-ok','result-bad');
+      rc.classList.remove("result-good", "result-ok", "result-bad");
     }
   }
 
@@ -442,88 +502,92 @@ function showResults(){
   showEl(resultScreen);
 
   // optional celebration confetti for high scores
-  if (percent >= 80){
-    const card = document.querySelector('.result-card');
-    if (card){
-      const conf = document.createElement('div');
-      conf.className = 'confetti';
-      const colors = ['#60a5fa','#7c3aed','#34d399','#fb923c','#f97316'];
-      for (let i=0;i<20;i++){
-        const s = document.createElement('span');
-        s.style.left = (Math.random()*100)+'%';
-        s.style.background = colors[Math.floor(Math.random()*colors.length)];
+  if (percent >= 80) {
+    const card = document.querySelector(".result-card");
+    if (card) {
+      const conf = document.createElement("div");
+      conf.className = "confetti";
+      const colors = ["#60a5fa", "#7c3aed", "#34d399", "#fb923c", "#f97316"];
+      for (let i = 0; i < 20; i++) {
+        const s = document.createElement("span");
+        s.style.left = Math.random() * 100 + "%";
+        s.style.background = colors[Math.floor(Math.random() * colors.length)];
         s.style.opacity = 0.95;
         conf.appendChild(s);
       }
       card.appendChild(conf);
-      setTimeout(()=> conf.remove(), 2800);
+      setTimeout(() => conf.remove(), 2800);
     }
   }
 
   // configure NextPart visibility
-  if (btnNextPart){
-    if (currentPart < parts.length && currentPart > 0) btnNextPart.classList.remove('hidden');
-    else btnNextPart.classList.add('hidden');
+  if (btnNextPart) {
+    if (currentPart < parts.length && currentPart > 0)
+      btnNextPart.classList.remove("hidden");
+    else btnNextPart.classList.add("hidden");
   }
 
   // clear details (hidden by default)
-  if (resReview){ hideEl(resReview); resReview.innerHTML = ''; }
+  if (resReview) {
+    hideEl(resReview);
+    resReview.innerHTML = "";
+  }
 }
 
 // Show detailed review when requested
-if (btnShowDetails){
-  btnShowDetails.addEventListener('click', () => {
+if (btnShowDetails) {
+  btnShowDetails.addEventListener("click", () => {
     if (!resReview) return;
     // if already shown, hide
-    if (!resReview.classList.contains('hidden')){
+    if (!resReview.classList.contains("hidden")) {
       hideEl(resReview);
       return;
     }
     // build review
-    resReview.innerHTML = '';
+    resReview.innerHTML = "";
     questions.forEach((q, i) => {
       // Question container
-      const div = document.createElement('div');
-      div.className = 'review-item';
-      
+      const div = document.createElement("div");
+      div.className = "review-item";
+
       // Question header - bold va katta
-      const qh = document.createElement('div');
-      qh.innerHTML = `<strong>Savol ${i+1}: ${q.text}</strong>`;
+      const qh = document.createElement("div");
+      qh.innerHTML = `<strong>Savol ${i + 1}: ${q.text}</strong>`;
       div.appendChild(qh);
-      
+
       // All choices for this question
       q.choices.forEach((c, ci) => {
-        const line = document.createElement('div');
-        line.className = 'choice-line';
+        const line = document.createElement("div");
+        line.className = "choice-line";
         line.textContent = c;
-        
+
         // Agar bu to'g'ri javob bo'lsa
         if (ci === q.correctIndex) {
-          line.classList.add('correct');
-          const correctLabel = document.createElement('small');
-          correctLabel.textContent = '(To\'g\'ri javob)';
+          line.classList.add("correct");
+          const correctLabel = document.createElement("small");
+          correctLabel.textContent = "(To'g'ri javob)";
           line.appendChild(correctLabel);
         }
-        
+
         // Agar user bu variantni tanlagan bo'lsa
         if (answers[i] && answers[i].selectedText === c) {
           if (answers[i].correct) {
             // To'g'ri javob tanlagan
-            const selectedLabel = document.createElement('small');
-            selectedLabel.textContent = '✓ Siz tanladingiz — TO\'G\'RI';
+            const selectedLabel = document.createElement("small");
+            selectedLabel.textContent = "✓ Siz tanladingiz — TO'G'RI";
             line.appendChild(selectedLabel);
           } else {
             // Noto'g'ri javob tanlagan
-            line.classList.add('wrong');
-            const selectedLabel = document.createElement('small');
-            selectedLabel.textContent = '✗ Siz tanladingiz — NOTO\'G\'RI';
+            line.classList.add("wrong");
+            const selectedLabel = document.createElement("small");
+            selectedLabel.textContent = "✗ Siz tanladingiz — NOTO'G'RI";
             line.appendChild(selectedLabel);
           }
         }
-        
+
         div.appendChild(line);
       });
-      
+
       resReview.appendChild(div);
     });
     showEl(resReview);
@@ -531,92 +595,93 @@ if (btnShowDetails){
 }
 
 // Show incorrect answers when requested
-if (btnShowIncorrect){
-  btnShowIncorrect.addEventListener('click', () => {
+if (btnShowIncorrect) {
+  btnShowIncorrect.addEventListener("click", () => {
     if (!resReview) return;
     // if already shown, hide
-    if (!resReview.classList.contains('hidden')){
+    if (!resReview.classList.contains("hidden")) {
       hideEl(resReview);
       return;
     }
     // build review - only incorrect answers
-    resReview.innerHTML = '';
+    resReview.innerHTML = "";
     let incorrectCount = 0;
     questions.forEach((q, i) => {
       // Skip if this question was answered correctly
       if (answers[i] && answers[i].correct) return;
-      
+
       incorrectCount++;
       // Question container
-      const div = document.createElement('div');
-      div.className = 'review-item';
-      
+      const div = document.createElement("div");
+      div.className = "review-item";
+
       // Question header - bold va katta
-      const qh = document.createElement('div');
-      qh.innerHTML = `<strong>Savol ${i+1}: ${q.text}</strong>`;
+      const qh = document.createElement("div");
+      qh.innerHTML = `<strong>Savol ${i + 1}: ${q.text}</strong>`;
       div.appendChild(qh);
-      
+
       // All choices for this question
       q.choices.forEach((c, ci) => {
-        const line = document.createElement('div');
-        line.className = 'choice-line';
+        const line = document.createElement("div");
+        line.className = "choice-line";
         line.textContent = c;
-        
+
         // Agar bu to'g'ri javob bo'lsa
         if (ci === q.correctIndex) {
-          line.classList.add('correct');
-          const correctLabel = document.createElement('small');
-          correctLabel.textContent = '(To\'g\'ri javob)';
+          line.classList.add("correct");
+          const correctLabel = document.createElement("small");
+          correctLabel.textContent = "(To'g'ri javob)";
           line.appendChild(correctLabel);
         }
-        
+
         // Agar user bu variantni tanlagan bo'lsa
         if (answers[i] && answers[i].selectedText === c) {
           if (answers[i].correct) {
             // To'g'ri javob tanlagan
-            const selectedLabel = document.createElement('small');
-            selectedLabel.textContent = '✓ Siz tanladingiz — TO\'G\'RI';
+            const selectedLabel = document.createElement("small");
+            selectedLabel.textContent = "✓ Siz tanladingiz — TO'G'RI";
             line.appendChild(selectedLabel);
           } else {
             // Noto'g'ri javob tanlagan
-            line.classList.add('wrong');
-            const selectedLabel = document.createElement('small');
-            selectedLabel.textContent = '✗ Siz tanladingiz — NOTO\'G\'RI';
+            line.classList.add("wrong");
+            const selectedLabel = document.createElement("small");
+            selectedLabel.textContent = "✗ Siz tanladingiz — NOTO'G'RI";
             line.appendChild(selectedLabel);
           }
         }
-        
+
         div.appendChild(line);
       });
-      
+
       resReview.appendChild(div);
     });
-    
+
     // Show message if all answers were correct
     if (incorrectCount === 0) {
-      resReview.innerHTML = '<div style="padding: 20px; text-align: center; color: #34d399; font-weight: bold;">🎉 Tabriklaymiz! Barcha javoblar to\'g\'ri!</div>';
+      resReview.innerHTML =
+        "<div style=\"padding: 20px; text-align: center; color: #34d399; font-weight: bold;\">🎉 Tabriklaymiz! Barcha javoblar to'g'ri!</div>";
     }
-    
+
     showEl(resReview);
   });
 }
 
 if (btnStart) {
-  btnStart.addEventListener('click', () => {
+  btnStart.addEventListener("click", () => {
     hideEl(homeSection);
     showEl(quizSection);
     currentIndex = 0;
     renderQuestion(currentIndex);
     updateScorePreview();
     setTimeout(() => {
-      const first = document.querySelector('input[type=radio]');
+      const first = document.querySelector("input[type=radio]");
       if (first) first.focus();
     }, 150);
   });
 }
 
 if (btnNext) {
-  btnNext.addEventListener('click', () => {
+  btnNext.addEventListener("click", () => {
     if (currentIndex < questions.length - 1) {
       currentIndex++;
       renderQuestion(currentIndex);
@@ -624,69 +689,74 @@ if (btnNext) {
   });
 }
 if (btnPrev) {
-  btnPrev.addEventListener('click', () => {
+  btnPrev.addEventListener("click", () => {
     if (currentIndex > 0) {
       currentIndex--;
       renderQuestion(currentIndex);
     }
   });
-} 
-if (btnRestart){
-  btnRestart.addEventListener('click', () => {
-    console.log('btnRestart clicked: clearing answers and resetting to first question of current part');
+}
+if (btnRestart) {
+  btnRestart.addEventListener("click", () => {
+    console.log(
+      "btnRestart clicked: clearing answers and resetting to first question of current part",
+    );
     answers = {};
     currentIndex = 0;
     if (resultEl) hideEl(resultEl);
     showEl(quizSection);
     renderQuestion(currentIndex);
     updateScorePreview();
-    const flash = document.createElement('div');
-    flash.textContent = 'Qayta boshlandi — javoblar tozalandi';
-    flash.style.padding = '8px';
-    flash.style.marginTop = '8px';
-    flash.style.borderRadius = '6px';
-    flash.style.background = '#ecfccb';
-    document.getElementById('questionBox').appendChild(flash);
+    const flash = document.createElement("div");
+    flash.textContent = "Qayta boshlandi — javoblar tozalandi";
+    flash.style.padding = "8px";
+    flash.style.marginTop = "8px";
+    flash.style.borderRadius = "6px";
+    flash.style.background = "#ecfccb";
+    document.getElementById("questionBox").appendChild(flash);
     setTimeout(() => flash.remove(), 1800);
   });
 }
 
-const btnBackHome = document.getElementById('btnBackHome');
-const btnFinalTest = document.getElementById('btnFinalTest');
+const btnBackHome = document.getElementById("btnBackHome");
+const btnFinalTest = document.getElementById("btnFinalTest");
 
-function startFinalTest(){
+function startFinalTest() {
   // Random 50 ta savol tanlab olish
-  const randomQuestions = allQuestions.slice().sort(() => 0.5 - Math.random()).slice(0, 50);
-  
+  const randomQuestions = allQuestions
+    .slice()
+    .sort(() => 0.5 - Math.random())
+    .slice(0, 50);
+
   questions = randomQuestions;
   currentPart = -1; // Yakuniy sinov testni belgilash uchun
   currentIndex = 0;
   answers = {};
-  
+
   // update UI
-  document.getElementById('partLabel').textContent = 'Yakuniy Sinov Test';
-  document.getElementById('qTotal').textContent = questions.length;
+  document.getElementById("partLabel").textContent = "Yakuniy Sinov Test";
+  document.getElementById("qTotal").textContent = questions.length;
   hideEl(homeSection);
   showEl(quizSection);
   renderQuestion(0);
   updateScorePreview();
 }
 
-if (btnFinalTest){
-  btnFinalTest.addEventListener('click', startFinalTest);
+if (btnFinalTest) {
+  btnFinalTest.addEventListener("click", startFinalTest);
 }
 
-if (btnBackHome){
-  btnBackHome.addEventListener('click', () => {
+if (btnBackHome) {
+  btnBackHome.addEventListener("click", () => {
     // show parts list
     showEl(homeSection);
     hideEl(quizSection);
-    document.getElementById('partLabel').textContent = '';
+    document.getElementById("partLabel").textContent = "";
   });
 }
 
-if (btnRestartPart){
-  btnRestartPart.addEventListener('click', () => {
+if (btnRestartPart) {
+  btnRestartPart.addEventListener("click", () => {
     answers = {};
     currentIndex = 0;
     hideEl(resultScreen);
@@ -695,35 +765,34 @@ if (btnRestartPart){
     updateScorePreview();
   });
 }
-if (btnBackToParts){
-  btnBackToParts.addEventListener('click', () => {
+if (btnBackToParts) {
+  btnBackToParts.addEventListener("click", () => {
     hideEl(resultScreen);
     showEl(homeSection);
-    document.getElementById('partLabel').textContent = '';
+    document.getElementById("partLabel").textContent = "";
     currentPart = 0; // Reset currentPart
   });
 }
 
-if (btnNextPart){
-  btnNextPart.addEventListener('click', () => {
+if (btnNextPart) {
+  btnNextPart.addEventListener("click", () => {
     const nextIdx = currentPart;
-    if (nextIdx < parts.length){
+    if (nextIdx < parts.length) {
       hideEl(resultScreen);
       startPart(nextIdx);
     } else {
-      alert('Bu oxirgi qism — keyingi qism mavjud emas.');
+      alert("Bu oxirgi qism — keyingi qism mavjud emas.");
     }
   });
 }
 
-if (btnExportPDF){
-  btnExportPDF.addEventListener('click', exportResultPDF);
+if (btnExportPDF) {
+  btnExportPDF.addEventListener("click", exportResultPDF);
 }
 
-
-const btnFullReset = document.getElementById('btnFullReset');
+const btnFullReset = document.getElementById("btnFullReset");
 if (btnFullReset) {
-  btnFullReset.addEventListener('click', () => {
+  btnFullReset.addEventListener("click", () => {
     if (!confirm("To'liq qayta o'rnatilsin va DB tozalansinmi?")) return;
     localStorage.removeItem(LS_KEY);
     location.reload();
@@ -731,31 +800,41 @@ if (btnFullReset) {
 }
 
 // Initialize
-(async function init(){
-  try{
-    if (loadingEl) loadingEl.classList.remove('hidden');
-    const resp = await fetch('questions.txt', {cache: 'no-store'});
-    if (resp.ok){
+(async function init() {
+  try {
+    if (loadingEl) loadingEl.classList.remove("hidden");
+    const resp = await fetch("questions.txt", { cache: "no-store" });
+    if (resp.ok) {
       const raw = await resp.text();
       const parsed = parseQuestions(raw);
-      console.log('questions.txt dan o\'qilgan savollar:', parsed.length, parsed.slice(0, 2));
-      if (parsed && parsed.length){
+      console.log(
+        "questions.txt dan o'qilgan savollar:",
+        parsed.length,
+        parsed.slice(0, 2),
+      );
+      if (parsed && parsed.length) {
         questions = parsed;
         saveQuestions(questions);
       }
     }
-  }catch(e){ console.error('questions.txt xato:', e); } finally { if (loadingEl) loadingEl.classList.add('hidden'); }
+  } catch (e) {
+    console.error("questions.txt xato:", e);
+  } finally {
+    if (loadingEl) loadingEl.classList.add("hidden");
+  }
 
-  try{
-    const resp2 = await fetch('questions.json', {cache: 'no-store'});
-    if (resp2.ok){
+  try {
+    const resp2 = await fetch("questions.json", { cache: "no-store" });
+    if (resp2.ok) {
       const data = await resp2.json();
       if (Array.isArray(data) && data.length) {
         questions = data;
         saveQuestions(questions);
       }
     }
-  }catch(e){ /* ignore */ }
+  } catch (e) {
+    /* ignore */
+  }
 
   const saved = loadQuestions();
   if (saved && saved.length) {
