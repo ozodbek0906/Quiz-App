@@ -9,9 +9,9 @@ Jon Keyns
 =====
 David Rikkardo
 +++++
-#«Narx» bilan «taklif» o‘rtasida:
+«Narx» bilan «taklif» o‘rtasida:
 =====
-to‘g‘ri bog‘lanish mavjud 
+#to‘g‘ri bog‘lanish mavjud 
 =====
 bog‘lanish mavjud emas
 =====
@@ -19,9 +19,9 @@ teskari bog‘lanish mavjud
 =====
 korrelyatsion bog‘lanish mavjud emas 
 +++++
-#«Narx» bilan «talab» o‘rtasida:
+«Narx» bilan «talab» o‘rtasida:
 =====
-teskari bog‘lanish mavjud
+#teskari bog‘lanish mavjud
 =====
 bog‘lanish mavjud emas
 =====
