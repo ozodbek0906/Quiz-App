@@ -254,53 +254,50 @@ function parseQuestions(raw) {
   let blockLines = [];
 
   function flushBlock() {
-    if (!blockLines.length) return;
-    const trimmed = blockLines
-      .map((l) => l.trim())
-      .filter((l, idx) => idx === 0 || l !== "");
+    if (!blockLines.length) {
+      blockLines = [];
+      return;
+    }
+
+    const trimmed = blockLines.map((l) => l.trim()).filter((l) => l !== "");
+
     if (trimmed.length > 1) {
-      const questionText = trimmed[0];
+      const rawQuestion = trimmed[0];
+      const questionText = rawQuestion.replace(/^#+\s*/, "").trim();
       const choices = [];
       let correctIndex = -1;
 
       for (let i = 1; i < trimmed.length; i++) {
         let line = trimmed[i];
-        if (/^=+$/.test(line)) continue;
+        if (/^=+$/.test(line) || /^\++$/.test(line)) continue;
 
-        // Strip plus markers if present
-        line = line.replace(/^[+]+\s*/, "").trim();
+        const isCorrect = /^#+\s*/.test(line);
+        line = line.replace(/^#+\s*/, "").trim();
         if (!line) continue;
 
-        let isCorrect = false;
-        if (line.startsWith("#")) {
-          isCorrect = true;
-          line = line.substring(1).trim();
-        }
-
-        if (line) {
-          if (isCorrect) correctIndex = choices.length;
-          choices.push(line);
-        }
+        if (isCorrect) correctIndex = choices.length;
+        choices.push(line);
       }
 
       if (choices.length >= 2 && correctIndex >= 0) {
         qlist.push({ text: questionText, choices, correctIndex });
       }
     }
+
     blockLines = [];
   }
 
   for (const rawLine of lines) {
-    const line = rawLine.trim();
-    if (/^=+$/.test(line)) {
+    const trimmedLine = rawLine.trim();
+    if (/^\++$/.test(trimmedLine)) {
       flushBlock();
       continue;
     }
-    if (line === "") continue;
+    if (trimmedLine === "" || /^=+$/.test(trimmedLine)) continue;
     blockLines.push(rawLine);
   }
-  flushBlock();
 
+  flushBlock();
   console.log(`✓ Jami ${qlist.length} ta savol parse qilindi`);
   return qlist;
 }
