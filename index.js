@@ -269,10 +269,17 @@ function parseQuestions(raw) {
 
       for (let i = 1; i < trimmed.length; i++) {
         let line = trimmed[i];
-        if (/^=+$/.test(line) || /^\++$/.test(line)) continue;
+        if (/^\++$/.test(line)) continue;
+        if (/^=+$/.test(line)) continue;
 
-        const isCorrect = /^#+\s*/.test(line);
-        line = line.replace(/^#+\s*/, "").trim();
+        let isCorrect = false;
+        if (/^=+/.test(line)) {
+          line = line.replace(/^=+\s*/, "").trim();
+        }
+        if (/^#+\s*/.test(line)) {
+          isCorrect = true;
+          line = line.replace(/^#+\s*/, "").trim();
+        }
         if (!line) continue;
 
         if (isCorrect) correctIndex = choices.length;

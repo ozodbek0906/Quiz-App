@@ -247,6 +247,7 @@ body {
 /* BUTTONS */
 
 button,
+button,
 .part-btn,
 .tohome {
   position: relative;
@@ -277,7 +278,21 @@ button,
   transition:
     transform var(--transition),
     background var(--transition),
-    box-shadow var(--transition);
+    box-shadow var(--transition),
+    border-color var(--transition),
+    color var(--transition);
+
+  outline: none;
+  will-change: transform, box-shadow;
+}
+
+button:focus-visible,
+.part-btn:focus-visible,
+.tohome:focus-visible,
+.choice:focus-within {
+  outline: 2px solid rgba(125, 211, 252, 0.85);
+  outline-offset: 4px;
+  box-shadow: 0 0 0 6px rgba(125, 211, 252, 0.15);
 }
 
 button::before,
@@ -406,6 +421,59 @@ button:active,
   box-shadow: 0 10px 30px rgba(103, 232, 249, 0.12);
 }
 
+.pulse-in {
+  animation: pulseIn 240ms ease-out;
+}
+
+@keyframes pulseIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.98);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.anim-pop {
+  animation: pop 260ms ease-out;
+}
+
+@keyframes pop {
+  0% {
+    transform: scale(0.96);
+    opacity: 0.82;
+  }
+  60% {
+    transform: scale(1.05);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.anim-shake {
+  animation: shake 420ms ease-in-out;
+}
+
+@keyframes shake {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  20%,
+  60% {
+    transform: translateX(-8px);
+  }
+  40%,
+  80% {
+    transform: translateX(8px);
+  }
+}
+
 .choice.correct {
   background: rgba(128, 174, 146, 0.658);
 
@@ -420,6 +488,12 @@ button:active,
 
 .choice input {
   margin-right: 10px;
+  outline: none;
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
 }
 
 /* RESULT */
