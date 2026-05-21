@@ -284,6 +284,8 @@ button,
 
   outline: none;
   will-change: transform, box-shadow;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
 }
 
 button:focus-visible,
@@ -293,6 +295,19 @@ button:focus-visible,
   outline: 2px solid rgba(125, 211, 252, 0.85);
   outline-offset: 4px;
   box-shadow: 0 0 0 6px rgba(125, 211, 252, 0.15);
+}
+
+@media (hover: none) and (pointer: coarse) {
+  button:focus,
+  button:focus-visible,
+  .part-btn:focus,
+  .part-btn:focus-visible,
+  .tohome:focus,
+  .tohome:focus-visible,
+  .choice:focus-within {
+    outline: none;
+    box-shadow: none;
+  }
 }
 
 button::before,
@@ -394,6 +409,9 @@ button:active,
   transition: all var(--transition);
 
   backdrop-filter: blur(24px);
+
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
 }
 
 .choice::before {
