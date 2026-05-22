@@ -465,7 +465,8 @@ Mol etkazib beruvchi va pudratchilarga to’lanadigan schyotlar hisobi:
 ====#6010
 ====4300
 ====5910
-====6720 
+====6720
++++++
 Sub'ektning xodimlariga naqd pul mablag’larini berish qaysi schetda hisobga olinadi?
 ====#5010
 ====5110
@@ -1006,9 +1007,9 @@ Buxgalteriya provodkasi (yozuvi) deganda nimani tushunasiz?
 ====Muomalalarning mazmuniga qarab ikkita kreditlanuvchi schyotlarni aniqlash
 ====Muomalalar mazmuniga qarab ikkita debetlanuvchi schyotlarni aniqlash
 ====Muomalalar mazmuniga qarab ikkita debetlanuvchi va ikkita kreditlanuvchi schyotlarni aniqlash +++++
++++++
 Sintetik schyotlar qanday ma'lumotlarni beradi?
-====
-#Xo’jalik mablag’lari va muomalalari haqida umumlashtirilgan ko’rsatkichlarni
+====#Xo’jalik mablag’lari va muomalalari haqida umumlashtirilgan ko’rsatkichlarni
 ====Natura o’lchovidagi ma'lumotlarni
 ====Pul o’lchovidagi ma'lumotlarni
 ====Mehnat o’lchovidagi ma'lumotlarni
