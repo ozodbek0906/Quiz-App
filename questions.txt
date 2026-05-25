@@ -1,1538 +1,2498 @@
-+++++
-Buxgalteriya hisobi qanday turlarga bo’linadi?
-====#Moliyaviy va statistik
-====Moliyaviy
-====Operativ
-====Boshqaruv
-+++++
-Moliyaviy hisob:
-====#Qat'iy tartibga solinadigan hisob
-====Statistik
-====Qat'iy tartibga solinmaydigan hisob
-====Majburiy bo’lmagan hisob
-+++++
-O’zbekiston Respublikasida moliyaviy hisob tartibga solinadi:
-====#Soliq Kodeksi bilan
-====Buxgalteriya standartlari bilan
-====Buxgalteriya hisobi bilan
-====Vazirlar qarori bilan
-+++++
-Boshqaruvda buxgalteriya hisobi qanday funksiyalarni bajaradi?
-====#Axborot berish va nazorat qilish
-====Axborotlarni nazorat qilish
-====Administrativ funksiyalarni
-====Korxona rahbarini nazorat qilish
-+++++
-Buxgalteriya hisobi boshqaruvning qaysi bo’g’inida yuritiladi?
-====#Boshqaruvning hohlagan bo’g’inida
-====Boshqaruvning eng quyi bo’g’inida
-====Boshqaruvning o’rta bo’g’inida
-====Boshqaruvning eng yuqori bo’g’inida
-+++++
-Xodimlarning ishga kelishi va ketishi to’g’risida ma'lumotlar:
-====#Statistika hisobida aks etadi
-====Operativ hisobda aks etadi
-====Boshqaruvda aks etadi
-====Moliyaviy hisobda aks etadi
-+++++
-O’zbekiston Respublikasida quyidagi hisob turi reglamentlashtirilgan:
-====# Moliyaviy hisob
-====Muxandislik hisobi
-====Boshqaruv hisobi
-====Operativ hisob
-+++++
-Xo’jalik faoliyatini ta'min etuvchi ob'ektlarga nimalar kiradi?
-====#Xo’jalik aktivlari
-====Xo’jalik jarayonlari
-====Xo’jalik operatsiyalari
-====Texnologik jarayonlar
-+++++
-Quyidagilarning qaysi biri buxgalteriya hisobi ob'ekti emas:
-====#Texnologik chizmalar
-====Transport
-====Ish haqi
-==== Kapital
-+++++
-Quyidagilarning qaysi biri buxgalteriya hisobi ob'ekti:
-====#Xususiy kapital
-====Texnologik chizmalar
-====Bozordagi narx
-====Odamlar o’rtasidagi munosabatlar
-+++++
-Tuzgan balansda aktiv va passiv summalari teng kelmasa, qaysi tamoyil buzilgan hisoblanadi?
-====#Ikki yoqlama yozuv tamoyili
-====Hisoblash tamoyili
-====Taqqoslamalik tamoyili
-====Daromadlarning moslik tamoyili
-+++++
-Buxgalter xisobotni belgilangan muddatdan 10 kun kechikib topshirdi, qaysi tamoyilni u buzgan hisoblanadi?
-====#Uz vaktidalik
-====Davriylik
-====Taqqoslamalik 
-====Mazmunni shakldan ustunligi
-+++++
-Buxgalter kelgusi davr uchun ijara haqini hisobot davr xarajatlariga olib bordi. Qaysi tamoyilni u buzgan hisoblanadi?
-====#Daromad va xarajatlarning mosligi
-====Davriylik
-====Taqqoslamalik
-====Mazmunni shakldan ustunligi
-+++++
-Buxgalter kelib tushgan oldindan to’lov summasini sotish xajmiga oldi. Qaysi tamoyilni u buzdi?
-====# Daromad va xarajatlarning mosligi
-====Davriylik
-====Hisoblash
-====Davriylik
-+++++
-Xo’jalik hisobini qanday tavsiflaysiz?
-====#Xo’jalik faoliyati miqdoriy aks ettiradi va sifat jihatidan tavsiflaydi
-====Xo’jalik faoliyati miqdoriy aks ettiradi
-====Xo’jalik faoliyatini sifat jihatidan tavsiflaydi
-====Xo’jalik faoliyatining rivojlanish istiqbollarini aniqlaydi
-+++++
-Buxgalteriya hisobi – bu:
-====#Iqtisodiy axborotni aniqlash, nazorat qilish, o’lchash va uzatish jarayonidir.
-====Sub'ektning iqtisodiyoti to’g’risida axborot tizimidir
-====Cheklangan resurslardan foydalanish usulini tanlab olishda zarurdir
-====Sub'ektning iqtisodiyoti to’g’risida ma'lumot beruvchi tizimdir
-+++++
-Xo’jalik mablag’lari va jarayonlarini qaysi o’lchov umumlashtirib ko’rsatadi?
-====#Pul o’lchovi
-====Natura o’lchovi
-====Mehnat o’lchovi
-====Sifat o’lchovi
-+++++
-Tezkor hisobning asosiy vazifasi nimadan iborat?
-====#Kuzatilayotgan ob'ektlarda sodir bo’layotgan o’zgarishlarni tezlik bilan xabar qilish
-====Ishlab chiqarishdagi salbiy voqealarga barham berish
-====Ishlab chiqarishdagi ijobiy voqealarni ro’yxatga olish
-====Boshqaruvga ma'lumot berish uchun
-+++++
-Xo’jalik operatsiyalarining asosiy mazmuni nimadan iborat?
-====# Muomalalarni pulda ifodalashdan
-====Korxona mablag’larining shakllarini o’zgarishidan
-====Boshqaruv shakllantirishdan
-====Mulkdorlar uchun ma'lumot to’plashdan
-+++++
-Korxona mablag’lari qanday guruhlarga bo’linadi?
-====#Ishlab chiqarish, noishlab chiqarish va muomala sohasidagi mablag’lar
-====Asosiy materiallar xarajatlari
-====Asosiy ishlab chiqarish mablag’lari
-====Noishlab chiqarish mablag’lar
-+++++
-Ishlab chiqarish jarayoni qaysi elementlarni o’z ichiga oladi?
-====#Mehnat buyumlari, mehnat vositalarini hamda ishchi kuchini
-====Faqat buyumlarini
-====Faqat ishchi kuchini
-====Faqat vositalarini
-+++++
-Mehnat vositalari mehnat buyumlaridan nimasi bilan farq qiladi?
-====#O’z qiymatini tayyor mahsulotga qisman o’tkazishi, tashqi ko’rinishini o’zgartirmasligi, uzoq muddat davomida qatnashishi
-====O’z qiymatini tayyor mahsulotga qisman o’tkazishida,
-====Uzoq muddat davomida qatnashishi,
-====Ishlab chiqarishda qatnashishida
-+++++
-Xo’jalik hisobi turlarida qanday o’lchov birliklari qo’llaniladi?
-====#Miqdoriy mehnat, pul o’lchovlar
-====Pul o’lchovlari
-====Miqdor o’lchovlari
-==== Miqdor, va uzunlik o’lchovlari
-+++++
-Miqdoriy o’lchovlarni ko’rsating:
-====#Kilogramm, sentner, tonna
-====So’m 
-====Gramm, metr
-====Tonna kilometr
-+++++
-Mehnat o’lchovlarni ko’rsating:
-====# Soat, kishi-soat
-====Mashina-soat,
-====Tonna, kilometr
-====So’m
-+++++
-Buxgalteriya hisobining vazifalari:
-====#Buxgalteriya hisobi hisobvaraqlarida aktivlarning holati va harakati, mulkiy huquqlar va majburiyatlarning holati to’g’risidagi to’liq hamda aniq ma'lumotlarni shakllantirish
-====Samarali boshqarish maqsadida ma'lumotlarini umumlashtirish
-====Samarali buxgalteriya hisobi
-====Ma'lumotlarini umumlashtirish, hisobotlarni tuzish
-+++++
-Buxgalteriya hisobining usul(metod)lari to’g’ri keltirilgan qatorni aniqlang ?
-====#Xujjatlashtirish, schyotlar tizimi, ikkiyoqlamayozuv, baholash, kalkulyatsiya, inventarizatsiya, balans, hisobot.
-====Inventarizatsiya, schetlar tizimi, hisobot
-====Xujjatlashtirish, ikkiyoqlama yozuv, kalkulyatsiya
-====Ikkiyoqlamayozuv, baholash, balans, hisobot
-+++++
-“Buxgalteriya hisobi to’g’risida”gi O’zbekiston Respublikasining Qonuni qachon qabul qilingan ====
-====# 1996 yil 30 avgust
-====1999 yil 1 yanvar
-====1997 yil 30 avgust
-====1998 yil 1 yanvar
-+++++
-Quyidagilardan qaysilari buxgalteriya hisobi sub'ektlari hisoblanadi?
-====#Davlat hokimiyati organlari, O’zbekiston Respublikasida ro’yxatga olingan yuridik shaxslar
-====Filiallar, daromad va xarajatlar
-====Yuridik shaxslarning bo’linmalari
-====Asosiy va joriy aktivlar
-+++++
-Operativ hisobning o’ziga xos xususiyati nimada?
-====#Ma'lumotlarni tezda yetkazadi
-====Xo’jalik jarayonlarini hujjatlashtiradi
-====Umuman hujjat bilan rasmiylashtirmaydi
-====Tanlab tekshirish
-+++++
-Buxgalteriya hisobi jarayonlarini qanday qayd qiladi?
-====#Uzluksiz ravishda
-====Vaqti-vaqti bilan muddatlarda
-====Har oyning 1-sanasiga
-====Buxgalter hohishiga qarab
-+++++
-Buxgalteriya balansining tavsifi nimadan iborat?
-====# Buxgalteriya balansi ma'lum muddatga xo’jalik mablag’lari va ularning tashkil topish manbai holati xaqida pul ifodasida umumlashgan ma'lumot olishga xizmat qiladi
-====Buxgalteriya balansi ma'lum muddatga xo’jalik mablag’lari holati xaqida
-====Buxgalteriya mablag’lari haqida ma'lumot olishga xizmat qiladi
-====Buxgalteriya xo’jalik mablag’lari manabalari xaqida pul ifodasida xizmat qiladi
-+++++
-Balans –bu:
-====#Bir tomondan aktivlar, ikkinchi tomondan xususiy kapital va majburiyatlarning ma'lum sanaga tengligi
-====Aktiv va xususiy kapitalning tengligi
-====Aktiv va majburiyatlarning tengligi
-====Debitorlik va kreditorlik qarzlarning tengligi
-+++++
-Xaridorlardan olingan avanslar kiradi:
-====#To’lanadigan schyotlarga
-====Majburiyatlarga
-====Xususiy kapitalga
-====Aktivlarga
-+++++
-Qachon aktiv xususiy kapital summasiga teng bo’lishi mumkin?
-====# Korxona ta'sis etilgan kunga
-====Korxona bankrotga uchragan kuni
-====Korxona boshqa korxonaga qo’shilgan kun
-====Korxona bir necha korxonaga bo’lingan kun
-+++++
- 
-Xususiy kapital tarkibini ko’rsating?
-====# Kapitallar, taqsimlanmagan foyda, maqsadli tushumlar va rezervlar
-====rezerv kapitali
-====maqsadli tushumlar
- ====qo’shilgan kapital
-+++++
-Korxonaning mablag’lar manbalari qanday guruhlarga bo’linadi?
-====#O’z mablag’lari va majburiyatlar
-====Ustav kapitali
-====O’z mablag’lari
-====Maqsadli tushumlar va rezervlar
-+++++
-Xo’jalik operatsiyalarining buxgalteriya balansiga necha xil turdagi ta'siri mavjud?
-====#4 xil
-====2 xil
-====3 xil
-====5 xil
-+++++
-“Balans” so’zi qanday ma'noni bildiradi?
-====#Tarozining ikki pallasi
-====Tenglik
-====Birxillik
-====Hisobot shakli
-+++++
-Buxgalteriya balansi necha qismdan iborat va ular qaysilar?
-====#2 ta qism: aktiv va passiv
-====1 ta qism: asosiy vositalar
-====3 ta qism: asosiy vositalar, aktiv, passiv
-====4 ta qism: aktiv, asosiy vositalar, passiv va majburiyatlar
-+++++
-Balansning passiv tomoni nechta bo’limdan iborat?
-====#O’z mablag’lari manbalari va majburiyatlar bo’limi
-====Ustav kapitali bo’limi
-====Majburiyatlar bo’limi
-==== majburiyatlar bo’limlari
-+++++
-“Hisob-kitob schyotidan kassaga pul olib kelindi” – bu xo’jalik muomalasi ta'sirida balansda qanday o’zgarish ro’y beradi?
-====#Faqat aktiv tomonda o’zgarish ro’y beradi va balansning umumiy summasi o’zgarmaydi. 
-====Faqat passiv tomonda o’zgarish ro’y beradi.
-====Ham aktiv, ham passiv tomon o’zgaradi.
-====Ham aktiv, ham passiv tomon o’zgarib jami summa kamayadi.
-+++++
-Buxgalteriya balansining faqat aktiviga ta'sir qiladigan muomalani toping?
-====#Asosiy ishlab chiqarishdan omborga tayyor mahsulot qabul qilindi
-====Hisob-kitob schyotidan ishchilarga avans berildi
-====Bankdan kredit olindi
-====Tayyor mahsulot haridorlarga jo’natildi, lekin puli olinmadi
-+++++
-Buxgalteriya balansining faqat passiviga ta'sir qiladigan muomalani toping?
-====#Aksiyadorlarga dividend to’landi
-====Bankdan kredit olinib, elektr energiya haqi to’landi
-====Hisob-kitob schyotidan soliqlar to’landi
-====Tayyor mahsulot haridorlarga jo’natildi va puli olindi
-+++++
-Balansning passiv tomoni nechta bo’limdan iborat?
-====#2
-====1
-====3
-====4
-+++++
-Balans aktivida mablag’lar qanday guruhlanadi?
-====#Mablag’ turlari va tashkil topish manbai bo’yicha
-====Joriy muddatli aktivlar
-====Mablag’ turlari bo’yicha
-====Manbaning tashkil topishi bo’yicha
-+++++
-Balans passivida mablag’lar qanday guruhlanadi?
-====#Tashkil topish manbai va foydalanishi bo’yicha
-====Mablag’ turlari bo’yicha
-====Mablag’ joylanishi bo’yicha
-====Xususiy majburiyatlar
-+++++
-Xo’jalik muomalalari ta'sirida balansda sodir bo’ladigan 1-tip o’zgarishni tavsiflang:
-====#Aktivdagi bir moddaning ko’payishi, ikkinchisining kamayishi tarzida sodir bo’ladi va balansning umumiy summasi o’zgarmaydi
-====Xo’jalik muomalasi ta'sirida ham aktiv, ham passiv tomon o’zgaradi
-====Xo’jalik muomalasi ta'sirida faqat passiv tomonda o’zgarish ro’y beradi
-====Ham aktiv, ham passiv tomon o’zgarib jami summa kamayadi
-+++++
-Xo’jalik muomalalari ta'sirida balansda sodir bo’ladigan 2-tip o’zgarishni tavsiflang:
-====#Passivdagi bir moddaning ko’payishi, ikkinchisining kamayishi tarzida sodir bo’ladi va balansning umumiy summasi o’zgarmaydi
-====Xo’jalik muomalasi ta'sirida faqat passiv tomonda o’zgarish ro’y beradi
-====Xo’jalik muomalasi ta'sirida ham aktiv, ham passiv tomon o’zgaradi
-====Ham aktiv, ham passiv tomon o’zgarib jami summa kamayadi
-+++++
-Xo’jalik muomalalari ta'sirida balansda sodir bo’ladigan 3-tip o’zgarishni tavsiflang.
-====#Xo’jalik muomalasi ta'sirida aktiv va passiv tomon o’zgaradi, ya'ni ko’payadi, balans jami summasi ham ko’payadi
-====Faqat aktiv tomonda o’zgarish ro’y beradi va balansning umumiy summasi o’zgarmaydi
-====Faqat passiv tomonda o’zgarish ro’y beradi
-====Ham aktiv, ham passiv tomon o’zgarib jami summa kamayadi
-+++++
-Xo’jalik muomalalari ta'sirida balansda sodir bo’ladigan 4-tip o’zgarishni tavsiflang.
-====#Xo’jalik muomalasi ta'sirida aktiv va passiv tomon o’zgaradi, ya'ni kamayadi, balans jami summasi ham kamayadi
-====Faqat aktiv tomonda o’zgarish ro’y beradi va balansning umumiy summasi o’zgarmaydi
-====Ham aktiv, ham passiv tomon o’zgaradi
-====Ham aktiv, ham passiv tomon o’zgarib jami summa kamayadi
-+++++
-Quyidagilardan qaysi biri joriy aktiv emas?
-====Tayyor mahsulot
-====Pul mablag’lari
-====#Karam xo’jaliklarga investitsiyala
-====Tugallanmagan ishlab chiqarish
-+++++
-Xodimlarga berilgan avanslar va qarzlarni aks ettiruvchi schyotlar –bu:
-====#Passiv schyotlar
-====Tranzit schetlar
-====Aktiv schetlar
-====Kontrpassiv schyotlar
-+++++
-Korxonaning qarzlarini ko’rsatuvchi schyotlar balansning qaysi bo’limiga tegishli?
-====#Majburiyatlarga
-====Xususiy kapitalga
-====Aktivlarga
-====O’z mablag’lari manbalariga
-+++++
-Quyidagilarning qaysi biri kontraktiv schyot?
-====#Eskirishni hisoblash schyotlari
-====Xarajat schyotlari
-====Daromad schyotlari
-====Pul mablag’lari schyotlari
-+++++
-Quyidagi schyotlarning qaysi biri oxirgi qoldiqga ega bo’lmaydi?
-====#Sotish tannarxi schyoti
-====Ishlab chiqarish schyoti
-====To’lanadigan schyotlar schyoti
-====Kassa schyoti
-+++++
-Schyotlarga ikki yoqlama yozuvni birinchi bor ilmiy asoslagan olim
-====#Pacholi
-====Cherboni
-====Sokolov
-====Bobojonov 
-+++++
-Korxona ta'minotchi oldidagi 1000000 sumlik qarzini hisob-kitob schyotidan pul ko’chirish yo’li bilan uzdi:
-====#Debet 6010 Kredit 5110
-====Debet 6990 Kredit 5110
-====Debet 4010 Kredit 5110
-====Debet 6410 Kredit 5110
-+++++
-Quyidagilarning qaysi biri ish haqi bo’yicha to’langan avansni aks ettiradi?
-====#Debet 6710 Kredit 5010
-====Debet 4210 Kredit 5010
-====Debet 6820 Kredit 5010
-====Debet 4220 Kredit 5010
-+++++
-Quyidagi murakkab o’tqazma nechta oddiy o’tqazmadan iborat? Debet 5010 Kredit 5110, 4010, 4810, 9020
-====#Turtta
-====Bitta
-====Ikkita
-====Uchta
-+++++
-Quyidagi schyotlarning qaysi birida ikki yoqlama yozuv ishlatilmaydi?
-====#Balansdan tashqari schyotlarda
-====Sintetik schyotlarda
-====Tranzit schyotlarda
-====Analitik schyotlarda
-+++++
-Doimiy schyotlar nima uchun ishlatiladi?
-====#Mablag’lar turlari (aktiv), manbalari (passiv) mavjudligini nazorat qilish uchun
-====Mablag’lar turlari (aktiv) mavjudligini nazorat qilish uchun
-====Manbalarni (passiv) nazorat qilish uchun
-====Asosiy vositalarni nazorat qilish uchun
-+++++
-Kontrar schyotlar qanday bo’ladi?
-====#Kontraktiv va Kontrpassiv schyotlar
-====Kontraktiv
-====Kontrpassiv schyotlar
-====Faqat aktiv schyotlar
-+++++
-Xo’jalik operatsiyasi summasi ikkiyoqlama yozuvda qanday aks ettiriladi?
-====#Bir schyotning debetida va ikkinchi schyotning kreditida
-====Bir schyotning krediti va ikkinchi schyotning ham kreditida
-====Bir schyotning debetida va bir balansdan tashqari schyotning kreditida
-====Bir schyotning debeti va ikkinchi schyotning ham debetida
-+++++
-Buxgalteriya provodkasi (yozuvi) deganda nimani tushunasiz?
-====# Muomalalarning mazmuniga qarab debetlanuvchi va kreditlanuvchi schyotlarni aniqlash
-====Muomalalarning mazmuniga qarab ikkita kreditlanuvchi schyotlarni aniqlash
-====Muomalalar mazmuniga qarab ikkita debetlanuvchi schyotlarni aniqlash
-====Muomalalar mazmuniga qarab ikkita debetlanuvchi va ikkita kreditlanuvchi schyotlarni aniqlash +++++
-Sintetik schyotlar qanday ma'lumotlarni beradi?
-====#Xo’jalik mablag’lari va muomalalari haqida umumlashtirilgan ko’rsatkichlarni
-====Natura o’lchovidagi ma'lumotlarni
-====Pul o’lchovidagi ma'lumotlarni
-====Mehnat o’lchovidagi ma'lumotlarni
-+++++
-Analitik schyotlarda nimalar aks ettiriladi?
-====#Sintetik schyot ma'lumotlarini batafsil ko’rsatib beradi va unda umumiy ko’rinishda aks ettirilgan mablag’larning tarkibiy qismlarini ko’rsatadi
-====Faqat natura ko’rsatkichida aks ettiriladi
-====Bir necha analitik schyotlar ma'lumotlari bir necha sintetik schyotlar ma'lumotlariga tengligini ko’rsatadi
-====Analitik schyotlarda ma'lumotlar faqat summa ko’rsatkichida aks ettiriladi
-+++++
-Schyotlar rejasini qanday ta'riflaysiz va u qanday maqsadlar uchun moslashtirilgan?
-====#Tizimga keltirilgan schyotlar ro’yxati bo’lib, u moliyaviy hisobotlarni tuzishga moslashtirilgan
-====Schyotlar ta'rifi bo’lib statistika hisobotini tuzishga moslashtirilgan
-====Schyotlar ro’yxati va u boshqaruv hisobotini tuzishga moslashtirilgan
-====Schyotlar ro’yxati bo’lib u statistik va boshqaruv hisobotini tuzishga moslashtirilgan
-+++++
-Schyotlarni raqamlashning zarurati nimada?
-====#Xisob yuritish va schyotlarni eslab qolishni osonlashtirish va axborotlarni avtomatlashtirish zaruriyati
-====Ochilgan schyotlarni adashtirmaslik uchun
-====Xisob registrlariga yozish uchun
-====Ochilgan schyotlarni adashtirmaslik va hisob registrlariga yozish uchun
-+++++
-Buxgalteriya hisobi schetlari nima?
-====#Aktivlarning tarkibi, joylashtirilishi va shakllantirish manbalari hamda operatsiyalar bo’yicha joriy aks ettirish, guruhlash, nazorat qilish usulidir
-====Aktivlar joylashtirilishi va manbalari bo’yicha operatsiyalarni nazorat qilish usulidir
-====Aktivlar manbalari hamda operatsiyalar bo’yicha joriy aks ettirish, guruhlash, nazorat qilish usulidir
-====Aktivlarning tarkibi, nazorat qilish hamda hujjatlashtrish usulidir
-+++++
-“Debet” so’zi qanday ma'noni bildiradi?
-====#Lotincha so’z bo’lib, “u qarzdor” ma'nosini bildiradi
-====Lotincha so’z bo’lib, “qarz” ma'nosini bildiradi
-====Inglizcha so’z bo’lib, “qarzdor bo’ldik” ma'nosini bildiradi
-====Nemischa so’z bo’lib, “ishondik” ma'nosini bildiradi
-+++++
-“Kredit” so’zi qanday ma'noni? bildiradi
-====#Lotincha so’z bo’lib, “men qarzdor” ma'nosini bildiradi
-====Lotincha so’z bo’lib, “ishondi” ma'nosini bildiradi
-====Inglizcha so’z bo’lib, “qarzdor bo’ldik” ma'nosini bildiradi
-====Nemischa so’z bo’lib, “u qarzdor” ma'nosini bildiradi
-+++++
-Ikkiyoqlama yozuv deganda nimani tushunasiz?
-====#Har bir xo’jalik operatsiyasining summasi schetlarda ikki marotaba: bir schet debetida va ayni vaqtda o’zaro bog’liq bo’lgan boshqa schetning kreditida qayd qilinishi
-====Xo’jalik muomalalarini dastlabki hujjatlarda qayd etish
-====Xo’jalikda sodir bo’lgan muomalalarni ikkita schetning debet tomonida aks ettirish
-====Xo’jalik muomalalarini bitta schetning debetiga yozish
-+++++
-Doimiy schetlar deganda nimani tushunasiz?
-====#Hisobot davri oxirida saldoga ega bo’lib, buxgalteriya balansida aks ettiriladigan aktivlar va passivlarni hisobga oladigan schetlar
-====Qoldiqqa ega bo’ladigan balansdan tashqari schetlar
-====Kontraktiv schetlar
-====Hisobot davri oxirida qoldiqqa ega bo’lmaydigan schetlar
-+++++
-Passiv schetlarda nimalar hisobga olinadi?
-====#Xo’jalik mablag’lari va manbalari
-====Xo’jalik jarayonlarini
-====Xo’jalik mablag’larining manbalari
-====Xo’jalik mablag’lari
-+++++
-Schetlar rejasiga muvofiq schetlarni turkumlang?
-====#Aktiv, passiv, kontraktiv, kontrpassiv, tranzit, balansdan tashqari schetlar
-====Passiv, kontraktiv, kontrpassiv, tranzit, balansdan tashqari schetlar
-====Aktiv, passiv, kontrpassiv, tranzit, balansdan tashqari schetlar
-====Aktiv, passiv, kontraktiv, kontrpassiv, balansdan tashqari schetlar
-+++++
-Murakkab buxgalteriya provodka(o’tkazma)si nima?
-====#Ma'lum bir operatsiyaning summasi bir schetning debeti, boshqa bir qancha schetlarning kreditida yoki aksincha, bir schetning krediti va bir nechta schetlarning debetida aks ettirilishi
-====Ma'lum bir xo’jalik operatsiyasining faqat bir schetning debeti va boshqa bir schetning kreditida aks ettirilishi
-====Ikkiyoklama yozuv vositasida schetlar o’rtasidagi paydo bo’lgan o’zaro aloqa
-====Har bir xo’jalik operatsiyasining summasi schetlarda aks ettirilishi
-+++++
-Mol etkazib beruvchi va pudratchilarga to’lanadigan schyotlar hisobi:
-====#6010
-====4300
-====5910
-====6720
-+++++
-Sub'ektning xodimlariga naqd pul mablag’larini berish qaysi schetda hisobga olinadi?
-====#5010
-====5110
-====5510
-====5120
-+++++
-Kassadan xizmat safari uchun bo’nak berilsa qanday provodka beriladi?
-====#Debet 4210 Kredit 5020
-====Debet 5010 Kredit 5110
-====Debet 5010 Kredit 4220
-====Debet 4220 Kredit 5510
-+++++
-Tranzit schetlar xususiyati nimadan iborat?
-====#Hisobot davrining boshi va oxiriga qoldiq qolmaydigan, moliyaviy natijalarni hisobga oladigan schetlardir
-====Hisobot davri oxiriga qoldiq qolmaydigan schetlardir
-====Davr boshiga qoldiq qolmaydigan schetlardir
-====Moliyaviy natijalarni hisobga oladigan schetlardir
-+++++
-Passiv schetlarda qoldiqlar qaysi tomonda aks ettiriladi?
-====#Kredit tomonda
-====Debet yoki kredit tomonda
-====Debet tomonda
-====Passiv schetlarda qoldiq aks ettirilmaydi
-+++++
-Aktiv schetlarda qoldiqlar qaysi tomonda aks ettiriladi?
-====#Debet tomonda
-====Kredit tomonda
-====Debet yoki kredit tomonda
-====Aktiv schetlarda qoldiq aks ettirilmaydi
-+++++
-Kalkulyatsiya - bu:
-====#TMZ qoldig’ini aniqlash
-====Mahsulot (ish, xizmatlar) tannarhini aniqlash
-====Debet va kredit oborotlarni aniqlash
-====Sotilgan mahsulotning tannarxini aniqlash
-+++++
-Kalkulyatsiya schyotlari qaysi maqsad uchun qo’llaniladi?
-====# Ishlab chiqarilgan mahsulot, bajarilgan ish va xizmatlar tannarxini aniqlash
-====Mahsulot sotishdan bo’lgan yalpi foydani aniqlash
-====Mehnat haqi sarfini aniqlash
-====Ma'muriy xarajatlarini aniqlash
-+++++
-Buxgalteriya hisobida baholash - …..
-====#Xo’jalik mablag’lari, majburiyatlar va xo’jalik jarayonlarini pul o’lchov birligida aks ettirish usulidir
-====Mablag’ va ular tashkil topish manbalari ham miqdor, ham xajm jixatdan aks ettirish usulidir
-====Xo’jalik mablag’lari, majburiyatlar va xo’jalik jarayonlarini mehnat o’lchov birligida aks ettirish usulidir
-====Xo’jalik mablag’lari, majburiyatlar va xo’jalik jarayonlarini natura o’lchov birligida aks ettirish usulidir 
-+++++
-Baholashning realligi nima?
-====#Xo’jalik mablag’lariga kiritilgan mehnat sarflarining haqiqiy miqdorini pul ko’rsatkichida aks ettirishdir
-====Korxona buxgalteriyasini baholash
-====Xo’jalik yurituvchi subektlar haqida ma'lumotlarni baholash
-====Xo’jalik mablag’larini baholash
-+++++
-Kalkulyatsiya nima?
-====#Tayyor mahsulotning sotish bahosini aniqlash
-====Xarajatlarni baholash
-====Tannarxni hisoblab topish usuli
-====Moliyaviy natijalarni aniqlash
-+++++
-Asosiy vositalarni qoldiq qiymati qanday aniqlanadi?
-====#Boshlang’ich qiymatdan eskirish qiymati ayriladi
-====Sotib olish shartnoma bahosi va ishga tushirish harajatlari yigindisi
-====Sotib olingandagi qiymati orqali
-====Eskirish qiymatidan boshlang’ich qiymatdan ayriladi
-+++++
-Aniqlangan ortiqchani buxgalter xarajatlarni kamaytirilishiga olib bordi. U buxgalteriya hisobining qaysi tamoyilini buzdi?
-====#Ikki yoqlama yozish tamoyilini
-====Baholash tamoyilini
-====Konservatizm tamoyilini
-==== Hisoblash tamoyilini
- 
-+++++
-Inventarizatsiya natijasida aniqlangan ortiqchani buxgalter qanday schyotga olib borishi kerak edi?
-====#Daromadlar schyotiga
-====Majburiyatlar schyotiga
-====Xarajatlar schyotiga
-====Aktivlar schyotiga
-+++++
-Ta'minot jarayonining asosiy maqsadi ...
-====#Ta'minotning umumiy hajmini aniqlashdan iborat.
-====Ishlab chiqarishdan iborat.
-====Ishlab chiqarishga material sarflashdan iborat
-====Materiallar tannarxini aniqlashdan iborat
-+++++
-Materiallar sotib olinib, puli to’lanmasa qanday yozuv beriladi?
-====#Debet – materiallar schyoti Kredit – ta'minotchilar va pudratchilar bilan hisob-kitoblar schyoti
-====Debet – materiallar schyoti Kredit – hisob-kitob schyoti
-====Debet – ta'minotchilar va pudratchilar bilan hisob-kitoblar schyoti Kredit – materiallar schyoti
-====Debet – ta'minotchilar va pudratchilarga berilgan bo’naklar bilan hiso-kitoblar schyoti
-+++++
-Olingan materiallar uchun pul to’lansa qanday yozuv beriladi?
-====#Debet – ta'minotchilar va pudratchilar bilan hisob-kitoblar schyoti Kredit hisob-kitob schyoti
-====Debet –hisob-kitob schyoti - Kredit – ta'minotchilar va pudratchilar bilan hisob-kitoblar schyoti
-====Debet – ta'minotchilar va pudratchilar bilan hisob-kitoblar schyoti Kredit – materiallar schyoti
-====Debet –hisob-kitob schyoti Kredit – materiallar schyoti
-+++++
-Ishlab chiqarish jarayonining asosiy vazifalariga nimalar kiradi?
-====#Ishlab chiqarishning haqiqiy hajmini aniqlash, mahsulotning haqiqiy tannarxini hisoblab chiqarish va tannarxni shakllanishi ustidan boshqarish
-====Tannarxni shakllanishi ustidan boshqarish
-====Mahsulotning haqiqiy tannarxini hisoblab chiqarish
-====Ishlab chiqarishning haqiqiy hajmini aniqlash
-+++++
-Asosiy xo’jalik jarayonlari tarkibiga qanday jarayonlar kiradi?
-====#Ta'minot, sotish, ishlab chikarish
-====Ta'minot, sotish
-====Ta'minot
-====Ishlab chiqarish
-+++++
-Xom ashyo materiallar sotib olindi, lekin puli to’lanmadi. Ushbu muomala buxgalteriyada qanday aks ettiriladi?
-====# Debet 1010 Kredit 6010
-====Debet 1010 Kredit 5110
-====Debet 1000 Kredit 6710
-====Debet 6010 Kredit 5110
-+++++
-Asosiy ishlab chiqarishda band ishchilarga ish haqi hisoblandi. Ushbu muomalaga qanday provodka beriladi?
-====#Debet 2010 Kredit 6710
-====Debet 2010 Kredit 6520
-====Debet 2010 Kredit 2310
-====Debet 2010 Kredit 6410
-+++++
-Asosiy ishlab chiqarishga benzin sarflandi, qanday provodka beriladi?
-====#Debet 2010 Kredit 1030
-====Debet 2010 Kredit 2310
-====Debet 2010 Kredit 2610
-====Debet 2010 Kredit 2510
-+++++
-Tovar moddiy zahiralarni hisobga olish tizimlarini ko’rsating.
-====# Uzluksiz va davriy tizim
-====Davriy tizim
-====Uzluksiz tizim
-====Uzluksiz va to’liq tizim
-+++++
-Quyidagilarning qaysi biri hujjatning majburiy rekvizitiga kirmaydi?
-====#Balans moddasi raqami
-====Hujjatning raqami
-====Hujjatning nomi
-====Hujjatning tuzilgan sanasi
-+++++
-Hujjatlar aylanishini to’g’ri tashkil etilganligiga kim javobgar?
-====#Bosh buxgalter
-====Rahbar
-====Rahbar muovini
-====Kassir
-+++++
-To’lov talabnomasi qaysi guruh hujjatlarga kiradi?
-====#Buxgalterlik hisob-kitoblarini aks ettiruvchi hujjatlarga
-====Guvohlik beruvchi hujjatlarga
-====Farmoyish beruvchi hujjatlarga
-====Yig’ma hujjatlarga
-+++++
-Chiqim kassa orderi qaysi guruh xujjatlariga kiradi?
-====# Buxgalterlik hisob-kitoblarini aks ettiruvchi hujjatlarga
-====Farmoyish beruvchi hujjatlarga
-====Yig’ma hujjatlarga
-====Kambinatsiyalashtirilgan hujjatlarga
-+++++
-Haridor tomonidan yozilgan ishonch qog’ozi tuzilgan joyi bo’yicha qaysi guruh xujjatlariga kiradi?
-====#Tashqi
-====Buxgalterlikda
-====Ichki
-====Omborda
-+++++
-Yong’in natijalarini aniqlash uchun inventarizatsiya o’tkazildi, bu inventarizatsiya o’tkazishning qaysi turiga kiradi?
-====#Rejali
-====Rejadan tashqar 
-====To’liq
-====Qisman
-+++++
-Bir yilda moddiy javobgar shaxslar ikki marta almashdi, bu ularning mehnat ta'tiliga taalluqli emas. Qanday inventarizatsiya turi o’tqazilgan?
-====#Rejadan tashqari
-====Majburiy
-====Rejali
-====Favqulotdagi
-+++++
-Hujjatlashtirish deb nimaga aytiladi?
-====#Barcha xo’jalik muomalalariga tuziladigan hujjatlar majmuasi
-====Blankalarni to’ldirish
-====Ombordan material jo’natish uchun dalil
-====Mahsulotni omborga qabul qilish uchun dalil
-+++++
-Hujjatlarning rekvizitlari deb nimaga aytiladi?
-====#Amalga oshiriladigan muomalalar haqida to’la fikrga ega bo’lish va uning isbotlovchi kuchini ta'minlashda zarur bo’lgan barcha ma'lumotlar
-====Hujjatlarning tarkibiy unsurlari hisoblangan barcha ma'lumotlar
-====Faqat hujjatlarning nomi, summasi va sanasi
-====Amalga oshiriladigan muomalalar haqida to’la fikr
-+++++
-Qanday hujjatlardagi xatolarga tuzatishlar kiritish mumkin emas?
-====#Pul mablag’laini hisobga oluvchi hujjatlarga
-====Dastlabki hujjatlarga
-====Yig’ma hujjatlarga
-====Barcha hujjatlarga
-+++++
-Material kamomadlari aniqlangan bo’lsa qanday provodka beriladi?
-====#Debet 5910 Kredit 1000
-====Kredit-pul mablaglari
-====Debet-kamomad va moddiy boyliklarning buzilishidan nobudgarchiliklar scheti
-====Debet-materiallar Kredit-pul mablaglari
-+++++
-Kassa muomalalarini amalga oshirish uchun qanday hujjatlar tuziladi?
-====#“Kassa kirim orderi”, “Kassa chiqim orderi”, “kirim va chiqim orderlarini qayd qilish jurnali” va “kassa kitobi”
-====“Kassa kirim orderi”, “Kassa chiqim orderi”
-====“Kassa kirim orderi”, “kirim va chiqim orderlarini qayd qilishjurnali”
-====“Kirim va chiqim orderlarini qayd qilishjurnali” va “kassa kitobi”
-+++++
-Hisobdor shaxslar xo’jalik sarflarini amalga oshirgandan keyin yoki xizmat safaridan kelgandan keyin,olingan va sarflangan mablaglar bo’yicha hisobot qachon berishlari kerak.
-====# Safardan qaytib kelishi bilan, lekin uch kundan oshmagan holda
-====Bir xafta ichida
-====Uch kun ichida
-====Ikki kunda
-+++++
-Hisobdor shaxslar kimlar?
-====#Kelgusida ma'muriy, xo’jalik va xizmat sarflari uchun naqd pullarni bunak sifatida oladigan sub'ekt xodimlari
-====Qarz beruvchilar
-====Qarz oluvchi va beruvchi
-====Bank xodimlari
-+++++
-Doimiy inventarizatsiya komissiyasi tarkibiga kimlar kiradi?
-====# Korxona rahbari yoki uning yordamchisi, bosh buxgalter
-====Korxona rahbari yoki uning yordamchisi, ishchi
-====Korxona ish boshqaruvchisi
-====Faqat korxona raxbari
-+++++
-Tayyor mahsulotlar but saqlanishi bo’yicha korxonada kim javobgar?
-====#Ombor mudiri
-====Korxona rahbari
-====Bosh buxgalter
-====Sex boshlig’i
-+++++
-Kassada inventarizatsiya o’tkazilganida kamomad aniqlansa qanday provodka yoziladi?
-====#Debet 4730 Kredit 5010
-====Debet 591 Kredit 5010
-====Debet 5010 Kredit 5910
-====Debet 4730 Kredit 5910
-+++++
-Schyotlar korrespondensiyasiga tegishli bo’lmagan vaqtda hatolarni to’g’rilashning qaysi usuli qo’llaniladi?
-====#Qo’shimcha provodka
-====Korrektura
-====Qizil yozuv
-====Hohlagan birini
-+++++
-Qo’yidagilardan qaysi birida hisob registrlari turlari to’liq berilgan?
-====#Kitoblar, jurnallar, daftarlar, kartochkalar, varaqlar
-====Xujjatlar, kitoblar, jurnallar, varaqlar
-====Jurnallar, daftarlar, kartochkalar, varaqlar
-====Kitoblar,jurnallar,varaqlar,mashinogrammalar
-+++++
-Buxgalteriya hisobinining soddalashtirilgan shakli qanday tashkilotlar va korxonalar uchun mo’ljallangan?
-====#Kichik korxonalar va mikrofirmalar uchun
-====Davlat tashkilotlari uchun
-====Aksiyadorlik jamiyatlari uchun
-====Qo’shma korxonalar uchun
-+++++
-Buxgalteriya hisobida xronologik yozuv deganda nimani tushunasiz?
-====# Iqtisodiy jihatdan bir xil bo’lgan muomalalarni ketma-ket (navbat bilan) daftarda aks ettirish
-====Xo’jalik muomalalarini bir oyligini jamlab oy oxirida daftarga yozish
-====Xo’jalik muomalalarini bir yo’la yozish
-====Xo’jalik muomalalarini bir oyligini jamlab oy oxirida bosh daftarga yozish
-+++++
-Aylanma (oborot) vedomost (qaydnoma)lari nima uchun xizmat qiladi?
-====#Joriy hisob ma'lumotlarini umumlashtirish uchun
-====Sintetik va analitik schyotlar ma'lumotlarini taqqoslash uchun
-====Balans tuzish uchun
-====Analitik schyotlar ma'lumotlarini taqqoslash uchun
-+++++
-Nima uchun aylanma oborot qaydnomasida debet va kredit aylanmalari o’zaro teng bo’ladi?
-====#Muomalalar summasi schyotlarning debeti va kreditiga bir xilda yozilganligi uchun
-====Muomalalar summasi schyotlarning debetiga ikki marta yozilganligi uchun
-====Muomalalar summasi schyotlarning kreditiga ikki marta yozilganligi uchun
-====Muomalalar summasi bir schyotning debetiga ko’p, ikkinchi schyotning kreditiga kam yozilganligi uchun 
-+++++
-Hisob registrlarini qanday ta'riflaysiz?
-====#Dastlabki hujjatlarda qayd etilgan muomalalar to’g’risidagi ma'lumotlarni ro’yxatga olish va guruhlash uchun moslangan maxsus jadvallar
-====TMZlarni hisobga oladigan hujjat
-====Tayyor mahsulotlarni guruhlash uchun moslashgan maxsus jadvallar
-====Pul mablag’larini hisobga oladigan hujjat
-+++++
-Buxgalteriya daftarlari qanday muddat uchun tuziladi?
-====#Korxonaning faolyati oxirigacha
-====Bir oy uchun
-====Bir hisobot yili uchun
-====Olti oylik hisobot davi uchun
-+++++
-Buxgalteriya hisobi registrlaridagi xatolarni tuzatish usullarini anqlang?
-====# Korrektura, qo’shimcha yozuv va qizil storno usullari
-====Korrektura va qo’shimcha yozuv usullari
-====Faqat korrektura, qizil storno usullari
-====Faqat qo’shimcha yozuv usuli
-+++++
-Buxgalteriya hisobi shakllari to’g’ri keltirilgan javobni toping?
-====# Soddalashtirilgan, memorial order, jurnal order, informatsion texnologiyalarga asoslangan shakllari
-====Informotsion texnologiyalarga asoslangan shakl
-====Soddalashtirilgan shakl
-====Memorial order va jurnal order shakllari
-+++++
-Buxgalteriya hisobini avtomatlashtirilgan shaklda yuritish uchun nimalar zarur?
-====# Kompyuter
-====Maxsus dasturlar
-====Turli xil funksiyalarni bajaradigan kal'kulyator
-====Skaner
-+++++
-Hisob registrlari yozuv mazmuniga qarab qanday guruhlarga bo’linadi?
-====# Sintetik va analitik
-====Xujjatlar va schetlar
-====Tizimlashgan va xronologik
-====Maxsus varaqlarga guruhlar buyicha
-+++++
-Quyidagi tushunchalardan qaysi birida hisob registrining mohiyati to’liq yoritilgan?
-====#Xo’jalik mablag’lari, ularning manbaidagi o’zgarishlarni iqtisodiy mazmuniga muvofiq guruxlashtirib qayd qilish uchun foydalaniladigan maxsus jadvallar
-====Buxgalteriya xujjatlari bo’lib,xo’jalikdagi mablag’lar,ularning manbai va faoliyat natijalarini aks ettiradi
-====Hisob registrlariga kitoblar va jurnallar kiradi
-====Buxgalteriya hisobi ma'lumotlarini jamlaydigan, guruhlaydigan boshlang’ich xujjatlardir
-+++++
-Buxgalteriya hujjatlari, registrlari korxonada necha yil saqlanadi?
-====#Korxona tugatilgungacha
-====5 yil
-====3yil
-====9 yil
-+++++
-Ushbu hisobot shakllaridan qaysi biri moliyaviy hisobot shakllariga tegishli emas?
-====#Tovar balansi
-====Pul oqimlari to’g’risida hisobot
-====Buxgalteriya balansi
-====Xususiy kapital to‘g’risida hisobot
-+++++
-Qaysi davr hisobot davri hisoblanadi?
-====# 1 yanvar sanasidan 31 dekabr sanasigacha
-====Har qanday davr
-====Hisobot davrining 1 mart sanasidan kelgusi yilning 31 mart sanasigacha
-====Ro’yxatga o’tgan kundan boshlab kelgusi yilning hisobot davrining 15 mart sanasigacha
- +++++
-Qaysi schyotlar ma'lumotlariga asosan moliyaviy natijalar to’g’risidagi hisobot tuziladi?
-====#Aktiv schyotlar
-====Passiv schyotlar
-====Vaqtinchalik schyotlar
-====Balansdan tashqari schyotlar
-+++++
-Qo’yidagilardan kimlarga korxona moliyaviy natijalar to’g’risidagi hisobotni so’rovga binoan taqdim etadi?
-====#Auditorlik tashkilotiga
-====Yuqori tashkilotga
-====Bankka
-====Soliq inspeksiyasiga
-+++++
-Qanday prinsipga asosan moliyaviy hisobot tuziladi?
-====#Xisobot davriga mos kelish usuli bo’yicha
-====Hisoblash usuli bo’yicha
-====Kassa usuli bo’yicha
-====Yuqoridagi usullardan hohlaganida
-+++++
-Moliyaviy hisobot standartlariga bo’lgan ehtiyojga nima sabab bo’ldi?
-====#Barcha xo’jalik yurituvchi sub'ektlar hisobotlariga bir xil yondashishi
-====Investitsiya qo’yishni osonlashtirish
-====Buxgalteriya hisobi yuritishni osonlashtirish
-====Hisobotlar tuzishni yengillashtirish
-+++++
-Hisobotni qanday ta'riflaysiz?
-====#Xo’jalik yurituvchi sub'ektning o’tgan vaqt ichidagi ishlari natijalari to’g’risidagi ma'lumotlari majmui
-====Xujjatlar majmui
-====Muomalalarni daftarda aks ettirish
-====Xo’jalik yurituvchi sub'ektning pul mablag’lari to’g’risidagi axborot
-+++++
-“Buxgalteriya hisoboti” va “Moliyaviy hisobot” tushunchalari bir-biridan farqi qanday?
-====#Buxgalteriya hisoboti chorak uchun, moliyaviy hisobot yil uchun ma'nosini beradi
-====Bu ikkala tushuncha bir xil ma'noni beradi
-====Moliyaviy hisobot taqdim etish ma'nosini beradi
-====Bu ikkala tushuncha bir xil ma'noni bermaydi
-+++++
-Moliyaviy hisobotning tarkibi va mazmunini qaysi davlat organi belgilaydi?
-====#O’zR Moliya vazirligi
-====O’zR Oliy Majlisi
-====O’zR Iqtisodiyot vazirligi
-====O’zR Vazirlar Mahkamasi
-+++++
-Buxgalteriya hisoboti axborotidan foydalanuvchilar kimlar?
-====#Sub'ekt mulkdorlari, Davlat statistika organlari, davlat soliq inspeksiyasi va sub'ekt faoliyati bilan qiziquvchilar
-====O’zbekiston Respublikasi qonunchiligiga binoan korxona faoliyatini ayrim tomonlarini tekshirish organlari 
-====Faqat korxona egalari
-====Faqat tegishli hisobotni olish vazifalari yuklatilgan davlat organlari
-+++++
-Moliyaviy hisobot nimalarni o’z ichiga oladi?
-====#Korxona balansi, Moliyaviy natijalar to’g’risidagi hisobot, Pul oqimi to’g’risida hisobot, Xususiy kapital to’g’risida hisobot
-====Pul oqimi to’g’risida hisobot, Xususiy kapital to’g’risida hisobot va ularga ilovalar
-====Asosiy vositalar harakati to’g’risida hisobot, Pul oqimi to’g’risida hisobot, bo’nak hisoboti va ularga ilovalar
-====Ombor mudiri hisoboti, Xususiy kapital to’g’risida hisobot va ularga ilovalar
-+++++
-Hisob siyosati nima?
-====#Bu buxgalteriya hisobini yuritish va moliyaviy hisobot tuzish uchun xo’jalik yurituvchi sub'ekt qo’llaydigan usullarning jamlamasi
-====Bu buxgalter hisobotda ko’rsatadigan ma'lumotlar jamlanmasi
-====Bu buxgalteriyada sodir bo’ladigan operatsiyalar yig’indisi
-====Bu operativ hisob
-+++++
-Buxgalteriya hisobi va hisobotini tashkil etish kimning zimmasiga yuklatilgan?
-====#Korxona, muassasa va tashkilot bosh buxgalteri
-====Korxona, muassasa va tashkilot rahbari o’rinbosari
-====Sub'ektning rahbari
-====Soliq inspeksiyasi
-+++++
-Buxgalteriya hisobi to’liq va aniq yuritilishi kimning majburiyatiga kiradi?
-====# Korxona, muassasa va tashkilot bosh buxgalteri
-====Soliq inspeksiyasi
-====Korxona, muassasa va tashkilot rahbari o’rinbosari
-====Sub'ektning rahbari
-+++++
-Buxgalteriya hisobi ma'lumotlaridan foydalanuvchilarni nechta guruhga ajratish mumkin?
-====# Uch guruh: ichki, tashqi, davlat organlari
-====Ikki guruh: ichki va tashqi foydalanuvchilar
-====Faqat tashqi foydalanuvchilar
-====Faqat ichki foydalanuvchilar
-+++++
-Buxgalteriya hisobi milliy standartlarini ishlab chiqish va tasdiqlash qaysi organ zimmasiga yuklatilgan?
-====#O’zR. Moliya vazirligi
-====O’zR.Oliy majlisi Qonunchilik palatasi
-====O’zR.Vazirlar Mahkamasi
-====O’zbekiston buxgalterlar va auditorlar milliy assotsiatsiyasi
-+++++
-Korxona kassasi uchun kim mas'ul?
-====# Kassa ishlari uchun javobgar shaxs
-====Buxgalter
-====Ombor mudiri
-====Auditor
- +++++
-Respublikamizda buxgalteriya hisobini me'yoriy tartibga solish tizimining birinchi darajasiga nimalar kiradi?
-====#O’zbekiston Respublikasining “Buxgalteriya hisobi to’g’risida”gi Qonuni Fuqarolik Kodeksi, Soliq Kodeksi, VM 54-son Qarori
-====O’zbekiston Respublikasining Soliq Kodeksi va “Buxgalteriya hisobi to’g’risida”gi Qonuni
-====O’zbekiston Respublikasining “Buxgalteriya hisobi to’g’risida”gi Qonuni va BHMSlari
-====O’zbekiston Respublikasining “Buxgalteriya hisobi to’g’risida”gi Qonuni va nizomlar 
-+++++
-Bosh buxgalter quyidagi holatlar uchun korxona rahbari bilan bab-baravar javob beradi:
-====#Buxgalteriya va boshqa hisobotlarini tegishli organlarga taqdim etish muddatlari buzilganda
-====Moliyaviy-xo’jalik faoliyatini tartibga soluvchi qoidalar va nizomlar buzilishida
-====Bankdagi schetida pul bo’lmaganda
-====Rahbar safarga ketganida
-+++++
-Jamiyatda buxgalteriya hisobi ma'lumotlaridan juda keng miqyosda foydalaniladi. Ushbu foydalanuvchilar o’z navbatida uchta guruhga bo’linadi, bular qaysilar?
-====#Korxona boshqaruvchilari; soliqchilar; barcha moliyaviy manfaatdor shaxslar; 
-====Korxona boshqaruvchilar; moliyaviy manfaatdor shaxslar; moliyaviy manfaatdor bo’lmagan shaxslar.
-====Moliyaviy manfaatdor shaxslar; moliyaviy manfaatdor bo’lmagan shaxslar; biznesmenlar.
- ====Istemolchilar, moliyaviy manfaatdor bo’lmagan shaxslar; biznesmenlar.
-+++++
-Korxona rahbari korxona mol-mulkini talon-taroj qilishi mumkinmi?
-====#Mumkin emas
-====Yuqori turuvchi organ ruxsat bersa
-====Mumkin, chunki u rahbardir
-====Buxgalter bilan kelishgan holda mumkin
-+++++
-Tezkor hisobning asosiy vazifasi nimadan iborat?
-====#Kuzatilayotgan ob'ektlarda sodir bo’layotgan o’zgarishlarni tezlik bilan xabar qilish
-====Ishlab chiqarishdagi salbiy voqealarga barham berish
-====Ishlab chiqarishdagi ijobiy voqealarni ro’yxatga olish
-====Boshqaruvga ma'lumot berish uchun
-+++++
-Xo’jalik operatsiyalarining asosiy mazmuni nimadan iborat?
-====# Muomalalarni pulda ifodalashdan
-====Korxona mablag’larining shakllarini o’zgarishidan
-====Boshqaruv shakllantirishdan
-====Mulkdorlar uchun ma'lumot to’plashdan
-+++++
-Korxona mablag’lari qanday guruhlarga bo’linadi?
-====#Ishlab chiqarish, noishlab chiqarish va muomala sohasidagi mablag’lar
-====Asosiy materiallar xarajatlari
-====Asosiy ishlab chiqarish mablag’lari
-====Noishlab chiqarish mablag’lar
-+++++
-Ishlab chiqarish jarayoni qaysi elementlarni o’z ichiga oladi?
-====#Mehnat buyumlari, mehnat vositalarini hamda ishchi kuchini
-====Faqat buyumlarini
-====Faqat ishchi kuchini
-====Faqat vositalarini
-+++++
-Mehnat vositalari mehnat buyumlaridan nimasi bilan farq qiladi?
-====#O’z qiymatini tayyor mahsulotga qisman o’tkazishi, tashqi ko’rinishini o’zgartirmasligi, uzoq muddat davomida qatnashishi
-====O’z qiymatini tayyor mahsulotga qisman o’tkazishida,
-====Uzoq muddat davomida qatnashishi,
-====Ishlab chiqarishda qatnashishida
-+++++
-Xo’jalik hisobi turlarida qanday o’lchov birliklari qo’llaniladi?
-====#Miqdoriy mehnat, pul o’lchovlar
-====Pul o’lchovlari
-====Miqdor o’lchovlari
-====Miqdor, va uzunlik o’lchovlari
-+++++
-Miqdoriy o’lchovlarni ko’rsating:
-====#Kilogramm, sentner, tonna
-====So’m
-====Gramm, metr
-====Tonna kilometr
-+++++
-Mehnat o’lchovlarni ko’rsating:
-====# Soat, kishi-soat
-====Mashina-soat,
-====Tonna, kilometr
-====So’m
-+++++
-Buxgalteriya hisobining vazifalari:
-====#Buxgalteriya hisobi hisobvaraqlarida aktivlarning holati va harakati, mulkiy huquqlar va majburiyatlarning holati to’g’risidagi to’liq hamda aniq ma'lumotlarni shakllantirish
-====Samarali boshqarish maqsadida ma'lumotlarini umumlashtirish
-====Samarali buxgalteriya hisobi
-====Ma'lumotlarini umumlashtirish, hisobotlarni tuzish
-+++++
-Buxgalteriya hisobining usul(metod)lari to’g’ri keltirilgan qatorni aniqlang ?
-====#Xujjatlashtirish, schyotlar tizimi, ikkiyoqlamayozuv, baholash, kalkulyatsiya, inventarizatsiya, balans, hisobot.
-====Inventarizatsiya, schetlar tizimi, hisobot
-====Xujjatlashtirish, ikkiyoqlama yozuv, kalkulyatsiya
-====Ikkiyoqlamayozuv, baholash, balans, hisobot
-+++++
-Quyidagi murakkab o’tqazma nechta oddiy o’tqazmadan iborat? Debet 5010 Kredit 5110, 4010, 4810, 9020
-====#Turtta
-====Ikkita
-====Bitta
-====Uchta
-+++++
-Quyidagi schyotlarning qaysi birida ikki yoqlama yozuv ishlatilmaydi?
-====#Balansdan tashqari schyotlarda
-====Sintetik schyotlarda
-====Tranzit schyotlarda
-====Analitik schyotlarda
-+++++
-Doimiy schyotlar nima uchun ishlatiladi?
-====#Mablag’lar turlari (aktiv), manbalari (passiv) mavjudligini nazorat qilish uchun
-====Mablag’lar turlari (aktiv) mavjudligini nazorat qilish uchun
-====Manbalarni (passiv) nazorat qilish uchun
-====Asosiy vositalarni nazorat qilish uchun
-+++++
-Kontrar schyotlar qanday bo’ladi?
-====#Kontraktiv va Kontrpassiv schyotlar
-====Kontraktiv
-====Kontrpassiv schyotlar
-====Faqat aktiv schyotlar
-+++++
-Xo’jalik operatsiyasi summasi ikkiyoqlama yozuvda qanday aks ettiriladi?
-====#Bir schyotning debetida va ikkinchi schyotning kreditida
-====Bir schyotning krediti va ikkinchi schyotning ham kreditida
-====Bir schyotning debetida va bir balansdan tashqari schyotning kreditida
-====Bir schyotning debeti va ikkinchi schyotning ham debetida
-+++++
-Buxgalteriya provodkasi (yozuvi) deganda nimani tushunasiz?
-====# Muomalalarning mazmuniga qarab debetlanuvchi va kreditlanuvchi schyotlarni aniqlash
-====Muomalalarning mazmuniga qarab ikkita kreditlanuvchi schyotlarni aniqlash
-====Muomalalar mazmuniga qarab ikkita debetlanuvchi schyotlarni aniqlash
-====Muomalalar mazmuniga qarab ikkita debetlanuvchi va ikkita kreditlanuvchi schyotlarni aniqlash +++++
-+++++
-Sintetik schyotlar qanday ma'lumotlarni beradi?
-====#Xo’jalik mablag’lari va muomalalari haqida umumlashtirilgan ko’rsatkichlarni
-====Natura o’lchovidagi ma'lumotlarni
-====Pul o’lchovidagi ma'lumotlarni
-====Mehnat o’lchovidagi ma'lumotlarni
-+++++
-Analitik schyotlarda nimalar aks ettiriladi?
-====#Sintetik schyot ma'lumotlarini batafsil ko’rsatib beradi va unda umumiy ko’rinishda aks ettirilgan mablag’larning tarkibiy qismlarini ko’rsatadi
-====Faqat natura ko’rsatkichida aks ettiriladi
-====Bir necha analitik schyotlar ma'lumotlari bir necha sintetik schyotlar ma'lumotlariga tengligini ko’rsatadi
-====Analitik schyotlarda ma'lumotlar faqat summa ko’rsatkichida aks ettiriladi
-+++++
-Schyotlar rejasini qanday ta'riflaysiz va u qanday maqsadlar uchun moslashtirilgan?
-====#Tizimga keltirilgan schyotlar ro’yxati bo’lib, u moliyaviy hisobotlarni tuzishga moslashtirilgan
-====Schyotlar ta'rifi bo’lib statistika hisobotini tuzishga moslashtirilgan
-====Schyotlar ro’yxati va u boshqaruv hisobotini tuzishga moslashtirilgan
-====Schyotlar ro’yxati bo’lib u statistik va boshqaruv hisobotini tuzishga moslashtirilgan
-+++++
-Schyotlarni raqamlashning zarurati nimada?
-====#Xisob yuritish va schyotlarni eslab qolishni osonlashtirish va axborotlarni avtomatlashtirish zaruriyati
-====Ochilgan schyotlarni adashtirmaslik uchun
-====Xisob registrlariga yozish uchun
-====Ochilgan schyotlarni adashtirmaslik va hisob registrlariga yozish uchun
-+++++
-Buxgalteriya hisobi schetlari nima?
-====#Aktivlarning tarkibi, joylashtirilishi va shakllantirish manbalari hamda operatsiyalar bo’yicha joriy aks ettirish, guruhlash, nazorat qilish usulidir
-====Aktivlar joylashtirilishi va manbalari bo’yicha operatsiyalarni nazorat qilish usulidir
-====Aktivlar manbalari hamda operatsiyalar bo’yicha joriy aks ettirish, guruhlash, nazorat qilish usulidir
-====Aktivlarning tarkibi, nazorat qilish hamda hujjatlashtrish usulidir
-+++++
-“Debet” so’zi qanday ma'noni bildiradi?
-====#Lotincha so’z bo’lib, “u qarzdor” ma'nosini bildiradi
-====Lotincha so’z bo’lib, “qarz” ma'nosini bildiradi
-====Inglizcha so’z bo’lib, “qarzdor bo’ldik” ma'nosini bildiradi
-====Nemischa so’z bo’lib, “ishondik” ma'nosini bildiradi
-+++++
-“Kredit” so’zi qanday ma'noni? bildiradi
-====#Lotincha so’z bo’lib, “men qarzdor” ma'nosini bildiradi
-====Lotincha so’z bo’lib, “ishondi” ma'nosini bildiradi
-====Inglizcha so’z bo’lib, “qarzdor bo’ldik” ma'nosini bildiradi
-====Nemischa so’z bo’lib, “u qarzdor” ma'nosini bildiradi
-+++++
-Ikkiyoqlama yozuv deganda nimani tushunasiz?
-====#Har bir xo’jalik operatsiyasining summasi schetlarda ikki marotaba: bir schet debetida va ayni vaqtda o’zaro bog’liq bo’lgan boshqa schetning kreditida qayd qilinishi
-====Xo’jalik muomalalarini dastlabki hujjatlarda qayd etish
-====Xo’jalikda sodir bo’lgan muomalalarni ikkita schetning debet tomonida aks ettirish
-====Xo’jalik muomalalarini bitta schetning debetiga yozish
-+++++
-Doimiy schetlar deganda nimani tushunasiz?
-====#Hisobot davri oxirida saldoga ega bo’lib, buxgalteriya balansida aks ettiriladigan aktivlar va passivlarni hisobga oladigan schetlar
-====Qoldiqqa ega bo’ladigan balansdan tashqari schetlar
-====Kontraktiv schetlar
-====Hisobot davri oxirida qoldiqqa ega bo’lmaydigan schetlar
-+++++
-Yong’in natijalarini aniqlash uchun inventarizatsiya o’tkazildi, bu inventarizatsiya o’tkazishning qaysi turiga kiradi?
-====#Rejali
-====Rejadan tashqari
-====To’liq
-====Qisman
-+++++
-Bir yilda moddiy javobgar shaxslar ikki marta almashdi, bu ularning mehnat ta'tiliga taalluqli emas. Qanday inventarizatsiya turi o’tqazilgan?
-====#Rejadan tashqari
-====Majburiy
-====Rejali
-====Favqulotdagi
-+++++
-Hujjatlashtirish deb nimaga aytiladi?
-====#Barcha xo’jalik muomalalariga tuziladigan hujjatlar majmuasi
-====Blankalarni to’ldirish
-====Ombordan material jo’natish uchun dalil
-====Mahsulotni omborga qabul qilish uchun dalil
-+++++
-Hujjatlarning rekvizitlari deb nimaga aytiladi?
-====#Amalga oshiriladigan muomalalar haqida to’la fikrga ega bo’lish va uning isbotlovchi kuchini ta'minlashda zarur bo’lgan barcha ma'lumotlar
-====Hujjatlarning tarkibiy unsurlari hisoblangan barcha ma'lumotlar
-====Faqat hujjatlarning nomi, summasi va sanasi
-====Amalga oshiriladigan muomalalar haqida to’la fikr
-+++++
-Qanday hujjatlardagi xatolarga tuzatishlar kiritish mumkin emas?
-====#Pul mablag’larini hisobga oluvchi hujjatlarga
-====Dastlabki hujjatlarga
-====Yig’ma hujjatlarga
-====Barcha hujjatlarga
-+++++
-Material kamomadlari aniqlangan bo’lsa qanday provodka beriladi?
-====#Debet 5910 Kredit 1000
-====Kredit-pul mablaglari
-====Debet-kamomad va moddiy boyliklarning buzilishidan nobudgarchiliklar scheti
-====Debet-materiallar Kredit-pul mablaglari
-+++++
-Kassa muomalalarini amalga oshirish uchun qanday hujjatlar tuziladi?
-====#“Kassa kirim orderi”, “Kassa chiqim orderi”, “kirim va chiqim orderlarini qayd qilish jurnali” va “kassa kitobi”
-====“Kassa kirim orderi”, “Kassa chiqim orderi”
-====“Kassa kirim orderi”, “kirim va chiqim orderlarini qayd qilishjurnali”
-====“Kirim va chiqim orderlarini qayd qilishjurnali” va “kassa kitobi”
-+++++
-Hisobdor shaxslar xo’jalik sarflarini amalga oshirgandan keyin yoki xizmat safaridan kelgandan keyin,olingan va sarflangan mablaglar bo’yicha hisobot qachon berishlari kerak?
-====# Safardan qaytib kelishi bilan, lekin uch kundan oshmagan holda
-====Bir xafta ichida
-====Uch kun ichida
-====Ikki kunda
-+++++
-Hisobdor shaxslar kimlar?
-====#Kelgusida ma'muriy, xo’jalik va xizmat sarflari uchun naqd pullarni bunak sifatida oladigan sub'ekt xodimlari
-====Qarz beruvchilar
-====Qarz oluvchi va beruvchi
-====Bank xodimlari
-+++++
-Doimiy inventarizatsiya komissiyasi tarkibiga kimlar kiradi?
-====# Korxona rahbari yoki uning yordamchisi, bosh buxgalter
-====Korxona rahbari yoki uning yordamchisi, ishchi
-====Korxona ish boshqaruvchisi
-====Faqat korxona raxbari
-+++++
-Tayyor mahsulotlar but saqlanishi bo’yicha korxonada kim javobgar?
-====#Ombor mudiri
-====Korxona rahbari
-====Bosh buxgalter
-====Sex boshlig’i
-+++++
-Kassada inventarizatsiya o’tkazilganida kamomad aniqlansa qanday provodka yoziladi?
-====#Debet 4730 Kredit 5010
-====Debet 591 Kredit 5010
-====Debet 5010 Kredit 5910
-====Debet 4730 Kredit 5910
-+++++
-Schyotlar korrespondensiyasiga tegishli bo’lmagan vaqtda hatolarni to’g’rilashning qaysi usuli qo’llaniladi?
+++++
+Quyidagilardan qaysi biri asosiy vositalarning faol qismiga tegishli?
 ====
-#Qo’shimcha provodka
-====Korrektura
-====Qizil yozuv
-====Hohlagan birini
-+++++
-Qo’yidagilardan qaysi birida hisob registrlari turlari to’liq berilgan?
-====#Kitoblar, jurnallar, daftarlar, kartochkalar, varaqlar
-====Xujjatlar, kitoblar, jurnallar, varaqlar
-====Jurnallar, daftarlar, kartochkalar, varaqlar
-====Kitoblar,jurnallar,varaqlar,mashinogrammalar
-+++++
-Buxgalteriya hisobinining soddalashtirilgan shakli qanday tashkilotlar va korxonalar uchun mo’ljallangan?
-====#Kichik korxonalar va mikrofirmalar uchun
-====Davlat tashkilotlari uchun
-====Aksiyadorlik jamiyatlari uchun
-====Qo’shma korxonalar uchun
-+++++
-To’lov talabnomasi qaysi guruh hujjatlarga kiradi?
-====#Buxgalterlik hisob-kitoblarini aks ettiruvchi hujjatlarga
-====Guvohlik beruvchi hujjatlarga
-====Farmoyish beruvchi hujjatlarga
-====Yig’ma hujjatlarga
-+++++
-Chiqim kassa orderi qaysi guruh xujjatlariga kiradi?
-====# Buxgalterlik hisob-kitoblarini aks ettiruvchi hujjatlarga
-====Farmoyish beruvchi hujjatlarga
-====Yig’ma hujjatlarga
-====Kambinatsiyalashtirilgan hujjatlarga
-+++++
-Haridor tomonidan yozilgan ishonch qog’ozi tuzilgan joyi bo’yicha qaysi guruh xujjatlariga kiradi?
-====#Tashqi
-====Buxgalterlikda
-====Ichki
-====Omborda
-+++++
-Yong’in natijalarini aniqlash uchun inventarizatsiya o’tkazildi, bu inventarizatsiya o’tkazishning qaysi turiga kiradi?
-====#Rejali
-====Rejadan tashqari
-====To’liq
-====Qisman
-+++++
-Bir yilda moddiy javobgar shaxslar ikki marta almashdi, bu ularning mehnat ta'tiliga taalluqli emas. Qanday inventarizatsiya turi o’tqazilgan?
-====#Rejadan tashqari
-====Majburiy
-====Rejali
-====Favqulotdagi
-+++++
-Hujjatlashtirish deb nimaga aytiladi?
-====#Barcha xo’jalik muomalalariga tuziladigan hujjatlar majmuasi
-====Blankalarni to’ldirish
-====Ombordan material jo’natish uchun dalil
-====Mahsulotni omborga qabul qilish uchun dalil
-+++++
-Hujjatlarning rekvizitlari deb nimaga aytiladi?
-====#Amalga oshiriladigan muomalalar haqida to’la fikrga ega bo’lish va uning isbotlovchi kuchini ta'minlashda zarur bo’lgan barcha ma'lumotlar
-====Hujjatlarning tarkibiy unsurlari hisoblangan barcha ma'lumotlar
-====Faqat hujjatlarning nomi, summasi va sanasi
-====Amalga oshiriladigan muomalalar haqida to’la fikr
-+++++
-Qanday hujjatlardagi xatolarga tuzatishlar kiritish mumkin emas?
-====#Pul mablag’laini hisobga oluvchi hujjatlarga
-====Dastlabki hujjatlarga
-====Yig’ma hujjatlarga
-====Barcha hujjatlarga
-+++++
-Material kamomadlari aniqlangan bo’lsa qanday provodka beriladi?
-====#Debet 5910 Kredit 1000
-====Kredit-pul mablaglari
-====Debet-kamomad va moddiy boyliklarning buzilishidan nobudgarchiliklar scheti
-====Debet-materiallar Kredit-pul mablaglari
-+++++
-Kassa muomalalarini amalga oshirish uchun qanday hujjatlar tuziladi?
-====#“Kassa kirim orderi”, “Kassa chiqim orderi”, “kirim va chiqim orderlarini qayd qilish jurnali” va “kassa kitobi”
-====“Kassa kirim orderi”, “Kassa chiqim orderi”
-====“Kassa kirim orderi”, “kirim va chiqim orderlarini qayd qilishjurnali”
-====“Kirim va chiqim orderlarini qayd qilishjurnali” va “kassa kitobi”
-+++++
-Bosh buxgalter quyidagi holatlar uchun korxona rahbari bilan bab-baravar javob beradi:
-====#Buxgalteriya va boshqa hisobotlarini tegishli organlarga taqdim etish muddatlari buzilganda
-====Moliyaviy-xo’jalik faoliyatini tartibga soluvchi qoidalar va nizomlar buzilishida
-====Bankdagi schetida pul bo’lmaganda
-====Rahbar safarga ketganida
-+++++
-Jamiyatda buxgalteriya hisobi ma'lumotlaridan juda keng miqyosda foydalaniladi. Ushbu foydalanuvchilar o’z navbatida uchta guruhga bo’linadi, bular qaysilar?
-====#Korxona boshqaruvchilari; soliqchilar; barcha moliyaviy manfaatdor shaxslar; 
-====Korxona boshqaruvchilar; moliyaviy manfaatdor shaxslar; moliyaviy manfaatdor bo’lmagan shaxslar.
-====Moliyaviy manfaatdor shaxslar; moliyaviy manfaatdor bo’lmagan shaxslar; biznesmenlar.
- ====Istemolchilar, moliyaviy manfaatdor bo’lmagan shaxslar; biznesmenlar.
-+++++
-Korxona rahbari korxona mol-mulkini talon-taroj qilishi mumkinmi?
-====#Mumkin emas
-====Yuqori turuvchi organ ruxsat bersa
-====Mumkin, chunki u rahbardir
-====Buxgalter bilan kelishgan holda mumkin
-+++++
-Tezkor hisobning asosiy vazifasi nimadan iborat?
-====#Kuzatilayotgan ob'ektlarda sodir bo’layotgan o’zgarishlarni tezlik bilan xabar qilish
-====Ishlab chiqarishdagi salbiy voqealarga barham berish
-====Ishlab chiqarishdagi ijobiy voqealarni ro’yxatga olish
-====Boshqaruvga ma'lumot berish uchun
-+++++
-Xo’jalik operatsiyalarining asosiy mazmuni nimadan iborat?
-====# Muomalalarni pulda ifodalashdan
-====Korxona mablag’larining shakllarini o’zgarishidan
-====Boshqaruv shakllantirishdan
-====Mulkdorlar uchun ma'lumot to’plashdan
-+++++
-Korxona mablag’lari qanday guruhlarga bo’linadi?
-====#Ishlab chiqarish, noishlab chiqarish va muomala sohasidagi mablag’lar
-====Asosiy materiallar xarajatlari
-====Asosiy ishlab chiqarish mablag’lari
-====Noishlab chiqarish mablag’lar
-+++++
-Ishlab chiqarish jarayoni qaysi elementlarni o’z ichiga oladi?
-====#Mehnat buyumlari, mehnat vositalarini hamda ishchi kuchini
-====Faqat buyumlarini
-====Faqat ishchi kuchini
-====Faqat vositalarini
-+++++
-Mehnat vositalari mehnat buyumlaridan nimasi bilan farq qiladi?
-====#O’z qiymatini tayyor mahsulotga qisman o’tkazishi, tashqi ko’rinishini o’zgartirmasligi, uzoq muddat davomida qatnashishi
-====O’z qiymatini tayyor mahsulotga qisman o’tkazishida,
-====Uzoq muddat davomida qatnashishi,
-====Ishlab chiqarishda qatnashishida
-+++++
-Xo’jalik hisobi turlarida qanday o’lchov birliklari qo’llaniladi?
-====#Miqdoriy mehnat, pul o’lchovlar
-====Pul o’lchovlari
-====Miqdor o’lchovlari
-====Miqdor, va uzunlik o’lchovlari
-+++++
-Miqdoriy o’lchovlarni ko’rsating:
-====#Kilogramm, sentner, tonna
-====So’m
-====Gramm, metr
-====Tonna kilometr
-+++++
-Mehnat o’lchovlarni ko’rsating:
-====# Soat, kishi-soat
-====Mashina-soat,
-====Tonna, kilometr
-====So’m
-+++++
-Buxgalteriya hisobining vazifalari:
-====#Buxgalteriya hisobi hisobvaraqlarida aktivlarning holati va harakati, mulkiy huquqlar va majburiyatlarning holati to’g’risidagi to’liq hamda aniq ma'lumotlarni shakllantirish
-====Samarali boshqarish maqsadida ma'lumotlarini umumlashtirish
-====Samarali buxgalteriya hisobi
-====Ma'lumotlarini umumlashtirish, hisobotlarni tuzish
-+++++
-Buxgalteriya hisobining usul(metod)lari to’g’ri keltirilgan qatorni aniqlang ?
-====#Xujjatlashtirish, schyotlar tizimi, ikkiyoqlamayozuv, baholash, kalkulyatsiya, inventarizatsiya, balans, hisobot.
-====Inventarizatsiya, schetlar tizimi, hisobot
-====Xujjatlashtirish, ikkiyoqlama yozuv, kalkulyatsiya
-====Ikkiyoqlamayozuv, baholash, balans, hisobot
-+++++
-Quyidagi murakkab o’tqazma nechta oddiy o’tqazmadan iborat? Debet 5010 Kredit 5110, 4010, 4810, 9020
-====#Turtta
-====Ikkita
-====Bitta
-====Uchta
-+++++
-Quyidagi schyotlarning qaysi birida ikki yoqlama yozuv ishlatilmaydi?
-====#Balansdan tashqari schyotlarda
-====Sintetik schyotlarda
-====Tranzit schyotlarda
-====Analitik schyotlarda
-+++++
-Doimiy schyotlar nima uchun ishlatiladi?
-====#Mablag’lar turlari (aktiv), manbalari (passiv) mavjudligini nazorat qilish uchun
-====Mablag’lar turlari (aktiv) mavjudligini nazorat qilish uchun
-====Manbalarni (passiv) nazorat qilish uchun
-====Asosiy vositalarni nazorat qilish uchun
-+++++
-Kontrar schyotlar qanday bo’ladi?
-====#Kontraktiv va Kontrpassiv schyotlar
-====Kontraktiv
-====Kontrpassiv schyotlar
-====Faqat aktiv schyotlar
-+++++
-Xo’jalik operatsiyasi summasi ikkiyoqlama yozuvda qanday aks ettiriladi?
-====#Bir schyotning debetida va ikkinchi schyotning kreditida
-====Bir schyotning krediti va ikkinchi schyotning ham kreditida
-====Bir schyotning debetida va bir balansdan tashqari schyotning kreditida
-====Bir schyotning debeti va ikkinchi schyotning ham debetida
-+++++
-Buxgalteriya provodkasi (yozuvi) deganda nimani tushunasiz?
-====# Muomalalarning mazmuniga qarab debetlanuvchi va kreditlanuvchi schyotlarni aniqlash
-====Muomalalarning mazmuniga qarab ikkita kreditlanuvchi schyotlarni aniqlash
-====Muomalalar mazmuniga qarab ikkita debetlanuvchi schyotlarni aniqlash
-====Muomalalar mazmuniga qarab ikkita debetlanuvchi va ikkita kreditlanuvchi schyotlarni aniqlash +++++
-Sintetik schyotlar qanday ma'lumotlarni beradi?
+Ustaxona binolari.
 ====
-#Xo’jalik mablag’lari va muomalalari haqida umumlashtirilgan ko’rsatkichlarni
-====Natura o’lchovidagi ma'lumotlarni
-====Pul o’lchovidagi ma'lumotlarni
-====Mehnat o’lchovidagi ma'lumotlarni
-+++++
-Analitik schyotlarda nimalar aks ettiriladi?
-====#Sintetik schyot ma'lumotlarini batafsil ko’rsatib beradi va unda umumiy ko’rinishda aks ettirilgan mablag’larning tarkibiy qismlarini ko’rsatadi
-====Faqat natura ko’rsatkichida aks ettiriladi
-====Bir necha analitik schyotlar ma'lumotlari bir necha sintetik schyotlar ma'lumotlariga tengligini ko’rsatadi
-====Analitik schyotlarda ma'lumotlar faqat summa ko’rsatkichida aks ettiriladi
-+++++
-Schyotlar rejasini qanday ta'riflaysiz va u qanday maqsadlar uchun moslashtirilgan?
-====#Tizimga keltirilgan schyotlar ro’yxati bo’lib, u moliyaviy hisobotlarni tuzishga moslashtirilgan
-====Schyotlar ta'rifi bo’lib statistika hisobotini tuzishga moslashtirilgan
-====Schyotlar ro’yxati va u boshqaruv hisobotini tuzishga moslashtirilgan
-====Schyotlar ro’yxati bo’lib u statistik va boshqaruv hisobotini tuzishga moslashtirilgan
-+++++
-Schyotlarni raqamlashning zarurati nimada?
-====#Xisob yuritish va schyotlarni eslab qolishni osonlashtirish va axborotlarni avtomatlashtirish zaruriyati
-====Ochilgan schyotlarni adashtirmaslik uchun
-====Xisob registrlariga yozish uchun
-====Ochilgan schyotlarni adashtirmaslik va hisob registrlariga yozish uchun
-+++++
-Buxgalteriya hisobi schetlari nima?
-====#Aktivlarning tarkibi, joylashtirilishi va shakllantirish manbalari hamda operatsiyalar bo’yicha joriy aks ettirish, guruhlash, nazorat qilish usulidir
-====Aktivlar joylashtirilishi va manbalari bo’yicha operatsiyalarni nazorat qilish usulidir
-====Aktivlar manbalari hamda operatsiyalar bo’yicha joriy aks ettirish, guruhlash, nazorat qilish usulidir
-====Aktivlarning tarkibi, nazorat qilish hamda hujjatlashtrish usulidir
-+++++
-“Debet” so’zi qanday ma'noni bildiradi?
-====#Lotincha so’z bo’lib, “u qarzdor” ma'nosini bildiradi
-====Lotincha so’z bo’lib, “qarz” ma'nosini bildiradi
-====Inglizcha so’z bo’lib, “qarzdor bo’ldik” ma'nosini bildiradi
-====Nemischa so’z bo’lib, “ishondik” ma'nosini bildiradi
-+++++
-“Kredit” so’zi qanday ma'noni? bildiradi
-====#Lotincha so’z bo’lib, “men qarzdor” ma'nosini bildiradi
-====Lotincha so’z bo’lib, “ishondi” ma'nosini bildiradi
-====Inglizcha so’z bo’lib, “qarzdor bo’ldik” ma'nosini bildiradi
-====Nemischa so’z bo’lib, “u qarzdor” ma'nosini bildiradi
-+++++
-Ikkiyoqlama yozuv deganda nimani tushunasiz?
-====#Har bir xo’jalik operatsiyasining summasi schetlarda ikki marotaba: bir schet debetida va ayni vaqtda o’zaro bog’liq bo’lgan boshqa schetning kreditida qayd qilinishi
-====Xo’jalik muomalalarini dastlabki hujjatlarda qayd etish
-====Xo’jalikda sodir bo’lgan muomalalarni ikkita schetning debet tomonida aks ettirish
-====Xo’jalik muomalalarini bitta schetning debetiga yozish
-+++++
-Doimiy schetlar deganda nimani tushunasiz?
-====#Hisobot davri oxirida saldoga ega bo’lib, buxgalteriya balansida aks ettiriladigan aktivlar va passivlarni hisobga oladigan schetlar
-====Qoldiqqa ega bo’ladigan balansdan tashqari schetlar
-====Kontraktiv schetlar
-====Hisobot davri oxirida qoldiqqa ega bo’lmaydigan schetlar
-+++++
-Yong’in natijalarini aniqlash uchun inventarizatsiya o’tkazildi, bu inventarizatsiya o’tkazishning qaysi turiga kiradi?
-====#Rejali
-====Rejadan tashqari
-====To’liq
-====Qisman
-+++++
-Bir yilda moddiy javobgar shaxslar ikki marta almashdi, bu ularning mehnat ta'tiliga taalluqli emas. Qanday inventarizatsiya turi o’tqazilgan?
-====#Rejadan tashqari
-====Majburiy
-====Rejali
-====Favqulotdagi
-+++++
-Hujjatlashtirish deb nimaga aytiladi?
-====#Barcha xo’jalik muomalalariga tuziladigan hujjatlar majmuasi
-====Blankalarni to’ldirish
-====Ombordan material jo’natish uchun dalil
-====Mahsulotni omborga qabul qilish uchun dalil
-+++++
-Hujjatlarning rekvizitlari deb nimaga aytiladi?
-====#Amalga oshiriladigan muomalalar haqida to’la fikrga ega bo’lish va uning isbotlovchi kuchini ta'minlashda zarur bo’lgan barcha ma'lumotlar
-====Hujjatlarning tarkibiy unsurlari hisoblangan barcha ma'lumotlar
-====Faqat hujjatlarning nomi, summasi va sanasi
-====Amalga oshiriladigan muomalalar haqida to’la fikr
-+++++
-Qanday hujjatlardagi xatolarga tuzatishlar kiritish mumkin emas?
-====#Pul mablag’larini hisobga oluvchi hujjatlarga
-====Dastlabki hujjatlarga
-====Yig’ma hujjatlarga
-====Barcha hujjatlarga
-+++++
-Material kamomadlari aniqlangan bo’lsa qanday provodka beriladi?
-====#Debet 5910 Kredit 1000
-====Kredit-pul mablaglari
-====Debet-kamomad va moddiy boyliklarning buzilishidan nobudgarchiliklar scheti
-====Debet-materiallar Kredit-pul mablaglari
-+++++
-Kassa muomalalarini amalga oshirish uchun qanday hujjatlar tuziladi?
-====#“Kassa kirim orderi”, “Kassa chiqim orderi”, “kirim va chiqim orderlarini qayd qilish jurnali” va “kassa kitobi”
-====“Kassa kirim orderi”, “Kassa chiqim orderi”
-====“Kassa kirim orderi”, “kirim va chiqim orderlarini qayd qilishjurnali”
-====“Kirim va chiqim orderlarini qayd qilishjurnali” va “kassa kitobi”
-+++++
-Hisobdor shaxslar xo’jalik sarflarini amalga oshirgandan keyin yoki xizmat safaridan kelgandan keyin,olingan va sarflangan mablaglar bo’yicha hisobot qachon berishlari kerak?
-====# Safardan qaytib kelishi bilan, lekin uch kundan oshmagan holda
-====Bir xafta ichida
-====Uch kun ichida
-====Ikki kunda
-+++++
-Hisobdor shaxslar kimlar?
-====#Kelgusida ma'muriy, xo’jalik va xizmat sarflari uchun naqd pullarni bunak sifatida oladigan sub'ekt xodimlari
-====Qarz beruvchilar
-====Qarz oluvchi va beruvchi
-====Bank xodimlari
-+++++
-Doimiy inventarizatsiya komissiyasi tarkibiga kimlar kiradi?
-====# Korxona rahbari yoki uning yordamchisi, bosh buxgalter
-====Korxona rahbari yoki uning yordamchisi, ishchi
-====Korxona ish boshqaruvchisi
-====Faqat korxona raxbari
-+++++
-Tayyor mahsulotlar but saqlanishi bo’yicha korxonada kim javobgar?
-====#Ombor mudiri
-====Korxona rahbari
-====Bosh buxgalter
-====Sex boshlig’i
-+++++
-Kassada inventarizatsiya o’tkazilganida kamomad aniqlansa qanday provodka yoziladi?
-====#Debet 4730 Kredit 5010
-====Debet 591 Kredit 5010
-====Debet 5010 Kredit 5910
-====Debet 4730 Kredit 5910
-+++++
-Schyotlar korrespondensiyasiga tegishli bo’lmagan vaqtda hatolarni to’g’rilashning qaysi usuli qo’llaniladi?
+Omborxona binosi.
 ====
-#Qo’shimcha provodka
-====Korrektura
-====Qizil yozuv
-====Hohlagan birini
+#Ishlaydigan mashinalar va uskunalar.
+====
+Yer uchastkalari.
+++++Amortizatsiyani hisoblash uchun qanday turdagi xarajatlar qo'llaniladi?
+====
+Likvidatsiya.
+====
+#Boshlang'ich .
+====
+Qayta tiklovchi.
+====
+Bozor.
+
 +++++
-Qo’yidagilardan qaysi birida hisob registrlari turlari to’liq berilgan?
-====#Kitoblar, jurnallar, daftarlar, kartochkalar, varaqlar
-====Xujjatlar, kitoblar, jurnallar, varaqlar
-====Jurnallar, daftarlar, kartochkalar, varaqlar
-====Kitoblar,jurnallar,varaqlar,mashinogrammalar
-+++++
-Buxgalteriya hisobinining soddalashtirilgan shakli qanday tashkilotlar va korxonalar uchun mo’ljallangan?
-====#Kichik korxonalar va mikrofirmalar uchun
-====Davlat tashkilotlari uchun
-====Aksiyadorlik jamiyatlari uchun
-====Qo’shma korxonalar uchun
-+++++
-To’lov talabnomasi qaysi guruh hujjatlarga kiradi?
-====#Buxgalterlik hisob-kitoblarini aks ettiruvchi hujjatlarga
-====Guvohlik beruvchi hujjatlarga
-====Farmoyish beruvchi hujjatlarga
-====Yig’ma hujjatlarga
-+++++
-Chiqim kassa orderi qaysi guruh xujjatlariga kiradi?
-====# Buxgalterlik hisob-kitoblarini aks ettiruvchi hujjatlarga
-====Farmoyish beruvchi hujjatlarga
-====Yig’ma hujjatlarga
-====Kambinatsiyalashtirilgan hujjatlarga
-+++++
-Haridor tomonidan yozilgan ishonch qog’ozi tuzilgan joyi bo’yicha qaysi guruh xujjatlariga kiradi?
-====#Tashqi
-====Buxgalterlikda
-====Ichki
-====Omborda
-+++++
-Yong’in natijalarini aniqlash uchun inventarizatsiya o’tkazildi, bu inventarizatsiya o’tkazishning qaysi turiga kiradi?
-====#Rejali
-====Rejadan tashqari
-====To’liq
-====Qisman
-+++++
-Bir yilda moddiy javobgar shaxslar ikki marta almashdi, bu ularning mehnat ta'tiliga taalluqli emas. Qanday inventarizatsiya turi o’tqazilgan?
-====#Rejadan tashqari
-====Majburiy
-====Rejali
-====Favqulotdagi
-+++++
-Hujjatlashtirish deb nimaga aytiladi?
-====#Barcha xo’jalik muomalalariga tuziladigan hujjatlar majmuasi
-====Blankalarni to’ldirish
-====Ombordan material jo’natish uchun dalil
-====Mahsulotni omborga qabul qilish uchun dalil
-+++++
-Hujjatlarning rekvizitlari deb nimaga aytiladi?
-====#Amalga oshiriladigan muomalalar haqida to’la fikrga ega bo’lish va uning isbotlovchi kuchini ta'minlashda zarur bo’lgan barcha ma'lumotlar
-====Hujjatlarning tarkibiy unsurlari hisoblangan barcha ma'lumotlar
-====Faqat hujjatlarning nomi, summasi va sanasi
-====Amalga oshiriladigan muomalalar haqida to’la fikr
-+++++
-Qanday hujjatlardagi xatolarga tuzatishlar kiritish mumkin emas?
-====#Pul mablag’laini hisobga oluvchi hujjatlarga
-====Dastlabki hujjatlarga
-====Yig’ma hujjatlarga
-====Barcha hujjatlarga
-+++++
-Material kamomadlari aniqlangan bo’lsa qanday provodka beriladi?
-====#Debet 5910 Kredit 1000
-====Kredit-pul mablaglari
-====Debet-kamomad va moddiy boyliklarning buzilishidan nobudgarchiliklar scheti
-====Debet-materiallar Kredit-pul mablaglari
-+++++
-Kassa muomalalarini amalga oshirish uchun qanday hujjatlar tuziladi?
-====#“Kassa kirim orderi”, “Kassa chiqim orderi”, “kirim va chiqim orderlarini qayd qilish jurnali” va “kassa kitobi”
-====“Kassa kirim orderi”, “Kassa chiqim orderi”
-====“Kassa kirim orderi”, “kirim va chiqim orderlarini qayd qilishjurnali”
-====“Kirim va chiqim orderlarini qayd qilishjurnali” va “kassa kitobi”
-+++++
+Korxona nima?
+======
+Faqat xizmat ko'rsatuvchi tashkilot
+======
+#Mustaqil biznes subyekti.
+======
+Faqat davlat idorasi
+======
+Ma'muriy tuzilma
 
 
++++++
+Korxonaning asosiy maqsadi nima?
+======
+Soliqlarni to'lash
+======
+#Foyda va rivojlanish.
+======
+Kredit olish
+======
+Xodimlar sonining ko'payishi
 
+
++++++
+Qanday resurslar ishlab chiqarish omillari hisoblanadi?
+======
+#Yer, mehnat, kapital, tadbirkorlik.
+======
+Pul va tovarlar
+======
+Marketing va reklama
+======
+Soliqlar va kreditlar
+
+
++++++
+Foyda qanday aniqlanadi?
+======
+Xarajatlar daromaddan tashqari
+======
+#Daromaddan xarajatlarni olib tashlash.
+======
+Faqat daromad bo'yicha
+======
+Faqat xarajatlar uchun
+
+
++++++
+Qanday turdagi korxonalar mavjud?
+======
+Faqat davlat va xususiy
+======
+#Kichik, o'rta va katta.
+======
+Faqat kattalari
+======
+Faqat kichiklari
+
+++++
+Ikkinchi turdagi eskirish quyidagilar tufayli yuzaga keladi:
+==== 
+Mehnat jarayonida xususiyatlarning yo'qolishi.
+==== 
+#Arzonroq analoglarning paydo bo'lishi.
+==== 
+Tabiat kuchlari.
+==== 
+Talabning pasayishi.
++++++
+Muvofiqlik koeffitsienti: 
+==== 
+Eskirish / Narx.
+ ==== 
+#100% - Eskirish koeffitsienti. 
+==== 
+Foyda / Mablag'lar. 
+==== 
+Qoldiq / Qayta tiklash.
+++++
+Aktivlarning rentabelligi:
+==== 
+Mahsulot birligiga to'g'ri keladigan xarajat.
+==== 
+#Aktivlarning 1 rubliga to'g'ri keladigan mahsulot miqdori.
+==== 
+Uskuna birligiga to'g'ri keladigan foyda.
+++++
+Aylanma mablag'larning aylanish davri:
+==== 
+Inventarizatsiyadagi vaqt.
+==== 
+#To'liq aylanish vaqti.
+==== 
+Yetkazib berish tezligi.
+==== 
+Ishlab chiqarishdagi vaqt.
+++++
+Aylanma koeffitsienti quyidagicha aniqlanadi: 
+==== 
+Balans / Savdo. 
+==== 
+#Savdo / O'rtacha qoldiq. 
+==== 
+Tsikl * Xarajatlar. 
+==== 
+Jami aktivlar.
+
+
+++++
+Tovar-moddiy zaxiralar aylanishini nima tezlashtiradi?
+==== 
+Tovar-moddiy zaxiralarning ko'payishi.
+==== 
+#Ishlab chiqarish siklining qisqarishi.
+==== 
+Qarzlarning ko'payishi.
+==== 
+Tashish vaqti.
+
+++++
+Standartlashtirilmagan aylanma mablag'lar elementi:
+==== 
+Tovar-moddiy zaxiralar.
+==== 
+Tugallanmagan ishlab chiqarish.
+==== 
+#Debitorlik qarzlari.
+==== 
+Kechiktirilgan xarajatlar.
+
++++++
+Asosiy vositalar nima deb hisoblanadi?
+======
+Xom ashyo va materiallar
+======
+#Binolar, uskunalar, transport vositalari.
+======
+Naqd pul
+======
+Tayyor mahsulotlar
+
+
++++++
+Amortizatsiya nima?
+======
+Mahsulotlar savdosi
+======
+#Asosiy vositalarning amortizatsiyasini pul ko'rinishida ifodalash.
+======
+Narxlarning oshishi
+======
+Xodimlarga beriladigan bonuslar
+
+
++++++
+Xom ashyo va materiallar qaysi guruhga kiradi?
+======
+Asosiy vositalar
+======
+#Aylanma mablag'lar.
+======
+Noto'g'ri xarajatlar
+======
+Kredit mablag'lari
+
+++++
+"Mutaxassislar" toifasiga kimlar kiradi?
+==== 
+Direktor.
+==== 
+#Buxgalter, iqtisodchi.
+==== 
+Uchastka ustasi.
+==== 
+Malakali ishchi.
++++++
+Ishlab chiqarishning mehnat zichligi:
+==== 
+Bir smenada ishlab chiqarish hajmi.
+==== 
+#Ishlab chiqarish birligiga to'g'ri keladigan tirik mehnat xarajatlari.
+==== 
+Soatiga ishlab chiqarish miqdori.
++++++
+Shartli ish haqi bilan daromad quyidagilarga bog'liq:
+=== 
+Vaqt.
+==== 
+#Mahsulotlar miqdori, sifati.
+==== 
+Tarif.
+==== 
+Tajriba.
+
++++++
+Biznes qanday qilib daromad keltiradi?
+======
+Xarajatlar orqali
+======
+#Mahsulotlar va xizmatlarni sotish orqali.
+======
+Kredit olish
+======
+Soliqlarni to'lash
+
++++++
+Marketing nima?
+======
+Buxgalteriya hisobi
+======
+#Bozor tadqiqotlari va mijozlar ehtiyojini qondirish.
+======
+Kredit berish
+======
+Soliq yig'ish
+
+++++Mehnat obyektlarining shaklini o'zgartirishda kim ishtirok etadi?
+==== 
+Xodimlar.
+==== 
+#Asosiy ishchilar.
+==== 
+Yordamchi ishchilar.
+==== 
+Kichik xodimlar.
+++++
+Xodimlar almashinuvi - bu quyidagilarning nisbati: 
+==== 
+Yollangan xodimlar soniga nisbati.
+ ==== 
+#O'z iltimosiga binoan ishdan bo'shatilgan xodimlar soniga nisbati. 
+==== 
+Ishdan bo'shatilgan ishga qabul qilingan.
+
++++++
+Biznesda rentabellik nimani anglatadi?
+======
+Xarajatlar darajasi
+======
+#Daromadlilik darajasi.
+======
+Soliq miqdori
+======
+Xodimlar soni
+
++++++
+Aylanma mablag'larning vazifasi nima?
+======
+Faqat binoni ta'mirlash
+======
+#Ishlab chiqarish jarayonining uzluksizligini ta'minlash.
+======
+Faqat foyda olish
+======
+Kreditni qaytarish
+
+
++++++
+Asosiy vositalarning amortizatsiya turlari qanday?
+======
+Faqat jismoniy
+======
+#Jismoniy va axloqiy.
+======
+Faqat axloqiy
+======
+Hech qanday aşınma va yirtilish yo'q
+
++++++
+O'zgaruvchan xarajatlar:
+==== 
+Hajmga bog'liq emas.
+==== 
+#Hajmga mutanosib ravishda o'zgarish.
+==== 
+Faqat ijara haqi.
+==== 
+Nol darajasida mavjud.
+++++
+Xarajatlarni elementlar bo'yicha guruhlash quyidagilarni o'z ichiga oladi:
+==== 
+Umumiy biznes xarajatlari.
+==== 
+#Xom ashyo xarajatlari.
+==== 
+Uskuna xarajatlari.
+==== 
+Do'kon xarajatlari.
+++++
+Ulgurji vositachilarga sotish narxi:
+==== 
+Chakana savdo.
+====
+ #Korxonaning ulgurji narxi.
+==== 
+Sotib olish.
+==== 
+O'tkazish.
+++++
+Mahsulot rentabelligi: 
+====
+ #Foyda / Tannarx.
+ ==== 
+Foyda / Narx. 
+==== 
+Daromad / Xarajatlar. 
+==== 
+Aktivlar / Kapital.
++++++
+Buzilish nuqtasi:
+==== 
+Maksimal foyda.
+==== 
+#Daromad xarajatlarga teng.
+==== 
+Minimal narx.
+==== 
+Birlik tannarxi.
+
++++++
+Korxonaning tashqi muhitiga nimalar kiradi?
+======
+Xodimlar va ishchilar
+======
+#Bozor, raqobatchilar, iste'molchilar.
+======
+Uskunalar va texnologiyalar
+======
+Ichki moliyaviy hisobot
+
+
++++++
+Foyda olish uchun tavakkal qilishga tayyorlik tushunchasi nimani anglatadi?
+======
+Ijtimoiy mas'uliyat
+======
+#Tadbirkorlik.
+======
+Buxgalteriya hisobi
+======
+Marketing strategiyasi
+
+
++++++
+Korxonada ishlab chiqarish samaradorligining oshishi nimani anglatadi?
+======
+O'sib borayotgan xarajatlar
+======
+#Daromadlilik va ishlab chiqarish hajmining o'sishi.
+======
+Xodimlarni qisqartirish
+======
+Soliq imtiyozlari
+
+
++++++
+Korxona qanday shaklda faoliyat yuritishi mumkin?
+======
+Faqat aksiyadorlik jamiyati
+======
+#Aksiyadorlik jamiyati, mas'uliyati cheklangan jamiyat, yakka tartibdagi tadbirkorlik va boshqalar.
+======
+Faqat davlat korxonasi
+======
+Faqat xorijiy investitsiyalar ishtirokidagi korxonalar
+
+
++++++
+Asosiy kapital deganda nimani tushunasiz?
+======
+Xom ashyo va materiallar
+======
+#Uskunalar, binolar, inshootlar.
+======
+Tayyor mahsulotlar
+======
+Naqd pul
+
+++++
+Yuridik shaxs quyidagi paytdan boshlab tashkil etilgan:
+====
+ Shartnoma imzolangan.
+==== 
+#Davlat ro'yxatidan o'tkazilgan.
+==== 
+Hisob ochish.
+==== 
+Mahsulotlarni chiqarish.
++++++
+Hissa doirasidagi javobgarlik quyidagilar uchun odatiy holdir:
+==== 
+Sheriklik.
+==== 
+Kooperativ.
+==== 
+#MChJ .
+==== 
+Yakka tartibdagi tadbirkor.
+++++
+Dividend:
+==== 
+#Aksiyadorlarga foydaning bir qismi.
+==== 
+Soliq.
+==== 
+Ijara haqi.
+==== 
+Kredit bo'yicha foizlar.
++++++
+Ishlab chiqarish tuzilmasi:
+==== 
+Boshqaruv tuzilmasi.
+==== 
+#Ustaxonalar va xizmatlar tarkibi.
+==== 
+Mahsulotlar ro'yxati.
+====
+Subordinatsiya diagrammasi.
+++++
+Tugatish jarayoni quyidagi vaqtdan keyin yakunlandi:
+====
+Hamma ishdan bo'shatildi.
+====
+Mulk savdosi.
+====
+#Registr yozuvlari .
+====
+Qarzni qaytarish.
+++++
+Aksiyalar va obligatsiyalarni sotib olish:
+====
+Haqiqiy investitsiyalar.
+====
+#Portfel investitsiyalari .
+====
+Aqlli.
+====
+Yalpi.
+++++
+Qaytarish muddati:
+====
+#Foyda hisobidan xarajatlarni qoplash davri .
+====
+Tugatishgacha bo'lgan vaqt.
+====
+Qurilish vaqti.
+++++
+Soliqlardan keyingi foyda:
+====
+Yalpi.
+====
+Amalga oshirishdan.
+====
+#Toza .
+====
+Soliqqa tortiladigan.
+
++++++
+Xorijiy investitsiyalar deganda nimani tushunasiz?
+======
+Mahalliy moliyalashtirish
+======
+#Chet eldan jalb qilingan mablag'lar.
+======
+Ichki qarzlar
+======
+Davlat subsidiyalari
+
+
++++++
+Korxonaning raqobatbardoshligini oshiradigan omil nima?
+======
+Ortiqcha xarajatlar
+======
+#Mahsulot sifati va innovatsiya.
+======
+Soliqlarning oshishi
+======
+Kreditning oshishi
+
+
++++++
+Korxonaning asosiy maqsadi nima?
+======
+Ish o'rinlarini yaratish
+======
+#Foyda olish.
+======
+Tadbirkorlikni rivojlantirish
+======
+Sifatni yaxshilash
+
+
++++++
+Korxona qanday subyekt hisoblanadi?
+======
+Siyosiy
+======
+#Ijtimoiy-iqtisodiy.
+======
+Ijtimoiy
+======
+Madaniy
+
+
++++++
+Asosiy vositalarga nimalar kiradi?
+======
+Xomashyo
+======
+#Binolar va jihozlar.
+======
+Tayyor mahsulotlar
+======
+Naqd pul
+
+
++++++
+Amortizatsiya nima?
+======
+Foyda olish
+======
+#Eskirish va yirtilish uchun kompensatsiya.
+======
+Narxlarning oshishi
+======
+Raqobatning kuchayishi
+
+
++++++
+Korxonalar qanday tasniflanadi?
+======
+Faqat davlatga tegishli
+======
+#Xususiy va ommaviy.
+======
+Faqat xususiylar
+======
+Faqat qo'shma bo'lganlar
+
+
++++++
+Xom ashyo nima?
+======
+Tayyor mahsulotlar
+======
+#Ishlab chiqarishda ishlatiladigan materiallar.
+======
+Foyda
+======
+Kapital
+
+
++++++
+Kapital qanday resursni ifodalaydi?
+======
+Ortiqcha xarajatlar
+======
+#Foyda manbai.
+======
+Xodimlar soni
+======
+Narxni aniqlash
+
+
++++++
+Marketingning maqsadi nima?
+======
+Mahsulot sifatining pasayishi
+======
+#Bozor tadqiqotlari.
+======
+Foyda kamayishi
+======
+Raqobatni bartaraf etish
+
+
++++++
+Korxonaning tashkiliy tuzilishi nimani anglatadi?
+======
+Mahsulot narxi
+======
+#Boshqaruv tizimi.
+======
+Daromad
+======
+Mehnat unumdorligi
+
+
++++++
+Diversifikatsiya nima?
+======
+Faoliyatlarning kamayishi
+======
+#Faoliyat doirasini kengaytirish.
+======
+Foyda kamayishi
+======
+Narxlarning oshishi
+
+
++++++
+Ishlab chiqarish omillari nimalardan iborat?
+======
+Pul va foyda
+======
+#Mehnat, kapital, yer, tadbirkorlik.
+======
+Mahsulotlar va xizmatlar
+======
+Investitsiyalar va xarajatlar
+
+
++++++
+Mehnat unumdorligi qanday o'lchanadi?
+======
+Mahsulotlar narxi
+======
+#Mahsulotlar miqdori.
+======
+Xodimlar soni
+======
+Xarajatlar hajmi
+
+
++++++
+Kompaniyaning foydasi qanday aniqlanadi?
+======
+Xarajatlar daromaddan tashqari
+======
+#Daromaddan xarajatlarni olib tashlash.
+======
+Xarajatlar miqdori
+======
+Kapital minus amortizatsiya
+
+
++++++
+Qaytarish muddati nimani anglatadi?
+======
+Xarajatlarni qisqartirish
+======
+#Qaytarish muddati.
+======
+Mehnat unumdorligining oshishi
+======
+Marketing strategiyasi
+
+++++
+Federal soliq:
+==== 
+Mulk solig'i.
+==== 
+Yer solig'i.
+==== 
+#QQS .
+=== 
+Transport solig'i.
+++++
+Ishlab chiqarish quvvati:
+==== 
+Haqiqiy mahsulot.
+==== 
+#To'liq foydalanishdagi maksimal mahsulot.
+==== 
+Mijozlar talabi.
+++++
+Diversifikatsiya:
+==== 
+Mahsulot turlarini qisqartirish.
+==== 
+#Ko'p turdagi ishlab chiqarishni rivojlantirish.
+==== 
+Import qilingan xom ashyo.
+
++++++
+Korxonaning tashqi muhiti nima?
+======
+Korxonaning ichki bo'linmalari
+======
+#Bozor, raqobatchilar, mijozlar.
+======
+Boshqaruv tizimi
+======
+Ishlab chiqarish quvvati
+
+
++++++
+Asosiy kapitalga nimalar kiradi?
+======
+Joriy aktivlar
+======
+#Binolar va jihozlar.
+======
+Naqd pul
+======
+Mahsulot zaxiralari
+
+
++++++
+Aylanma mablag'lar tarkibiga nimalar kiradi?
+======
+Binolar va inshootlar
+======
+#Ishlab chiqarishdagi xomashyo.
+======
+Uskunalar
+======
+Yer
+
++++++
+Likvidlik koeffitsienti:
+==== 
+#Majburiyatlarni to'lash qobiliyati.
+==== 
+Foyda ulushi.
+==== 
+Amortizatsiya.
+==== 
+Mahsuldorlik.
+++++
+Amortizatsiyaning kamayishi:
+==== 
+To'g'ri chiziqli usul.
+==== 
+#Tezlashtirilgan amortizatsiya.
+==== 
+To'g'ri chiziqli.
+==== 
+Chiqarilgan mahsulotga mutanosib.
+
+++++
+Inflyatsiya kelajakdagi daromadni keltirib chiqaradi:
+==== 
+Yuqori.
+==== 
+#Pastroq (real qiymat).
+==== 
+O'zgarishsiz.
+==== 
+Nol.
+++++
+Nomoddiy aktivlar:
+==== 
+Qimmatli qog'ozlar.
+==== 
+#Patentlar, litsenziyalar.
+==== 
+Tovar-moddiy zaxiralar.
+==== 
+Debitorlik qarzlari.
+
++++++
+Tovarlar deganda nimani nazarda tutish kerak?
+======
+Naqd pul
+======
+#Sotuv uchun ishlab chiqarilgan tovarlar.
+======
+Ishlab chiqarish majmuasi
+======
+Asosiy kapital
+
+
++++++
+Talab va taklif qaysi sohada ifodalanadi?
+======
+Marketing
+======
+#Bozor qonunlari.
+======
+Ishlab chiqarish
+======
+Investitsiyalar
+
+
++++++
+Raqobatning asosiy vazifasi nima?
+======
+Bozorning yo'qolishi
+======
+#Narxlarning pasayishi.
+======
+Xodimlar sonining ko'payishi
+======
+Sifatning pasayishi
+
+
++++++
+Kompaniyaning xarajatlari qanday?
+======
+Foyda olish uchun
+======
+#Tovarlar ishlab chiqarish va xizmatlar ko'rsatishga.
+======
+Xodimlarni rag'batlantirish uchun
+======
+Marketing faoliyatiga
+
+++++
+Daromad sifatidagi foyda minus o'zgaruvchan xarajatlar:
+==== 
+#Marjinal.
+==== 
+Sof.
+==== 
+Soliqqa tortiladigan.
+==== 
+Balans qiymati.
+++++
+Jo'natish stansiyasidagi bepul narx quyidagilarni o'z ichiga oladi:
+=== 
+Yetkazib beruvchining ombori.
+==== 
+#Stansiyaga yetkazib berish va yuklash.
+==== 
+Xaridorga yetkazib berish.
++++++
+Ishlab chiqarishning 10% ga o'sishi va mablag'larning bir xil bo'lishi bilan aktivlarning daromadliligi:
+ ====
+ Kamayadi. 
+==== 
+# Oshadi. 
+==== 
+O'zgarmaydi. 
+==== 
+1 ga teng.
+++++
+Ijtimoiy fondlarga badallar quyidagilar:
+==== 
+Moddiy xarajatlar.
+==== 
+Ish haqi
+.==== 
+#Ijtimoiy ehtiyojlar uchun ajratmalar.
+==== 
+Boshqa.
+
+++++
+Aylanma koeffitsienti:
+==== 
+Foyda miqdori
+.==== 
+#Davr uchun aylanmalar soni.
+==== 
+Hisob qoldig'i.
+==== 
+Kapital ulushi.
++++++
+Hajmni oshirish uchun quyidagi tizim samarali hisoblanadi:
+ ==== 
+Vaqtga asoslangan.
+ ==== 
+#To'g'ridan-to'g'ri buyumli ish. 
+==== 
+Buyumli ish. 
+==== 
+Belgilangan stavka.
+
++++++
+Investitsiya nima?
+======
+Xarajatlarni qisqartirish
+======
+#Foyda olish uchun mablag'larga investitsiya qilish.
+======
+Xodimlar sonining qisqarishi
+======
+Raqobatning kuchayishi
+
+
++++++
+Kompaniya ishlab chiqarishni qanday tashkil qiladi?
+======
+Xarajatlarni kamaytirish orqali
+======
+#Marketingga asoslangan.
+======
+Kredit olish orqali
+======
+Soliq to'lashdan bo'yin tovlash orqali
+
+
++++++
+Narxlarning ko'tarilishining ta'siri qanday?
+======
+Talabni oshiradi
+======
+#Ta'minotni oshiradi.
+======
+Ishlab chiqarishni kamaytiradi
+======
+Foydani kamaytiradi
+
+
++++++
+Raqobat deganda nimani tushunasiz?
+======
+Bozor taqsimoti
+======
+#Foyda uchun kurash.
+======
+Xarajatlarni kamaytirish
+======
+Korxonalarning birlashishi
+
+
++++++
+Kompaniyaning balansida nimalar aks ettirilgan?
+======
+Faqat foyda
+======
+#Moliyaviy natijalar.
+======
+Xodimlar soni
+======
+Marketing rejasi
+
+
++++++
+Ishlab chiqarish tannarxi qancha?
+======
+Sotish narxi
+======
+#Ishlab chiqarish xarajatlari miqdori.
+======
+Foyda marjasi
+======
+Kapital qiymati
+
+
++++++
+Tashkilotning huquqiy shakli nima?
+======
+Faqat xususiy korxona
+======
+#Korxonaning huquqiy maqomi.
+======
+Foyda olish usuli
+======
+Xodimlar soni
+
+
++++++
+Korxonaning ichki muhiti nimani o'z ichiga oladi?
+======
+Bozor va raqobatchilar
+======
+#Korxonaning ichki resurslari.
+======
+Davlat boshqaruvi
+======
+Xorijiy investitsiyalar
+
+
++++++
+Soliq nima?
+======
+Foyda olish vositasi
+======
+#Majburiy to'lov.
+======
+Kredit olish
+======
+Investitsiya usuli
+
+
++++++
+Qaysi omil ishlab chiqarish omili emas?
+======
+Yer
+======
+#Pul shaklidagi kapital.
+======
+Kapital
+======
+Ish
+
+
++++++
+Ishlab chiqarish samaradorligini qanday oshirish mumkin?
+======
+Narxlarning oshishi
+======
+#Xarajatlarni kamaytirish va texnologik rivojlanish.
+======
+Xodimlar sonining qisqarishi
+======
+Soliq to'lashdan bo'yin tovlash
+
+++++
+Amortizatsiya jamg'armasi quyidagilar uchun kerak:
+=== 
+Bonuslar.
+==== 
+#Mablag'larni oddiy qayta ishlab chiqarish.
+==== 
+Xom ashyo sotib olish
+.==== Kreditlar.
++++++
+Sotuvdan olingan foyda:
+==== 
+Daromad – Soliqlar
+.==== 
+#Daromad (QQSsiz) - To'liq tannarx.
+==== 
+Narx - O'zgaruvchilar.
+++++
+Aktivlarning daromadliligi (ROA):
+==== 
+#1 rubl mulk uchun foyda.
+==== 
+Kreditlar ulushi.
+==== 
+Tovar-moddiy zaxiralar tezligi.
+==== 
+Soliqlar.
+++++
+Moliyalashtirishning ichki manbai:
+==== 
+Kredit.
+==== 
+Subsidiya.
+==== 
+#Taqsimlanmagan foyda.
+==== 
+Obligatsiyalar.
+++++
+Hajm ortishi bilan bir birlik uchun doimiy xarajatlar:
+==== 
+O'sish
+.==== 
+#Kamayish.
+==== 
+O'zgarishsiz.
+==== 
+O'zgaruvchanga teng.
++++++
+QQS soliq hisoblanadi:
+=== 
+To'g'ridan-to'g'ri.
+==== 
+#Bilvosita.
+==== 
+Mintaqaviy.
+==== 
+Maqsadli.
+++++
+Nomenklatura:
+=== 
+Dona soni.
+==== 
+#Mahsulot nomlari ro'yxati.
+==== 
+Ombordagi narx.
+++++
+Inflyatsiya xavfi:
+==== 
+Narxlarning pasayishi
+.====
+ #Pul qadrsizlanishi va xom ashyo narxlarining oshishi.
+==== 
+Eksport bojlari.
+++++
+Moliyaviy tahlil quyidagilar uchun kerak:
+==== 
+Faqat soliqlar.
+==== 
+#Shtatni baholash va zaxiralarni qidirish.
+==== 
+Xodimlar sonining o'sishi.
+
++++++
+Qaysi ko'rsatkich korxonaning moliyaviy barqarorligini aks ettiradi?
+======
+Xodimlar soni
+======
+#Daromadlilik.
+======
+Ishlab chiqarish hajmi
+======
+Marketing xarajatlari
+
+
++++++
+Bozor iqtisodiyoti sharoitida korxonalar faoliyatining asosi nima?
+======
+Majburiy ko'rsatmalar bo'yicha
+======
+#Bozor talabiga binoan.
+======
+Davlat shartnomalari bo'yicha
+======
+Soliq siyosati bo'yicha
+
+
++++++
+Kapital aylanmasi nima?
+======
+Xom ashyodan foyda olish
+======
+#Pulni tovarga va uni yana pulga aylantirish.
+======
+Xodimlar almashinuvi
+======
+Soliq imtiyozlari
+
+
++++++
+Erkin iqtisodiy zona nima?
+======
+Cheklangan bozor
+======
+#Imtiyozli hudud.
+======
+Soliq majburiyati
+======
+Kredit zonasi
+
+++++
+Innovatsiya salohiyati:
+====
+ Hisobdagi pul.
+====
+ #Innovatsiya uchun resurslar.
+==== 
+Oyiga patentlar.
+==== 
+Diplomlar.
+++++
+Sertifikatlash quyidagilarni tasdiqlaydi:
+==== 
+Narxi.
+==== 
+#Standartlarga muvofiqligi.
+==== 
+Import.
+==== 
+Savdo hajmi.
+++++
+Sifatning bevosita ko'rsatkichlari:
+ ==== 
+Tannarx. 
+==== 
+#Ishonchlilik, estetika.
+ ==== 
+Hajm. ==== 
+Daromadlilik.
+
+++++
+Autsorsing:
+==== 
+Kredit.
+==== 
+#Vazifalar uchinchi shaxslarga o'tkazilishi
+.==== 
+Onlayn savdo.
+==== 
+Ishdan bo'shatishlar.
+
++++++
+Asosiy vositalar qanday hisobga olinadi?
+======
+Naqd pul sifatida
+======
+#Eskirish va yirtilishni hisobga olgan holda.
+======
+Kredit mablag'lari sifatida
+======
+Ishlab chiqarish hajmi bo'yicha
+
+
++++++
+Aylanma mablag'larning o'ziga xos xususiyati nimada?
+======
+Uzoq muddatli foydalanish
+======
+#Muomalada bir martalik foydalanish.
+======
+Ular foyda keltirmaydi
+======
+Ular eskirmaydi
+
+
++++++
+Kompaniyaning sof foydasi qancha?
+======
+Daromad minus xarajatlar
+======
+#Soliqlarsiz foyda.
+======
+Kapital minus amortizatsiya
+======
+Tovarlar va xizmatlar minus
+
+
++++++
+Ishlab chiqarish quvvati nimani anglatadi?
+======
+Xodimlarning umumiy soni
+======
+#Korxonaning ishlab chiqarish imkoniyatlari.
+======
+Tashqi bozor imkoniyatlari
+======
+Marketing rejalari
+
+
++++++
+Korxonaning asosiy maqsadi nima?
+======
+Ish o'rinlarini yaratish
+======
+#Foyda olish.
+======
+Tadbirkorlikni rivojlantirish
+======
+Sifatni yaxshilash
+
+++++
+Valyuta tushumlari:
+==== 
+Soliqlar.
+====
+ #Xorijiy valyutadagi eksport daromadi.
+==== 
+Xorijiy valyutadagi kredit.
+==== 
+Mashinalar sotib olish.
++++++
+Logistika quyidagilarni boshqaradi:
+==== 
+Faqat savdo.
+==== 
+#Material va axborot oqimlari
+==== 
+Xodimlar.
+==== 
+Mashina asboblari.
+++++
+Mahsulotning hayot aylanishi:
+==== 
+O'sish-Amalga oshirish.
+==== 
+#Amalga oshirish-O'sish-Yetuklik-Pasayish .
+==== 
+Yetuklik-Amalga oshirish.
++++++
+JIT (Aynan o'z vaqtida) usuli:
+==== 
+Maksimal inventarizatsiya.
+==== 
+#Minimal omborlar, yetkazib berish vaqtida .
+==== 
+Vaqtning oshishi.
+++++
+Xavflarni diversifikatsiya qilish:
+==== 
+Ishdan bosh tortish.
+==== 
+#Kapital taqsimoti.
+==== 
+Sug'urta.
+==== 
+Bir turdagi o'sish.
++++++
+Ishlab chiqarish leveragesi:
+==== 
+Kreditlar ulushi.
+==== 
+#Daromadga bog'liqlik.
+=== 
+Avtomatlashtirish.
+++++
+Joriy likvidlik normal:
+ ==== 
+< 0.5.
+ ==== 
+#1.5 - 2.5. 
+==== 
+0. 
+==== 
+> 10.
+++++
+Tashqi foyda omili:
+==== 
+Xodimlar.
+==== 
+#Xom ashyo narxlari va soliqlar.
+==== 
+Uskunalar.
+====
+Narx narxi.
+++++
+Raqobatbardoshlik :
+==== 
+Arzon narx.
+==== 
+#Analoglar orasida sotilish imkoniyati
+.==== 
+Qadoqlash.
+++++ 
+Quyidagilar uchun biznes-reja:
+=== 
+Soliq.
+==== 
+#Rivojlanish va investorlar.
+==== 
+Ish haqi.
+==== 
+Hisobdan chiqarishlar.
+++++
+"Skimming":
+==== 
+Arzon narx.
+==== 
+#Yuqori boshlang'ich narx.
+====
+ Namunalar.
+==== 
+Sut.
+++++
+Ishlab chiqarish sikli:
+==== 
+Smena
+.==== 
+#Xom ashyodan tayyor mahsulotgacha bo'lgan vaqt.
+==== 
+Xizmat muddati
+.==== 
+Transport.
+++++
+Daromadning foizi sifatida to'lov:
+==== 
+Vaqtga asoslangan.
+==== 
+#Komissiya.
+==== 
+Parcha-parcha ish.
+==== 
+Tarifga asoslangan.
+
++++++
+Korxona qanday subyekt hisoblanadi?
+======
+Siyosiy
+======
+#Iqtisodiy.
+======
+Ijtimoiy
+======
+Madaniy
+
+
++++++
+Asosiy vositalarga nimalar kiradi?
+======
+Xomashyo
+======
+#Binolar va jihozlar.
+======
+Tayyor mahsulotlar
+======
+Naqd pul
+
+
++++++
+Amortizatsiya nima?
+======
+Foyda olish
+======
+#Kiyim kompensatsiyasi.
+======
+Narxlarning oshishi
+======
+Raqobatning kuchayishi
+
+
++++++
+Korxonalar qanday tasniflanadi?
+======
+Faqat davlatga tegishli
+======
+#Xususiy va ommaviy.
+======
+Faqat xususiylar
+======
+Faqat qo'shma bo'lganlar
+
+
++++++
+Xom ashyo nima?
+======
+Tayyor mahsulotlar
+======
+#Ishlab chiqarishda ishlatiladigan materiallar.
+======
+Foyda
+======
+Kapital
+
+
++++++
+Kapital qanday resursni ifodalaydi?
+======
+Xarajatlarning ortishi
+======
+#Daromadli.
+======
+Xodimlar soni
+======
+Narx belgilovchi
+
+++++
+Muxtoriyat nisbati: 
+==== 
+Kreditlar / Aktivlar. 
+==== 
+#Kapital / Aktivlar. 
+==== 
+Foyda / Daromad.
+++++
+Uzoq muddatli bo'lmagan aktivlar:
+==== 
+Tovar-moddiy zaxiralar.
+==== 
+#Asosiy vositalar va nomoddiy aktivlar.
+==== 
+Naqd pul.
+==== 
+Qisqa muddatli investitsiyalar.
+++++
+Jarayon davomida uskunalar:
+==== 
+Yagona.
+==== 
+#Oqim.
+====
+Kichik miqyosdagi ishlab chiqarish.
+==== 
+Dizayn.
+++++
+Soliq yuki:
+==== 
+Jarimalar.
+==== 
+#Soliqlar / Daromadlar.
+==== 
+Buxgalterlar soni.
+==== 
+Litsenziya.
+++++
+Sof aylanma mablag':
+==== 
+Daromad - Xarajatlar.
+==== 
+#Joriy aktivlar - Joriy qarzlar.
+++++
+Past narxlar bilan bozor ulushini egallash:
+====
+Qaymoqni yog'sizlantirish.
+====
+#Kirib chiqish (yutuq).
+====
+Nufuzli.
+====
+Birlashgan.
+++++
+Ijara haqining oshishi:
+====
+Tengsizlik nuqtasini pasaytiradi.
+#Uni oshiradi.
+====
+Bu o'zgarmaydi.
+++++
+Aksiyalar chiqarish:
+====
+Soliqlar.
+====
+#Aksiyadorlik kapitalini jalb qilish.
+====
+Xodimlarni qisqartirish.
+++++
+Sof joriy qiymat (NPV):
+====
+Vaqtsiz daromad.
+====
+#Diskontlangan kirish va chiqish o'rtasidagi farq.
+++++
+Ikki marta bo'ysunish:
+====
+Chiziqli.
+====
+Funktsional.
+====
+#Matritsa .
+====
+Bo'linma.
+++++
+Mahsulotni takomillashtirish:
+====
+Jarayon innovatsiyalari.
+====
+#MahsulotInnovatsiyasi .
+====
+Marketing.
+++++
+5S tizimi:
+====
+Tezlik.
+====
+#Ish maydonini tashkil qilish .
+====
+Ishdan bo'shatish 5%.
+++++
+Yaxshi niyat:
+====
+Qarzlar.
+====
+#Obro' (Kompaniya qiymati - Aktivlar).
+====
+Sertifikatlar ro'yxati.
+
++++++
+Marketingning maqsadi nima?
+======
+Mahsulot sifatining pasayishi
+======
+#Bozor tadqiqotlari.
+======
+Foyda kamayishi
+======
+Raqobatni bartaraf etish
+
+
++++++
+Korxonaning tashkiliy tuzilishi nimani anglatadi?
+======
+Mahsulotlar narxi
+======
+#Boshqaruv tizimi.
+======
+Daromad
+======
+Mehnat unumdorligi
+
+
++++++
+Diversifikatsiya nima?
+======
+Faoliyatlarning kamayishi
+======
+#Faoliyat doirasini kengaytirish.
+======
+Foyda kamayishi
+======
+Narxlarning oshishi
+
+
++++++
+Ishlab chiqarish omillari nimalardan iborat?
+======
+Pul va foyda
+======
+#Mehnat, kapital, yer, tadbirkorlik.
+======
+Mahsulotlar va xizmatlar
+======
+Investitsiyalar va xarajatlar
+
+
++++++
+Mehnat unumdorligi qanday o'lchanadi?
+======
+Mahsulot narxi bo'yicha
+======
+#Ishlab chiqarilgan mahsulotlar miqdori bo'yicha.
+======
+Xodimlar soni bo'yicha
+======
+Xarajatlar hajmi bo'yicha
+
+++++
+Debitorlik qarzlari aylanmasi:
+====
+Qaytmaslik foizi.
+====
+#Qarzlarni pulga aylantirish tezligi .
+====
+Qarz miqdori.
+++++
+Bo'sh turgan paytda zang:
+====
+Axloqiy I.
+====
+Axloq II.
+====
+#Jismoniy aşınma
+====
+Iqtisodiy.
+++++
+Ishlash sikli:
+====
+Ishlab chiqarish vaqti.
+====
+#Ishlab chiqarish sikli + Debitorlik qarzlari aylanmasi.
+++++
+Daromad solig'i xarajatlarni ayirib:
+====
+Soddalashtirilgan soliq tizimi (STS) daromadi.
+====
+#Soddalashtirilgan soliq tizimi daromad-xarajatlar .
+====
+Patent.
+====
+O'z-o'zini ish bilan ta'minlash.
+++++
+Damping:
+====
+Sifat.
+====
+#Narxdan past narxda sotiladi.
+====
+Mashinalarni almashtirish.
+++++ 
+Moliyalashtirilgan kapital koeffitsienti:
+====
+Daromad / Mablag'lar.
+====
+#Mablag'lar / Xodimlar soni .
+====
+Foyda / Mablag'lar.
+++++
+Reja va faktni taqqoslash funksiyasi:
+====
+Rejalashtirish.
+====
+Motivatsiya.
+====
+#Nazorat .
+====
+Tashkilot.
+++++
+Quyidagilar uchun venchur moliyalashtirish:
+====
+Eski fabrikalar.
+====
+#XavfliInnovatsionLoyihalar 
+====
+Ish haqi.
+++++
+Franchayzing:
+====
+Qo'shilish.
+====
+#Boshqa birovning brendi va standartlari ostida ishlash.
+====
+Bankrotlik.
+++++
+SWOT tahlili:
+====
+Amortizatsiya.
+====
+#Kuchli tomonlar, zaif tomonlar, imkoniyatlar, tahdidlar.
+====
+Sifat.
+++++
+Kritik aylanma:
+====
+1%.
+====
+#> 20% .
+====
+0%.
+====
+100%.
+++++
+Ekspert baholash usuli:
+====
+Formulalar.
+====
+#Mutaxassislarning fikrlari.
+====
+Tasodifiy tanlov .
+====
+Hisobot berish.
+++++
+O'lik nuqta:
+====
+Bankrotlik.
+====
+#Tenglik nuqtasi0020.
+====
+Ta'mirlash.
+====
+Bo'sh hisob.
+
++++++
+Kompaniyaning foydasi qanday aniqlanadi?
+======
+Xarajatlar daromaddan tashqari
+======
+#Daromaddan xarajatlarni olib tashlash.
+======
+Xarajatlar miqdori
+======
+Kapital minus amortizatsiya
+
+
++++++
+Qaytarish muddati nimani anglatadi?
+======
+Xarajatlarni kamaytirish
+======
+#Investitsiyalarning daromadlilik muddati.
+======
+Mehnat unumdorligining oshishi
+======
+Marketing strategiyasi
+
+
++++++
+Korxonaning tashqi muhiti nima?
+======
+Korxonaning ichki bo'linmalari
+======
+#Bozor, raqobatchilar, mijozlar.
+======
+Boshqaruv tizimi
+======
+Ishlab chiqarish quvvati
+
+
++++++
+Asosiy kapitalga nimalar kiradi?
+======
+Joriy aktivlar
+======
+#Binolar va jihozlar.
+======
+Naqd pul
+======
+Mahsulot zaxiralari
+
+
++++++
+Aylanma mablag'lar tarkibiga nimalar kiradi?
+======
+Binolar va inshootlar
+======
+#Ishlab chiqarishdagi xomashyo.
+======
+Uskunalar
+======
+Yer
+
+
++++++
+Tovarlar deganda nimani nazarda tutish kerak?
+======
+Naqd pul
+======
+#Sotuv uchun ishlab chiqarilgan mahsulot.
+======
+ishlab chiqarish vositalari
+======
+Asosiy kapital
+
+
++++++
+Talab va taklif qaysi sohada ifodalanadi?
+======
+Marketing
+======
+#Bozor qonunlari.
+======
+Ishlab chiqarish
+======
+Investitsiyalar
+
+
++++++
+Raqobatning asosiy vazifasi nima?
+======
+Bozorning vayron bo'lishi
+======
+#Narxlarning pasayishi.
+======
+Xodimlar sonining ko'payishi
+======
+Sifatning pasayishi
+
+++++
+Bilvosita xarajatlar:
+====
+Xom ashyo.
+====
+#Boshqaruv va umumiy iqtisodiy ehtiyojlar.
+====
+Parcha-parcha.
+++++
+Bonifikatsiya:
+====
+Chegirma.
+====
+#Yuqori sifat uchun qo'shimcha.
+====
+Mayli.
+====
+Soliq.
+++++
+EOQ modeli quyidagilarni minimallashtiradi:
+====
+Reklama.
+====
+#Saqlash va buyurtma berish xarajatlari.
+===
+Uskunalar.
+====
+Dividendlar.
+++++
+Eng likvid aktivlar:
+====
+Mahsulotlar.
+====
+#Kassa apparatidagi va hisobdagi pul.
+====
+Hujjatlar.
+====
+Kutilgan tushim.
++++++ 
+Mutlaq likvidlik:
+====
+#Pul / Joriy majburiyatlar.
+====
+U o'sib bormoqda.
+====
+Kamayish.
+====
+O'zgarishsiz.
+++++ 
+Aktivlarning daromadliligi oshishi bilan tannarx narxi:
+====
+U o'sib bormoqda.
+====
+#Kamayadi .
+====
+O'zgarishsiz.
+====
+Narxiga teng.
+++++
+Litsenziya:
+====
+Faqat muddatsiz.
+====
+#Cheksiz yoki 5 yilgacha .
+====
+1 oy.
+====
+Hayot uchun.
+++++
+Mehnat shartnomasi:
+====
+Og'zaki kelishuv.
+====
+#Xodim va ish beruvchi o'rtasidagi yozma kelishuv
+.====
+Shunchaki buyurtma.
+====
+Shartnoma muddati belgilanmagan holda.
+++++Kapitalni diversifikatsiya qilish:
+====
+Hammasi bitta loyihada.
+====
+#Turli aktivlarga joylashtirish.
+====
+Naqd pul.
+
++++++
+Kompaniyaning xarajatlari qanday?
+======
+Foyda olish
+======
+#Tovarlar va xizmatlar ishlab chiqarish.
+======
+Xodimlarning motivatsiyasi
+======
+Marketing faoliyati
+
+
++++++
+Investitsiya nima?
+======
+Xarajatlarni kamaytirish
+======
+#Foyda olish maqsadida mablag'larga investitsiya qilish.
+======
+Xodimlarni qisqartirish
+======
+Raqobatning kuchayishi
+
+
++++++
+Kompaniya ishlab chiqarishni qanday tashkil qiladi?
+======
+Xarajatlarni kamaytirish
+======
+#Marketingga asoslangan.
+======
+Kredit olish
+======
+Soliqlarni to'lamaslik
+
+
++++++
+Narxlarning ko'tarilishining ta'siri qanday?
+======
+Talabni oshiradi
+======
+#Ta'minotni oshiradi.
+======
+Ishlab chiqarishni kamaytiradi
+======
+Foydani kamaytiradi
+
+
++++++
+Raqobat deganda nimani tushunasiz?
+======
+Bozor taqsimoti
+======
+#Foyda uchun kurashing.
+======
+Xarajatlarni kamaytirish
+======
+Kompaniyalarning qo'shilishi
+
+
++++++
+Kompaniyaning balansida nimalar aks ettirilgan?
+======
+Faqat foyda
+======
+#Moliyaviy natijalar.
+======
+Xodimlar soni
+======
+Marketing rejasi
+
+
++++++
+Ishlab chiqarish tannarxi qancha?
+======
+Sotish narxi
+======
+#Ishlab chiqarish xarajatlari miqdori.
+======
+Foyda hajmi
+======
+Kapital qiymati
+
+
++++++
+Tashkilotning huquqiy shakli nima?
+======
+Faqat xususiy kompaniya
+======
+#Kompaniyaning huquqiy maqomi.
+======
+Foyda olish usuli
+======
+Xodimlar soni
+
+
++++++
+Korxonaning ichki muhiti nimani o'z ichiga oladi?
+======
+Bozor va raqobatchilar
+======
+#Korxonaning ichki resurslari.
+======
+Davlat boshqaruvi
+======
+Xorijiy investitsiyalar
+
+
++++++
+Soliq nima?
+======
+Foyda olish vositasi
+======
+#Majburiy to'lov.
+======
+Kredit olish
+======
+Investitsiya usuli
+
+
++++++
+Qaysi omil ishlab chiqarish omili emas?
+======
+Yer
+======
+#Naqd pul.
+======
+Kapital
+======
+Ish
+
+
++++++
+Ishlab chiqarish samaradorligini qanday oshirish mumkin?
+======
+Narxlarning oshishi
+======
+#Xarajatlarni kamaytirish va texnologiyalarni rivojlantirish.
+======
+Xodimlar sonining qisqarishi
+======
+Soliq to'lashdan bo'yin tovlash
+
+
++++++
+Qaysi ko'rsatkich korxonaning moliyaviy barqarorligini aks ettiradi?
+======
+Xodimlar soni
+======
+#Daromadlilik.
+======
+Ishlab chiqarish hajmi
+======
+Marketing xarajatlari
+
+
++++++
+Bozor iqtisodiyoti sharoitida korxonalar faoliyatining asosi nima?
+======
+Majburiy ko'rsatmalar
+======
+#Bozor talabiga binoan.
+======
+Hukumat buyruqlari
+======
+Soliq siyosati
+
+
++++++
+Kapital aylanmasi nima?
+======
+Xom ashyodan foyda olish
+======
+#Pulni mahsulotga va mahsulotlarni yana pulga aylantirish.
+======
+Xodimlar sonining o'zgarishi
+======
+Soliq imtiyozlari
+
+
++++++
+Erkin iqtisodiy zona nima?
+======
+Cheklangan bozor
+======
+#Imtiyozli hudud.
+======
+Soliq majburiyatlari
+======
+Kredit zonasi
+
+
++++++
+Asosiy vositalar qanday hisobga olinadi?
+======
+Naqd pul sifatida
+======
+#Eskirish va yirtilishni hisobga olgan holda.
+======
+Kredit mablag'laridan foydalanish
+======
+Mahsulotlar miqdori bo'yicha
+
+
++++++
+Aylanma mablag'larning o'ziga xos xususiyati nimada?
+======
+Uzoq muddatli foydalanish
+======
+#Bir martalik murojaat.
+======
+Ular foyda keltirmaydi
+======
+Ular eskirmaydi
+
+
++++++
+Kompaniyaning sof foydasi qancha?
+======
+Daromad minus xarajatlar
+======
+#Soliqlarsiz foyda.
+======
+Kapital minus amortizatsiya
+======
+Tovarlar va xizmatlar minus
+
+
++++++
+Ishlab chiqarish quvvati nimani anglatadi?
+======
+Xodimlarning umumiy soni
+======
+#Korxonaning mahsulot ishlab chiqarish imkoniyatlari.
+======
+Tashqi bozor imkoniyatlari
+======
+Marketing rejalari
+
+
++++++
+Kompaniya ishlab chiqarishni qanday tashkil qiladi?
+======
+Xarajatlarni kamaytirish orqali
+======
+#Marketingga asoslangan.
+======
+Kredit olish orqali
+======
+Soliq to'lashdan bo'yin tovlash orqali
+
+
++++++
+Narxlarning ko'tarilishining ta'siri qanday?
+======
+Talabni oshiradi
+======
+#Ta'minotni oshiradi.
+======
+Ishlab chiqarishni kamaytiradi
+======
+Foydani kamaytiradi
+
+
++++++
+Raqobat deganda nimani tushunasiz?
+======
+Bozor taqsimoti
+======
+#Foyda uchun kurash.
+======
+Xarajatlarni kamaytirish
+======
+Korxonalarning birlashishi
+
+
++++++
+Kompaniyaning balansida nimalar aks ettirilgan?
+======
+Faqat foyda
+======
+#Moliyaviy natijalar.
+======
+Xodimlar soni
+======
+Marketing rejasi
+
+
++++++
+Ishlab chiqarish tannarxi qancha?
+======
+Sotish narxi
+======
+#Umumiy ishlab chiqarish xarajatlari.
+======
+Foyda miqdori
+======
+Kapital qiymati
+
+
++++++
+Tashkilotning huquqiy shakli nima?
+======
+Faqat xususiy korxona
+======
+#Korxonaning huquqiy maqomi.
+======
+Foyda olish usuli
+======
+Xodimlar soni
+
+
++++++
+Korxonaning ichki muhiti nimani o'z ichiga oladi?
+======
+Bozor va raqobatchilar
+======
+#Korxonaning ichki resurslari.
+======
+Davlat boshqaruvi
+======
+Xorijiy investitsiyalar
+
+
++++++
+Soliq nima?
+======
+Foyda olish usuli
+======
+#Majburiy to'lov.
+======
+Kredit olish
+======
+Investitsiya usuli
+
+
++++++
+Qaysi omil ishlab chiqarish omili emas?
+======
+Yer
+======
+#Naqd pul.
+======
+Kapital
+======
+Ish
+
+
++++++
+Ishlab chiqarish samaradorligini qanday oshirish mumkin?
+======
+Narxlarning oshishi
+======
+#Xarajatlarni kamaytirish va texnologik rivojlanish.
+======
+Xodimlar sonining qisqarishi
+======
+Soliqlarni to'lamaslik
+
+
++++++
+Qaysi ko'rsatkich korxonaning moliyaviy barqarorligini aks ettiradi?
+======
+Xodimlar soni
+======
+#Daromadlilik.
+======
+Ishlab chiqarish miqdori
+======
+Marketing xarajatlari
+
+
++++++
+Bozor iqtisodiyoti sharoitida korxonalar faoliyatining asosi nima?
+======
+Majburiy ko'rsatmalar
+======
+#Bozor talabi.
+======
+Hukumat buyruqlari
+======
+Soliq siyosati
+
+
++++++
+Kapital aylanmasi nima?
+======
+Xom ashyodan foyda olish
+======
+#Pulni mahsulotga, mahsulotlarni esa pulga aylantirish.
+======
+Xodimlar sonining o'zgarishi
+======
+Soliq imtiyozlari
+
+
++++++
+Erkin iqtisodiy zona nima?
+======
+Cheklangan bozor
+======
+#Imtiyozli zona.
+======
+Soliq majburiyatlari
+======
+Kredit zonasi
+
+
++++++
+Asosiy vositalar qanday hisobga olinadi?
+======
+Naqd pul sifatida
+======
+#Eskirish va yirtilishni hisobga olgan holda.
+======
+Kredit mablag'laridan foydalanish
+======
+Mahsulotlar miqdori bo'yicha
+
+
++++++
+Aylanma mablag'larning o'ziga xos xususiyati nimada?
+======
+Ular uzoq vaqt davomida ishlatiladi
+======
+#Ularning bitta aylanmasi bor.
+======
+Ular foyda keltirmaydi
+======
+Aşınmaya va yirtilishga duchor emas
+
+
++++++
+Kompaniyaning sof foydasi qancha?
+======
+Daromad minus xarajatlar
+======
+#Soliqlarsiz foyda.
+======
+Kapital minus amortizatsiya
+======
+Tovarlar va xizmatlar minus
+
+
++++++
+Ishlab chiqarish quvvati nimani anglatadi?
+======
+Xodimlarning umumiy soni
+======
+#Korxonaning mahsulot ishlab chiqarish imkoniyatlari.
+======
+Tashqi bozor imkoniyatlari
+======
+Marketing rejalari
+
+
++++++
+Korxona nima?
+======
+Faqat xizmat ko'rsatuvchi tashkilot
+======
+#Mustaqil biznes subyekti.
+======
+Faqat davlat idorasi
+======
+Ma'muriy tuzilma
+
+
++++++
+Korxonaning asosiy maqsadi nima?
+======
+Soliqlarni to'lash
+======
+#Foyda va rivojlanish.
+======
+Kredit olish
+======
+Xodimlar sonining ko'payishi
+
+
++++++
+Qanday resurslar ishlab chiqarish omillari hisoblanadi?
+======
+#Yer, mehnat, kapital, tadbirkorlik.
+======
+Pul va tovarlar
+======
+Marketing va reklama
+======
+Soliqlar va kreditlar
+
+
++++++
+Foyda qanday aniqlanadi?
+======
+Xarajatlar daromaddan tashqari
+======
+#Daromaddan xarajatlarni olib tashlash.
+======
+Faqat daromad bo'yicha
+======
+Faqat xarajatlar uchun
+
+
++++++
+Qanday turdagi korxonalar mavjud?
+======
+Faqat davlat va xususiy
+======
+#Kichik, o'rta va katta.
+======
+Faqat kattalari
+======
+Faqat kichiklari
+
+
++++++
+Asosiy vositalar nima deb hisoblanadi?
+======
+Xom ashyo va materiallar
+======
+#Binolar, uskunalar, transport vositalari.
+======
+Naqd pul
+======
+Tayyor mahsulotlar
+
+
+++++
+Amortizatsiya nima?
+======
+Mahsulotlar savdosi
+======
+#Asosiy vositalarning amortizatsiyasini pul ko'rinishida ifodalash.
+======
+Narxlarning oshishi
+======
+Xodimlarga beriladigan bonuslar
+
+
++++++
+Xom ashyo va materiallar qaysi guruhga kiradi?
+======
+Asosiy vositalar
+======
+#Aylanma mablag'lar.
+======
+Noto'g'ri xarajatlar
+======
+Kredit mablag'lari
+
+
++++++
+Biznes qanday qilib daromad keltiradi?
+======
+Xarajatlar orqali
+======
+#Mahsulotlar va xizmatlarni sotish orqali.
+======
+Kredit olish
+======
+Soliqlarni to'lash
+
+
++++++
+Marketing nima?
+======
+Buxgalteriya hisobi
+======
+#Bozor tadqiqotlari va iste'molchilarning qoniqishi.
+======
+Kredit berish
+======
+Soliq yig'ish
+
+
++++++
+Biznesda rentabellik nimani anglatadi?
+======
+Xarajatlar darajasi
+======
+#Daromadlilik darajasi.
+======
+Soliq miqdori
+======
+Xodimlar soni
+
+
++++++
+Korxonaning asosiy maqsadi nima?
+======
+Soliqlarni to'lash
+======
+#Foyda va rivojlanish.
+======
+Kredit olish
+======
+Xodimlar sonining ko'payishi
 

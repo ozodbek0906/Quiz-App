@@ -262,24 +262,30 @@ function parseQuestions(raw) {
     const trimmed = blockLines.map((l) => l.trim()).filter((l) => l !== "");
 
     if (trimmed.length > 1) {
-      const rawQuestion = trimmed[0];
-      const questionText = rawQuestion.replace(/^#+\s*/, "").trim();
+      const questionText = trimmed[0].replace(/^#+\s*/, "").trim();
       const choices = [];
       let correctIndex = -1;
 
       for (let i = 1; i < trimmed.length; i++) {
         let line = trimmed[i];
-        if (/^\++$/.test(line)) continue;
+        
+        // Skip separator lines that are just "=" characters
         if (/^=+$/.test(line)) continue;
+        if (/^\++$/.test(line)) continue;
 
         let isCorrect = false;
+        
+        // Check if this line starts with "=" (separator before answer)
         if (/^=+/.test(line)) {
           line = line.replace(/^=+\s*/, "").trim();
         }
-        if (/^#+\s*/.test(line)) {
+        
+        // Check if answer is marked as correct with "#"
+        if (/^#/.test(line)) {
           isCorrect = true;
           line = line.replace(/^#+\s*/, "").trim();
         }
+        
         if (!line) continue;
 
         if (isCorrect) correctIndex = choices.length;
